@@ -1,0 +1,215 @@
+{
+  "id": "buenos-aires",
+  "city": "Buenos Aires",
+  "country": "Argentina",
+  "region": "South America",
+  "currency": "ARS",
+  "language": "Spanish",
+  "description": "Buenos Aires is a city that refuses to sleep — a sprawling, passionate, contradictory metropolis of 15 million people that moves to the rhythm of tango, asado smoke, and late-night café conversations. Often called the 'Paris of South America' for its grand European-style boulevards and cafe culture, BA has a personality that's entirely its own: fiercely proud, relentlessly stylish, and always teetering on some kind of economic edge that somehow only adds to the city's electric urgency. The food and wine are world-class, the nightlife is genuinely legendary (dinner before midnight is considered early), and the neighborhoods shift from gilded Belle Époque grandeur in Recoleta to colorful corrugated-iron murals in La Boca. For travelers, Argentina's chronic peso instability actually works in your favor — USD and euros stretch dramatically further than the official exchange rate would suggest.",
+  "airportCode": "EZE",
+  "foodScene": 8,
+  "beachQuality": 2,
+  "walkability": 9,
+  "nightlife": 9,
+  "safety": 6,
+  "culturalDepth": 8,
+  "transportationEase": 8,
+  "englishFriendliness": 4,
+  "familyFriendliness": 7,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 8,
+  "adventureActivities": 4,
+  "shoppingScene": 8,
+  "wellnessScene": 7,
+  "digitalNomadScore": 8,
+  "visaComplexity": 2,
+  "instagrammability": 8,
+  "budgetTiers": {
+    "budget": 40,
+    "mid": 90,
+    "premium": 220
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 28,
+      "rainyDays": 7,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 27,
+      "rainyDays": 7,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 24,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 19,
+      "rainyDays": 8,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 15,
+      "rainyDays": 7,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 11,
+      "rainyDays": 7,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 10,
+      "rainyDays": 8,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 11,
+      "rainyDays": 7,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 14,
+      "rainyDays": 7,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 18,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 22,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 26,
+      "rainyDays": 7,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Palermo Soho & Palermo Hollywood — the epicenter of restaurants, craft cocktail bars, boutiques, and street art; safe, walkable, and endlessly entertaining",
+      "San Telmo — the oldest barrio, with colonial architecture, Sunday antiques market, tango milongas in the streets, and excellent parrillas",
+      "Recoleta — upscale, tree-lined, home to the famous cemetery, world-class museums, and the best café au lait in the city",
+      "Belgrano — residential and local, great for authentic porteno life away from the tourist trail; excellent Asian food corridor in Chinatown",
+      "Villa Crespo — the slightly grittier neighbor to Palermo, with a booming independent design and vintage scene and lower prices"
+    ],
+    "areasToAvoid": [
+      "La Boca beyond the Caminito tourist strip — the colorful houses end abruptly and the surrounding streets are not safe for wandering tourists",
+      "Constitución neighborhood, especially the train station area at night — high crime, frequented by drug activity",
+      "Once market district after dark — busy and overwhelming in daytime, dangerous late at night",
+      "Avoid using your phone or displaying jewelry on Florida Street pedestrian mall — express robberies have been reported",
+      "Liniers — fine in daytime for the flea market, not recommended for nighttime wandering"
+    ],
+    "scamWarnings": [
+      "Mustard/ketchup scam: someone 'accidentally' sprays substance on you, an accomplice offers to help clean up while picking your pocket — do not stop",
+      "Currency exchange: the 'blue dollar' informal market offers dramatically better rates than official exchange — research current rates before exchanging (use Dólar Blue Today website) and only exchange with trusted casas de cambio or Western Union",
+      "Fake police: men in plainclothes claiming to be officers ask to inspect your wallet for counterfeit bills — real police never do this",
+      "ATM skimming is common — use ATMs inside banks or supermarkets rather than standalone street machines",
+      "Taxi meter tampering — use Cabify or Uber instead of street taxis, or always insist the meter starts at the base rate",
+      "Overpriced 'tourist menus' near the Obelisco — walk two blocks in any direction for proper porteno prices"
+    ],
+    "airportTransfer": {
+      "cheapest": "Tienda León bus from Ezeiza (EZE) to downtown Manuel Tienda León terminal — around $12 USD, takes 45-60 minutes",
+      "fastest": "Private transfer or Cabify — 40-55 minutes, around $25-35 USD depending on traffic to Palermo/Recoleta",
+      "recommended": "Tienda León bus to downtown then taxi/Cabify to your accommodation — safe, reliable, well-organized, best value",
+      "taxiEstimate": "$30-45 USD for a registered radio taxi from EZE to city center; avoid unlicensed touts at arrivals"
+    },
+    "tippingEtiquette": [
+      "Restaurants: 10% is the standard tip; it is not included in the bill and is genuinely expected for table service",
+      "Taxi drivers: rounding up the fare or adding 10% is appreciated but optional",
+      "Hotel staff: $1-2 USD equivalent per bag for porters, similar for housekeeping over a multi-night stay",
+      "Tour guides: $5-10 USD per person for a half or full day is appropriate and appreciated",
+      "Delivery drivers: small tip appreciated but not mandatory"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": 25,
+      "meals": 10,
+      "transport": 3,
+      "activities": 2
+    },
+    "packingTips": [
+      "Smart-casual going-out clothes — porteños dress well for dinner and clubs; showing up in hiking gear will feel out of place",
+      "Layers for shoulder seasons (April-May, September-October) — temperatures swing dramatically between day and night",
+      "Comfortable walking shoes — BA is extremely flat and walkable, but you will log serious kilometers",
+      "Small crossbody bag with zipper for public transport and markets",
+      "Power adapter (Type I — three flat prongs) — different from most international plugs",
+      "A modest amount of USD cash for blue-rate exchange — $100s are preferred, clean and unfolded bills get better rates",
+      "Rain jacket for summer months — January-March can produce sudden and heavy downpours"
+    ],
+    "bookingStrategy": "Buenos Aires is well-supplied with accommodation at every price point. Book 2-3 weeks ahead for most stays; during peak summer (January-February) and major events like Buenos Aires Tango Festival (August) or Fashion Week, book earlier. Always pay accommodation in USD or with international cards when possible — peso inflation means listed prices can be misleading. Airbnb is excellent value and widely used. For flights, American, United, and Aerolíneas Argentinas fly direct from major US hubs; LATAM and Copa offer connections through Lima and Panama City.",
+    "localTips": [
+      "Dinner before 9pm marks you as a tourist — portenos eat at 9:30-10:30pm, and restaurants don't fill up until then",
+      "A proper asado is the cultural experience here, not a restaurant meal — try to get invited to one, or book a private parrilla experience",
+      "Malbec from Mendoza costs almost nothing here — order a bottle at a restaurant for what you'd pay for a glass back home",
+      "The MALBA (Museum of Latin American Art) is outstanding and absolutely worth an afternoon",
+      "Subte (metro) is cheap and covers the main neighborhoods — load a SUBE card at any kiosk",
+      "Milonga nights (tango social dancing) at Club Gricel or Salon Canning are far more authentic than tourist tango shows",
+      "Medialunas (Argentine croissants) from a proper confitería with café con leche is the ideal Buenos Aires breakfast",
+      "Sundays in San Telmo market are quintessential BA — arrive early before the afternoon crowds descend"
+    ],
+    "bestTimeToVisit": "October and November are the sweet spot — spring in the southern hemisphere brings jacaranda blossoms, warm weather (20-25°C), manageable crowds, and pre-summer prices. March and April are also excellent as the summer heat fades. December and January are hot, humid, and busy but the city is in full summer swing. Avoid July-August if you dislike cold — winter here is grey and 8-12°C, though the city never slows down culturally.",
+    "dayTrips": [
+      "Tigre and the Paraná Delta — boat rides through a labyrinth of river islands, markets, and wooden houses just 1 hour from Retiro by train",
+      "Colonia del Sacramento, Uruguay — charming Portuguese colonial village across the Río de la Plata, 1-hour ferry from Puerto Madero (bring passport)",
+      "Luján — pilgrimage city with Argentina's most important basilica, 68km west; combine with estancia lunch",
+      "San Antonio de Areco — authentic gaucho town with silver craftsmen, estancias, and the annual Fiesta de la Tradición in November",
+      "Montevideo, Uruguay — full day or overnight by fast ferry; walkable old town, great seafood, very different vibe from BA",
+      "Mendoza wine country — requires a flight or overnight bus but the Malbec vineyards and Andes backdrop make it unmissable for wine lovers"
+    ],
+    "visaInfo": [
+      "US, Canadian, UK, EU, and Australian citizens: no visa required for tourist stays up to 90 days — present a valid passport on arrival",
+      "Reciprocity fees that previously applied to US and Canadian citizens were permanently eliminated — no fee required",
+      "90-day extensions possible at the Dirección Nacional de Migraciones (Antártida Argentina 1355, Buenos Aires) for a small fee",
+      "Citizens of neighbouring countries (Brazil, Chile, Uruguay, Paraguay) can enter with just a national ID card",
+      "Argentina does not have an e-visa system — all tourist entry is passport-based on arrival at Buenos Aires Ezeiza or Aeroparque airports"
+    ],
+    "currencyTips": [
+      "Currency: Argentine Peso (ARS). Argentina has a complex multi-rate exchange system — the 'blue dollar' (dólar blue) unofficial rate is significantly higher than the official bank rate",
+      "Best method: withdraw USD, EUR, or GBP in cash before arriving and exchange at a registered casa de cambio or use the 'dólar MEP' (legal financial rate) via Argentinian bank apps for much better rates than ATMs",
+      "ATMs: Banco Nación ATMs have some of the lower foreign fees; all local ATMs offer the official bank rate which is substantially worse than market alternatives",
+      "Carry USD bills in good condition (no tears, marks, or old series) — Argentinians place a premium on crisp notes",
+      "Mercado Pago and Naranja X digital wallets are widely accepted and use the better exchange rate for card transactions — consider linking an international card"
+    ],
+    "simCard": "Claro Argentina, Movistar, and Personal (Telecom) are the main carriers. Tourist SIMs are available at Ezeiza airport and in Microcentro phone shops. A Claro SIM with 8–20 GB costs around 3,000–6,000 ARS (prices change rapidly with inflation — verify on arrival). eSIM via Airalo is strongly recommended to avoid the exchange rate complexity of buying locally.",
+    "emergencyNumbers": {
+      "police": "101",
+      "ambulance": "107",
+      "emergency": "911 (unified emergency line in Buenos Aires)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 9,
+  "localFriendliness": 8
+}

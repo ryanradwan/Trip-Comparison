@@ -1,0 +1,200 @@
+{
+  "id": "taipei",
+  "city": "Taipei",
+  "country": "Taiwan",
+  "region": "East Asia",
+  "currency": "TWD",
+  "language": "Mandarin",
+  "description": "Asia's most underrated city — extraordinary night markets, a bubble tea culture that borders on religion, Taiwanese beef noodle soup that ruins all other noodles for life, and the friendliest locals you'll meet anywhere.",
+  "airportCode": "TPE",
+  "shopUrl": null,
+  "foodScene": 9,
+  "beachQuality": 3,
+  "walkability": 8,
+  "nightlife": 7,
+  "safety": 9,
+  "culturalDepth": 7,
+  "transportationEase": 9,
+  "englishFriendliness": 7,
+  "familyFriendliness": 8,
+  "soloFriendliness": 9,
+  "coupleFriendliness": 8,
+  "adventureActivities": 7,
+  "shoppingScene": 8,
+  "wellnessScene": 7,
+  "digitalNomadScore": 8,
+  "visaComplexity": 1,
+  "instagrammability": 8,
+  "budgetTiers": {
+    "budget": 60,
+    "mid": 120,
+    "premium": 260
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 16,
+      "rainyDays": 12,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 17,
+      "rainyDays": 13,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 19,
+      "rainyDays": 12,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 23,
+      "rainyDays": 10,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 27,
+      "rainyDays": 11,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 30,
+      "rainyDays": 13,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 33,
+      "rainyDays": 10,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 33,
+      "rainyDays": 11,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 29,
+      "rainyDays": 11,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 25,
+      "rainyDays": 9,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 22,
+      "rainyDays": 10,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 18,
+      "rainyDays": 12,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Da'an District — Central, safe, Yongkang Street for food, close to National Palace Museum.",
+      "Zhongzheng (Ximending area) — Lively shopping and food street, youth culture, excellent night market access.",
+      "Xinyi — Taipei 101, upscale dining and shopping, business district with good transport links.",
+      "Zhongshan — Boutique shops, Japanese-era architecture, Dihua Street traditional market area."
+    ],
+    "areasToAvoid": [
+      "Wanhua District (Ximending excepted) late night — areas around Bopiliao Historic Block can be rough.",
+      "Mountain hiking trails during typhoon season (July–September) — check warnings before any outdoor activity."
+    ],
+    "scamWarnings": [
+      "Taxi overcharging at TPE airport — use the official Taoyuan Metro or pre-arranged taxi. Meter taxis are reliable in the city.",
+      "Counterfeit goods in street markets — luxury branded items at night markets are always fake.",
+      "Fake tour operators at the airport offering package deals — book tours through your hotel or reputable online platforms.",
+      "Night market food: some stalls target foreigners with 'tourist price' — observe what locals pay and quote the same."
+    ],
+    "airportTransfer": {
+      "cheapest": "Taoyuan Airport MRT from TPE to Taipei Main Station — NT$160 (~$5), takes 35 min, runs every 15 min.",
+      "fastest": "Taxi from TPE — NT$1,000–1,300 (~$30–40), takes 40–60 min depending on traffic.",
+      "recommended": "Taoyuan MRT — excellent value, direct, connects to entire Taipei Metro system at Taipei Main Station.",
+      "taxiEstimate": "Official taxi NT$1,000–1,300 to central Taipei. Metered, reliable. Use the official taxi rank outside arrivals."
+    },
+    "tippingEtiquette": [
+      "Tipping is NOT customary in Taiwan and can cause confusion or mild offence in traditional establishments.",
+      "High-end hotels and tourist restaurants sometimes add 10% service charge — check the bill.",
+      "If you receive exceptional service, a small thank-you note is more culturally appropriate than cash.",
+      "Taiwanese people are extremely hospitable and will often insist on paying for you — offer to pay once or twice before accepting graciously.",
+      "Queue strictly and patiently — Taiwanese queue culture is impeccable and jumping any line is extremely rude."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm NT$400–700 | Budget hotel NT$1,000–1,800 | Mid-range hotel NT$2,500–5,000",
+      "meals": "Night market meal NT$50–120 | Beef noodle lunch NT$150–200 | Restaurant dinner NT$300–600",
+      "transport": "MRT single NT$20–65 | Day pass NT$150 | YouBike (city bike) NT$10/30 min | Taxi flagfall NT$70",
+      "activities": "National Palace Museum NT$350 | Taipei 101 observation deck NT$600 | Hot springs NT$200–400"
+    },
+    "packingTips": [
+      "Umbrella always — Taipei has surprise rain year-round, especially in the north.",
+      "Comfortable walking shoes — the MRT stations have long corridors and you'll walk far more than you expect.",
+      "EasyCard transit card — works on all MRT, buses, and YouBike. Load NT$500 to start.",
+      "Light jacket for evenings October–March — evening temperatures drop quickly."
+    ],
+    "bookingStrategy": "October–November is perfect: 22–28°C, low typhoon risk, pleasant humidity. Avoid July–September (typhoon season). Chinese New Year (January/February) sees massive crowds and many closures.",
+    "localTips": [
+      "Shilin Night Market is tourist-oriented. Raohe Street Night Market (accessible by MRT) is more authentic and just as good.",
+      "Maokong gondola for tea plantations and city views — take it at dusk for the best photos of Taipei lit up below.",
+      "Beitou hot springs district is a 30-min MRT ride and has public hot spring baths from NT$200 — authentic Japanese-era bathing culture.",
+      "Din Tai Fung in Xinyi is the famous xiao long bao dumpling restaurant — expect a queue but it's worth it.",
+      "EasyCard payment accepted at 7-Eleven, FamilyMart, convenience stores, and most taxis — load it and use it for everything."
+    ],
+    "bestTimeToVisit": "October–November: cool and dry after typhoon season, National Palace Museum at its quietest, perfect hiking weather.",
+    "dayTrips": [
+      "Jiufen — Hillside gold-rush village 60 min by bus, lantern-lit teahouses, inspiration for Spirited Away, stunning sea views.",
+      "Yehliu Geopark — 60 min by bus, surreal mushroom-shaped rock formations on the coastline.",
+      "Pingxi Sky Lantern Festival area — 60 min by train, traditional paper lantern launches, charming mountain railway town."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, Australia, and most Western nations: visa-free for up to 90 days — Taiwan has one of the most generous visa-waiver programmes in Asia",
+      "Taiwan does not require return tickets to be shown at immigration though airlines may ask at check-in",
+      "Entry through Taiwan Taoyuan International Airport (TPE) — the main international gateway — immigration is fast and efficient",
+      "Taiwan's visa-free policy: well over 60 nationalities receive 90-day visa-free access including New Zealand, Japan, South Korea, and most ASEAN countries",
+      "Note: Taiwan and China are separate immigration jurisdictions — visiting Taiwan does not require or imply any connection to People's Republic of China immigration"
+    ],
+    "currencyTips": [
+      "Currency: New Taiwan Dollar (TWD / NT$). Notes: NT$100, 200, 500, 1,000 — coins for NT$1, 5, 10, 50",
+      "Cards widely accepted in Taipei's restaurants, department stores, and convenience stores (7-Eleven, FamilyMart, Hi-Life); Taiwan is increasingly cashless",
+      "Best ATMs: 7-Eleven ATMs and Cathay United Bank ATMs accept most foreign Visa/Mastercard reliably; Taipei 101 area has multiple ATM options",
+      "EasyCard (悠遊卡): essential reloadable card for the MRT, YouBike (city bikes), and convenience store purchases — buy at any MRT station",
+      "Night markets (Shilin, Raohe, Ningxia) are predominantly cash-only — bring NT$ for the best street food experience"
+    ],
+    "simCard": "Chunghwa Telecom has the best nationwide 4G/5G coverage in Taiwan including mountainous regions. Taiwan Mobile and Far EasTone are strong alternatives. Tourist SIMs with 5–30 days of unlimited data are sold at TPE airport arrivals (counters open 24 hours). A 7-day unlimited SIM costs NT$300–500. eSIM via Airalo is available and especially convenient for Taiwan.",
+    "emergencyNumbers": {
+      "police": "110",
+      "ambulance": "119",
+      "emergency": "110 (police) / 119 (fire and ambulance) / 1999 (local government services line)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 8,
+  "localFriendliness": 9
+}

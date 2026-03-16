@@ -1,0 +1,202 @@
+{
+  "id": "luxor",
+  "city": "Luxor",
+  "country": "Egypt",
+  "region": "Africa",
+  "currency": "EGP",
+  "language": "Arabic",
+  "description": "Standing in Luxor is standing inside the greatest open-air museum on earth. The temples of Karnak and Luxor, the Valley of the Kings, the Colossi of Memnon — a staggering concentration of ancient monuments that makes Egypt's other attractions feel like warm-up acts. Add a Nile felucca at sunset and you'll understand why people never stop returning.",
+  "airportCode": "LXR",
+  "shopUrl": "https://thenextstamptravelco.com/product/2-days-in-luxor/",
+  "foodScene": 5,
+  "beachQuality": 0,
+  "walkability": 6,
+  "nightlife": 2,
+  "safety": 7,
+  "culturalDepth": 10,
+  "transportationEase": 5,
+  "englishFriendliness": 5,
+  "familyFriendliness": 7,
+  "soloFriendliness": 6,
+  "coupleFriendliness": 7,
+  "adventureActivities": 7,
+  "shoppingScene": 5,
+  "wellnessScene": 3,
+  "digitalNomadScore": 3,
+  "visaComplexity": 4,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 30,
+    "mid": 70,
+    "premium": 180
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 22,
+      "rainyDays": 0,
+      "crowdLevel": 8,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 24,
+      "rainyDays": 0,
+      "crowdLevel": 8,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 29,
+      "rainyDays": 0,
+      "crowdLevel": 7,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 35,
+      "rainyDays": 0,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 40,
+      "rainyDays": 0,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 43,
+      "rainyDays": 0,
+      "crowdLevel": 2,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 2,
+      "avgTempCelsius": 44,
+      "rainyDays": 0,
+      "crowdLevel": 2,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 2,
+      "avgTempCelsius": 44,
+      "rainyDays": 0,
+      "crowdLevel": 2,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 40,
+      "rainyDays": 0,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 34,
+      "rainyDays": 0,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 27,
+      "rainyDays": 0,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 22,
+      "rainyDays": 0,
+      "crowdLevel": 8,
+      "flightPriceIndex": 7
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "East Bank (Luxor Town) — Where most hotels, the Luxor Museum, Karnak and Luxor Temples are located. Stay here for easy access to the main strip and the corniche along the Nile.",
+      "West Bank — Across the river via local ferry, this is where the Valley of the Kings, Hatshepsut Temple, and the Colossi of Memnon are. A few boutique guesthouses here make for a quieter, more atmospheric stay.",
+      "Karnak area — North end of the East Bank, close to Karnak Temple. Quieter than the central strip, good budget accommodation options."
+    ],
+    "areasToAvoid": [
+      "Wandering alone in the souks late at night — petty scams and persistent hawkers are most active after dark.",
+      "Hiring unofficial guides outside temple gates — they are not licensed and often lead you to commission-earning alabaster shops.",
+      "The corniche at night alone as a solo female traveller — take a taxi after dark."
+    ],
+    "scamWarnings": [
+      "Alabaster factory 'free visits': your official guide or taxi driver may insist on stopping at an alabaster workshop on the way to the Valley of the Kings. You are not obligated. The pieces are overpriced. Say no firmly.",
+      "Felucca and calèche (horse carriage) pricing: always agree on the total price before boarding, including return journey and any waiting time. The initial quote will be 5–10x the fair price.",
+      "The 'police escort' scam: a man in plainclothes claims you need a mandatory police escort to visit certain sites and demands payment. There is no such requirement.",
+      "Ticket tout scam: someone near a temple entrance offers to buy your ticket to 'save you the queue'. The queues are minimal and this is a scam.",
+      "Egypt e-visa: buy your Egyptian visa online before travelling (25 USD) — do not pay unofficial agents at the airport."
+    ],
+    "airportTransfer": {
+      "cheapest": "Microbus from the airport road to the town centre — around 5–10 EGP, but requires local knowledge to navigate. Only recommended for repeat visitors.",
+      "fastest": "Taxi from LXR airport — 100–200 EGP (~$3–6) to East Bank hotels, 10–15 min. Agree the price before getting in.",
+      "recommended": "Taxi is the standard option — fast, cheap, and reliable. Most hotels will arrange airport pickup for 150–250 EGP if you want certainty.",
+      "taxiEstimate": "Airport to East Bank: 100–200 EGP. Airport to West Bank (via ferry): 200–300 EGP total. Drivers often quote 400–500 EGP to tourists — negotiate."
+    },
+    "tippingEtiquette": [
+      "Tipping (baksheesh) is deeply embedded in Egyptian culture and is a genuine part of how service workers earn a living — budget for it.",
+      "Temple guards who open an extra room or point out hidden details expect 20–50 EGP. You do not have to follow them in, but if you do, tip.",
+      "Restaurants: 10–15% where no service charge is added. Many tourist restaurants include a 12% service charge.",
+      "Hotel housekeeping: 20–50 EGP per day.",
+      "Hot air balloon pilots and crew: 100–200 EGP tip is standard and appreciated."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget guesthouse 300–600 EGP | 3-star Nile-view hotel 800–1,500 EGP | 4-star 1,500–3,000 EGP | 5-star Nile resort 3,000–6,000 EGP",
+      "meals": "Local ful and ta'ameya breakfast 50–80 EGP | Koshary lunch 60–100 EGP | Tourist restaurant dinner 200–400 EGP | Nile-view restaurant 400–700 EGP",
+      "transport": "Local ferry (East to West Bank) 5 EGP | Taxi across town 50–100 EGP | Hired driver for West Bank full day 500–700 EGP | Bicycle hire per day 80–150 EGP",
+      "activities": "Valley of the Kings (3 tombs) 240 EGP | Karnak Temple 220 EGP | Luxor Temple 160 EGP | Hot air balloon sunrise flight 1,800–2,500 EGP | Hatshepsut Temple 180 EGP"
+    },
+    "packingTips": [
+      "Loose, light, modest clothing — heat and cultural norms both demand it. Shoulders and knees covered at temple sites.",
+      "A hat, sunglasses, and SPF 50+ sunscreen — the Egyptian sun at the Valley of the Kings is intense year-round.",
+      "Comfortable closed-toe walking shoes — the tomb floors are uneven and sometimes steep.",
+      "A small torch/flashlight — some tomb chambers are poorly lit and your own light makes the hieroglyphics come alive.",
+      "Cash in EGP — card acceptance is limited outside of 5-star hotels. ATMs are available on the East Bank corniche."
+    ],
+    "bookingStrategy": "October–February is the sweet spot: 22–30°C, manageable crowds, all sites fully accessible. Avoid June–August (44°C+ is genuinely dangerous for outdoor temple exploration). Christmas/New Year and Easter see a significant increase in European tour groups — book accommodation 2–3 months ahead for those periods.",
+    "localTips": [
+      "Buy a Luxor Pass if visiting for 3+ days — it covers unlimited entry to most sites and pays for itself on day one. Available from the Luxor Museum or tourist office.",
+      "The Valley of the Kings opens at 6am — go at opening before the tour buses arrive. By 9am it is packed.",
+      "The sunrise hot air balloon over the West Bank is genuinely one of the great travel experiences on earth. Book through your hotel and compare prices — 1,800–2,500 EGP is fair.",
+      "Karnak Temple at the sound and light show (8:30pm, 120 EGP) is spectacular — the Great Hypostyle Hall lit in the darkness is unforgettable.",
+      "The local ferry from the East Bank to the West Bank costs 5 EGP and takes 5 minutes — always take it instead of the tourist motorboat which charges 50 EGP."
+    ],
+    "bestTimeToVisit": "October–February: 22–29°C, clear skies, comfortable for all-day temple exploration. November and February are the best months overall.",
+    "dayTrips": [
+      "Abydos & Dendera Temples — 2.5–3 hours north, two of Egypt's most beautifully preserved temple complexes with vivid original colours, far fewer tourists than Luxor's main sites.",
+      "Edfu & Kom Ombo Temples — 1–2 hours south, best done by felucca or as part of a Nile cruise segment. Edfu's Horus Temple is the best-preserved in Egypt.",
+      "Aswan — 3 hours south by train or 1 hour by domestic flight. Nubian villages, the Philae Temple, and the start of Lake Nasser. A natural extension of a Luxor trip."
+    ],
+    "visaInfo": [
+      "E-visa required for most nationalities — apply at visa2egypt.gov.eg ($25 USD single entry, $60 multiple entry; processed in 3–5 business days)",
+      "Visa on arrival available at Cairo, Luxor, and other international Egyptian airports for most Western nationals — $25 USD cash paid at the airport bank counter before immigration",
+      "Luxor International Airport (LXR) processes international charter and some scheduled flights — visa on arrival available at LXR",
+      "UK, US, EU, Canadian, and Australian citizens are all eligible for both e-visa and visa on arrival options",
+      "Passport must be valid for at least 6 months beyond your planned departure from Egypt"
+    ],
+    "currencyTips": [
+      "Currency: Egyptian Pound (EGP / £E). Keep plenty of small notes (£E 5–20) for tips, temple guards, and felucca fares",
+      "Best ATMs: Banque Misr and CIB on the East Bank corniche — reliable for foreign cards",
+      "Exchange: licensed exchange offices near Luxor Temple offer competitive rates; avoid hotel desks",
+      "Cash is essential everywhere in Luxor — very few places accept cards",
+      "Carry USD as backup — widely accepted for tours and some hotel payments at a reasonable rate"
+    ],
+    "simCard": "Vodafone Egypt, Orange Egypt, and Etisalat (e&) all have coverage in Luxor. Tourist SIMs are sold at Luxor Airport (LXR) and in phone shops near the souk. A 30-day data package with 15–20 GB costs around 150–200 EGP. Coverage along the West Bank and Valley of the Kings is reliable. eSIM via Airalo works for Egypt.",
+    "emergencyNumbers": {
+      "police": "122",
+      "ambulance": "123",
+      "emergency": "112 / 1800 (tourist police Luxor)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 10,
+  "localFriendliness": 7
+}

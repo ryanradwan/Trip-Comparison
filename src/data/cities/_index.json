@@ -1,0 +1,386 @@
+[
+  {
+    "id": "new-york-city",
+    "city": "New York City",
+    "country": "United States",
+    "region": "North America",
+    "enabled": true,
+    "budgetCategory": "premium"
+  },
+  {
+    "id": "lisbon",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "porto",
+    "city": "Porto",
+    "country": "Portugal",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "athens",
+    "city": "Athens",
+    "country": "Greece",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "santorini",
+    "city": "Santorini",
+    "country": "Greece",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "rome",
+    "city": "Rome",
+    "country": "Italy",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "florence",
+    "city": "Florence",
+    "country": "Italy",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "amalfi-coast",
+    "city": "Amalfi Coast",
+    "country": "Italy",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "barcelona",
+    "city": "Barcelona",
+    "country": "Spain",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "madrid",
+    "city": "Madrid",
+    "country": "Spain",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "seville",
+    "city": "Seville",
+    "country": "Spain",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "dubrovnik",
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "split",
+    "city": "Split",
+    "country": "Croatia",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "prague",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "region": "Central Europe",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "istanbul",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "cappadocia",
+    "city": "Cappadocia",
+    "country": "Turkey",
+    "region": "Southern Europe",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "london",
+    "city": "London",
+    "country": "United Kingdom",
+    "region": "Northern Europe",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "paris",
+    "city": "Paris",
+    "country": "France",
+    "region": "Western Europe",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "tokyo",
+    "city": "Tokyo",
+    "country": "Japan",
+    "region": "East Asia",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "kyoto",
+    "city": "Kyoto",
+    "country": "Japan",
+    "region": "East Asia",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "osaka",
+    "city": "Osaka",
+    "country": "Japan",
+    "region": "East Asia",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "bangkok",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "region": "Southeast Asia",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "chiang-mai",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "region": "Southeast Asia",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "ho-chi-minh-city",
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "region": "Southeast Asia",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "hanoi",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "region": "Southeast Asia",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "hoi-an",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "region": "Southeast Asia",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "ubud",
+    "city": "Ubud",
+    "country": "Indonesia (Bali)",
+    "region": "Southeast Asia",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "seminyak",
+    "city": "Seminyak",
+    "country": "Indonesia (Bali)",
+    "region": "Southeast Asia",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "seoul",
+    "city": "Seoul",
+    "country": "South Korea",
+    "region": "East Asia",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "taipei",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "region": "East Asia",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "colombo",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "region": "South Asia",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "mexico-city",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "region": "Central America",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "tulum",
+    "city": "Tulum",
+    "country": "Mexico",
+    "region": "Central America",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "medellin",
+    "city": "Medellín",
+    "country": "Colombia",
+    "region": "South America",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "cartagena",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "region": "South America",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "lima",
+    "city": "Lima",
+    "country": "Peru",
+    "region": "South America",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "cusco",
+    "city": "Cusco",
+    "country": "Peru",
+    "region": "South America",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "buenos-aires",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "region": "South America",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "san-jose-cr",
+    "city": "San José",
+    "country": "Costa Rica",
+    "region": "Central America",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "manila",
+    "city": "Manila",
+    "country": "Philippines",
+    "region": "Southeast Asia",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "el-nido",
+    "city": "El Nido",
+    "country": "Philippines",
+    "region": "Southeast Asia",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "marrakech",
+    "city": "Marrakech",
+    "country": "Morocco",
+    "region": "Africa",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "cairo",
+    "city": "Cairo",
+    "country": "Egypt",
+    "region": "Africa",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "luxor",
+    "city": "Luxor",
+    "country": "Egypt",
+    "region": "Africa",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "dubai",
+    "city": "Dubai",
+    "country": "UAE",
+    "region": "Middle East",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "cape-town",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "region": "Africa",
+    "enabled": true,
+    "budgetCategory": "budget"
+  },
+  {
+    "id": "reykjavik",
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "region": "Northern Europe",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
+    "id": "queenstown",
+    "city": "Queenstown",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "enabled": true,
+    "budgetCategory": "mid"
+  }
+]

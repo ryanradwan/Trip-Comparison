@@ -1,0 +1,212 @@
+{
+  "id": "kyoto",
+  "city": "Kyoto",
+  "country": "Japan",
+  "region": "East Asia",
+  "currency": "JPY",
+  "language": "Japanese",
+  "description": "Kyoto is Japan's cultural soul — a city of over 1,600 Buddhist temples, 400 Shinto shrines, 17 UNESCO World Heritage Sites, and centuries of imperial history concentrated into a compact, walkable basin flanked by forested mountains. Where Tokyo accelerates, Kyoto decelerates: this is the place to rise before dawn for a misty geisha district stroll through Gion, to spend an afternoon raking zen garden gravel at Ryoan-ji, and to taste kaiseki cuisine refined over generations. Its seasonal transformations — pink cherry blossoms in spring, blazing maples in autumn — are among the most photographed natural events on earth, drawing crowds that demand advance planning but rewarding those who arrive.",
+  "airportCode": "KIX",
+  "foodScene": 8,
+  "beachQuality": 0,
+  "walkability": 8,
+  "nightlife": 4,
+  "safety": 10,
+  "culturalDepth": 10,
+  "transportationEase": 8,
+  "englishFriendliness": 6,
+  "familyFriendliness": 8,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 9,
+  "adventureActivities": 5,
+  "shoppingScene": 7,
+  "wellnessScene": 8,
+  "digitalNomadScore": 5,
+  "visaComplexity": 2,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 90,
+    "mid": 180,
+    "premium": 400
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 5,
+      "rainyDays": 7,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 6,
+      "rainyDays": 7,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 10,
+      "rainyDays": 12,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 16,
+      "rainyDays": 12,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 21,
+      "rainyDays": 13,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 25,
+      "rainyDays": 17,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 29,
+      "rainyDays": 15,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 31,
+      "rainyDays": 11,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 26,
+      "rainyDays": 15,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 19,
+      "rainyDays": 10,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 13,
+      "rainyDays": 8,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 7,
+      "rainyDays": 6,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Gion — the iconic geisha district with machiya townhouses, Hanamikoji Street, and the best people-watching at dawn before crowds arrive",
+      "Higashiyama — stone-paved lanes winding past Kiyomizudera and dozens of craft shops selling ceramics, lacquerware, and matcha sweets",
+      "Arashiyama — bamboo grove, Tenryu-ji garden, Togetsukyo bridge, and the quiet Sagano area perfect for cycling",
+      "Fushimi — home to the thousand torii gates of Inari Shrine; visit before 7am or after 6pm to experience it without crowds",
+      "Philosopher's Path — canal-side walkway linking Nanzen-ji to Ginkaku-ji, lined with hundreds of cherry trees and independent cafes",
+      "Nishiki Market area — Kyoto's 'kitchen' street with 400-year-old vendors selling pickles, tofu, matcha confections, and fresh fish"
+    ],
+    "areasToAvoid": [
+      "Avoid photographing geiko (geisha) or maiko without permission in Gion — Kyoto has fined photographers in restricted zones",
+      "The area around Fushimi Inari station mid-day on weekends is nearly impassable; the upper mountain trails are far quieter",
+      "Overpriced tourist trap restaurants on the main Higashiyama slope — walk one street off the main path for authentic and better-priced food"
+    ],
+    "scamWarnings": [
+      "Rickshaw touts near Arashiyama may quote per-person prices without clarifying total cost — confirm the full fare before boarding",
+      "Kimono rental shops near Gion may charge additional 'styling fees' not listed in advertised prices — read contracts carefully",
+      "Some 'maiko experience' photos studios use non-professional makeup and costumes — research reviews before booking",
+      "Taxi drivers occasionally take longer routes between Arashiyama and downtown — request the meter and confirm the destination",
+      "Fake monk donation solicitations near Kinkaku-ji — Zen temples do not send monks to collect unsolicited donations on the street"
+    ],
+    "airportTransfer": {
+      "cheapest": "Haruka Airport Express from Kansai Airport (KIX) to Kyoto Station: ¥2,850 (~$19 USD), 75 minutes. Limousine Bus: ¥2,600, ~105 min",
+      "fastest": "Haruka Limited Express: 75 min nonstop to Kyoto Station. With JR Pass, the Haruka is fully covered — best value for pass holders",
+      "recommended": "Haruka Express to Kyoto Station — reliable, direct, and connects to the city bus network. Purchase at the KIX T1 JR ticket office or buy a discount coupon online in advance",
+      "taxiEstimate": "¥18,000–¥25,000 from Kansai Airport (~$120-170 USD). Shared airport taxi services available for ~¥3,500 per person"
+    },
+    "tippingEtiquette": [
+      "Tipping is not customary anywhere in Japan, including Kyoto's high-end ryokan and kaiseki restaurants",
+      "A ryokan stay may include a service charge (typically 10-15%) — this goes to the entire staff communally",
+      "If you wish to express heartfelt gratitude to a ryokan attendant (nakai-san), a small wrapped gift from your home country is ideal",
+      "Tour guides and temple staff do not expect tips — verbal appreciation is entirely sufficient"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget: ¥2,500-4,500 guesthouse/hostel. Mid: ¥12,000-18,000 business hotel near station. Premium: ¥40,000-150,000+ traditional ryokan with meals",
+      "meals": "Budget: ¥700-1,200 (tofu set lunch, ramen, obanzai deli). Mid: ¥1,500-4,000 kaiseki lunch sets. Premium: ¥15,000+ full kaiseki dinner",
+      "transport": "Day bus pass: ¥700 (unlimited city buses). Bicycle rental: ¥1,000-1,500/day. Most sites are walkable from central Kyoto",
+      "activities": "Most temples: ¥500-1,000. Nijo Castle: ¥1,000. Kinkaku-ji: ¥500. Many shrines including Fushimi Inari are free"
+    },
+    "packingTips": [
+      "Comfortable walking shoes are essential — cobblestone paths and temple steps are everywhere",
+      "Modest clothing for temple visits: shoulders covered, avoid very short hemlines (wraps are sometimes provided)",
+      "Small daypack for shrine and temple hopping; large luggage can be forwarded via takuhaibin (luggage delivery) from your hotel",
+      "Bring or buy a reusable bag — you will accumulate wagashi, tea, and craft purchases",
+      "Portable battery pack for maps and camera — you will photograph constantly",
+      "Summer visitors (July-August) need light breathable layers; the Kyoto basin traps heat and humidity intensely",
+      "An IC card (loaded at the station) covers buses, subways, and the Haruka Express"
+    ],
+    "bookingStrategy": "Cherry blossom season (late March-early April) and fall foliage peak (mid-November) require accommodation booked 6-12 months in advance — Kyoto fills completely and prices double. Traditional ryokan require earlier booking than hotels. Purchase the Haruka discount coupon online before departure as it cannot always be found at the airport. For popular temples like Kinkaku-ji and Arashiyama, aim for opening time (8:00-8:30am) to avoid tour groups that begin arriving by 9:30am.",
+    "localTips": [
+      "The City Bus system covers most temples with a ¥700 one-day pass — buy it on the bus or at the station bus center",
+      "Nishiki Market is best visited in the morning when vendors are freshest and crowds are thinner",
+      "Fushimi Inari Shrine is free, open 24 hours, and magical at dawn or dusk — the full hike takes 2-3 hours",
+      "Kinkaku-ji (Golden Pavilion) is best in morning light when the reflection is sharpest",
+      "Many of Kyoto's best gardens require timed-entry reservations in peak season — book Katsura Imperial Villa and Shugakuin weeks ahead",
+      "Rent a bicycle for exploring the northern temples (Kinkaku-ji, Ryoan-ji, Ninna-ji) in one efficient half-day loop",
+      "Kyoto's depachika (department store basement) at Takashimaya and Isetan stock extraordinary obanzai and sweets",
+      "The Philosopher's Path is most magical at 7am before tour groups arrive — plan breakfast at a nearby kissaten (coffee house)"
+    ],
+    "bestTimeToVisit": "Late March to early April (cherry blossom) and mid-October to mid-November (fall foliage) are the most beautiful but most crowded periods — book 6 months ahead. May and early June offer pleasant weather with moderate crowds. January and February are quiet, cold, and atmospheric — ryokan rates drop and iconic sites can feel nearly private.",
+    "dayTrips": [
+      "Nara — free-roaming deer, Todai-ji's giant Buddha, and Kasuga Shrine, 45 min by Kintetsu express",
+      "Osaka — food capital, Dotonbori nightlife, and Osaka Castle, 15 min by shinkansen or 75 min by Hankyu express",
+      "Hiroshima and Miyajima — Peace Memorial Park and the floating torii gate, 1.5 hours by shinkansen",
+      "Kobe — beef, harbor views, Kitano-cho foreign concession district, and Arima Onsen, 30 min by shinkansen",
+      "Amanohashidate — one of Japan's three scenic views, a pine-covered sandbar across Miyazu Bay, 2 hours by Kyoto Tango Railway",
+      "Kurama and Kibune — mountain temples, forest hiking, and riverside kaiseki dining, 45 min by Eizan Electric Railway"
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: visa-free for up to 90 days for tourism — no advance application needed, entry granted on arrival at Japanese immigration",
+      "Japan requires a return or onward ticket and proof of sufficient funds — immigration officers can ask; have a return booking and some cash or bank statement ready",
+      "Kyoto is accessed domestically — international arrivals land at Kansai International Airport (KIX, Osaka) or Tokyo's Narita/Haneda then travel by Shinkansen (2.5 hours from Tokyo)",
+      "Visit Japan Web: register your passport details online before travel for faster immigration processing at Japanese airports",
+      "Japan has strict drug laws — even some over-the-counter medications (pseudoephedrine, certain allergy medicines, Adderall) are illegal; check the list at the Japanese Customs website before packing"
+    ],
+    "currencyTips": [
+      "Currency: Japanese Yen (¥ / JPY). Japan remains predominantly cash-based — carry more cash than you think you need",
+      "7-Eleven ATMs and Japan Post ATMs accept most foreign Visa/Mastercard and are the most reliable; many bank ATMs do not accept foreign cards",
+      "Cards are increasingly accepted in Kyoto's restaurants and shops but many traditional ryokan, small izakaya, and temple entrance booths are cash only",
+      "IC cards (Suica, Pasmo, ICOCA): load these reloadable transit cards with cash and use them on trains, buses, and even at convenience stores — the most convenient way to pay for transport",
+      "Avoid exchanging at hotels — use Japan Post or 7-Eleven ATMs for the best rates, or bring JPY cash from home if your bank offers competitive rates"
+    ],
+    "simCard": "IIJmio, SoftBank, and b-mobile all offer tourist SIMs at Kansai International Airport (KIX). A 30-day data SIM with 20–50 GB costs ¥3,000–6,000. Note that data-only SIMs (no voice calls) are the standard tourist option; voice plans require a local address. Pocket WiFi rental is popular for groups. eSIM via Airalo is widely available and can be activated before you board.",
+    "emergencyNumbers": {
+      "police": "110",
+      "ambulance": "119",
+      "emergency": "110 (police) / 119 (ambulance and fire)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 7,
+  "localFriendliness": 7
+}

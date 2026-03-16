@@ -1,0 +1,212 @@
+{
+  "id": "lisbon",
+  "city": "Lisbon",
+  "country": "Portugal",
+  "region": "Southern Europe",
+  "currency": "EUR",
+  "language": "Portuguese",
+  "description": "Lisbon is a city of hills, light, and melancholy beauty — a sun-drenched Atlantic capital where ancient trams rattle past tiled facades, fishermen-turned-DJs spin in warehouses by the river, and the world's best pastéis de nata cost less than a euro. Europe's oldest capital feels simultaneously timeless and effortlessly cool, drawing digital nomads, retirees, and weekend-breakers who all somehow coexist in one of the continent's most walkable and affordable major cities.",
+  "airportCode": "LIS",
+  "foodScene": 9,
+  "beachQuality": 5,
+  "walkability": 8,
+  "nightlife": 8,
+  "safety": 9,
+  "culturalDepth": 8,
+  "transportationEase": 8,
+  "englishFriendliness": 8,
+  "familyFriendliness": 7,
+  "soloFriendliness": 9,
+  "coupleFriendliness": 9,
+  "adventureActivities": 6,
+  "shoppingScene": 7,
+  "wellnessScene": 6,
+  "digitalNomadScore": 9,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 55,
+    "mid": 120,
+    "premium": 280
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 12,
+      "rainyDays": 11,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 13,
+      "rainyDays": 9,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 15,
+      "rainyDays": 9,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 17,
+      "rainyDays": 7,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 20,
+      "rainyDays": 5,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 24,
+      "rainyDays": 2,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 27,
+      "rainyDays": 1,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 28,
+      "rainyDays": 1,
+      "crowdLevel": 9,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 25,
+      "rainyDays": 3,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 20,
+      "rainyDays": 7,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 16,
+      "rainyDays": 10,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 13,
+      "rainyDays": 11,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Príncipe Real — upscale, leafy, full of concept stores, wine bars, and the best brunch spots in the city",
+      "Mouraria — the historic Moorish quarter, gritty and authentic, with incredible local restaurants and fado houses",
+      "LX Factory area (Alcântara) — repurposed industrial space with weekend markets, rooftop bars, and creative energy",
+      "Intendente — rapidly gentrifying but still affordable, great for nightlife and multicultural food",
+      "Alfama — iconic tiled hillside neighborhood, best explored early morning before tour groups arrive"
+    ],
+    "areasToAvoid": [
+      "Avoid walking alone through Martim Moniz late at night — it can be sketchy after midnight",
+      "Parts of Intendente near Largo do Intendente after 2am attract petty crime",
+      "The area immediately around Santa Apolónia train station at night",
+      "Avoid leaving bags unattended on Tram 28 — it's a pickpocket hotspot"
+    ],
+    "scamWarnings": [
+      "Tram 28 pickpockets: professional thieves work this route targeting tourists — keep bags in front and phones out of pockets",
+      "Fake fado restaurants near Alfama charge €30+ covers with subpar performances — ask locals for recommendations",
+      "Unlicensed taxi drivers at the airport approach arrivals — always use the official Uber, Bolt, or taxi rank",
+      "Overpriced 'tourist menus' around Praça do Comércio — walk one or two streets back for better value",
+      "Currency exchange kiosks near tourist areas offer poor rates — use ATMs from major banks (Millennium BCP, BPI, CGD)"
+    ],
+    "airportTransfer": {
+      "cheapest": "Metro (Linha Vermelha) to Alameda then connect — €1.65, takes about 45 minutes to city center",
+      "fastest": "Taxi or Uber — 20-30 minutes, €15-25 to Baixa/Chiado depending on traffic",
+      "recommended": "Uber — reliable, affordable, app-based pricing. Expect €12-18 to most central neighborhoods",
+      "taxiEstimate": "€18-28 to city center depending on neighborhood and time of day"
+    },
+    "tippingEtiquette": [
+      "Tipping is appreciated but not mandatory — 10% in restaurants is generous and welcomed",
+      "Round up taxi fares or add €1-2 for good service",
+      "Coffee at a pastelaria: no tip expected, just round up if you like",
+      "Hotel porters: €1-2 per bag is customary",
+      "Fado house servers: 10-15% is appropriate given the cultural experience included"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": 30,
+      "meals": 15,
+      "transport": 5,
+      "activities": 5
+    },
+    "packingTips": [
+      "Comfortable walking shoes with grip — Lisbon's cobblestones (calçada portuguesa) are beautiful but slippery when wet",
+      "Light layers for evenings year-round — Atlantic breezes make evenings cooler than expected",
+      "Small crossbody bag that zips — essential for Tram 28 and crowded Alfama streets",
+      "Reusable water bottle — tap water is safe and delicious throughout the city",
+      "Sunscreen even in winter — the Atlantic light is deceptively strong",
+      "A compact rain jacket for October through March"
+    ],
+    "bookingStrategy": "Lisbon is best booked 3-6 weeks in advance for mid-range stays. July and August require 2-3 months lead time for anything decent under €100/night. The NOS Alive festival in July and Super Bock Super Rock cause hotel prices to spike — check festival dates. Airbnb is abundant but the city has implemented restrictions in historic neighborhoods — verify the host has a local accommodation license (AL number). For flights, Ryanair and easyJet offer excellent deals from most European cities; from North America, TAP Air Portugal flies direct from JFK, Newark, Boston, and Miami.",
+    "localTips": [
+      "Eat lunch at a tasca (traditional tavern) for the €10-12 prato do dia — often the best meal of your trip",
+      "Galão (milky espresso) and pastel de nata at Pastéis de Belém is worth the queue, but Manteigaria in Chiado is better and less crowded",
+      "The Gulbenkian Museum is world-class and completely underrated — half a day minimum",
+      "Sunday mornings in Feira da Ladra (flea market) in Alfama are magical for vintage finds",
+      "Buy a Viva Viagem card and load it with 24-hour passes (€6.70) for unlimited metro, bus, and tram",
+      "The free beaches at Cascais and Estoril are 40 minutes by train from Cais do Sodré — a perfect day trip",
+      "Sunset at Miradouro da Graça beats the more touristy Portas do Sol miradouro",
+      "Most museums are free on Sunday mornings — plan accordingly"
+    ],
+    "bestTimeToVisit": "May, June, and September offer the ideal combination of warm weather (20-25°C), lower crowds than peak summer, and reasonable prices. October is underrated — fewer tourists, beautiful golden light, and still pleasant temperatures. Avoid August if possible: it's the hottest month, most crowded, and many locals leave the city themselves.",
+    "dayTrips": [
+      "Sintra — UNESCO World Heritage palaces and forests, 40 minutes by train from Rossio station (essential)",
+      "Cascais & Estoril — charming coastal town with beaches, a casino, and seafood restaurants, 40 minutes by train",
+      "Óbidos — perfectly preserved medieval walled town with cherry liqueur (ginjinha) served in chocolate cups, 1 hour by bus",
+      "Setúbal & Arrábida Natural Park — stunning turquoise coves and dramatic limestone cliffs, 1 hour by car",
+      "Évora — Roman temple, medieval cathedral, and the eerie Chapel of Bones, 1.5 hours by bus or train",
+      "Comporta — ultra-chic beach village with rice fields and wild Atlantic beaches, 1.5 hours by car"
+    ],
+    "visaInfo": [
+      "EU/EEA citizens: no visa required, free movement within the Schengen Area — Portugal is a full Schengen member",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day period under the Schengen rules; no stamp needed but passport must be valid for duration of stay",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period; no tourist visa required, passport must be valid at least 3 months beyond departure",
+      "Most other nationalities: check the Portuguese SEF (immigration service) website; South African, Indian, and Chinese nationals typically require a Schengen visa in advance",
+      "Portugal is a Schengen signatory — your 90-day allowance is shared across all 27 Schengen countries, not just Portugal"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€); Portugal is a eurozone member so no exchange is needed if arriving from another euro country",
+      "Cards are widely accepted in Lisbon restaurants, shops, and hotels; contactless payment (including Apple/Google Pay) works at most modern venues",
+      "Best ATMs: use Multibanco network machines (the blue ones) which are widespread and charge no extra fee at point of withdrawal; bank fees from your home bank may still apply",
+      "Avoid: dynamic currency conversion (DCC) at ATMs and card terminals — always choose to pay in euros rather than your home currency to avoid poor exchange rates",
+      "Cash is still useful for pastelerias, trams, flea markets, and tipping; keep some €5 and €10 notes handy"
+    ],
+    "simCard": "The best local carriers are NOS, MEO, and Vodafone Portugal, all widely available at airport kiosks and downtown stores. A tourist SIM with 10–15 GB of data costs €10–20 and includes EU-wide roaming. Buy at any NOS or MEO store in Lisbon (Arrivals at LIS airport have multiple options). Alternatively, purchase an eSIM before departure via Airalo for seamless activation on arrival.",
+    "emergencyNumbers": {
+      "police": "112 (or 21 765 4242 for PSP Lisbon)",
+      "ambulance": "112",
+      "emergency": "112"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 8,
+  "localFriendliness": 9
+}

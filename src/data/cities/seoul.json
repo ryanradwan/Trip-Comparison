@@ -1,0 +1,213 @@
+{
+  "id": "seoul",
+  "city": "Seoul",
+  "country": "South Korea",
+  "region": "East Asia",
+  "currency": "KRW",
+  "language": "Korean",
+  "description": "Seoul is one of the world's great 21st-century cities — a dynamic, design-forward metropolis of 10 million that has reinvented itself from war-devastated capital to global cultural powerhouse in a single generation. The city that gave the world K-pop, K-drama, and Korean skincare culture does not slow down: Gangnam's luxury boutiques, Hongdae's art school energy, Insadong's antique alleys, and Gwangjang Market's midnight pajeon stalls operate at relentless pace. An extraordinary public transit network, a fiercely proud food culture, and some of Asia's most dramatic mountain scenery within the city limits make Seoul one of the best-value major capitals on earth.",
+  "airportCode": "ICN",
+  "foodScene": 9,
+  "beachQuality": 2,
+  "walkability": 8,
+  "nightlife": 9,
+  "safety": 9,
+  "culturalDepth": 8,
+  "transportationEase": 10,
+  "englishFriendliness": 7,
+  "familyFriendliness": 8,
+  "soloFriendliness": 9,
+  "coupleFriendliness": 8,
+  "adventureActivities": 6,
+  "shoppingScene": 10,
+  "wellnessScene": 8,
+  "digitalNomadScore": 7,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 70,
+    "mid": 140,
+    "premium": 300
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": -2,
+      "rainyDays": 5,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 1,
+      "rainyDays": 5,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 7,
+      "rainyDays": 7,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 14,
+      "rainyDays": 8,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 20,
+      "rainyDays": 9,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 25,
+      "rainyDays": 12,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 28,
+      "rainyDays": 18,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 29,
+      "rainyDays": 15,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 23,
+      "rainyDays": 10,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 16,
+      "rainyDays": 6,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 8,
+      "rainyDays": 6,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 1,
+      "rainyDays": 4,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Itaewon — Seoul's most international district with global food, LGBTQ+ nightlife, and the emerging Haebangchon (HBC) cafe scene",
+      "Hongdae — university arts district with the best live indie music scene, 24-hour clubs, street performances, and cheap eats",
+      "Insadong and Bukchon — traditional tea houses, hanji craft shops, and Joseon-era hanok villages within walking distance of Gyeongbokgung",
+      "Gangnam — Apgujeong's luxury flagship stores, Garosu-gil's tree-lined boutiques, and Cheongdam-dong's K-beauty megastores",
+      "Seongsu-dong — Seoul's Brooklyn: converted factories housing third-wave coffee roasters, pop-up design stores, and craft beer bars",
+      "Yeonnam-dong — Instagram-dense neighborhood of independent cafes, art galleries, and quiet streets ideal for slow exploration"
+    ],
+    "areasToAvoid": [
+      "Jongno-3ga late at night — older drinking district with occasional pickpocketing; perfectly safe but rowdy",
+      "Certain Itaewon alley bars post-midnight can have aggressive door staff and inflated entry fees — research venues in advance",
+      "Counterfeit goods markets near Namdaemun — purchasing fakes is technically illegal for tourists"
+    ],
+    "scamWarnings": [
+      "Taxi scams at Incheon Airport's unofficial taxi stands — always use the official KAL Limousine Bus or AREX train, or official metered taxis at the designated rank",
+      "Short-change scams at busy street markets like Dongdaemun during late-night hours — count change carefully",
+      "Overpriced 'tourist menus' at restaurants near Gyeongbokgung — walk one block off the main tourist drag for authentic bibimbap at a third of the price",
+      "Fake K-pop merchandise sold near HYBE and SM Entertainment buildings — buy only from official shops",
+      "Some love motel lobbies near clubs display 'guesthouses' signs — check reviews before booking budget accommodation"
+    ],
+    "airportTransfer": {
+      "cheapest": "AREX All-Stop Train from Incheon Airport T1 to Seoul Station: ₩4,150 (~$3 USD), 66 minutes. T-money card required or available at station",
+      "fastest": "AREX Express Train from Incheon Airport to Seoul Station: ₩9,500 (~$7 USD), 43 minutes. Runs every 30 minutes",
+      "recommended": "AREX Express to Seoul Station, then metro to your neighborhood — fast, reliable, and cheap. Purchase a T-money card at the airport (₩4,000 deposit) and load ₩20,000 for transport and convenience store purchases",
+      "taxiEstimate": "₩65,000–₩90,000 by regular taxi (~$48-67 USD). Premium (jumbo) taxis: ₩100,000–₩130,000. Kakao Taxi app gives transparent pricing and English receipts"
+    },
+    "tippingEtiquette": [
+      "Tipping is not customary in South Korea and is generally declined politely",
+      "Restaurant bills are paid at the counter, not the table — tipping at the table is not practiced",
+      "Taxi drivers do not expect tips; rounding up to the nearest ₩1,000 is sometimes done but not required",
+      "Hotel porterage and spa staff occasionally accept small tips from foreign guests, but it is not expected",
+      "Refusal of a tip should be accepted gracefully — it is not false modesty"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget: ₩25,000-45,000 hostel/guesthouse. Mid: ₩80,000-160,000 mid-range hotel. Premium: ₩250,000-600,000+ luxury hotel in Gangnam",
+      "meals": "Budget: ₩5,000-10,000 (kimbap ₩3,000, jjigae set ₩7,000, gimbap chain). Mid: ₩15,000-35,000 Korean BBQ. Premium: ₩80,000+ omakase or fine dining",
+      "transport": "T-money card: ₩1,250 per metro/bus trip, ~₩5,000-10,000/day. 24-hour transit pass: ₩8,000. All public transit accepts T-money",
+      "activities": "Gyeongbokgung Palace: ₩3,000. N Seoul Tower: ₩21,000 observatory. Lotte World: ₩62,000. Jjimjilbang (sauna): ₩8,000-15,000"
+    },
+    "packingTips": [
+      "Dress in layers — Seoul has dramatic seasonal temperature swings; winters are genuinely cold (-5°C to 2°C)",
+      "Comfortable walking shoes are essential; Seoul's mountains are hikeable from the city center",
+      "A T-money card (purchased at Incheon Airport) is essential — works on all metro, bus, and at convenience stores",
+      "Bring or budget for K-beauty skincare shopping — Seoul is the world's best city for sheet masks, serums, and SPF",
+      "Download Kakao Maps (more accurate than Google Maps for Korea) and Kakao Taxi for reliable transport",
+      "Power bank for navigation — Seoul's subway digital maps are excellent but drain battery",
+      "Lightweight rain gear for July-August monsoon season; a compact umbrella suffices for the rest of the year"
+    ],
+    "bookingStrategy": "Seoul is generally bookable 1-3 months ahead except during cherry blossom season (early-mid April) and the Chuseok national holiday (mid-September to early October) when domestic travel peaks. K-pop concert periods (check HYBE, SM, YG schedules) cause accommodation spikes in specific districts. For budget stays, look for guesthouses in Hongdae and Mapo-gu. Book jjimjilbang stays to experience the authentic Korean sauna culture inexpensively. The Discover Seoul Pass (24, 48, or 72-hour) bundles transit and attraction entry.",
+    "localTips": [
+      "Get a T-money card at the airport — it works on metro, buses, taxis, and convenience stores (Family Mart, GS25, CU)",
+      "Gwangjang Market is open late and serves the best bindaetteok (mung bean pancakes) and yukhoe (beef tartare) in the city",
+      "A jjimjilbang (Korean bathhouse/sauna) stay costs ₩8,000-15,000 for unlimited use of pools, saunas, and sleeping areas",
+      "Bukhansan National Park offers serious mountain hiking within Seoul — take the metro to Gupabal station",
+      "The Cheonggyecheon Stream is a beautiful 5.8km walking path through central Seoul; lit beautifully at night",
+      "Lotte Mart and E-Mart supermarkets in basements of malls sell excellent ready-to-eat Korean food very cheaply",
+      "Download Naver Maps or Kakao Maps — Google Maps transit directions are often inaccurate for Seoul's subway",
+      "Many museums including the National Museum of Korea and National Folk Museum are free of charge"
+    ],
+    "bestTimeToVisit": "April (cherry blossoms, warm days) and October (foliage, crisp autumn air) are ideal. May is excellent with fewer crowds. Avoid July to August monsoon season unless heat and humidity don't bother you. December to February is cold but atmospheric — Bukhansan in snow is stunning and winter clothing sales are extraordinary.",
+    "dayTrips": [
+      "Suwon Hwaseong Fortress — UNESCO World Heritage fortress city, 40 min by subway or KTX, excellent cycling around the walls",
+      "Incheon Chinatown — Korea's only Chinatown, jajangyeon noodles, and the historic Songdo district, 60 min by AREX",
+      "Nami Island and Petite France — scenic island (location of K-drama 'Winter Sonata') and European-themed village, 90 min by ITX express",
+      "Demilitarized Zone (DMZ) — Joint Security Area tour from Seoul; eerie and historically essential, book guided tour 2+ weeks ahead",
+      "Jeonju Hanok Village — Korea's best-preserved traditional village and the birthplace of bibimbap, 2 hours by KTX",
+      "Gapyeong and Chuncheon — Dakgalbi (spicy stir-fried chicken), Nami Island, and lake scenery, 90 min by ITX Cheongchun Line"
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: visa-free for up to 90 days for tourism — effective for stays under 90 days; passport on arrival is sufficient",
+      "K-ETA (Korea Electronic Travel Authorisation): required for visa-free nationalities in previous years, but was suspended for most nationalities through December 2025 — check Visit Korea's official website for current status before travel",
+      "Citizens of some countries (China, Indonesia, and others) require a visa in advance from a Korean embassy",
+      "Seoul is served by Incheon International Airport (ICN) — one of the world's best airports with free transit hotel for eligible layover passengers",
+      "Passport must be valid for the duration of your stay; 6-month rule does not apply for Korea but ensure it covers your full trip"
+    ],
+    "currencyTips": [
+      "Currency: South Korean Won (₩ / KRW). Notes: 1,000; 5,000; 10,000; 50,000 KRW",
+      "Cards (Visa, Mastercard) accepted widely in Seoul's restaurants, department stores, and convenience stores; Korea is a highly digital payment society",
+      "Best ATMs: 7-Eleven and GS25 convenience store ATMs accept foreign cards reliably; Global ATM at Incheon airport is reliable for first arrival",
+      "T-money or Cashbee cards: reloadable transit cards for the subway, buses, and taxis — also work at convenience stores; buy at any subway station or 7-Eleven",
+      "South Korea has a thriving street food and market culture — have cash ready for Gwangjang Market, Dongdaemun, and pojangmacha (street tents)"
+    ],
+    "simCard": "SK Telecom (T-mobile Korea), KT (Olleh), and LG U+ are the three carriers. All have excellent 5G/4G coverage across Seoul and nationwide. Tourist SIMs and pocket WiFi are available at Incheon Airport (ICN) arrivals in dedicated kiosks — pre-book online for faster pickup. A 30-day data SIM costs around KRW 30,000–55,000. eSIM via Airalo is widely available for South Korea.",
+    "emergencyNumbers": {
+      "police": "112",
+      "ambulance": "119",
+      "emergency": "112 (police) / 119 (ambulance and fire) / 1330 (tourist information helpline)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 8,
+  "localFriendliness": 8
+}

@@ -1,0 +1,201 @@
+{
+  "id": "marrakech",
+  "city": "Marrakech",
+  "country": "Morocco",
+  "region": "Africa",
+  "currency": "MAD",
+  "language": "Arabic/French",
+  "description": "The Red City is a full sensory assault — spice-laden souks, the extraordinary chaos of Jemaa el-Fna square at dusk, riads with rooftop terraces overlooking a forest of minarets, and a hammam ritual that will reset your body and soul.",
+  "airportCode": "RAK",
+  "shopUrl": null,
+  "foodScene": 8,
+  "beachQuality": 0,
+  "walkability": 6,
+  "nightlife": 4,
+  "safety": 6,
+  "culturalDepth": 9,
+  "transportationEase": 5,
+  "englishFriendliness": 4,
+  "familyFriendliness": 6,
+  "soloFriendliness": 6,
+  "coupleFriendliness": 8,
+  "adventureActivities": 7,
+  "shoppingScene": 9,
+  "wellnessScene": 8,
+  "digitalNomadScore": 5,
+  "visaComplexity": 2,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 45,
+    "mid": 100,
+    "premium": 260
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 12,
+      "rainyDays": 5,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 14,
+      "rainyDays": 5,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 18,
+      "rainyDays": 4,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 22,
+      "rainyDays": 3,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 26,
+      "rainyDays": 2,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 30,
+      "rainyDays": 1,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 36,
+      "rainyDays": 1,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 36,
+      "rainyDays": 1,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 30,
+      "rainyDays": 1,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 23,
+      "rainyDays": 3,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 17,
+      "rainyDays": 4,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 13,
+      "rainyDays": 5,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Medina (Old City) — The heart of Marrakech, riads, souks, Jemaa el-Fna. Stay here for the authentic experience.",
+      "Kasbah area — Southern medina, slightly quieter, Saadian Tombs nearby, good mid-range riads.",
+      "Mouassine — Charming neighbourhood in the medina, well-preserved, good boutique riads, less tourist-heavy.",
+      "Guéliz (New City) — Modern, wide boulevards, better restaurants for Western food, easier to navigate but less characterful."
+    ],
+    "areasToAvoid": [
+      "Following strangers in the souks who offer to 'show you the way' — they will expect substantial payment.",
+      "The tanneries area without a guide — leather tannery hustlers are aggressive and will insist you follow them into shops.",
+      "Walking alone in the medina after midnight."
+    ],
+    "scamWarnings": [
+      "False guide scam: a 'friendly local' offers to help you navigate the souks. He is not a guide — he is taking you to shops where he earns commission. The medina is small; use a map and trust it.",
+      "Snake charmers and monkey handlers at Jemaa el-Fna will place the animal on you without asking then demand payment. Walk past or film from a safe distance.",
+      "Carpet shop tea invitation: the 'no obligation' carpet shop tea is very obligating. You'll be there for two hours under pressure. Only enter if you genuinely want to buy.",
+      "Fake Berber spice markets where 'free spice tours' end with high-pressure sales and prices 10x the medina rate."
+    ],
+    "airportTransfer": {
+      "cheapest": "Bus 19 from RAK airport to Jemaa el-Fna square — 30 MAD (~€3), takes 30 min. Runs every 30 min.",
+      "fastest": "Taxi from RAK airport — 70–100 MAD (~€7–10) to medina, takes 15–20 min. Price must be agreed before departing.",
+      "recommended": "Bus 19 is excellent value and very reliable. Taxi for late nights (bus runs until ~11pm) or with heavy luggage.",
+      "taxiEstimate": "Airport taxi: 70–100 MAD to medina. Drivers often start at 200–300 MAD for tourists — negotiate firmly."
+    },
+    "tippingEtiquette": [
+      "Tipping is expected: 10–15% at restaurants, 5–10 MAD for café service.",
+      "Hammam tip: 20–30 MAD for the attendant who scrubs you.",
+      "Riad staff: 10–20 MAD per day for housekeeping.",
+      "Dress modestly in the medina — shoulders and knees covered, even for men in conservative areas.",
+      "Ramadan: if visiting during Ramadan, eating and drinking in public during daylight hours is respectful to avoid. Many restaurants are closed until sunset."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm 150–250 MAD | Budget riad 350–600 MAD | Boutique riad 800–1,800 MAD | Luxury riad 2,000+ MAD",
+      "meals": "Tagine at local restaurant 60–100 MAD | Couscous Friday lunch 80 MAD | Rooftop café 120–200 MAD | Fine dining 350–600 MAD",
+      "transport": "Petit taxi within medina 30–50 MAD | Grand taxi to Essaouira 150 MAD/person | Camel ride at Palmeraie 200 MAD",
+      "activities": "Majorelle Garden 150 MAD | Bahia Palace 70 MAD | Hammam Dar el-Bacha 150 MAD | Cooking class 400–700 MAD"
+    },
+    "packingTips": [
+      "Modest, light clothing — the culture expects it and the heat demands it. Loose cotton works perfectly.",
+      "Comfortable closed shoes — medina alleyways are uneven and occasionally shared with donkeys.",
+      "Small backpack rather than wheeled luggage — the medina's narrow lanes are impossible with roller bags.",
+      "Cash in dirhams — many riad riads and market vendors don't accept cards."
+    ],
+    "bookingStrategy": "March–May and September–November are the best months. Avoid July–August (40°C+, brutal). Riad prices spike over Christmas/New Year and Easter — book 2–3 months ahead for these periods.",
+    "localTips": [
+      "Jemaa el-Fna square at sunset is one of the great travel experiences — storytellers, Gnawa musicians, orange juice vendors, smoke from the food stalls.",
+      "Eat where the Moroccan families eat in the souks — if the menu has pictures and English only, keep walking.",
+      "Ben Youssef Medersa (14th-century Quranic school) in the morning before 10am is extraordinary and barely crowded.",
+      "Majorelle Garden (owned by the Yves Saint Laurent estate) is beautiful but expensive — the best time is opening hour at 8am.",
+      "The Friday couscous at any local restaurant is a ritual — families gather for the traditional lunch, and it's served with seven vegetables."
+    ],
+    "bestTimeToVisit": "March–April: 18–24°C, roses in bloom in the Ourika Valley, manageable crowds.",
+    "dayTrips": [
+      "Essaouira — 2.5 hours west, breezy blue-and-white fishing port, Jimi Hendrix history, excellent fresh grilled fish, UNESCO medina.",
+      "Ourika Valley & Atlas Mountains — 45 min south, Berber villages, waterfalls, snow-capped peaks in winter, fresh mountain air.",
+      "Aït Benhaddou — 4 hours over the High Atlas, UNESCO ksar fortress, used as backdrop for Game of Thrones and Gladiator."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: no visa required for tourist stays — US and most Western passport holders receive 90-day visa-free entry",
+      "UK citizens (post-Brexit): continue to receive visa-free access to Morocco for up to 90 days as tourists",
+      "Most other Western nationalities: Morocco has an extensive visa-waiver programme — check the Moroccan Ministry of Foreign Affairs for your specific passport",
+      "Passport must be valid for at least 6 months beyond your planned departure from Morocco",
+      "Morocco is not part of the Schengen Area and operates independent visa rules — a Schengen visa does not grant access to Morocco"
+    ],
+    "currencyTips": [
+      "Currency: Moroccan Dirham (MAD / Dh). Morocco has a semi-closed currency — exporting more than 1,000 MAD is technically prohibited",
+      "Best exchange: licensed bureau de change offices (marked with the official Bank Al-Maghrib rate display) offer competitive rates; avoid exchange with unofficial traders",
+      "ATMs: Attijariwafa Bank, BMCE, and Banque Populaire ATMs are widely available in Gueliz and near Jemaa el-Fna; foreign card fees run 10–20 MAD per transaction",
+      "Cash is essential in the medina — souks, street food, tanneries, hammams, and most riads prefer or require cash",
+      "Cards increasingly accepted at upmarket riads, medina restaurants in tourist areas, and larger spice shops — but don't rely on it; always carry cash"
+    ],
+    "simCard": "Maroc Telecom (IAM), Orange Maroc, and Inwi are the three main carriers. All three have good coverage in Marrakech and along major tourist routes. Tourist SIMs are available at Marrakech Menara Airport (RAK) and in phone shops in Gueliz. A 30-day SIM with 20–30 GB costs MAD 100–200. eSIM via Airalo is a convenient option for Morocco.",
+    "emergencyNumbers": {
+      "police": "19 (urban police) or 177 (gendarmerie)",
+      "ambulance": "15",
+      "emergency": "19 / 177 / 150 (varies by city; 112 works on mobile)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 9,
+  "localFriendliness": 7
+}

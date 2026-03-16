@@ -1,0 +1,214 @@
+{
+  "id": "cusco",
+  "city": "Cusco",
+  "country": "Peru",
+  "region": "South America",
+  "currency": "PEN",
+  "language": "Spanish/Quechua",
+  "description": "Cusco sits at 3,400 meters above sea level in the Peruvian Andes, a city that was once the beating heart of the Inca Empire and still carries that cosmic weight in every carved stone wall and cobblestoned alley. Spanish colonial churches were built directly on top of Inca foundations, creating a literal layering of civilizations you can reach out and touch. Today Cusco is the essential gateway to Machu Picchu, but it earns its place as a destination in its own right — with excellent Novo Andino cuisine, a thriving craft market, Sacred Valley day trips, and a buzzing backpacker scene that somehow doesn't undermine the city's ancient gravitas. Just take the altitude seriously: your first day should be slow, full of coca tea, and largely horizontal.",
+  "airportCode": "CUZ",
+  "foodScene": 7,
+  "beachQuality": 0,
+  "walkability": 7,
+  "nightlife": 4,
+  "safety": 7,
+  "culturalDepth": 9,
+  "transportationEase": 5,
+  "englishFriendliness": 6,
+  "familyFriendliness": 7,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 7,
+  "adventureActivities": 10,
+  "shoppingScene": 7,
+  "wellnessScene": 5,
+  "digitalNomadScore": 5,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 40,
+    "mid": 80,
+    "premium": 200
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 12,
+      "rainyDays": 18,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 12,
+      "rainyDays": 15,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 12,
+      "rainyDays": 14,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 11,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 10,
+      "rainyDays": 4,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 9,
+      "rainyDays": 2,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 9,
+      "rainyDays": 1,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 10,
+      "rainyDays": 2,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 11,
+      "rainyDays": 5,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 12,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 12,
+      "rainyDays": 12,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 12,
+      "rainyDays": 16,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "San Blas — the artisan quarter uphill from the Plaza de Armas, filled with studios, boutique guesthouses, and the best views over the city's terracotta rooftops",
+      "Plaza de Armas surrounds — the historic center is safe, walkable, and close to everything; ideal for first-timers who want atmosphere on their doorstep",
+      "Cusco Centro (near Mercado San Pedro) — more local, less polished, great for budget eats and real Andean market culture",
+      "Urubamba (Sacred Valley base) — staying in the valley at lower altitude is a smart move if you suffer from altitude sickness; close enough for day trips to Cusco"
+    ],
+    "areasToAvoid": [
+      "The area around Avenida El Sol at night — petty theft increases after dark away from the main plaza",
+      "Unfamiliar backstreets beyond San Cristóbal church after sunset — stick to lit, populated routes",
+      "Avoid taking unofficial taxis from the street — use apps like InDriver or arrange rides through your accommodation",
+      "The train station area (Poroy/San Pedro) can attract pickpockets during busy departure times"
+    ],
+    "scamWarnings": [
+      "Boleto Turístico scam: touts near ruins sell 'discounted' tickets that are fake — only buy the official multi-site pass at the official DIRCETUR offices or authorized agents",
+      "Fake tour operators in Plaza de Armas who take payment and disappear — book Machu Picchu trains and entry through official PeruRail/Inca Rail websites only",
+      "Friendly strangers who invite you for a drink and then demand you pay an outrageous bill — a classic drugging-and-robbery setup reported repeatedly",
+      "Taxi overcharging at the airport — agree on a price before getting in or use a registered airport taxi service (~40-60 PEN to center)",
+      "Alpaca clothing scams: 'baby alpaca' items near markets are often synthetic — buy from reputable shops in San Blas with authenticity guarantees",
+      "Photography fees at certain ruins imposed by local women in traditional dress — they will ask for payment after you take a photo; clarify before shooting"
+    ],
+    "airportTransfer": {
+      "cheapest": "Shared colectivo van from airport to city center — around 5-8 PEN, takes 30-45 minutes with multiple stops",
+      "fastest": "Private taxi booked through your hotel — 20-25 minutes, around 50-70 PEN fixed rate",
+      "recommended": "Pre-booked airport taxi through your accommodation or InDriver app — safe, price-agreed upfront, 25-35 minutes",
+      "taxiEstimate": "40-70 PEN to Plaza de Armas depending on time of day and negotiation"
+    },
+    "tippingEtiquette": [
+      "Restaurants: 10% is generous and appreciated; many add a small service charge automatically — check the bill",
+      "Tour guides: S/20-50 PEN per person per day for good guiding is standard and appreciated",
+      "Porters on the Inca Trail: mandatory tipping culture — S/50-80 PEN per porter per day is expected",
+      "Taxi drivers: rounding up is appreciated but not obligatory",
+      "Hotel staff: S/5-10 PEN for porters and housekeeping during your stay"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": 20,
+      "meals": 12,
+      "transport": 4,
+      "activities": 4
+    },
+    "packingTips": [
+      "Altitude medication (Diamox/acetazolamide) — consult your doctor before travel; start taking it 24 hours before arrival",
+      "Warm layers for nights — temperatures drop to 5-8°C even in dry season despite daytime warmth",
+      "Waterproof rain jacket — even in dry season, brief afternoon showers occur at altitude",
+      "Sunscreen SPF 50+ — UV radiation is significantly stronger at 3,400m; you will burn faster than anywhere at sea level",
+      "Reusable water bottle with filter — tap water is not potable; staying hydrated is critical for altitude acclimatization",
+      "Comfortable broken-in hiking boots — essential for Inca Trail, Rainbow Mountain, or any trekking",
+      "Lip balm and moisturizer — Andean air is extremely dry and will crack lips and skin rapidly",
+      "A small daypack for Machu Picchu — large bags are not permitted on the citadel"
+    ],
+    "bookingStrategy": "Machu Picchu has timed entry slots that sell out weeks or months in advance, especially July-August. Book your Machu Picchu entry permit and train tickets (PeruRail or Inca Rail) as far ahead as possible — ideally 2-3 months out for peak season. The Inca Trail requires a permit that sells out in January for the entire upcoming season; book in October-November for May-August dates. Accommodation in Cusco is abundant and prices are reasonable — 2-4 weeks ahead is sufficient except in late June for Inti Raymi (Festival of the Sun) when the city fills completely.",
+    "localTips": [
+      "Spend your first 24-48 hours doing almost nothing — acclimatization is not optional at 3,400m; altitude sickness can be dangerous",
+      "Drink coca tea (mate de coca) freely — it genuinely helps with altitude adjustment and is legal and available everywhere",
+      "The Mercado San Pedro is better for breakfast and lunch than any tourist restaurant — try a bowl of chicharrón with hominy corn for under S/10",
+      "Sacsayhuamán ruins (above the city) can be visited for free from the outer terrace area — save your Boleto Turístico for harder-to-reach sites",
+      "Novo Andino cuisine is world-class here — try MAP Café inside the Pre-Columbian Art Museum for a splurge dinner, or Cicciolina for consistently excellent food",
+      "The Sacred Valley (Pisac, Ollantaytambo) is actually more pleasant to sleep in than Cusco — lower altitude, quieter, and closer to the train to Machu Picchu",
+      "Hire a local guide for the city ruins — their knowledge of Inca history transforms the experience from rock walls into living history",
+      "Carry small bills (S/5, S/10, S/20) — vendors and markets rarely have change for large notes"
+    ],
+    "bestTimeToVisit": "May through October is the dry season and the optimal window — clear skies, excellent visibility for mountain views, and ideal trekking conditions. July and August are absolute peak with maximum crowds and highest prices, but the weather is reliably perfect. June brings Inti Raymi (June 24th), the Festival of the Sun — spectacular but the city is packed. April and October are excellent shoulder months with good weather and fewer visitors. Avoid November through March if possible: the rainy season makes trekking muddy and the Inca Trail closes entirely in February for maintenance.",
+    "dayTrips": [
+      "Machu Picchu — the non-negotiable, bucket-list citadel; take the train from Poroy or Ollantaytambo to Aguas Calientes, then bus up (full day, book months ahead)",
+      "Sacred Valley Circuit — Pisac ruins and market, Ollantaytambo fortress, and Chinchero weaving village in one guided day",
+      "Rainbow Mountain (Vinicunca) — dramatic multicolored geological formation at 5,200m; early start essential, strenuous, absolutely worth it",
+      "Maras Salt Mines and Moray — Inca agricultural terracing experiments and Incan salt ponds still in use today, half-day trip",
+      "Tipon and Pikillacta ruins — far less visited than the main circuit but historically fascinating, great for avoiding crowds",
+      "Lake Humantay — stunning turquoise glacial lake at altitude, 3-hour drive then 1.5-hour hike; increasingly popular but still serene"
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: no visa required for tourist stays up to 183 days — passport is sufficient on arrival",
+      "On arrival at Lima (Jorge Chávez Airport) you'll receive a tourist card (TAM) — keep this as it must be surrendered on departure; losing it results in delays",
+      "Flights to Cusco are domestic (from Lima) — your visa/entry is processed at Lima; Cusco does not have international arrivals",
+      "No return ticket requirement is strictly enforced but having an onward booking avoids any potential questions at Lima immigration",
+      "Citizens of neighbouring countries (Bolivia, Brazil, Chile, Ecuador) can enter with just their national identity card"
+    ],
+    "currencyTips": [
+      "Currency: Peruvian Sol (PEN / S/). Notes: 10, 20, 50, 100, 200 PEN",
+      "Cards accepted at Cusco's larger restaurants and tour agencies; cash essential for local markets (Mercado Central, San Pedro Market), tuk-tuks, and smaller restaurants",
+      "Best ATMs: BCP (Banco de Crédito del Perú) and Interbank on Plaza de Armas in Cusco are the most reliable with foreign cards; avoid Global Net and Scotiabank ATMs (high fees)",
+      "Counterfeit notes are a genuine risk in Peru — check notes carefully; if in doubt, use ATMs rather than money changers",
+      "Altitude in Cusco (3,400m) can affect your first day — take it slow; hotels and pharmacies stock altitude medication"
+    ],
+    "simCard": "Claro Peru and Movistar have the best coverage in Cusco city and the Sacred Valley. Tourist SIMs are available in Cusco's San Blas district phone shops and on Av. El Sol. A 30-day SIM with 10–25 GB costs S/ 30–70. Coverage along the Inca Trail and in Machu Picchu village (Aguas Calientes) is surprisingly good on Claro. eSIM via Airalo is a good option.",
+    "emergencyNumbers": {
+      "police": "105 or 101",
+      "ambulance": "116",
+      "emergency": "911 (national emergency line)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 9,
+  "localFriendliness": 8
+}

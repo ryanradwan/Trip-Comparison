@@ -1,0 +1,202 @@
+{
+  "id": "el-nido",
+  "city": "El Nido",
+  "country": "Philippines",
+  "region": "Southeast Asia",
+  "currency": "PHP",
+  "language": "Filipino/English",
+  "description": "One of the world's most spectacular island destinations — dramatic limestone karsts rising from impossibly turquoise lagoons, secret beaches accessible only through hidden rock entrances, and a small town that somehow hasn't lost its soul despite being discovered by the world.",
+  "airportCode": "USU",
+  "shopUrl": null,
+  "foodScene": 6,
+  "beachQuality": 10,
+  "walkability": 5,
+  "nightlife": 3,
+  "safety": 7,
+  "culturalDepth": 3,
+  "transportationEase": 2,
+  "englishFriendliness": 8,
+  "familyFriendliness": 7,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 9,
+  "adventureActivities": 9,
+  "shoppingScene": 3,
+  "wellnessScene": 6,
+  "digitalNomadScore": 3,
+  "visaComplexity": 2,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 50,
+    "mid": 100,
+    "premium": 230
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 27,
+      "rainyDays": 5,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 27,
+      "rainyDays": 3,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 28,
+      "rainyDays": 3,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 30,
+      "rainyDays": 3,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 31,
+      "rainyDays": 7,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 30,
+      "rainyDays": 15,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 28,
+      "rainyDays": 22,
+      "crowdLevel": 2,
+      "flightPriceIndex": 2
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 28,
+      "rainyDays": 22,
+      "crowdLevel": 2,
+      "flightPriceIndex": 2
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 28,
+      "rainyDays": 18,
+      "crowdLevel": 2,
+      "flightPriceIndex": 2
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 28,
+      "rainyDays": 15,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 27,
+      "rainyDays": 9,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 27,
+      "rainyDays": 5,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "El Nido Town — Small town with restaurants, accommodations, tour booking offices. Backpacker and mid-range scene.",
+      "Las Cabañas Beach — 10 min from town, stunning sunset beach, popular accommodation strip, more resort feel.",
+      "Corong-Corong — South of town, quieter, mangrove views, local feel, some excellent budget guesthouses.",
+      "Nacpan Beach — 30 min north, 4km of empty white sand beach, resorts, arguably the most beautiful beach on Palawan."
+    ],
+    "areasToAvoid": [
+      "Island hopping June–September (wet season) — waves can make boat trips dangerous and many lagoons close.",
+      "Walking El Nido roads at night without a torch — streets are unlit and unpaved in places.",
+      "Eating only at beachfront tourist restaurants — prices are 3–4x the local eateries 1 block inland."
+    ],
+    "scamWarnings": [
+      "Tour C and D boats: official island hopping tours A, B, C, D have regulated prices (~₱1,200–1,800 per person). Private boats quoting ₱5,000+ for the same route are overcharging.",
+      "Fixed environmental fee: ₱200 Palawan pass + ₱300 El Nido eco-tourism fee per person. This is legitimate and non-negotiable.",
+      "Accommodation 'full' when they see a backpack vs a suitcase — always book ahead in peak season.",
+      "Airport shuttle drivers quoting ₱500+ per person for the 20-min trip into town. Official rate is ₱150–200."
+    ],
+    "airportTransfer": {
+      "cheapest": "Shared van (shuttle) from Lio airport to El Nido town — ₱150–200 per person, takes 20 min.",
+      "fastest": "Tricycle from Lio airport — ₱300–400 for the whole vehicle, takes 20 min.",
+      "recommended": "Pre-arrange airport pickup with your accommodation — most guesthouses offer this for ₱300–500 per vehicle.",
+      "taxiEstimate": "From Puerto Princesa airport (the alternative): 5–6 hours by van (₱500–700) or 1 hour by direct flight to Lio (El Nido airport)."
+    },
+    "tippingEtiquette": [
+      "Boat tour guides/boatmen: ₱100–200 per person at the end of a day tour is expected and genuinely needed.",
+      "Restaurant servers: ₱20–50 tip for good service.",
+      "Island hopping: some operators provide lunch — tip the boat cook ₱50–100.",
+      "Filipino guides love explaining history and culture — show genuine interest and they'll share incredible local knowledge.",
+      "Environmental fees collected by rangers at lagoon entrances are official — don't try to avoid them."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Fan room guesthouse ₱500–900 | A/C room ₱1,000–2,000 | Beachfront resort ₱3,000–7,000",
+      "meals": "Local eatery (turo-turo) ₱80–150 | Tourist restaurant ₱250–450 | Seafood dinner ₱400–800",
+      "transport": "Island hopping tour (per person) ₱1,200–1,800 | Tricycle in town ₱50–100 | Boat to Nacpan ₱500",
+      "activities": "Official island hopping ₱1,200–1,800 | Kayak rental ₱200/hr | Snorkelling gear rental ₱100 | Environmental fees ₱500"
+    },
+    "packingTips": [
+      "Biodegradable sunscreen — required for entering lagoons to protect coral. Non-bio is confiscated at Big Lagoon.",
+      "Waterproof dry bag for boat trips — everything will get splashed.",
+      "Water shoes for rock scrambling to hidden beaches and lagoons.",
+      "Mosquito repellent — dengue is present, especially near mangroves at dusk.",
+      "Cash only — limited ATMs (BDO near town square) and they frequently run out. Bring enough pesos from Manila."
+    ],
+    "bookingStrategy": "February–April is peak season: book accommodation and tours 4–6 weeks ahead. November–January offers excellent weather with fewer crowds. Avoid June–September (wet season). Take the direct flight to Lio airport rather than the 5-hour van from Puerto Princesa.",
+    "localTips": [
+      "Tour A is the most popular and most spectacular — the Big Lagoon and Secret Lagoon should not be missed.",
+      "Start island hopping early (7:30am departure) to reach Big Lagoon before the other 50 boats arrive at 10am.",
+      "Nacpan Beach is 30 minutes north and is completely different — wild, long, and far less visited than the lagoon tours.",
+      "Fresh seafood at Las Cabañas sunset restaurants — choose your fish from the ice display and have it grilled simply.",
+      "The electricity comes on at 6pm in El Nido town — plan power bank charging around this schedule."
+    ],
+    "bestTimeToVisit": "February–April: perfect visibility, gentle seas, all lagoons accessible. November is the shoulder sweet spot — good weather, far fewer tourists.",
+    "dayTrips": [
+      "Nacpan Beach — 30 min north by tricycle + walking, 4km of empty white sand, far less commercialised than the lagoon tours.",
+      "Cadlao Island — 20 min by boat, spectacular cathedral-like snorkelling, easily arranged as an add-on.",
+      "Port Barton — 3 hours south by boat or van, quieter alternative to El Nido, excellent for those staying longer on Palawan."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: visa-free entry for 30 days on arrival — a valid passport with at least 6 months validity and a return ticket are required",
+      "The 30-day stay can be extended to a maximum of 36 months in 2-month increments at the Bureau of Immigration in Puerto Princesa or Manila (each extension costs PHP 3,030)",
+      "A confirmed return or onward ticket is typically required at check-in by airlines — book a flexible return to avoid issues",
+      "El Nido is accessed via domestic flight from Manila (MNL) to El Nido (ENI) or Puerto Princesa (PPS) — your immigration entry happens at Manila; domestic arrivals are unstamped",
+      "Philippine immigration officers may ask to see proof of sufficient funds — $50 USD per day is the guideline"
+    ],
+    "currencyTips": [
+      "Currency: Philippine Peso (PHP / ₱). Notes: 20, 50, 100, 200, 500, 1,000 PHP",
+      "El Nido has very limited ATM access — there is one BDO ATM in town that frequently runs out of cash, especially on weekends; withdraw adequate cash in Manila or Puerto Princesa before arriving",
+      "Cards are accepted at a small number of El Nido resorts and restaurants but most local shops, island-hopping tours, and food stalls require cash",
+      "Money changers in El Nido accept USD, EUR, and AUD at reasonable rates",
+      "Power outages occur in El Nido — keep your phone charged and have offline maps downloaded; cash is your safeguard when connectivity fails"
+    ],
+    "simCard": "Globe Telecom and Smart/TNT are the two main Philippine carriers. Buy a SIM at Manila Airport (NAIA) before your domestic connection — El Nido has no reliable place to purchase SIMs. A Globe or Smart tourist SIM with 8–15 GB costs PHP 300–500. Mobile data coverage in El Nido town is acceptable; in the bays and on the islands it is intermittent. Download offline maps before departure. eSIM via Airalo is recommended.",
+    "emergencyNumbers": {
+      "police": "911 or 117",
+      "ambulance": "911",
+      "emergency": "911 (national emergency line since 2016)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 9,
+  "localFriendliness": 9
+}

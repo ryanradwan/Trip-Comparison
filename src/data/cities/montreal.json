@@ -1,0 +1,143 @@
+{
+  "id": "montreal",
+  "city": "Montreal",
+  "country": "Canada",
+  "region": "North America",
+  "currency": "CAD",
+  "language": "French / English",
+  "description": "Montreal is North America's most European city — a bilingual, bicultural metropolis where French joie de vivre collides with New World energy on cobblestoned streets, in legendary jazz clubs, and over smoked meat sandwiches at 2am. Canada's cultural capital hosts more festivals per capita than almost any city on earth, producing world-class comedy, jazz, and electronic music against a backdrop of Victorian duplexes painted every colour of the rainbow. In summer it's impossible not to be swept up by the city's infectious enthusiasm; in winter, Montrealers don't hibernate — they tunnel underground through 33km of heated pathways and dance until closing time in bars that don't shut until 3am.",
+  "airportCode": "YUL",
+  "foodScene": 9,
+  "beachQuality": 2,
+  "walkability": 8,
+  "nightlife": 9,
+  "safety": 7,
+  "culturalDepth": 9,
+  "transportationEase": 8,
+  "englishFriendliness": 8,
+  "familyFriendliness": 8,
+  "soloFriendliness": 9,
+  "coupleFriendliness": 9,
+  "adventureActivities": 6,
+  "shoppingScene": 8,
+  "wellnessScene": 7,
+  "digitalNomadScore": 8,
+  "visaComplexity": 2,
+  "instagrammability": 8,
+  "affordability": 6,
+  "localFriendliness": 8,
+  "budgetTiers": {
+    "budget": 65,
+    "mid": 140,
+    "premium": 310
+  },
+  "monthlyData": [
+    { "weatherScore": 2, "avgTempCelsius": -9, "rainyDays": 12, "crowdLevel": 2, "flightPriceIndex": 4 },
+    { "weatherScore": 2, "avgTempCelsius": -10, "rainyDays": 10, "crowdLevel": 2, "flightPriceIndex": 4 },
+    { "weatherScore": 3, "avgTempCelsius": -4, "rainyDays": 10, "crowdLevel": 2, "flightPriceIndex": 4 },
+    { "weatherScore": 5, "avgTempCelsius": 7, "rainyDays": 11, "crowdLevel": 3, "flightPriceIndex": 5 },
+    { "weatherScore": 7, "avgTempCelsius": 15, "rainyDays": 10, "crowdLevel": 4, "flightPriceIndex": 6 },
+    { "weatherScore": 8, "avgTempCelsius": 21, "rainyDays": 9, "crowdLevel": 6, "flightPriceIndex": 8 },
+    { "weatherScore": 9, "avgTempCelsius": 26, "rainyDays": 8, "crowdLevel": 9, "flightPriceIndex": 10 },
+    { "weatherScore": 9, "avgTempCelsius": 25, "rainyDays": 9, "crowdLevel": 8, "flightPriceIndex": 9 },
+    { "weatherScore": 8, "avgTempCelsius": 18, "rainyDays": 9, "crowdLevel": 6, "flightPriceIndex": 7 },
+    { "weatherScore": 6, "avgTempCelsius": 10, "rainyDays": 10, "crowdLevel": 4, "flightPriceIndex": 5 },
+    { "weatherScore": 3, "avgTempCelsius": 3, "rainyDays": 11, "crowdLevel": 2, "flightPriceIndex": 4 },
+    { "weatherScore": 3, "avgTempCelsius": -6, "rainyDays": 10, "crowdLevel": 3, "flightPriceIndex": 6 }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Plateau-Mont-Royal — the city's most beloved neighborhood, lined with colourful Victorian duplexes, spiral staircases, hip cafes, and the best local restaurants; the authentic heart of Montreal",
+      "Mile End — creative, culturally rich, home to iconic bagel institutions (Fairmount and St-Viateur), indie music venues, and a relaxed bohemian atmosphere; ideal for digital nomads and solo travelers",
+      "Old Montreal (Vieux-Montreal) — cobblestone streets, 17th-century architecture, and waterfront dining on Rue de la Commune; the most central base for sightseeing, but accommodation runs higher",
+      "Griffintown — newly developed and trendy, close to the Lachine Canal and downtown; modern hotels, rooftop bars, and excellent new-wave restaurants",
+      "Downtown / McGill area — central, walkable, close to museums and the shopping district on Rue Sainte-Catherine; best value hotels for pure transit convenience"
+    ],
+    "areasToAvoid": [
+      "Parts of downtown around Sainte-Catherine Est late at night can have rough patches — stay aware of your surroundings after 2am",
+      "The area around Berri-UQAM metro station (the main bus terminal) can attract petty crime late at night — move through purposefully",
+      "Some streets in Parc-Extension and parts of Saint-Michel are not recommended for solo walking after dark",
+      "Avoid leaving luggage or valuables visible in parked cars in Old Montreal — tourist vehicle break-ins are the most common property crime in the area"
+    ],
+    "scamWarnings": [
+      "Taxi overcharging from YUL airport is rare given the official fixed-rate zones, but always confirm the flat rate (CAD $41-50 to most central destinations) before getting in; legitimate taxis post the rates on the dashboard",
+      "Overpriced poutine and smoked meat near Place Jacques-Cartier in Old Montreal — these tourist-trap restaurants charge 2-3x the local price; walk one street back or go to La Banquise and Schwartz's for the real thing",
+      "Street vendors near the Old Port in summer selling 'authentic Quebec products' — many are mass-produced imports; look for Conseil des Metiers d'Art certification at genuine artisan shops",
+      "Some clubs in the entertainment district charge surprise mandatory coat-check fees — ask upfront whether coat check is compulsory and how much it costs before entering",
+      "Airbnb hosts renting illegally without a Registre des Locations Touristiques number — verify registration before booking to avoid last-minute cancellations or bylaw issues"
+    ],
+    "airportTransfer": {
+      "cheapest": "REM light rail (operational since 2023) from YUL directly to Gare Centrale (Central Station) downtown in about 25 minutes; CAD $6.50 ($5 USD) with an STM connection included",
+      "fastest": "Taxi (fixed rate) or Uber — approximately 25-35 minutes to downtown; CAD $41-50 ($30-37 USD) fixed taxi rate applies to most central zones",
+      "recommended": "Uber — typically CAD $35-45 ($26-33 USD) to central neighborhoods; app-based transparent pricing, no negotiation needed",
+      "taxiEstimate": "Fixed flat rate applies for most central downtown zones: CAD $41-50 ($30-37 USD); confirm the rate before departure as it varies by destination zone"
+    },
+    "tippingEtiquette": [
+      "Tipping is a strong social expectation in Quebec — 15% is the minimum in restaurants, 18-20% is standard for good service; Canadian POS systems suggest 18%, 20%, or 25% and you can always enter a custom amount",
+      "A quick tip calculation trick: in Quebec, double the 15% QST (Quebec Sales Tax) shown on your bill to get an approximate 15% tip on the pre-tax amount",
+      "Bars: $1-2 per drink or round up at the end of the night",
+      "Taxis and Uber: 10-15% is standard",
+      "Hotel housekeeping: CAD $2-5 per night left on the pillow is generous and appreciated",
+      "Coffee shops: not mandatory, but tip jars are everywhere and a loonie (CAD $1 coin) is always welcomed"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "$50-90 USD for a budget hostel or guesthouse; $120-200 for a mid-range hotel in Plateau or Old Montreal",
+      "meals": "$12-25 for lunch at a local diner; $35-70 for a dinner with drinks at a sit-down restaurant",
+      "transport": "$5-8 USD per day (CAD $10 for a 1-day unlimited STM metro and bus pass; CAD $22.25 for a 3-day pass)",
+      "activities": "$0-20 (Mont-Royal Park and Old Montreal walking tours are free; major museums offer free Wednesday evenings)"
+    },
+    "packingTips": [
+      "A serious insulated, waterproof parka is non-negotiable from November through March — temperatures regularly hit -15 to -25°C with windchill; rent or buy locally if you don't own one",
+      "Ice cleats (yaktrax) for your boots are worth every penny from December through February — Montreal sidewalks can be treacherous after freezing rain",
+      "Thermal base layers (merino wool is ideal) for any winter visit; cotton is not your friend in a Montreal winter",
+      "A compact waterproof rain jacket for the summer and fall — Montreal gets brief but heavy summer thunderstorms",
+      "Comfortable walking shoes for exploring Plateau cobblestones and Old Montreal's uneven streets",
+      "A reusable tote bag — Quebec banned single-use plastic bags province-wide; stores charge for bags",
+      "BIXI bike share (the city's excellent bike share program) runs May through November — a compact helmet makes cycling the city far more enjoyable"
+    ],
+    "bookingStrategy": "Montreal is best booked 4-8 weeks ahead for mid-range accommodation. The Formula 1 Canadian Grand Prix (usually the second weekend of June) is the single biggest hotel crunch of the year — prices triple and inventory sells out 6+ months in advance; check the F1 calendar immediately. The Jazz Festival (late June to early July) and Osheaga Music Festival (late July/August) also cause significant price spikes. For flights, Air Canada, Porter Airlines, and WestJet serve Montreal from most North American cities; Air Transat and Air France offer seasonal direct service from Europe. Book early for July and August to secure best rates.",
+    "localTips": [
+      "The great bagel debate: Fairmount Bagel and St-Viateur Bagel (both in Mile End) are open 24/7 and use the original wood-fired method unique to Montreal — go at midnight for the freshest, warmest bagels on earth",
+      "La Banquise on Rue Rachel serves the definitive poutine with 30+ variations, open 24 hours and always worth the queue",
+      "BIXI bike share is the best way to explore Plateau and Mile End — download the app and use a day pass (CAD $8) for unlimited 45-minute rides from May to November",
+      "The Underground City (RESO) is 33km of heated tunnels connecting 10 metro stations, 2,000 shops, and 200 restaurants — a lifesaver in winter and a fascinating urban phenomenon",
+      "Smoked meat at Schwartz's Deli on Saint-Laurent Boulevard is a pilgrimage — arrive at 11am before the queues form; order it medium-fat on rye with a pickle",
+      "Most major museums offer free admission on Wednesday evenings — the Montreal Museum of Fine Arts and Musee McCord are both excellent and completely free on Wednesdays",
+      "Mont-Royal Park (designed by Frederick Law Olmsted, who also designed Central Park) is free, spectacular in fall colours, and offers the best city views from the Kondiaronk Belvedere lookout",
+      "Monkland Village in NDG is where locals actually eat — escape the tourist zones here for authentic neighbourhood restaurants at half the Old Montreal prices"
+    ],
+    "bestTimeToVisit": "June through September delivers the best of Montreal — warm weather, patios overflowing, and the legendary festival calendar in full swing. Late June and early July is the peak for festival-goers (Jazz Fest, F1, MURAL Festival), vibrant but expensive and busy. September is the sweet spot: warm days (18-20°C), beautiful light, fewer tourists, and the fall foliage building. Winter (December through February) is best embraced rather than endured — the Hotel de Glace (Ice Hotel) near Quebec City and the Fete des Neiges winter festival in January are genuinely unique experiences.",
+    "dayTrips": [
+      "Quebec City — a UNESCO World Heritage walled city and the most European-feeling place in North America; 2.5 hours by VIA Rail train or bus; stay overnight for the full experience of Old Quebec",
+      "Mont-Tremblant — world-class ski resort 2 hours by car; in summer a beautiful lakeside village with hiking, cycling, and watersports on the lake",
+      "Eastern Townships (Cantons-de-l'Est) — rolling hills, covered bridges, wine route, orchards, and charming villages like Bromont and Knowlton; 1-1.5 hours by car",
+      "Ottawa — Canada's capital, 2 hours by bus or VIA Rail; visit Parliament Hill, the National Gallery of Canada, and the Rideau Canal (the world's largest skating rink in winter)",
+      "Laurentians — the mountain range north of Montreal with ski villages (Saint-Sauveur, Sainte-Adele) in winter and hiking, cycling, and swimming holes in summer; 1 hour by car",
+      "Saint-Jean-sur-Richelieu — hot air balloon capital of Canada, 45 minutes south; hosts the International Balloon Festival in August, one of the largest in the world"
+    ],
+    "visaInfo": [
+      "US citizens: no visa or eTA required — US passport holders enter freely for up to 6 months; a US driver's license is accepted at land and sea borders, but a passport is required for air travel",
+      "EU, UK, Australian, New Zealand, and Japanese citizens: no visa required but must obtain an Electronic Travel Authorization (eTA) online before flying; costs CAD $7 ($5 USD) and is approved within minutes at canada.ca/eta",
+      "Most other nationalities: require a Temporary Resident Visa (TRV) from IRCC (Immigration, Refugees and Citizenship Canada) — apply well in advance as processing ranges from days to several weeks depending on your country",
+      "Travelers transiting through Canadian airports also need an eTA (if visa-exempt) or visa — do not overlook this requirement for connecting flights through YUL or YYZ",
+      "Canada requires biometric data collection for most visa applicants — factor in additional time and a biometrics fee when applying for a TRV"
+    ],
+    "currencyTips": [
+      "Currency: Canadian Dollar (CAD); approximately CAD $1.35 = USD $1.00; check real-time rates at XE.com before exchanging",
+      "Cards are universally accepted in Montreal — Visa and Mastercard work everywhere; American Express is accepted at most restaurants and shops but not universally",
+      "Best ATMs: use bank-branded ATMs inside Desjardins, BMO, TD, RBC, or Scotiabank branches; private white-label ATMs at convenience stores typically charge CAD $3-6 per transaction",
+      "Apple Pay and Google Pay work at virtually all modern merchants — tap-to-pay is the dominant payment method across Canada",
+      "Airport currency exchange kiosks offer rates 5-8% worse than bank rates — withdraw Canadian dollars from an ATM on arrival instead",
+      "Prices are always in CAD — double-check that accommodation booking sites are showing Canadian rather than US dollars, as the difference adds up significantly"
+    ],
+    "simCard": "Best options: purchase a prepaid SIM from Fizz, Koodo, Freedom Mobile, or any major carrier (Bell, Telus, Rogers) at Montreal-Trudeau Airport (YUL) kiosks in the Arrivals hall or at any electronics retailer (Best Buy, Bell/Rogers stores). A 10-30 GB tourist SIM for 30 days runs CAD $25-45 ($18-33 USD). For short visits, an eSIM via Airalo (Canada plans from $4.50 USD for 1 GB) activated before departure is the most convenient option. Montreal has full 5G coverage in all central neighbourhoods.",
+    "emergencyNumbers": {
+      "police": "911 (or 514-280-2222 for non-emergency SPVM — Service de police de la Ville de Montreal)",
+      "ambulance": "911",
+      "emergency": "911"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true
+}

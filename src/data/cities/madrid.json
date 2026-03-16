@@ -1,0 +1,203 @@
+{
+  "id": "madrid",
+  "city": "Madrid",
+  "country": "Spain",
+  "region": "Southern Europe",
+  "currency": "EUR",
+  "language": "Spanish",
+  "description": "Spain's capital is a world-class city without the tourist fatigue — the Prado holds Europe's finest art collection, the food scene rivals anywhere on earth, and madrileños genuinely don't go to dinner before 10pm.",
+  "airportCode": "MAD",
+  "shopUrl": null,
+  "foodScene": 9,
+  "beachQuality": 0,
+  "walkability": 9,
+  "nightlife": 9,
+  "safety": 8,
+  "culturalDepth": 9,
+  "transportationEase": 9,
+  "englishFriendliness": 7,
+  "familyFriendliness": 7,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 8,
+  "adventureActivities": 5,
+  "shoppingScene": 9,
+  "wellnessScene": 7,
+  "digitalNomadScore": 7,
+  "visaComplexity": 2,
+  "instagrammability": 8,
+  "budgetTiers": {
+    "budget": 75,
+    "mid": 150,
+    "premium": 320
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 6,
+      "rainyDays": 8,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 8,
+      "rainyDays": 7,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 12,
+      "rainyDays": 7,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 15,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 19,
+      "rainyDays": 7,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 25,
+      "rainyDays": 4,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 30,
+      "rainyDays": 2,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 29,
+      "rainyDays": 2,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 24,
+      "rainyDays": 5,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 17,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 11,
+      "rainyDays": 8,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 7,
+      "rainyDays": 8,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Malasaña — Hipster central, independent cafes, vintage shops, young crowd, great for solo travellers.",
+      "Lavapiés — Madrid's most multicultural neighbourhood, incredible cheap food from around the world, gritty but authentic.",
+      "Chueca — LGBTQ+ neighbourhood, lively tapas bars, boutique shopping, very safe and vibrant.",
+      "Salamanca — Upscale, designer shopping, quieter restaurants, Madrid's equivalent of the Upper East Side."
+    ],
+    "areasToAvoid": [
+      "Calle Montera and surrounding streets — known for street prostitution and occasional drug activity.",
+      "Gran Vía at 3–4am — drunk crowds and opportunistic thieves around the clubs.",
+      "Rastro flea market with a bulging wallet — crowds are dense and pickpockets work in teams."
+    ],
+    "scamWarnings": [
+      "Three-card monte (trile) around El Rastro on Sundays — the crowd watching are all accomplices, you cannot win.",
+      "Overpriced flamenco shows near the tourist zones — book through your hotel or a reputable agency for authentic tablaos.",
+      "Taxi from Barajas airport: always use the official rank. The fixed rate to the city centre is €33 — any driver asking more is overcharging.",
+      "ATMs on Las Ramblas equivalent (Gran Vía) sometimes have card skimmers. Use ATMs inside banks."
+    ],
+    "airportTransfer": {
+      "cheapest": "Metro Line 8 from Terminal 4 to Nuevos Ministerios (city connection hub) — €4.50 airport supplement + €1.50 base = €6. Takes 25 min.",
+      "fastest": "Taxi — €33 fixed rate to any point in the city (M-30 zone), takes 20–30 min.",
+      "recommended": "Metro for budget travellers (easy, flat rate, frequent). Taxi for families or anyone with heavy luggage.",
+      "taxiEstimate": "€33 fixed rate city centre. €55–80 to destinations outside the M-30 ring road."
+    },
+    "tippingEtiquette": [
+      "Tipping is optional but appreciated. Leave €1–3 per person at restaurants, 10% for excellent service.",
+      "Cafes and bars: rounding up is the norm, no pressure.",
+      "Madrid eats late — lunch is 2–4pm, dinner 9:30–11pm. Showing up before 9pm for dinner is very touristy.",
+      "Greeting: handshake for strangers, two-cheek kiss (left cheek first) for anyone you've met before. Common even between men and women.",
+      "Sunday is sacred — many small shops are closed, but the Rastro flea market and Retiro Park are lively."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm €18–28 | Mid-range hotel €80–140 | Boutique hotel €160–300",
+      "meals": "Menú del día €10–14 | Tapas dinner €18–30 | Fine dining €60+",
+      "transport": "Metro single €1.50–2 | 10-trip card €11.35 | Taxi across city €7–12",
+      "activities": "Prado Museum €15 | Reina Sofía Museum €12 | Retiro Park free | Flamenco show €35–60"
+    },
+    "packingTips": [
+      "Light clothing for summer — Madrid is inland and gets very hot (35°C+ in July/August).",
+      "A warm layer for winter — temperatures drop to 2–5°C at night in January.",
+      "Comfortable walking shoes — the city centre is very walkable on flat streets.",
+      "Pocket fan for summer — the heat is dry but relentless."
+    ],
+    "bookingStrategy": "May, June, and October are the sweet spots — good weather, fewer tourists than Barcelona. Avoid August when madrileños leave on holiday and many restaurants close. Prado tickets can be booked online to skip the queue.",
+    "localTips": [
+      "The Prado is free every day from 6–8pm — queue by 5:30pm for a reasonable wait.",
+      "Bocadillo de calamares (squid sandwich) at Bar La Campana near Plaza Mayor — €4, genuinely legendary.",
+      "Mercado de San Miguel is tourist central and overpriced. Head to Mercado de Antón Martín in Lavapiés instead.",
+      "Madrid's churros con chocolate at Chocolatería San Ginés (open 24 hours) after a night out is a rite of passage.",
+      "Retiro Park rowing boats on the lake — €8 for 45 minutes, magical on a sunny afternoon."
+    ],
+    "bestTimeToVisit": "May or October: mild 18–24°C, low crowds, all museums fully open, terrace culture in full swing.",
+    "dayTrips": [
+      "Toledo — Medieval walled city 30 min by AVE train, El Greco paintings, stunning cathedral, day trip perfection.",
+      "Segovia — Roman aqueduct and Cinderella castle (inspiration for Disney), 30 min by AVE, great roast suckling pig.",
+      "El Escorial — Philip II's monastery-palace complex, an hour by Cercanías train, fascinating Habsburg history.",
+      "Ávila — the best-preserved medieval walls in Spain encircling a beautiful walled city, 1.5 hours by train.",
+      "Cuenca — a dramatic UNESCO city of 'hanging houses' perched above a gorge, 55 minutes by high-speed train."
+    ],
+    "visaInfo": [
+      "EU/EEA citizens: no visa required — Spain is a full Schengen member with free movement for EU passport holders",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; passport must be valid for the duration of stay",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period; no tourist visa required",
+      "Most other nationalities: consult the Spanish Ministry of Foreign Affairs; many nationalities require a Schengen visa obtained in advance from a Spanish consulate",
+      "The 90-day Schengen allowance is shared across all 27 Schengen member states — time in France, Italy, or any other Schengen country counts against the same quota"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€) — Spain is a eurozone member; no currency exchange needed if arriving from another eurozone country",
+      "Cards are widely accepted in Madrid restaurants, hotels, and shops; contactless payment is the norm at most modern venues",
+      "Best ATMs: use bank-branded ATMs from CaixaBank, BBVA, or Santander — avoid standalone tourist ATMs near Puerta del Sol and Gran Vía which charge higher fees",
+      "Avoid: dynamic currency conversion (DCC) at card terminals — always choose to pay in euros",
+      "Cash is useful for tapas bars, the Rastro flea market, and small local cafés; keep €5–€20 notes on hand"
+    ],
+    "simCard": "Movistar, Vodafone Spain, Orange, and MásMóvil are the main Spanish carriers. Tourist SIMs with 15–20 GB data cost €10–20 and include EU roaming — buy at Madrid Barajas Airport (MAD) Arrivals or at carrier stores around Gran Vía. For instant setup before landing, Airalo offers Spain eSIMs.",
+    "emergencyNumbers": {
+      "police": "091 (Policía Nacional) or 112 (pan-European)",
+      "ambulance": "112",
+      "emergency": "112"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 7,
+  "localFriendliness": 8
+}

@@ -1,0 +1,201 @@
+{
+  "id": "istanbul",
+  "city": "Istanbul",
+  "country": "Turkey",
+  "region": "Southern Europe",
+  "currency": "TRY",
+  "language": "Turkish",
+  "description": "The only city in the world straddling two continents — Byzantine churches converted to mosques, spice bazaars, hammams, and a food culture so rich you'll eat your way through the entire stay.",
+  "airportCode": "IST",
+  "shopUrl": null,
+  "foodScene": 9,
+  "beachQuality": 3,
+  "walkability": 7,
+  "nightlife": 7,
+  "safety": 6,
+  "culturalDepth": 10,
+  "transportationEase": 7,
+  "englishFriendliness": 6,
+  "familyFriendliness": 7,
+  "soloFriendliness": 7,
+  "coupleFriendliness": 8,
+  "adventureActivities": 6,
+  "shoppingScene": 9,
+  "wellnessScene": 7,
+  "digitalNomadScore": 6,
+  "visaComplexity": 3,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 50,
+    "mid": 100,
+    "premium": 220
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 5,
+      "rainyDays": 13,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 6,
+      "rainyDays": 11,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 9,
+      "rainyDays": 9,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 13,
+      "rainyDays": 8,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 18,
+      "rainyDays": 7,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 23,
+      "rainyDays": 5,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 26,
+      "rainyDays": 3,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 26,
+      "rainyDays": 3,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 22,
+      "rainyDays": 6,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 16,
+      "rainyDays": 9,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 11,
+      "rainyDays": 12,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 7,
+      "rainyDays": 14,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Sultanahmet — The historic heart, walking distance to Hagia Sophia, Blue Mosque, Topkapi Palace. Touristy but unmissable for first visit.",
+      "Beyoğlu / Galata — Istanbul's cosmopolitan side, Istiklal Avenue, rooftop bars, art galleries, great nightlife.",
+      "Karaköy — Hipster waterfront neighbourhood, excellent coffee scene, art galleries, ferry terminal for Bosphorus trips.",
+      "Kadıköy (Asian side) — Local favourite, incredible food market, vibrant street life, best meze and fish restaurants."
+    ],
+    "areasToAvoid": [
+      "Taksim Square at night during political gatherings — demonstrations can turn quickly.",
+      "Grand Bazaar back alleys with strangers who invite you for tea — usually a sales pitch to a carpet shop.",
+      "Unlicensed boats on the Bosphorus — always use official ferry services (BUDO or İDO)."
+    ],
+    "scamWarnings": [
+      "Carpet shop scam: friendly local (often posing as a student) invites you for tea then takes you to his 'uncle's carpet shop' where you're pressured to buy. Simply decline and leave.",
+      "Shoe shine scam on Istiklal — a shoeshine man 'accidentally' drops his brush. If you pick it up, he insists on shining your shoes and charges €20.",
+      "Taxi meter scam: some drivers run a 'night rate' meter during the day (2x cost). Always agree it says 'gündüz' (day rate) before you start.",
+      "Fake money change: when paying with larger bills, some merchants pocket one and claim you gave them one fewer. Count change immediately."
+    ],
+    "airportTransfer": {
+      "cheapest": "Havaist airport bus to Taksim Square — ₺140 (~€5), takes 40–70 min depending on traffic. Runs 24 hours.",
+      "fastest": "Taxi — ₺400–600 (~€14–20) to city centre, 30–45 min (avoid morning/evening rush).",
+      "recommended": "Havaist bus is the best value — direct to Taksim or other stops depending on your route. Comfortable and reliable.",
+      "taxiEstimate": "Official taxi ₺400–600 to Sultanahmet. Insist on the meter. Use İstanbul Taksi app to pre-book and see the estimated fare."
+    },
+    "tippingEtiquette": [
+      "Tipping is customary. Leave 10–15% at restaurants, round up at cafes.",
+      "Hammam attendants expect ₺100–200 tip after your treatment — it's a significant part of their income.",
+      "Do not photograph people praying at mosques. Remove shoes before entering and dress modestly (head covering for women at major mosques).",
+      "Bargaining in the Grand Bazaar is expected — start at 40% of the asking price and work up.",
+      "Turkish tea (çay) offered by shopkeepers is usually genuinely hospitable. Accepting doesn't obligate you to buy anything."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm ₺400–700 | Mid-range hotel ₺1200–2500 | Boutique hotel ₺3000–7000",
+      "meals": "Simit + tea breakfast ₺50 | Kebab lunch ₺100–200 | Restaurant dinner ₺300–600",
+      "transport": "Metro/tram ₺40 | Bosphorus ferry ₺60 | Taxi across city ₺150–300",
+      "activities": "Hagia Sophia free (mosque) | Topkapi Palace ₺500 | Turkish bath ₺400–800 | Bosphorus cruise ₺300–600"
+    },
+    "packingTips": [
+      "Comfortable walking shoes — Istanbul is extremely hilly, especially Sultanahmet and Beyoğlu.",
+      "Scarf for women — required at major mosques (Hagia Sophia, Blue Mosque). Many provide them but bringing your own is more hygienic.",
+      "Light layers year-round — mornings can be cool even in summer due to Bosphorus winds.",
+      "Power bank — you'll be out all day exploring."
+    ],
+    "bookingStrategy": "April–May and September–October are the best months. Avoid Ramadan if you want full restaurant access. Book Topkapi Palace tickets online to skip the entrance queue. April for tulip season (Emirgan Park).",
+    "localTips": [
+      "Simit from a street cart is the best €0.30 you'll spend in Istanbul — sesame-crusted bread ring, eaten everywhere.",
+      "Kadıköy fish market on Saturday morning: fresh fish grilled on skewers for ₺30, surrounded by locals.",
+      "The Bosphorus public ferry (vapur) from Eminönü to Kadıköy costs ₺60 and gives you 20 minutes of Bosphorus views.",
+      "Blue Mosque is free but closed for about 90 minutes during each of the 5 daily prayers. Check times before visiting.",
+      "İstanbul Kart (transit card) saves time and money — load ₺100 and use across all public transport."
+    ],
+    "bestTimeToVisit": "April–May: tulips in bloom, mild 15–20°C, manageable crowds. September–October equally excellent with warm sea temperatures.",
+    "dayTrips": [
+      "Princes' Islands (Büyükada) — Car-free island 90 min by ferry, cycling, horse carriages, Ottoman mansions, peaceful escape.",
+      "Edirne — Historic Ottoman capital 2.5 hours by bus, spectacular Selimiye Mosque, Kırkpınar oil wrestling festival.",
+      "Bursa — First Ottoman capital, Green Mosque, silk bazaar, Uludağ ski resort, 2 hours by ferry + bus."
+    ],
+    "visaInfo": [
+      "Turkish e-Visa required for most nationalities including US, UK, Australia, and Canada — apply at evisa.gov.tr before travel (approximately $50 USD / €45 depending on nationality; single entry valid 180 days, stay up to 90 days)",
+      "EU citizens: varies by country — check the Turkish MFA website; some EU nationals are visa-free, others require the e-Visa",
+      "The e-Visa must be obtained before arrival — obtain at least 3 days in advance; there is no visa on arrival for nationalities requiring e-Visa",
+      "Turkey is NOT in the EU Schengen zone — Turkish visa does not count toward your 90-day Schengen allowance and vice versa",
+      "Istanbul Airport (IST) and Sabiha Gökçen (SAW) both have e-Visa verification desks; have your e-Visa printout or smartphone ready"
+    ],
+    "currencyTips": [
+      "Currency: Turkish Lira (₺ / TRY). Rapid inflation in recent years means prices change frequently — verify current rates; for Western visitors, Istanbul is extremely affordable in USD/EUR terms",
+      "Best exchange: Döviz (exchange office) kiosks in Kapalıçarşı (Grand Bazaar) area and Beyoğlu consistently offer the best rates; avoid airport exchange",
+      "ATMs: Garanti BBVA and İş Bankası are recommended for foreign cards; withdraw larger amounts to minimise per-transaction fees",
+      "Cards accepted at most modern Istanbul restaurants, hotels, and shops; cash needed for Grand Bazaar, small esnaf (tradesmen) shops, and some local meyhanes",
+      "Always choose Turkish Lira at card terminals — dynamic currency conversion to USD/EUR gives a significantly worse rate"
+    ],
+    "simCard": "Turkcell has the best urban coverage in Istanbul across both the European and Asian sides. Buy a tourist SIM at Istanbul Airport (IST) or Sabiha Gökçen (SAW) arrivals. A 30-day tourist package with 20–30 GB costs around 400–700 TRY. Foreign SIMs can be used in Turkey for up to 120 days before mandatory local registration. eSIM via Airalo is widely used for Turkey.",
+    "emergencyNumbers": {
+      "police": "155",
+      "ambulance": "112",
+      "emergency": "112 (unified) / 156 (gendarmerie outside cities)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 9,
+  "localFriendliness": 8
+}

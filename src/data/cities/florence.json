@@ -1,0 +1,211 @@
+{
+  "id": "florence",
+  "city": "Florence",
+  "country": "Italy",
+  "region": "Southern Europe",
+  "currency": "EUR",
+  "language": "Italian",
+  "description": "Florence is the most perfectly human-scaled great city on earth — a compact Renaissance masterpiece where the Uffizi, the Duomo, Michelangelo's David, and Brunelleschi's dome all sit within a 20-minute walk of each other, and where the best bistecca alla fiorentina you'll ever eat costs less than a museum ticket. The city that produced the Medici, Dante, Leonardo, Botticelli, and Machiavelli wears its extraordinary history lightly, tucked behind terracotta facades along the Arno, in the hillside Oltrarno neighborhood where locals still live, work, and argue about calcio over espresso.",
+  "airportCode": "FLR",
+  "foodScene": 8,
+  "beachQuality": 0,
+  "walkability": 10,
+  "nightlife": 6,
+  "safety": 8,
+  "culturalDepth": 10,
+  "transportationEase": 7,
+  "englishFriendliness": 7,
+  "familyFriendliness": 8,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 9,
+  "adventureActivities": 5,
+  "shoppingScene": 9,
+  "wellnessScene": 6,
+  "digitalNomadScore": 6,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 75,
+    "mid": 150,
+    "premium": 320
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 6,
+      "rainyDays": 8,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 8,
+      "rainyDays": 7,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 12,
+      "rainyDays": 8,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 16,
+      "rainyDays": 8,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 21,
+      "rainyDays": 6,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 25,
+      "rainyDays": 4,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 29,
+      "rainyDays": 2,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 29,
+      "rainyDays": 2,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 24,
+      "rainyDays": 5,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 18,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 12,
+      "rainyDays": 9,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 7,
+      "rainyDays": 8,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Oltrarno — the 'other side of the Arno', Florence's most authentic neighborhood with artisan workshops, local restaurants, and the Boboli Gardens",
+      "Santo Spirito — the heart of Oltrarno, a piazza lined with cafés and a weekend market, far more local than the north bank",
+      "San Niccolò — quiet and residential along the Arno east of Ponte Vecchio, with a great aperitivo scene and fewer tourists",
+      "Santa Croce — the large piazza is lively and the neighborhood has excellent trattorie without the tourist prices of the Duomo area",
+      "Bardini Garden area — upper Oltrarno hillside with stunning views, the less-crowded Bardini Villa, and winding lane access to Piazzale Michelangelo"
+    ],
+    "areasToAvoid": [
+      "The area immediately around the Duomo and Baptistery for eating — prices are 2-3x what you'll pay three streets away",
+      "Via dei Calzaiuoli restaurants with photos outside and touts — classic tourist traps",
+      "The Ponte Vecchio itself in peak summer crowds — save jewelry shopping for the workshops in Oltrarno instead"
+    ],
+    "scamWarnings": [
+      "Fake David merchandise — look for the 'Made in Italy' label; most souvenir Davids are made in China",
+      "Leather market vendors near San Lorenzo often pressure tourists with 'special price just for you' tactics — compare prices before buying",
+      "Unlicensed tour guides offer Uffizi 'skip the line' tickets outside the museum — only buy from the official Uffizi website or authorized resellers",
+      "Taxi overcharging from Florence airport — the official rate is fixed; always confirm before getting in",
+      "Restaurants that don't display a menu outside — required by Italian law; if they don't have one visible, walk on"
+    ],
+    "airportTransfer": {
+      "cheapest": "Tram Line T2 from Florence Airport (FLR) to Santa Maria Novella station — €1.70, takes 20 minutes, runs every 4 minutes",
+      "fastest": "Taxi — 15 minutes to city center, fixed rate approximately €22-25",
+      "recommended": "Tram T2 — the newest and most reliable option, connects directly to the main train station and city center",
+      "taxiEstimate": "€22-25 fixed rate to the historic center from FLR airport"
+    },
+    "tippingEtiquette": [
+      "Tipping is not customary but appreciated — 5-10% at sit-down restaurants for good service",
+      "The coperto (cover charge €2-4 per person) is a restaurant fee, not a tip",
+      "At coffee bars: tipping is unusual and not expected",
+      "Tour guides: €5-10 per person for excellent guiding at major sites",
+      "Hotel staff: €1-2 per bag for porters, €1-2 per night for housekeeping"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": 45,
+      "meals": 18,
+      "transport": 4,
+      "activities": 8
+    },
+    "packingTips": [
+      "Comfortable flat shoes — Florence is entirely walkable on cobblestones, and you will walk 12-15km per day",
+      "Modest dress for churches — the Duomo and all major basilicas require covered shoulders and knees",
+      "A lightweight shoulder bag worn across the body — pickpockets operate around the Uffizi and Accademia queues",
+      "A good hat and sunscreen for summer — Florence can hit 35°C in July with little shade in museum queues",
+      "A light sweater for evenings on the Arno — it stays warm longer than expected but the river creates a cool breeze",
+      "A reusable tote bag for the San Lorenzo market and Mercato Centrale food hall"
+    ],
+    "bookingStrategy": "Florence is compact and extremely popular — book accommodation 4-8 weeks in advance for stays May through October. July and August see the most tourists; April through June is often considered the ideal window. The Uffizi (€20-25 depending on season) and Accademia (€12-16 for David) absolutely require advance online booking — walk-up queues regularly exceed 2 hours in peak season. The Opera del Duomo museum (€18, includes cathedral, baptistery, and Giotto's bell tower) also benefits from advance booking. For rail travel, Florence's Santa Maria Novella station connects by high-speed train to Rome (1.5h), Bologna (35min), Venice (2h), and Milan (1.75h) — book Trenitalia or Italo trains in advance for the best prices.",
+    "localTips": [
+      "Visit the Accademia when it opens at 8:15am — David before the crowds is a completely different and deeply moving experience",
+      "Mercato Centrale's ground floor food market is authentic and excellent — the upstairs food hall is touristic but still decent",
+      "Climb Giotto's Campanile (the bell tower, €15) instead of the dome — same height, better views, and shorter queue",
+      "Piazzale Michelangelo at sunrise is magical — walk up via the San Niccolò tower or arrive by bus before tour groups",
+      "The Bardini Garden (€10) is far less crowded than the Boboli and has equally beautiful formal gardens and city views",
+      "Lunch at a trattoria rather than dinner — fixed-price lunch menus are €10-15, the same restaurant charges double for dinner",
+      "Buy wine directly from the Enoteca Alessi or wine shops in Oltrarno — supermarket Chianti Classico is surprisingly good value",
+      "Artisan leather workshops in Oltrarno (look for the 'Leather School of Florence' at Santa Croce) sell handmade goods at factory prices"
+    ],
+    "bestTimeToVisit": "April through early June and September through October are optimal — temperatures of 18-25°C, blooming Tuscan countryside, and crowds that are heavy but manageable. November through February offers a completely different Florence: fewer tourists, moody winter light, affordable accommodation, and the city entirely to yourself except at Christmas and New Year. Avoid July and August — it's extremely hot, extremely crowded, and many locals leave the city.",
+    "dayTrips": [
+      "Siena — the most beautiful medieval city in Italy, Piazza del Campo and the Duomo are extraordinary, 1.5 hours by bus (train is slower)",
+      "San Gimignano — the medieval 'Manhattan' of Tuscany with its famous towers, 1.5 hours by bus via Siena or Poggibonsi",
+      "Chianti wine country — rolling vineyards, stone farmhouses, and wine tastings between Florence and Siena, best by car or organized tour",
+      "Cinque Terre — five colorful fishing villages on dramatic Ligurian cliffs, 2.5 hours by train, best as an overnight",
+      "Pisa — the Leaning Tower is genuinely impressive up close, 1 hour by train (do both in one day with Lucca)",
+      "Lucca — perfect Renaissance walls encircling a charming city of churches and bicycles, 1.5 hours by train, deeply underrated"
+    ],
+    "visaInfo": [
+      "EU/EEA citizens: no visa required — Italy is a full Schengen member with free movement for EU passport holders",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; passport must be valid for the duration of stay",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period; no tourist visa required",
+      "Most other nationalities: consult the Italian Ministry of Foreign Affairs or nearest Italian consulate; many nationalities require a Schengen visa in advance",
+      "The 90-day Schengen allowance is shared across all 27 Schengen member states — days spent in other Schengen countries count against the same quota"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€) — Italy is a eurozone member; no currency exchange needed if arriving from another eurozone country",
+      "Cards are widely accepted in Florence restaurants, hotels, and shops; contactless and mobile payments work at most modern venues",
+      "Best ATMs: use bank-branded ATMs from UniCredit, Intesa Sanpaolo, or Monte dei Paschi di Siena — avoid standalone tourist ATMs near the Uffizi and Duomo which charge excessive fees",
+      "Avoid: dynamic currency conversion (DCC) at ATMs and card terminals — always choose to pay in euros",
+      "Cash is useful for local markets, small trattorias, and the San Lorenzo leather market; keep €5–€20 notes on hand"
+    ],
+    "simCard": "TIM, Vodafone Italy, WindTre, and Iliad are the main Italian carriers. Tourist SIMs with 10–20 GB data cost €10–25 and include EU roaming — buy at carrier stores near Santa Maria Novella station or at Florence Airport (FLR) Arrivals. For seamless setup before you land, Airalo offers Italy eSIMs with instant activation.",
+    "emergencyNumbers": {
+      "police": "113 (Polizia di Stato) or 112 (pan-European)",
+      "ambulance": "118",
+      "emergency": "112"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 7,
+  "localFriendliness": 7
+}

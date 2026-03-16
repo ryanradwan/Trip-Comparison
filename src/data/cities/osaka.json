@@ -1,0 +1,211 @@
+{
+  "id": "osaka",
+  "city": "Osaka",
+  "country": "Japan",
+  "region": "East Asia",
+  "currency": "JPY",
+  "language": "Japanese",
+  "description": "Osaka is Japan with the filter off — louder, funnier, and more obsessed with food than anywhere else in the country. Osakans have a saying, 'kuidaore,' meaning 'eat until you drop,' and the city lives it faithfully: takoyaki stalls, kushikatsu bars, all-night ramen joints, and Michelin-starred restaurants compete for space in a city that treats eating as both sport and art form. Dotonbori's neon-lit canal, the underground shopping arcades of Shinsaibashi, and the colossal Osaka Castle make this an endlessly entertaining destination. As the western hub for the Kansai region, Osaka is also the ideal base for day trips to Kyoto, Nara, Kobe, and even Hiroshima.",
+  "airportCode": "KIX",
+  "foodScene": 10,
+  "beachQuality": 2,
+  "walkability": 8,
+  "nightlife": 9,
+  "safety": 10,
+  "culturalDepth": 6,
+  "transportationEase": 9,
+  "englishFriendliness": 5,
+  "familyFriendliness": 8,
+  "soloFriendliness": 9,
+  "coupleFriendliness": 8,
+  "adventureActivities": 5,
+  "shoppingScene": 9,
+  "wellnessScene": 6,
+  "digitalNomadScore": 6,
+  "visaComplexity": 2,
+  "instagrammability": 8,
+  "budgetTiers": {
+    "budget": 85,
+    "mid": 170,
+    "premium": 370
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 6,
+      "rainyDays": 6,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 7,
+      "rainyDays": 6,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 11,
+      "rainyDays": 11,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 17,
+      "rainyDays": 11,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 22,
+      "rainyDays": 12,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 26,
+      "rainyDays": 16,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 30,
+      "rainyDays": 14,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 31,
+      "rainyDays": 9,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 27,
+      "rainyDays": 14,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 20,
+      "rainyDays": 9,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 14,
+      "rainyDays": 8,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 8,
+      "rainyDays": 5,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Dotonbori — the city's beating heart: neon canal, iconic Glico sign, takoyaki stalls, and all-night eating at every price point",
+      "Namba — pedestrian shopping arcades (Shinsaibashi-suji, Amerika-Mura), nightclubs, and the best izakaya concentration in western Japan",
+      "Shinsekai — retro 1950s entertainment district with cheap kushikatsu, pachinko parlors, and Tsutenkaku Tower — authentic and untouristy",
+      "Umeda/Kitashinchi — upscale shopping at Grand Front, the underground Whity shopping city, and Kitashinchi's high-end hostess bar district",
+      "Nakazakicho — Osaka's hipster quarter of vintage clothing, independent coffee shops, and gallery spaces in a beautifully preserved old neighborhood",
+      "Osaka Bay Area — Universal Studios Japan, Osaka Aquarium Kaiyukan, and Tempozan harbor for families"
+    ],
+    "areasToAvoid": [
+      "Tobita Shinchi late at night — Japan's most conspicuous red-light district, can be uncomfortable for unfamiliar visitors",
+      "Street food near Dotonbori touristy corridors can be overpriced — walk one block back from the canal for better value",
+      "Avoid unlicensed money changers near Shinsaibashi — bank ATMs (7-Eleven, Japan Post) give significantly better rates"
+    ],
+    "scamWarnings": [
+      "Dotonbori street vendors occasionally short-change tourists during busy periods — always count your change",
+      "Fake Universal Studios Japan ticket sellers near the gate — only purchase at official booths or the USJ website",
+      "Taxi drivers near Namba station may claim the meter is broken — always insist on the meter or use a rideshare app",
+      "Overcharging for 'live music' at certain Namba bars — confirm cover charges before entering",
+      "Unauthorized 'takoyaki experiences' in tourist areas — book cooking classes through reputable platforms"
+    ],
+    "airportTransfer": {
+      "cheapest": "Nankai Rapi:t express from Kansai Airport to Namba: ¥1,450 (~$10 USD), 38 minutes. Osaka Airport Transport bus: ¥1,000 for Itami (domestic) airport",
+      "fastest": "Nankai Rapi:t Limited Express: 38 minutes to Namba — the fastest and most comfortable option from KIX",
+      "recommended": "Nankai Rapi:t express to Namba Station — puts you directly in the entertainment center. Purchase at the KIX Nankai ticket counter; discounted tourist tickets (¥1,200) available online",
+      "taxiEstimate": "¥12,000–¥17,000 from Kansai Airport to Namba (~$80-115 USD). From Itami (Osaka Airport): ¥3,500–¥5,000"
+    },
+    "tippingEtiquette": [
+      "No tipping anywhere in Japan — Osaka is no exception despite its more casual atmosphere",
+      "Izakaya staff, takoyaki vendors, and hotel workers all provide excellent service with no gratuity expected",
+      "Rounding up at a cash register is not practiced — pay the exact stated amount",
+      "Verbal thanks ('arigato gozaimasu') and a small bow are the appropriate expressions of appreciation"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget: ¥2,500-4,000 hostel/guesthouse near Namba. Mid: ¥10,000-16,000 business hotel. Premium: ¥25,000-60,000 design or boutique hotel",
+      "meals": "Budget: ¥600-1,200 (takoyaki ¥500, ramen ¥800, kaiten sushi ¥1,000). Mid: ¥1,500-3,500 izakaya dinner. Premium: ¥8,000+ kaiseki or omakase",
+      "transport": "Osaka 1-day metro pass: ¥820. IC card (ICOCA) covers all metro, JR, and buses for ~¥600-1,000/day depending on area",
+      "activities": "Osaka Castle: ¥600. Umeda Sky Building: ¥1,500. Aquarium Kaiyukan: ¥2,400. USJ: ¥9,800-20,000+ depending on express passes"
+    },
+    "packingTips": [
+      "Comfortable shoes — Dotonbori and Shinsaibashi involve hours of walking on hard pavement",
+      "Bring a bigger appetite than you think necessary — Osaka food culture demands grazing throughout the day",
+      "Lightweight layers for spring and fall; summers are brutally hot and humid in the Osaka basin",
+      "A small umbrella is useful year-round — afternoon storms appear suddenly in summer",
+      "Bring an IC card or pick up ICOCA at the airport — it covers all transit and convenience store purchases",
+      "Leave room in your luggage — Shinsaibashi-suji and Amerikamura shopping is hard to resist"
+    ],
+    "bookingStrategy": "Osaka is easier to book last-minute than Kyoto, but cherry blossom season (late March-April) still books out. Consider staying in Osaka and day-tripping to Kyoto — accommodation is generally cheaper and the Shin-Osaka shinkansen station is well-placed. Book Universal Studios Japan tickets online well in advance, especially during school holidays. The Osaka Amazing Pass (1- or 2-day) covers unlimited subway rides and free entry to many attractions including the Ferris wheel and Tsutenkaku Tower.",
+    "localTips": [
+      "The Osaka Amazing Pass covers metro travel and free entry to over 40 attractions — excellent value for a sightseeing day",
+      "Kuromon Ichiba Market (Osaka's kitchen) is best visited between 9am-noon for the freshest seafood and produce",
+      "Eat kushikatsu in Shinsekai — it's half the price of Dotonbori and far more authentic",
+      "Dotonbori's famous Kinryu Ramen is open 24 hours and excellent after late-night drinking",
+      "Tsuruhashi is Osaka's Koreatown — excellent Korean BBQ and kimchi at prices far below Seoul",
+      "The free Osaka Castle park surrounding the castle is one of the best cherry blossom spots in the region",
+      "Hozenji Yokocho — a stone lantern alley near Dotonbori with moss-covered statues and intimate restaurants serving excellent Osaka kappo cuisine",
+      "Osaka-ben (the local dialect) is distinct from Tokyo Japanese — don't be surprised if locals sound entirely different from what you studied"
+    ],
+    "bestTimeToVisit": "March to May and October to November offer ideal temperatures. Late March cherry blossom season at Osaka Castle Park is spectacular. Summer (July-August) is extremely hot and humid but the Tenjin Matsuri festival in late July is one of Japan's three great festivals. Winter is mild compared to Tokyo and quieter — good for budget travelers.",
+    "dayTrips": [
+      "Kyoto — 15 min by shinkansen, 75 min by Hankyu express; temples, geisha districts, and imperial gardens",
+      "Nara — 45 min by Kintetsu express; free-roaming deer and Todai-ji's colossal bronze Buddha",
+      "Kobe — 30 min by JR; Wagyu beef, Arima Onsen hot springs, and Kitano-cho's historical foreign residences",
+      "Himeji — 45 min by shinkansen; Japan's finest surviving feudal castle, a UNESCO World Heritage Site",
+      "Wakayama — Koyasan monastery complex, mountaintop Buddhist temples, and temple lodging (shukubo), 90 min",
+      "Hiroshima and Miyajima — 90 min by shinkansen; Peace Memorial Museum and the floating torii gate"
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: visa-free for up to 90 days for tourism — no advance application needed",
+      "Japan requires a return or onward ticket and proof of sufficient funds — have your return booking and some cash or bank statements available for immigration",
+      "Osaka is served by Kansai International Airport (KIX) and Itami Airport (ITM) — KIX handles most international flights",
+      "Visit Japan Web: pre-register your passport details online for faster immigration and customs processing at KIX",
+      "Japan has strict drug laws — many common medications (some allergy pills, certain sleep aids) are illegal in Japan even with a prescription; check the Japanese Customs website before packing any prescription medication"
+    ],
+    "currencyTips": [
+      "Currency: Japanese Yen (¥ / JPY). Japan is more cash-reliant than most developed countries — always carry sufficient yen",
+      "7-Eleven ATMs and Japan Post ATMs (at any Japan Post office) reliably accept foreign Visa/Mastercard; many regular bank ATMs do not accept foreign cards",
+      "Osaka is slightly more card-friendly than Tokyo — Dotonbori restaurants and Shinsaibashi shops increasingly accept cards — but cash remains essential for local izakaya and street food stalls",
+      "ICOCA card (Osaka's IC transit card): available at KIX airport and all train stations; reloadable with cash and usable on all trains, buses, and at convenience stores",
+      "Osaka is Japan's 'kitchen' — budget well for excellent food; Dotonbori and Kuromon Market street food requires cash"
+    ],
+    "simCard": "IIJmio, b-mobile, and Softbank all sell tourist SIMs at KIX airport. A 30-day data SIM with 20–50 GB costs ¥3,000–6,000. Data-only SIMs are the standard tourist product (no voice calls); voice plans require a local address. Pocket WiFi rental is popular for groups. eSIM via Airalo works for Japan and can be set up before you board.",
+    "emergencyNumbers": {
+      "police": "110",
+      "ambulance": "119",
+      "emergency": "110 (police) / 119 (ambulance and fire)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 7,
+  "localFriendliness": 9
+}

@@ -1,0 +1,201 @@
+{
+  "id": "manila",
+  "city": "Manila",
+  "country": "Philippines",
+  "region": "Southeast Asia",
+  "currency": "PHP",
+  "language": "Filipino/English",
+  "description": "A city of contradictions — gleaming malls adjacent to historic Spanish colonial districts, extraordinary Filipino hospitality, a food scene that blends Malay, Chinese, Spanish, and American influences, and a gateway to 7,000+ islands that will blow your mind.",
+  "airportCode": "MNL",
+  "shopUrl": null,
+  "foodScene": 7,
+  "beachQuality": 3,
+  "walkability": 3,
+  "nightlife": 7,
+  "safety": 5,
+  "culturalDepth": 6,
+  "transportationEase": 4,
+  "englishFriendliness": 9,
+  "familyFriendliness": 6,
+  "soloFriendliness": 6,
+  "coupleFriendliness": 6,
+  "adventureActivities": 4,
+  "shoppingScene": 8,
+  "wellnessScene": 5,
+  "digitalNomadScore": 6,
+  "visaComplexity": 2,
+  "instagrammability": 6,
+  "budgetTiers": {
+    "budget": 35,
+    "mid": 70,
+    "premium": 160
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 26,
+      "rainyDays": 3,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 27,
+      "rainyDays": 2,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 29,
+      "rainyDays": 2,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 31,
+      "rainyDays": 3,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 32,
+      "rainyDays": 7,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 31,
+      "rainyDays": 13,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 29,
+      "rainyDays": 19,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 29,
+      "rainyDays": 20,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 29,
+      "rainyDays": 17,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 28,
+      "rainyDays": 13,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 27,
+      "rainyDays": 7,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 26,
+      "rainyDays": 4,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "BGC (Bonifacio Global City) — Safest, most walkable, international restaurants, nightlife in High Street, clean and modern.",
+      "Makati CBD — Business district, excellent restaurants, Greenbelt mall, safe for tourists, good nightlife in P. Burgos.",
+      "Intramuros — Spanish colonial walled city, Fort Santiago, Rizal Museum, best for history, not for staying overnight.",
+      "Poblacion (Makati) — Hipster neighbourhood, craft beer bars, cheap street food alongside trendy restaurants."
+    ],
+    "areasToAvoid": [
+      "Tondo and North Manila at night — highest crime areas in the city, no tourist reason to be there.",
+      "Quiapo market area after dark — pickpocket-heavy even during the day.",
+      "Accepting rides from unlicensed vehicles outside the airport or malls."
+    ],
+    "scamWarnings": [
+      "Airport taxi scam: unlicensed drivers outside NAIA terminal claim all taxis are gone. Use the official metered taxi queue inside the terminal.",
+      "Short-changing: carefully count change at markets and smaller shops — tourist short-changing is common.",
+      "Overpriced jeepney tourist rides: locals pay ₱12–15 for a jeepney. If someone is charging you ₱200, that's a tourist rate.",
+      "Card skimming at ATMs: use ATMs inside banks or major malls only."
+    ],
+    "airportTransfer": {
+      "cheapest": "Airport Bus Express (P2P Bus) from NAIA Terminal 3 to Ayala Ave (Makati) — ₱60, takes 30–60 min. Air-conditioned, reliable.",
+      "fastest": "Grab car from NAIA — ₱300–500 to BGC or Makati, takes 20–40 min.",
+      "recommended": "Grab app is the most reliable option from any NAIA terminal. Book inside the building using the app.",
+      "taxiEstimate": "Official metered airport taxi: ₱350–600 to BGC or Makati depending on terminal and traffic. Use only the official taxi bay."
+    },
+    "tippingEtiquette": [
+      "10% tip at restaurants is standard. Check if service charge is already included.",
+      "Hotel porters: ₱50–100 per bag.",
+      "Filipino culture values warmth and respect above all — smile, say 'po' and 'opo' (respectful yes) to earn genuine hospitality.",
+      "Filipinos are extremely English-fluent — no need for translation apps in tourist areas.",
+      "Respect religious observances — the Philippines is strongly Catholic. Masses are frequent and observed seriously."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget guesthouse ₱600–1,200 | Mid-range hotel ₱2,000–4,500 | Boutique hotel ₱5,000–10,000",
+      "meals": "Jollibee meal ₱100–150 | Turo-turo (cafeteria) ₱60–100 | Restaurant dinner ₱350–700 | BGC restaurant ₱700–1,500",
+      "transport": "MRT single ₱13–28 | Grab car ₱100–300 | Jeepney ₱12–15",
+      "activities": "Intramuros tour ₱300–500 | National Museum free | Rizal Park free | BGC street art walking free"
+    },
+    "packingTips": [
+      "Light, breathable clothing — Manila is hot and humid year-round (28–32°C).",
+      "Rain jacket for June–November — typhoon season can bring sudden heavy downpours.",
+      "Portable charger — traffic jams and malls mean long days away from outlets.",
+      "Modest clothing for churches — many Filipinos attend mass daily and dress appropriately."
+    ],
+    "bookingStrategy": "December–May is dry season — the best time to visit. Book accommodation in BGC or Makati for the safest and most convenient experience. Manila is often a transit city — allow 2–3 days before flying to El Nido or Palawan.",
+    "localTips": [
+      "Grab is non-negotiable — Manila traffic is some of the worst in Asia, and the app shows you estimated time and price upfront.",
+      "Lechon (whole roasted pig) at any fiesta or market is the Filipino feast dish — Cebu-style is considered the gold standard.",
+      "The National Museum of Fine Arts and the National Museum of Natural History are both free and excellent.",
+      "Greenbelt mall in Makati has the best concentration of quality Filipino restaurants and brands.",
+      "Jeepneys are an iconic Filipino experience — colourfully decorated mini-buses, ₱12–15 for any journey within a route. Worth trying once."
+    ],
+    "bestTimeToVisit": "January–March: dry, relatively cool (26–28°C), low typhoon risk, Christmas festivities winding down.",
+    "dayTrips": [
+      "Tagaytay — 2 hours south, Taal Volcano in a lake in a lake, cool temperatures (10°C lower than Manila), excellent bulalo beef stew.",
+      "Corregidor Island — 90 min by boat, WWII Pacific battlefield, dramatic history, panoramic Manila Bay views.",
+      "Las Piñas Bamboo Organ — 45 min south, unique 200-year-old church with an organ made of bamboo pipes, still played today."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: visa-free entry for 30 days on arrival — valid passport with at least 6 months validity and a return ticket required",
+      "The 30-day stay can be extended to a maximum of 36 months in 2-month increments at the Bureau of Immigration in Manila (Intramuros) — each extension costs PHP 3,030",
+      "Return or onward ticket is required at check-in by most airlines flying to Manila — book a flexible return to avoid issues at check-in",
+      "Manila is served by Ninoy Aquino International Airport (NAIA) — one of four terminals; confirm your terminal when booking",
+      "Immigration may ask for proof of sufficient funds ($50 USD per day is the guideline)"
+    ],
+    "currencyTips": [
+      "Currency: Philippine Peso (PHP / ₱). Notes: 20, 50, 100, 200, 500, 1,000 PHP",
+      "Cards accepted at major Manila malls (SM, Ayala), hotels, and restaurants; cash essential for jeepneys, tricycles, local eateries (turo-turo), and wet markets",
+      "Best ATMs: BDO, BPI, and Metrobank ATMs are widely available in Metro Manila and work reliably with foreign Visa/Mastercard; fees run PHP 200–250 per transaction",
+      "Metrobank and BPI tend to have the most reliable foreign card acceptance across the Philippines",
+      "Avoid exchanging money at NAIA airport (poor rates) — use the airport ATMs or exchange offices in Makati/BGC"
+    ],
+    "simCard": "Globe Telecom and Smart/TNT are the two dominant carriers. DITO Telecommunity is a growing third option. Buy a SIM at NAIA airport arrivals or at any mall (Globe and Smart have kiosks in all major malls). A tourist SIM with 8–20 GB costs PHP 350–600. Globe has better 4G coverage in the Visayas and Boracay; Smart tends to be better in Mindanao and more remote areas. eSIM via Airalo is available for the Philippines.",
+    "emergencyNumbers": {
+      "police": "911 or 117",
+      "ambulance": "911",
+      "emergency": "911 (national emergency hotline)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 10,
+  "localFriendliness": 9
+}

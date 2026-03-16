@@ -1,0 +1,201 @@
+{
+  "id": "reykjavik",
+  "city": "Reykjavik",
+  "country": "Iceland",
+  "region": "Northern Europe",
+  "currency": "ISK",
+  "language": "Icelandic",
+  "description": "The world's northernmost capital and gateway to extraordinary nature — Northern Lights in winter, midnight sun in summer, geysers within an hour of the city, and a tiny downtown of colourful houses, world-class hot dog stands, and geothermal pools.",
+  "airportCode": "KEF",
+  "shopUrl": null,
+  "foodScene": 5,
+  "beachQuality": 2,
+  "walkability": 8,
+  "nightlife": 7,
+  "safety": 10,
+  "culturalDepth": 7,
+  "transportationEase": 6,
+  "englishFriendliness": 10,
+  "familyFriendliness": 8,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 8,
+  "adventureActivities": 10,
+  "shoppingScene": 5,
+  "wellnessScene": 9,
+  "digitalNomadScore": 6,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 150,
+    "mid": 300,
+    "premium": 600
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 2,
+      "avgTempCelsius": 1,
+      "rainyDays": 16,
+      "crowdLevel": 2,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 2,
+      "avgTempCelsius": 1,
+      "rainyDays": 14,
+      "crowdLevel": 2,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 2,
+      "rainyDays": 14,
+      "crowdLevel": 3,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 5,
+      "rainyDays": 13,
+      "crowdLevel": 4,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 8,
+      "rainyDays": 12,
+      "crowdLevel": 5,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 11,
+      "rainyDays": 11,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 13,
+      "rainyDays": 11,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 13,
+      "rainyDays": 12,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 10,
+      "rainyDays": 13,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 6,
+      "rainyDays": 14,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 3,
+      "rainyDays": 15,
+      "crowdLevel": 2,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 2,
+      "avgTempCelsius": 1,
+      "rainyDays": 17,
+      "crowdLevel": 2,
+      "flightPriceIndex": 4
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Downtown (Miðborg) — Everything is here: Hallgrímskirkja, restaurants, Laugavegur shopping street, Old Harbour.",
+      "Old Harbour area — New foodie destination, whale watching departures, Grandi area with excellent new restaurants.",
+      "Laugardalur — East of centre, Reykjavik's biggest park, thermal swimming pool (Laugardalslaug), family-friendly.",
+      "101 Reykjavik — The hip postcode, best boutique hotels, Laugavegur street, Kolaportið flea market on weekends."
+    ],
+    "areasToAvoid": [
+      "Driving in the highlands (F-roads) without a proper 4WD — fatal accidents happen every year from tourists in standard cars.",
+      "Swimming in glacial rivers without checking conditions — cold water shock is deadly within minutes.",
+      "Walking on glaciers without a guide — crevasses are invisible from the surface."
+    ],
+    "scamWarnings": [
+      "Car rental hidden fees: rental companies aggressively upsell insurance covering volcanic ash, gravel damage, and sand storms. These extras add significantly to costs — read policies carefully.",
+      "Restaurant sticker shock: Iceland is genuinely extremely expensive. A basic fish and chips is €25+. Pre-plan and budget accordingly.",
+      "Northern Lights guarantee tours: no one can guarantee Northern Lights. Reputable operators offer a free repeat tour if lights don't appear.",
+      "Whale watching in poor weather: June–August has the best sightings. Winter tours have lower sighting rates."
+    ],
+    "airportTransfer": {
+      "cheapest": "Flybus from Keflavík airport to BSÍ bus terminal in Reykjavik — ISK 3,499 (~€24), takes 45 min. Runs to meet every flight.",
+      "fastest": "Taxi from KEF — ISK 14,000–18,000 (~€95–125) to Reykjavik, takes 45 min. Very expensive.",
+      "recommended": "Flybus for solo or couple — excellent value, comfortable, drops at BSÍ with connections to most hotels.",
+      "taxiEstimate": "Official taxi ISK 14,000–18,000 to central Reykjavik. The only reason to take a taxi is for large groups splitting the cost."
+    },
+    "tippingEtiquette": [
+      "Tipping is NOT customary in Iceland and can actually cause confusion. Service wages are high and included in the price.",
+      "No tipping at restaurants, bars, or taxis — this is genuine, not a trap.",
+      "Respect nature above all — walk only on marked paths, never touch geysers, leave no trace. Iceland's landscape is fragile.",
+      "Icelanders are reserved but extremely warm once engaged. Don't mistake quietness for unfriendliness.",
+      "Boots are essential — Iceland's landscapes require proper outdoor footwear, not trainers."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm ISK 5,000–8,000 | Guesthouse ISK 18,000–30,000 | Hotel ISK 35,000–70,000 | Boutique ISK 80,000+",
+      "meals": "Hot dog at Bæjarins Beztu ISK 700 | Supermarket meal prep ISK 1,500–3,000 | Restaurant lunch ISK 3,500–6,000 | Dinner ISK 7,000–14,000",
+      "transport": "City bus ISK 490 | Flybus airport ISK 3,499 | Car rental ISK 10,000–20,000/day | Taxi within city ISK 1,500–3,000",
+      "activities": "Blue Lagoon ISK 9,900–15,900 | Golden Circle tour ISK 9,000–12,000 | Northern Lights tour ISK 9,000 | Glacier hike ISK 8,000–12,000"
+    },
+    "packingTips": [
+      "Waterproof jacket and trousers — Iceland's weather changes every 10 minutes year-round.",
+      "Thermal base layers even in summer — wind chill drops temperatures 10°C below the air temperature.",
+      "Sturdy waterproof boots — lava fields, glacier walks, and highland trails all require proper footwear.",
+      "Swimsuit — the geothermal public pools (sundhöll) are a daily Icelandic ritual and open year-round."
+    ],
+    "bookingStrategy": "Summer (June–August) for midnight sun and maximum activities — book 3–4 months ahead. Winter (December–February) for Northern Lights — cheaper flights, but fewer outdoor activities. Blue Lagoon must be pre-booked; it sells out weeks in advance.",
+    "localTips": [
+      "Bæjarins Beztu Pylsur hot dog stand on the harbour — a 5-minute walk from Hallgrímskirkja, ISK 700, Bill Clinton ate here, legitimately great.",
+      "Public thermal pools (Vesturbæjarlaug, Sundhöll Reykjavíkur) cost ISK 1,100 and are where real Icelanders go — far better value than Blue Lagoon.",
+      "Golden Circle (Þingvellir, Geysir, Gullfoss) is doable as a self-drive in a day — rent a car and go independently for half the cost of a tour.",
+      "Northern Lights: drive 20–30 minutes outside Reykjavik on a clear night to escape light pollution. Check the Icelandic Met Office forecast (vedur.is).",
+      "Skyr (Icelandic yogurt) from a supermarket is one of the great travel food discoveries — high protein, cheap, every flavour."
+    ],
+    "bestTimeToVisit": "June–July: midnight sun, all roads open, warmest temperatures (10–14°C), maximum daylight. December–February for Northern Lights with manageable crowds.",
+    "dayTrips": [
+      "Golden Circle — Þingvellir National Park (continental rift), Geysir geyser field, Gullfoss waterfall, full day self-drive.",
+      "South Coast — Seljalandsfoss and Skógafoss waterfalls, black sand beach at Reynisfjara, Jökulsárlón glacier lagoon (3.5 hours each way).",
+      "Snæfellsnes Peninsula — Snæfellsjökull glacier (Jules Verne's 'centre of the earth'), dramatic lava fields, seal colonies, 2.5 hours from Reykjavik."
+    ],
+    "visaInfo": [
+      "Iceland is a Schengen Area member (not EU) — EU/EEA citizens travel freely with passport or national ID",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; passport required (UK ID cards not accepted)",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period",
+      "Iceland's 90-day allowance is part of the shared Schengen pool — days spent in other Schengen countries count toward your Iceland allowance",
+      "No ETIAS requirement currently for visa-exempt non-EU visitors (check current status before travel as implementation has been repeatedly delayed)"
+    ],
+    "currencyTips": [
+      "Currency: Icelandic Króna (ISK / kr). Iceland is NOT in the Eurozone — exchange is required; Iceland is one of Europe's most expensive countries",
+      "Cards accepted universally in Iceland — it is one of the most cashless societies in the world; even remote petrol stations and highland hut fees accept cards",
+      "ATMs: Arion banki and Íslandsbanki ATMs at Keflavík Airport (KEF) offer competitive rates; exchange at the airport arrival hall is reasonable for Iceland",
+      "Carry minimal cash — most visitors complete an entire Iceland trip without using cash; some small guesthouses and fish market stalls prefer card",
+      "Pre-purchase the Strætó app for Reykjavík city buses — the bus accepts exact change only in cash; the app is far more convenient"
+    ],
+    "simCard": "Síminn has the widest 4G coverage across Iceland's Ring Road and remote areas. Nova and Vodafone IS are competitive for urban Reykjavík use. Tourist SIMs are available at Keflavík Airport (KEF) arrivals. A 30-day SIM with 20–50 GB costs ISK 3,000–6,000. Symbols coverage: good along Route 1 (Ring Road); limited in the Highlands (F-roads). eSIM via Airalo works for Iceland.",
+    "emergencyNumbers": {
+      "police": "112",
+      "ambulance": "112",
+      "emergency": "112 (single emergency number for all services in Iceland)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 4,
+  "localFriendliness": 9
+}

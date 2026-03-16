@@ -1,0 +1,201 @@
+{
+  "id": "mexico-city",
+  "city": "Mexico City",
+  "country": "Mexico",
+  "region": "Central America",
+  "currency": "MXN",
+  "language": "Spanish",
+  "description": "One of the world's great megacities — extraordinary pre-Hispanic history, the most Diego Rivera murals per square kilometre on earth, a culinary scene that runs from $1 tacos to the world's top-50 restaurants, and a creative energy that never sleeps.",
+  "airportCode": "MEX",
+  "shopUrl": null,
+  "foodScene": 9,
+  "beachQuality": 0,
+  "walkability": 7,
+  "nightlife": 8,
+  "safety": 6,
+  "culturalDepth": 9,
+  "transportationEase": 7,
+  "englishFriendliness": 6,
+  "familyFriendliness": 7,
+  "soloFriendliness": 7,
+  "coupleFriendliness": 8,
+  "adventureActivities": 6,
+  "shoppingScene": 8,
+  "wellnessScene": 7,
+  "digitalNomadScore": 9,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 45,
+    "mid": 100,
+    "premium": 230
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 19,
+      "rainyDays": 5,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 20,
+      "rainyDays": 4,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 23,
+      "rainyDays": 5,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 24,
+      "rainyDays": 7,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 24,
+      "rainyDays": 10,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 23,
+      "rainyDays": 14,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 22,
+      "rainyDays": 16,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 22,
+      "rainyDays": 17,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 21,
+      "rainyDays": 15,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 20,
+      "rainyDays": 9,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 19,
+      "rainyDays": 5,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 18,
+      "rainyDays": 5,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Roma Norte — The most popular neighbourhood for visitors: independent cafes, excellent restaurants, bookshops, safe and walkable.",
+      "Condesa — Art deco buildings, tree-lined streets, Parque México, excellent brunch scene, great for couples.",
+      "Polanco — Upscale, Mexico's Champs-Élysées (Presidente Masaryk), luxury hotels, best fine dining.",
+      "Centro Histórico — UNESCO-listed historic centre, Zócalo square, Diego Rivera murals, Palacio de Bellas Artes, authentic chaos."
+    ],
+    "areasToAvoid": [
+      "Tepito and Doctores neighbourhoods — high crime areas, no tourist reason to visit.",
+      "Walking alone at night in areas you don't know — Mexico City is large and neighbourhood safety varies enormously.",
+      "Flagging down taxis on the street (Radio Taxis only, or Uber/Cabify apps) — 'express kidnappings' from unlicensed cabs still occur."
+    ],
+    "scamWarnings": [
+      "Street taxi kidnappings: never hail a taxi from the street. Only use Uber, Cabify, or radio taxis booked by phone or hotel.",
+      "ATM at night — use ATMs inside 24-hour OXXO stores or bank lobbies, never standalone ATMs on the street.",
+      "Mezcal bar overcharging: some tourist bars in Roma add charges for 'entertainment' not on the menu. Confirm prices before ordering.",
+      "Ticket scalpers at Lucha Libre and Palacio de Bellas Artes — buy from official box office only."
+    ],
+    "airportTransfer": {
+      "cheapest": "Metro Line 5 from Terminal 1 (Terminal Aérea station) to city centre — MXN $5, takes 40–50 min. Very crowded with luggage.",
+      "fastest": "Uber from MEX airport — MXN $150–250 ($8–13), takes 20–40 min depending on traffic. Only request from inside the terminal.",
+      "recommended": "Uber is the clear recommendation — safe, app-based, no negotiation needed. Mexico City Uber drivers are generally reliable.",
+      "taxiEstimate": "Pre-paid taxi from official airport taxi desk: MXN $200–350 depending on zone. Safe and metered, purchased at official desk inside arrivals."
+    },
+    "tippingEtiquette": [
+      "10–15% at restaurants is standard and expected. Tip in cash even when paying by card.",
+      "Tip grocery baggers (usually elderly or young volunteers) MXN $5–10 — they work only for tips.",
+      "Uber drivers: tip in-app or small cash tip is appreciated.",
+      "Hotel housekeeping: MXN $20–50 per night is the norm.",
+      "Lucha Libre beer vendors walk the aisles — tip them MXN $10–20 for the service."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm MXN $200–400 | Budget hotel MXN $600–1,200 | Boutique hotel MXN $1,500–3,500",
+      "meals": "Street taco MXN $15–25 | Torta lunch MXN $50–80 | Restaurant dinner MXN $200–500 | Pujol tasting menu MXN $2,000+",
+      "transport": "Metro MXN $5 | Uber within city MXN $50–120 | Metrobús MXN $6",
+      "activities": "Anthropology Museum MXN $85 | Lucha Libre MXN $100–200 | Teotihuacán bus + entry MXN $200 | Free: murals, Zócalo"
+    },
+    "packingTips": [
+      "Light layers — Mexico City sits at 2,240m altitude. Days are warm (20–24°C) but evenings drop to 10–15°C.",
+      "Rain jacket for June–September — afternoon thunderstorms are common and heavy.",
+      "Comfortable walking shoes — Roma, Condesa, and Centro are very walkable on flat terrain.",
+      "Cash in pesos for tacos and markets — many street vendors don't accept cards."
+    ],
+    "bookingStrategy": "March–May is the best window: low rainfall, warm temperatures, before summer crowds. November (Día de los Muertos) is spectacular but the city fills up. Book Roma/Condesa accommodation 3–4 weeks ahead for weekends.",
+    "localTips": [
+      "Mercado de Medellín in Roma for the freshest produce and tamales — arrive before 9am for the best selection.",
+      "Cosme (in NYC) or its CDMX counterpart Pujol for a special dinner — book Pujol 4–6 weeks ahead minimum.",
+      "The Anthropology Museum in Chapultepec is one of the world's best — go on Sunday when entry is free.",
+      "Michelada culture: a cold beer with lime juice, salt, and hot sauce in a chilled glass is the local hangover cure and afternoon ritual.",
+      "Día de los Muertos (Oct 31–Nov 2): Alebrijes parade, Zócalo altar displays, cemetery visits in Mixquic — one of the world's great festivals."
+    ],
+    "bestTimeToVisit": "March–May: warm, dry, clear skies, parks in bloom. October–November for cultural events including Día de los Muertos.",
+    "dayTrips": [
+      "Teotihuacán — 1 hour by bus, the Pyramid of the Sun and Moon are extraordinary at dawn before the crowds arrive.",
+      "Xochimilco — 1 hour by metro + tram, floating garden canals, colourful trajineras boats, festive local atmosphere.",
+      "Taxco — 3 hours south, silver-mining colonial hill town, extraordinary baroque cathedral, UNESCO-listed city."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: no visa required for tourist stays up to 180 days — passport only needed on arrival",
+      "A tourist card (FMM — Forma Migratoria Múltiple) is issued on arrival and must be kept for the duration of your stay and surrendered on departure",
+      "180 days is the maximum tourist stay — significantly longer than most countries; extensions are not typically granted for tourism",
+      "Mexico does not require a return ticket or proof of onward travel by law, but airlines may ask for it at check-in",
+      "Entry into Mexico from the US by land: same rules apply; the FMM is issued at the border crossing"
+    ],
+    "currencyTips": [
+      "Currency: Mexican Peso (MXN / $). Notes: 20, 50, 100, 200, 500, 1,000 MXN",
+      "Cards widely accepted in Mexico City's Roma, Condesa, and Polanco neighbourhoods; cash essential for street tacos, metro, and markets (La Merced, Tepito area — cash only)",
+      "Best ATMs: Banorte and HSBC Mexico ATMs have lower foreign card fees; Citibanamex (formerly Banamex) also reliable; avoid standalone ATMs in tourist areas",
+      "OXXO convenience stores are ubiquitous and accept cards for most transactions — useful for paying phone top-ups and buying transport cards",
+      "Always choose MXN at card terminals and ATMs — dynamic currency conversion is aggressively promoted and gives poor rates"
+    ],
+    "simCard": "Telcel has the best nationwide 4G coverage in Mexico. AT&T Mexico is a strong urban option. Tourist SIMs are available at Mexico City Benito Juárez Airport (MEX) terminal 2 arrivals. A 30-day Telcel tourist SIM with 30–50 GB costs MXN 200–400. Oxxo stores throughout the city sell and top up Telcel SIMs. eSIM via Airalo is widely available for Mexico.",
+    "emergencyNumbers": {
+      "police": "911 or 060",
+      "ambulance": "911",
+      "emergency": "911 (unified national emergency line since 2017)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 9,
+  "localFriendliness": 8
+}

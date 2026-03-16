@@ -1,0 +1,143 @@
+{
+  "id": "new-york-city",
+  "city": "New York City",
+  "country": "United States",
+  "region": "North America",
+  "currency": "USD",
+  "language": "English",
+  "description": "New York City is the city that defined the concept of a metropolis — 8 million people packed into five boroughs, each a world unto itself. Manhattan's skyline is one of humanity's great achievements: Central Park carved from the grid, the Brooklyn Bridge spanning the East River, the High Line threading through former rail yards above Chelsea. Beyond the iconic, NYC rewards the curious: the best food city on earth, a museum scene rivalled only by London and Paris, live music every night from Carnegie Hall to dive bars in the East Village, and neighbourhoods so distinct that crossing a street can feel like crossing a border. It is relentless, expensive, electric, and unlike anywhere else.",
+  "airportCode": "JFK",
+  "foodScene": 10,
+  "beachQuality": 3,
+  "walkability": 9,
+  "nightlife": 10,
+  "safety": 7,
+  "culturalDepth": 10,
+  "transportationEase": 8,
+  "englishFriendliness": 10,
+  "familyFriendliness": 7,
+  "soloFriendliness": 9,
+  "coupleFriendliness": 8,
+  "adventureActivities": 5,
+  "shoppingScene": 10,
+  "wellnessScene": 7,
+  "digitalNomadScore": 8,
+  "visaComplexity": 5,
+  "instagrammability": 10,
+  "affordability": 3,
+  "localFriendliness": 7,
+  "budgetTiers": {
+    "budget": 180,
+    "mid": 350,
+    "premium": 700
+  },
+  "monthlyData": [
+    { "weatherScore": 4, "avgTempCelsius": 1, "rainyDays": 11, "crowdLevel": 5, "flightPriceIndex": 5 },
+    { "weatherScore": 4, "avgTempCelsius": 2, "rainyDays": 10, "crowdLevel": 5, "flightPriceIndex": 5 },
+    { "weatherScore": 6, "avgTempCelsius": 7, "rainyDays": 11, "crowdLevel": 6, "flightPriceIndex": 6 },
+    { "weatherScore": 7, "avgTempCelsius": 13, "rainyDays": 11, "crowdLevel": 7, "flightPriceIndex": 7 },
+    { "weatherScore": 8, "avgTempCelsius": 19, "rainyDays": 11, "crowdLevel": 7, "flightPriceIndex": 7 },
+    { "weatherScore": 8, "avgTempCelsius": 24, "rainyDays": 10, "crowdLevel": 7, "flightPriceIndex": 7 },
+    { "weatherScore": 7, "avgTempCelsius": 28, "rainyDays": 10, "crowdLevel": 8, "flightPriceIndex": 8 },
+    { "weatherScore": 7, "avgTempCelsius": 27, "rainyDays": 10, "crowdLevel": 8, "flightPriceIndex": 8 },
+    { "weatherScore": 8, "avgTempCelsius": 23, "rainyDays": 9, "crowdLevel": 7, "flightPriceIndex": 7 },
+    { "weatherScore": 9, "avgTempCelsius": 16, "rainyDays": 9, "crowdLevel": 8, "flightPriceIndex": 8 },
+    { "weatherScore": 6, "avgTempCelsius": 10, "rainyDays": 9, "crowdLevel": 8, "flightPriceIndex": 8 },
+    { "weatherScore": 5, "avgTempCelsius": 4, "rainyDays": 10, "crowdLevel": 9, "flightPriceIndex": 9 }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Midtown Manhattan — the classic NYC experience; Times Square, Fifth Avenue, Central Park, and the Empire State Building all within walking distance. Best for first-timers",
+      "Lower East Side / East Village — the city's bohemian heartbeat: vintage stores, legendary delis, cutting-edge restaurants, and the city's best bar crawls",
+      "Brooklyn — Williamsburg for rooftop bars and brunch, DUMBO for Manhattan Bridge views and galleries, Park Slope for a quieter, tree-lined neighbourhood feel",
+      "Upper West Side — residential, Central Park access, the Natural History Museum, excellent brunch spots, and a more relaxed pace than Midtown",
+      "West Village — charming cobblestone streets, world-class restaurants, boutique shopping, and the most picturesque streetscapes in Manhattan",
+      "Astoria, Queens — outstanding food diversity (Greek, Egyptian, Korean), much lower accommodation prices, and a 20-minute subway ride to Midtown"
+    ],
+    "areasToAvoid": [
+      "Times Square after midnight — heavily touristed, overpriced, and home to persistent costumed character hustlers demanding tips for photos",
+      "Certain blocks in East New York and Brownsville (Brooklyn) and South Bronx at night — check local crime maps before wandering off well-travelled routes",
+      "Penn Station area late at night — high foot traffic from commuters and some aggressive panhandling",
+      "Canal Street (Chinatown) for electronics or luxury goods — counterfeit merchandise is sold openly and you have no recourse if scammed"
+    ],
+    "scamWarnings": [
+      "CD/mixtape hustle: street musicians hand you a free CD then demand $20+ when you try to leave — firmly decline if you don't want it",
+      "Times Square costumed characters — Elmo, Spider-Man, etc. will approach for photos then aggressively demand large tips; ignore or walk away",
+      "3-card monte and shell games near tourist areas — illegal street gambling that tourists always lose",
+      "Taxi drivers at JFK not using meters — always insist the meter is on or use the flat-rate option ($52-70 to Manhattan, clearly posted)",
+      "Fake ticket scalpers at Broadway and Madison Square Garden — buy only from official box offices or licensed platforms like TodayTix or Telecharge",
+      "Perfume hawkers on Fifth Avenue — they spray cologne on you then demand payment; walk away"
+    ],
+    "airportTransfer": {
+      "cheapest": "JFK AirTrain to Jamaica Station then LIRR or E/J/Z subway to Manhattan: ~$10-15 total, 60-90 minutes. Newark to Manhattan via NJ Transit + subway: ~$18, 60-75 minutes",
+      "fastest": "JFK helicopter (Blade): ~8 minutes to Midtown, from $195. Express taxi/rideshare in off-peak: 35-50 minutes. JFK AirTrain + subway is 60-75 min off-peak",
+      "recommended": "JFK AirTrain ($8.25) + subway MetroCard ($2.90) for budget travellers. Uber/Lyft shared rides are reasonable at $40-65 from JFK in off-peak hours",
+      "taxiEstimate": "JFK to Manhattan: flat rate $52 + tolls and tip (~$70-80 total). LGA to Midtown: $30-45 metered + tip. EWR: ~$60-90 including tunnel toll"
+    },
+    "tippingEtiquette": [
+      "Tipping is not optional in NYC — it is a core part of service worker income; 18-22% at restaurants is the baseline, 20% is standard",
+      "Tip $1-2 per drink at bars; $2-5 per night for hotel housekeeping; $1-2 per bag for bellhops and airport porters",
+      "Uber and Lyft: tip 15-20% especially for good service — it directly supplements driver income",
+      "Coffee shops with tip prompts: 10-15% is appreciated for table service; counter service is discretionary",
+      "No tip required at fast food or self-service counters — ignore pre-set tip prompts if you walked up to a counter"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget: $80-130 hostel dorm or outer-borough budget hotel. Mid: $200-350 Manhattan 3-star hotel. Premium: $500-1,200+ boutique or luxury Manhattan hotel",
+      "meals": "Budget: $10-20 (dollar pizza, halal cart, deli sandwich). Mid: $25-60 per person at a casual restaurant. Premium: $100-300+ per person at tasting menu restaurants",
+      "transport": "$33 for a 7-day unlimited MetroCard covers all subway and local buses in the five boroughs — the best value in the city",
+      "activities": "MoMA: $30. Metropolitan Museum of Art: suggested $30. Top of the Rock: $42. Empire State Building: $44. Staten Island Ferry: free. Central Park: free"
+    },
+    "packingTips": [
+      "Comfortable walking shoes are essential — NYC is walkable but you will cover 15,000-20,000 steps daily on hard pavement",
+      "Layers are critical in spring and fall; summers are hot and humid, winters are cold and occasionally severe",
+      "A compact crossbody bag is ideal — safer than a backpack on the subway and easier for navigating crowds",
+      "Bring a reusable water bottle — tap water in NYC is genuinely excellent and free refill stations exist throughout the city",
+      "Dress in layers: office buildings and restaurants are aggressively air-conditioned in summer",
+      "Download the MTA app and Google Maps with offline NYC maps before you arrive — essential for subway navigation",
+      "Pack a rain jacket — NYC gets rain throughout the year with little seasonal pattern"
+    ],
+    "bookingStrategy": "Book accommodation 2-3 months ahead for summer (June-August) and December (Christmas/New Year). Broadway shows: TodayTix lottery and TKTS discount booths in Times Square and Lincoln Center offer same-day tickets at 20-50% off. Top restaurants (Carbone, Don Angie, Lilia) need reservations 30-60 days out — set Resy/OpenTable alerts. Museum tickets can be purchased same-day for most except for special blockbuster exhibitions. Avoid renting a car — parking costs $50-80/day and traffic is brutal; the subway goes everywhere.",
+    "localTips": [
+      "The subway runs 24/7 — the only major city in the world where it does; learn the express vs local line distinction to save time",
+      "Get an OMNY card or use contactless payment on the subway — the old MetroCard is being phased out and tap-to-pay is faster",
+      "The best pizza is a sidewalk debate: Di Fara (Brooklyn), Joe's Pizza (Village), Lucali (Carroll Gardens), and Prince Street Pizza are all legitimate contenders",
+      "Free things: Staten Island Ferry (stunning Manhattan skyline views), High Line, Brooklyn Bridge walk, all major parks, NYPL interior, most public museum 'suggested' admissions",
+      "Avoid eating in Times Square entirely — the food is overpriced, mediocre, and there are exceptional restaurants a 10-minute walk away in any direction",
+      "The best bagels are in Brooklyn and the Outer Boroughs: Ess-a-Bagel, Absolute Bagels, and Bergen Bagels are the real deal",
+      "Yellow cabs hail on the street with the centre light on — if all three lights are on, it's off duty; if only the number lights are lit, it's available",
+      "Happy hour deals (3-7pm at most bars) can cut drink prices significantly — look for specials boards outside"
+    ],
+    "bestTimeToVisit": "September-November is the sweet spot: pleasant temperatures (15-22°C), fall foliage in Central Park, and crowds thinner than summer. April-May for spring blooms. December for Christmas lights and atmosphere but expect higher prices and cold weather. Avoid July-August if heat and humidity bother you — it regularly hits 33°C with oppressive humidity.",
+    "dayTrips": [
+      "The Hamptons — iconic beach towns and summer retreats on Long Island, 2-3 hours by LIRR from Penn Station",
+      "Philadelphia — Independence Hall, Reading Terminal Market, world-class art museums, 1.5 hours by Amtrak from Penn Station",
+      "Hudson Valley — Storm King Art Center, Catskill hiking, and scenic river towns, 1.5-2 hours by Metro-North",
+      "Cold Spring — charming Hudson River village with hiking, antique shops, and river views, 90 minutes by Metro-North",
+      "Fire Island — car-free barrier island beach escape, 90 minutes via LIRR + ferry from Bay Shore",
+      "Newport, Rhode Island — Gilded Age mansions, coastal sailing, and excellent seafood, 3 hours by bus or car"
+    ],
+    "visaInfo": [
+      "Citizens of 42 Visa Waiver Program (VWP) countries including UK, EU nations, Japan, South Korea, and Australia: must complete ESTA online ($21) before travel — approval is usually instant, valid for 2 years, allows up to 90 days per visit",
+      "Canadian citizens: no visa or ESTA required, enter with valid Canadian passport only",
+      "All other nationalities require a B-2 Tourist Visa: apply at a US Embassy or Consulate in your home country; fees ~$185, processing 2-8 weeks; interview usually required",
+      "US Customs and Border Protection (CBP) has the final say on entry — have your onward/return ticket, accommodation address, and sufficient funds available to present if asked",
+      "Global Entry members get expedited re-entry at JFK, JFK Terminal 4 has a dedicated Global Entry lane — worth the $100 investment for frequent travellers"
+    ],
+    "currencyTips": [
+      "Currency: US Dollar (USD). Cards are accepted virtually everywhere in NYC — even street food vendors often take card or Venmo/Apple Pay",
+      "ATMs are ubiquitous; use bank ATMs (Chase, Citibank, Wells Fargo, Bank of America branches) to avoid high fees from independent ATMs found in bodegas and delis ($3-5 surcharge each)",
+      "Notify your bank before travelling to avoid fraud blocks on your card — especially important for international visitors using US cards abroad in reverse",
+      "Currency exchange: avoid airport kiosks (worst rates) and Times Square exchange bureaus; use your bank ATM for the best rate",
+      "Venmo and Zelle are used for splitting restaurant bills among friends — having one of these apps set up avoids the card-splitting awkwardness at restaurants that charge split-bill fees"
+    ],
+    "simCard": "T-Mobile offers the best coverage in NYC with excellent Manhattan and subway signal. A prepaid tourist SIM (T-Mobile or AT&T) with 10-30 GB costs $30-60 for 30 days, available at the airport and any carrier store. eSIM via Airalo or T-Mobile works seamlessly for most modern phones. Free Wi-Fi is available at all Starbucks, most public parks (LinkNYC kiosks), and most hotels — NYC has one of the densest free Wi-Fi networks of any city.",
+    "emergencyNumbers": {
+      "police": "911",
+      "ambulance": "911",
+      "emergency": "911 (all emergencies) / 311 (non-emergency city services, noise complaints, general information)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true
+}

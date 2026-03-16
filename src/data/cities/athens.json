@@ -1,0 +1,212 @@
+{
+  "id": "athens",
+  "city": "Athens",
+  "country": "Greece",
+  "region": "Southern Europe",
+  "currency": "EUR",
+  "language": "Greek",
+  "description": "Athens is one of the world's great cities to be underestimated. Behind the tourist crush around the Acropolis lies a sprawling, chaotic, deeply human metropolis where ancient ruins sit beside graffiti-covered apartment blocks, rooftop bars pour tsipouro over Parthenon views at midnight, and the best souvlaki you'll ever eat costs €2.50 from a street window. The birthplace of democracy, philosophy, and the Olympic Games has never stopped reinventing itself — the creative neighborhoods of Psyrri, Exarcheia, and Koukaki buzz with galleries, record shops, and natural wine bars that stay open until dawn.",
+  "airportCode": "ATH",
+  "foodScene": 8,
+  "beachQuality": 5,
+  "walkability": 7,
+  "nightlife": 7,
+  "safety": 7,
+  "culturalDepth": 10,
+  "transportationEase": 7,
+  "englishFriendliness": 8,
+  "familyFriendliness": 7,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 8,
+  "adventureActivities": 6,
+  "shoppingScene": 6,
+  "wellnessScene": 6,
+  "digitalNomadScore": 7,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 60,
+    "mid": 130,
+    "premium": 280
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 10,
+      "rainyDays": 10,
+      "crowdLevel": 2,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 11,
+      "rainyDays": 8,
+      "crowdLevel": 2,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 14,
+      "rainyDays": 7,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 18,
+      "rainyDays": 5,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 23,
+      "rainyDays": 3,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 28,
+      "rainyDays": 1,
+      "crowdLevel": 8,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 32,
+      "rainyDays": 0,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 32,
+      "rainyDays": 0,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 27,
+      "rainyDays": 2,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 21,
+      "rainyDays": 6,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 15,
+      "rainyDays": 8,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 11,
+      "rainyDays": 10,
+      "crowdLevel": 2,
+      "flightPriceIndex": 3
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Koukaki — the most livable neighborhood for visitors, walkable to the Acropolis, with excellent cafés and tavernas without tourist pricing",
+      "Psyrri — Athens's creative quarter with street art, independent bars, mezze restaurants, and the best nightlife outside Gazi",
+      "Monastiraki & Thissio — historic market area with flea market, rooftop bars over the Acropolis, and the Agora ruins nearby",
+      "Kolonaki — upscale hilltop neighborhood with designer boutiques, sleek restaurants, and the Benaki Museum",
+      "Exarcheia — anarchist intellectual neighborhood, edgy and authentic with the best record shops and bouzouki bars in the city (safe by day, unpredictable at night)"
+    ],
+    "areasToAvoid": [
+      "Omonia Square and surrounding streets at night — concentrated homelessness and petty crime after dark",
+      "Victoria Square at night — similar issues, avoid after 10pm",
+      "Be cautious in Exarcheia during political demonstrations — it occasionally turns confrontational",
+      "The area around Larissa train station late at night"
+    ],
+    "scamWarnings": [
+      "Bar scams in Syntagma and Monastiraki: friendly locals invite solo travelers (especially men) to 'traditional' bars that present enormous bills — decline politely",
+      "Taxi drivers from the airport sometimes 'forget' to turn on the meter or take long routes — always insist on the meter or use Uber/Beat",
+      "Overpriced restaurants on Adrianou Street and near the Acropolis with aggressive touts — walk one block away for half the price",
+      "Fake police officers asking to check your wallet for counterfeit bills — a scam targeting tourists in tourist areas",
+      "Currency exchange shops near Syntagma with 'no commission' signs often have terrible rates hidden in the exchange rate"
+    ],
+    "airportTransfer": {
+      "cheapest": "Metro Line 3 (Blue) direct to Syntagma or Monastiraki — €9, takes 40 minutes, runs every 30 minutes",
+      "fastest": "Taxi — 35-50 minutes depending on traffic, fixed rate €38 day / €54 night (midnight-5am) to city center",
+      "recommended": "Metro — reliable, air-conditioned, direct, and significantly cheaper than taxis. Validate ticket before boarding",
+      "taxiEstimate": "€38 fixed rate daytime, €54 fixed rate nighttime to central Athens"
+    },
+    "tippingEtiquette": [
+      "Tipping is customary but not obligatory — 10% in sit-down restaurants is standard",
+      "At tavernas, rounding up or leaving €1-2 per person is appreciated",
+      "Souvlaki shops and street food: no tip expected",
+      "Taxi drivers: round up to the nearest euro or add a euro for good service",
+      "Hotel housekeeping: €1-2 per night left on the pillow"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": 35,
+      "meals": 15,
+      "transport": 5,
+      "activities": 5
+    },
+    "packingTips": [
+      "Comfortable closed-toe walking shoes — the archaeological sites have uneven ancient stone surfaces",
+      "Strong sunscreen and a hat — July and August sun is intense, and the marble at archaeological sites reflects heat",
+      "Reusable water bottle — Athens has some of Europe's best tap water, and fountains are common",
+      "Modest cover-up clothing for churches and monasteries",
+      "Light linen or cotton clothing in summer — anything heavier will be too hot",
+      "A good camera for the extraordinary golden hour light over the Acropolis from Filopappou Hill"
+    ],
+    "bookingStrategy": "Athens accommodation ranges from budget-friendly hostels in Monastiraki (€25-40) to five-star hotels with Acropolis-view pools (€400+). The sweet spot for independent travelers is boutique guesthouses in Koukaki or Psyrri for €70-120/night. Book the Acropolis tickets online (€20 standard, €30 for combined ticket with 7 sites) — the queue to buy on-site can be 90+ minutes in summer. Visit the Acropolis at opening time (8am) or in the last two hours before closing for the best light and fewest crowds. Flying into Athens is cheapest from Northern Europe with Wizz Air, Ryanair, and easyJet.",
+    "localTips": [
+      "The combined Acropolis ticket (€30) covers 7 archaeological sites and is valid for 5 days — extraordinary value",
+      "Eat lunch at a mezedopoleio (meze restaurant) for shared small plates — the local way, and much better value than tourist tavernas",
+      "The National Archaeological Museum is one of the world's great museums and criminally undervisited — allow half a day",
+      "Sunrise from Filopappou Hill over the Acropolis is free and more intimate than any paid viewpoint",
+      "Take the free Athens Happy Train walking tour (tip-based) to orient yourself on day one",
+      "The Athens Riviera (Glyfada, Vouliagmeni) is 30-40 minutes by tram or bus — city beaches that are genuinely good",
+      "Kapnikarea church in the middle of Ermou shopping street has stood for 1,000 years — easily missed but worth 10 minutes",
+      "Eat gyros at Kostas on Plateia Agia Irini — a tiny stand that has been serving the best pork gyros in Athens for decades"
+    ],
+    "bestTimeToVisit": "April, May, and October are the sweet spots — comfortable temperatures (18-24°C), significantly fewer crowds than summer, and lower prices across accommodation and flights. June through September offers the best beach weather but July and August are extremely hot (30-38°C) and crowded. March and November are shoulder months with occasional rain but excellent value and a very local atmosphere.",
+    "dayTrips": [
+      "Cape Sounion — dramatic Temple of Poseidon on a cliff above the sea, 1.5 hours by bus or car, best at sunset",
+      "Delphi — the ancient Oracle site in a breathtaking mountain setting, 2.5 hours by bus (day tours available)",
+      "Hydra — car-free island with donkeys and beautiful harbor, 2 hours by hydrofoil from Piraeus (no advance booking needed)",
+      "Aegina — island with a perfectly preserved ancient temple and pistachio farms, 1 hour by ferry from Piraeus",
+      "Mycenae & Epidaurus — ancient citadel and the world's best-preserved ancient theater, 2 hours by car or day tour",
+      "Nafplio — Greece's most charming small city with a Venetian fortress and old town, 2 hours by bus"
+    ],
+    "visaInfo": [
+      "EU/EEA citizens: no visa required — Greece is a full Schengen member with free movement for EU passport holders",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; no stamp required but passport must be valid",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period; no tourist visa required",
+      "Most other nationalities: check with the Greek Ministry of Foreign Affairs; Indian, Chinese, and many African passport holders require a Schengen visa from a Greek consulate",
+      "The 90-day Schengen allowance covers all 27 Schengen countries — time in other Schengen countries counts against the same quota"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€) — Greece is a eurozone member; no currency exchange needed for eurozone travelers",
+      "Cards are widely accepted in Athens restaurants, hotels, and shops; contactless payment is common in tourist areas",
+      "Best ATMs: use bank-branded ATMs from Alpha Bank, Eurobank, or National Bank of Greece — lower fees and reliable service; avoid standalone tourist-area ATMs with high surcharges",
+      "Avoid: currency exchange kiosks near Syntagma and Monastiraki that advertise '0% commission' — rates are often 5–8% worse than bank ATMs",
+      "Cash is useful for markets, small tavernas, and tipping; keep €5 and €10 notes on hand for street food and transport"
+    ],
+    "simCard": "The main Greek carriers are Cosmote (best coverage), Vodafone Greece, and Wind (now Nova). Tourist SIMs with 10–20 GB data cost €10–25 and include EU roaming — buy at Arrivals in Athens airport (ATH) or at carrier stores in Syntagma and Monastiraki. For hassle-free activation before landing, Airalo offers Greece eSIMs with instant setup.",
+    "emergencyNumbers": {
+      "police": "100 (or 112 pan-European emergency)",
+      "ambulance": "166",
+      "emergency": "112"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 8,
+  "localFriendliness": 8
+}

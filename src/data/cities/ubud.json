@@ -1,0 +1,211 @@
+{
+  "id": "ubud",
+  "city": "Ubud",
+  "country": "Indonesia",
+  "region": "Southeast Asia",
+  "currency": "IDR",
+  "language": "Balinese/Indonesian",
+  "description": "Ubud is Bali's spiritual and artistic soul — an inland highland town where elaborate Hindu ceremonies spill into the streets daily, where rice terraces cascade down volcanic hillsides in shimmering green tiers, and where the wellness industry has found perhaps its most photogenic home on earth. This is the Bali of yoga retreats, sound healing sessions, and organic cafés charging $12 for a smoothie bowl — but also the Bali of ancient royal palaces, master wood carvers, and sacred monkey forests that feel genuinely otherworldly. You will not find a beach here: Ubud sits 25km inland at 300m altitude, which keeps it marginally cooler than the coast. You need a driver to get anywhere, the traffic can be brutal, and the tourist density in the centre rivals Seminyak — but the magic of Ubud's culture, landscape, and creative energy is unlike anywhere else in Southeast Asia.",
+  "airportCode": "DPS",
+  "foodScene": 8,
+  "beachQuality": 0,
+  "walkability": 3,
+  "nightlife": 3,
+  "safety": 8,
+  "culturalDepth": 9,
+  "transportationEase": 3,
+  "englishFriendliness": 8,
+  "familyFriendliness": 7,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 8,
+  "adventureActivities": 8,
+  "shoppingScene": 7,
+  "wellnessScene": 10,
+  "digitalNomadScore": 8,
+  "visaComplexity": 4,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 35,
+    "mid": 80,
+    "premium": 200
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 25,
+      "rainyDays": 15,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 25,
+      "rainyDays": 13,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 26,
+      "rainyDays": 12,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 27,
+      "rainyDays": 9,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 27,
+      "rainyDays": 6,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 26,
+      "rainyDays": 4,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 26,
+      "rainyDays": 2,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 26,
+      "rainyDays": 2,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 27,
+      "rainyDays": 4,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 27,
+      "rainyDays": 8,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 26,
+      "rainyDays": 11,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 25,
+      "rainyDays": 14,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Central Ubud (Jalan Hanoman / Jalan Dewi Sita) — the walkable heart of town with the best cafés, yoga studios, and shops; stay here to minimise driver dependency",
+      "Penestanan — a 10-minute walk west of the centre through rice fields, this artists' village offers a quieter and more authentic Balinese experience with excellent guesthouses",
+      "Campuhan Ridge — along the ridge walk, this area has stunning jungle villas with rice paddy views and a genuinely serene atmosphere away from the tourist hordes",
+      "Sayan — south of Ubud proper, this area is home to some of Bali's most spectacular luxury retreats (Como Shambhala, Four Seasons) nestled in river valley jungle",
+      "Tegallalang — 10km north of Ubud, the famous terraced rice fields here make it worth basing yourself nearby if photography and nature are your priorities"
+    ],
+    "areasToAvoid": [
+      "Jalan Monkey Forest on weekend afternoons is completely gridlocked with tourist traffic and should be avoided by anyone with mobility issues",
+      "The Sacred Monkey Forest itself requires vigilance — monkeys are bold and will snatch bags, cameras, food, and glasses without warning",
+      "Avoid leaving valuables in rented motorbikes or open vehicle storage — petty theft from parked bikes does occur",
+      "Kuta and Seminyak-style nightlife does not exist in Ubud — if late-night partying is important, Ubud is the wrong base"
+    ],
+    "scamWarnings": [
+      "Taxi overcharging: Ubud has no rideshare like Grab functioning openly due to local driver cartel pressure — negotiate prices firmly before getting in any car; the going rate from Ngurah Rai Airport to Ubud is 350,000-450,000 IDR (~$22-28)",
+      "Fake spiritual healers: following the Eat Pray Love tourism wave, many 'traditional healers' in Ubud are fully commercialised and charge $50-100 for scripted readings. The real Ketut Liyer famously exploited by the book has passed — be sceptical of anyone touting Eat Pray Love connections",
+      "Overpriced cooking classes and silversmith workshops near the Monkey Forest — compare prices (legitimate classes run 350,000-500,000 IDR for a half day)",
+      "Money changers with rigged calculators near Ubud Market — always use official money changers (Dirgahayu is reputable) or airport ATMs",
+      "Kecak fire dance tickets sold by touts at higher prices — buy direct at the Uluwatu or Pura Dalem temples for standard rates (150,000-200,000 IDR)"
+    ],
+    "airportTransfer": {
+      "cheapest": "Shared shuttle (Perama or similar) from Ngurah Rai Airport to Ubud — around 100,000-150,000 IDR (~$6-9), takes 1.5-2 hours with stops",
+      "fastest": "Private car transfer — 1 to 1.5 hours depending on traffic, bookable through your hotel or apps like Traveloka",
+      "recommended": "Pre-booked private transfer through your hotel or a trusted service like Bali Cabs — fixed price (350,000-450,000 IDR), air-conditioned, meets you at arrivals. Far less hassle than negotiating with airport touts",
+      "taxiEstimate": "400,000-500,000 IDR (~$25-31) via official airport taxi. The airport has a fixed-rate taxi counter inside arrivals — use this rather than drivers who approach you outside."
+    },
+    "tippingEtiquette": [
+      "Tipping is not a traditional Indonesian custom but is widely appreciated in tourist areas of Bali",
+      "Restaurants: 10% is standard and warmly received; check if a service charge is already included (usually 10% + 11% tax in mid-range establishments)",
+      "Massage and spa treatments: 20,000-50,000 IDR (~$1.25-3) per treatment is appropriate; more for luxury spas",
+      "Private drivers: tipping your driver 50,000-100,000 IDR per day is customary and genuinely appreciated — drivers often become trusted local friends on longer stays",
+      "Hotel staff: 20,000-50,000 IDR for porters and room attendants",
+      "Yoga instructors: a small tip or generous review is appreciated at independent studios"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": 18,
+      "meals": 10,
+      "transport": 10,
+      "activities": 8
+    },
+    "packingTips": [
+      "A sarong and sash are mandatory for temple visits — many temples provide them for a small fee, but bringing your own is more convenient",
+      "Light rain jacket or poncho — Ubud can receive sudden heavy afternoon downpours even in the dry season",
+      "Good walking shoes for rice terrace treks and the Campuhan Ridge walk — the paths can be slippery after rain",
+      "Insect repellent with DEET — mosquitoes are active, especially at dawn and dusk, and dengue is present in Bali",
+      "A light cardigan for air-conditioned restaurants and yoga studios",
+      "Cash in IDR — smaller warungs, market stalls, and some yoga studios are cash only; ATMs in central Ubud are available but sometimes run out at peak times",
+      "Reusable water bottle with filter — Ubud has good filtered water refill stations; Bali has serious plastic pollution and tap water is not safe to drink"
+    ],
+    "bookingStrategy": "Book accommodation 6-8 weeks in advance for July and August, which are Ubud's absolute peak months. The weeks around Nyepi (Balinese Day of Silence, usually March) are uniquely special — the whole island goes silent for 24 hours and no travel is permitted — but accommodation fills very early. Retreat centres and yoga packages require advance booking year-round; popular retreats like The Yoga Barn fill weeks ahead. For mid-range stays, the sweet spot is May-June or September-October: dry season quality with significantly fewer tourists than peak. Indonesian VOA (Visa on Arrival) is available at Ngurah Rai Airport for many nationalities at $35 USD for 30 days, extendable once.",
+    "localTips": [
+      "Wake up at 5:30am and walk into the rice paddies alone — the mist, the birdsong, and the solitude are completely free and more magical than any organised tour",
+      "Warung Ibu Oka's suckling pig (babi guling) is a Ubud institution — arrive before noon as they often sell out; this is one of the iconic Balinese dishes",
+      "The Campuhan Ridge Walk at sunrise (6-7am) is free, stunning, and almost empty — a rare thing in Ubud",
+      "Hire a driver for a full day (400,000-600,000 IDR) rather than renting a scooter — Ubud traffic is dangerous for inexperienced riders and a good driver becomes a local guide",
+      "Kecak fire dance at Uluwatu Temple (not in Ubud) is a 2-hour drive but arguably more spectacular than Ubud versions — the sunset backdrop over the Indian Ocean cliffs is unmatched",
+      "Cafe Pomegranate and Locavore are Ubud's best restaurants for special occasions — book Locavore weeks in advance as it's one of Asia's 50 best restaurants",
+      "The Ubud Traditional Art Market (Pasar Seni) across from the Royal Palace has good quality crafts at negotiable prices — arrive early for the best selection",
+      "Attend a free temple ceremony if you encounter one — respectfully dressed visitors are usually welcome and these are the most authentic cultural experiences available"
+    ],
+    "bestTimeToVisit": "May, June, and September are the ideal months — the dry season is well established, temperatures are pleasant, and the tourist crowds are noticeably lighter than July and August. The rice terraces are at their most vivid green just after the wet season (April-May). July and August are peak months with maximum crowds, premium prices, and Instagram queues at the Tegallalang rice terraces. The wet season (November-March) brings afternoon downpours but also dramatically reduced prices, lush green landscapes, and a far more local atmosphere.",
+    "dayTrips": [
+      "Mount Batur sunrise trek — a pre-dawn 2-hour hike to the rim of an active volcano rewards with one of Southeast Asia's most spectacular sunrises above the clouds; guided tours depart Ubud at 2am and cost 350,000-500,000 IDR including guide",
+      "Tirta Empul holy spring temple — Bali's most important temple for purification rituals, where devotees and adventurous tourists wade through sacred spring pools in a genuinely spiritual experience; 20 minutes north of Ubud",
+      "Seminyak or Canggu beach day — the contrast between Ubud's spiritual inland world and Bali's beach club scene is striking; a driver can take you to the coast in 45-90 minutes for a completely different Bali experience"
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: Visa on Arrival (VoA) for 30 days — $35 USD payable at the VoA counter before the immigration desks at Ngurah Rai Airport (DPS)",
+      "The 30-day VoA can be extended once for 30 more days at the Bali Immigration Office (Kantor Imigrasi) in Denpasar — total maximum 60 days on VoA",
+      "Social Visa (B211A): 60 days extendable to 180 days — useful for longer digital nomad stays; requires an Indonesian sponsor",
+      "Bali Tourist Levy: since mid-2024 a 150,000 IDR (~$10 USD) tourism levy applies to all foreign visitors entering Bali — pay online at lovebali.baliprov.go.id or at airport kiosk",
+      "Passport must be valid for at least 6 months beyond your entry date"
+    ],
+    "currencyTips": [
+      "Currency: Indonesian Rupiah (IDR / Rp). 100,000 IDR is approximately $6 USD — the large-looking numbers are normal",
+      "Ubud is more cash-dependent than Seminyak — warungs (local eateries), rice terrace walks, temple donations, and local transport all require cash",
+      "Best ATMs: BNI and BCA ATMs on Jl. Hanoman and Jl. Monkey Forest Road are the most reliable for foreign cards; avoid standalone ATMs with suspiciously good rates",
+      "Authorised money changers: use PT Central Kuta or official bank-affiliated changers; avoid unofficial changers who may short-count or use sleight of hand",
+      "Cards accepted at Ubud's mid-range and upscale restaurants, yoga studios, and most accommodation; confirm before assuming at smaller family-run places"
+    ],
+    "simCard": "Telkomsel has the best coverage in Ubud and the central Bali highlands. The signal in Ubud's rice terraces (Tegallalang, Jatiluwih) is reasonable on Telkomsel but can drop in valleys. Tourist SIMs available at Ngurah Rai Airport (DPS) arrivals — buy there before the 1.5-hour drive to Ubud. A 30-day SIM with 50–100 GB costs IDR 100,000–200,000. eSIM via Airalo is popular for Bali.",
+    "emergencyNumbers": {
+      "police": "110",
+      "ambulance": "118",
+      "emergency": "112 (general) / 110 (police) / 118 (ambulance)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 10,
+  "localFriendliness": 9
+}

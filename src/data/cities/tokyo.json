@@ -1,0 +1,213 @@
+{
+  "id": "tokyo",
+  "city": "Tokyo",
+  "country": "Japan",
+  "region": "East Asia",
+  "currency": "JPY",
+  "language": "Japanese",
+  "description": "Tokyo is a city of extraordinary contrasts — ultramodern skyscrapers beside ancient temples, Michelin-starred restaurants steps from tiny ramen stalls, silent shrines amid neon-drenched entertainment districts. As one of the world's largest metropolitan areas, Tokyo delivers an almost overwhelming density of experience: world-class museums, obsessive shopping culture, impeccably safe streets, and a transit network so precise it redefines punctuality. Whether you're chasing street fashion in Harajuku, slurping tonkotsu at midnight in Shinjuku, or meditating in a moss-covered garden in Yanaka, Tokyo rewards curiosity at every turn.",
+  "airportCode": "NRT",
+  "foodScene": 10,
+  "beachQuality": 2,
+  "walkability": 9,
+  "nightlife": 8,
+  "safety": 10,
+  "culturalDepth": 7,
+  "transportationEase": 10,
+  "englishFriendliness": 6,
+  "familyFriendliness": 9,
+  "soloFriendliness": 9,
+  "coupleFriendliness": 8,
+  "adventureActivities": 6,
+  "shoppingScene": 10,
+  "wellnessScene": 7,
+  "digitalNomadScore": 7,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 100,
+    "mid": 200,
+    "premium": 450
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 6,
+      "rainyDays": 5,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 7,
+      "rainyDays": 6,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 11,
+      "rainyDays": 10,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 16,
+      "rainyDays": 11,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 21,
+      "rainyDays": 13,
+      "crowdLevel": 8,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 25,
+      "rainyDays": 16,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 29,
+      "rainyDays": 12,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 31,
+      "rainyDays": 9,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 26,
+      "rainyDays": 16,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 20,
+      "rainyDays": 12,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 14,
+      "rainyDays": 8,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 9,
+      "rainyDays": 5,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Shinjuku — entertainment, nightlife, and shopping epicenter with both Kabukicho's neon chaos and the tranquil Golden Gai bar alleys",
+      "Shibuya — iconic scramble crossing, youth fashion, Daikanyama's boutiques, and Nakameguro's canal-side cafes",
+      "Yanaka — preserved Edo-era shitamachi neighborhood with temples, traditional shops, and a genuine local atmosphere",
+      "Asakusa — historic district anchored by Senso-ji Temple, rickshaws, craft shops, and excellent budget eating",
+      "Shimokitazawa — bohemian enclave of vintage clothing stores, indie live music venues, and artisan coffee",
+      "Akihabara — electronics and anime culture mecca, perfect for tech enthusiasts and pop culture fans"
+    ],
+    "areasToAvoid": [
+      "Kabukicho's back streets late at night — host bar touts aggressively target tourists and bills can be fraudulently inflated",
+      "Poorly lit side streets in Roppongi after 2am — drug solicitation and aggressive bar entry tactics persist",
+      "Unofficial currency exchange booths near Ueno — rates are significantly worse than bank ATMs"
+    ],
+    "scamWarnings": [
+      "Roppongi bar overcharge scam: friendly strangers invite you to a bar, you receive an enormous bill; always check prices before ordering",
+      "Taxi drivers taking scenic routes from Narita — always confirm fixed-price options or use the Narita Express train",
+      "Fake monks in tourist areas collecting 'donations' — legitimate Buddhist monks do not solicit money on streets",
+      "Pachinko parlor pressure: staff may discourage leaving after converting winnings; you have every right to leave",
+      "Unofficial rickshaw operators near Asakusa quoting prices in 'per person' but billing per ride segment"
+    ],
+    "airportTransfer": {
+      "cheapest": "Narita Express (N'EX) to Shinjuku: ¥3,070 (~$21 USD), ~90 minutes. Limousine Bus to major hotels: ¥3,200, ~90-120 min",
+      "fastest": "Narita Express to Tokyo Station: 53 minutes, ¥3,070. From Haneda: Keikyu Line or Tokyo Monorail, 30-40 min, ~¥600",
+      "recommended": "Narita Express (N'EX) IC Card for convenience — purchase the N'EX + Suica combo pass at the airport for ¥4,000 (includes ¥1,500 Suica balance)",
+      "taxiEstimate": "¥22,000–¥32,000 from Narita (~$150-215 USD). From Haneda: ¥6,000–¥9,000 (~$40-60 USD)"
+    },
+    "tippingEtiquette": [
+      "Tipping is not practiced in Japan and can occasionally cause offense — excellent service is considered standard",
+      "Never tip at restaurants, taxis, hotels, or hair salons",
+      "If you want to express gratitude, a small gift (omiyage) is far more culturally appropriate than cash",
+      "Some high-end ryokan include a service charge; this is communal and no additional tip is expected"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget: ¥3,000-5,000 capsule/hostel. Mid: ¥12,000-20,000 business hotel. Premium: ¥35,000+ boutique/luxury",
+      "meals": "Budget: ¥800-1,500 per meal (convenience store, ramen, yoshoku). Mid: ¥1,500-4,000. Premium: ¥8,000+ omakase",
+      "transport": "¥1,000-1,500/day IC card (Suica/Pasmo) covers all metro and JR lines within Tokyo",
+      "activities": "Most temples and shrines free. Museums: ¥500-2,000. TeamLab: ¥3,200. Day trip to Nikko: ¥5,000+"
+    },
+    "packingTips": [
+      "Bring a small daypack — you will walk enormous distances and accumulate purchases",
+      "Pocket Wi-Fi or SIM card is essential; buy at the airport for connectivity on the extensive subway network",
+      "Comfortable walking shoes are non-negotiable — 20,000+ steps per day is common",
+      "Carry cash: many small restaurants, vending machines, and shrines are cash-only",
+      "Pack light layers for spring and fall; summers demand lightweight, breathable fabrics",
+      "A small umbrella or packable rain jacket handles sudden showers, especially in June and September",
+      "Bring or buy a Suica IC card — it works on virtually all trains, buses, and convenience store purchases"
+    ],
+    "bookingStrategy": "Book accommodation 3-6 months ahead for cherry blossom season (late March-early April) and Golden Week (late April-early May) — the city fills completely. Narita Express passes and rail passes can be purchased abroad more cheaply. For omakase restaurants, reservations open exactly one month in advance and fill within hours; use platforms like Tableall or Omakase.app. Avoid the 'Japan Rail Pass' if staying only in Tokyo — a Suica card is more economical for local travel.",
+    "localTips": [
+      "Get a Suica card at any JR station — it works on subways, JR trains, buses, and even at 7-Eleven",
+      "Convenience stores (7-Eleven, FamilyMart, Lawson) serve genuinely excellent food at low prices — don't skip them",
+      "Google Maps works perfectly for Tokyo transit navigation, including platform numbers",
+      "Speak quietly on trains and never take phone calls — it's considered very rude",
+      "Free public Wi-Fi exists at major stations and 7-Eleven stores; pocket Wi-Fi is more reliable",
+      "Department store basement food halls (depachika) offer extraordinary quality prepared foods and sweets",
+      "Many restaurants display plastic food models or have picture menus — pointing is perfectly acceptable",
+      "Coin lockers at major stations let you drop luggage and explore hands-free",
+      "Shibuya Sky, Tokyo Skytree, and Tokyo Tower all offer spectacular city views — book Shibuya Sky online to skip queues"
+    ],
+    "bestTimeToVisit": "Late March to early April for cherry blossoms (book 6 months ahead). October-November for autumn foliage and comfortable temperatures. December and January are quiet, clear, and cold — excellent for budget travelers. Avoid Golden Week (late April-early May) and Obon (mid-August) for domestic tourist crowds.",
+    "dayTrips": [
+      "Nikko — UNESCO shrines and stunning mountain scenery, 2 hours by Tobu or JR limited express",
+      "Kamakura — Great Buddha, coastal temples, and hiking trails, 1 hour from Shinjuku via Shonan-Shinjuku Line",
+      "Hakone — Mt. Fuji views, hot springs (onsen), and open-air sculpture museum, 85 min by Romancecar",
+      "Yokohama — Chinatown, harbor, Sankeien Garden, and Ramen Museum, 30 min from Shibuya",
+      "Kawaguchiko — best base for Mt. Fuji views and lake activities, 2 hours by Fujikyuko Line",
+      "Chichibu — soba, cherry blossoms, scenic railway, and night festival, 90 min via Seibu Ikebukuro Line"
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: visa-free for up to 90 days for tourism — no advance application needed; entry granted on arrival at Japanese immigration",
+      "Japan requires a return or onward ticket and proof of sufficient funds — have your return booking and some cash or bank statement ready for immigration in case you are asked",
+      "Visit Japan Web: pre-register your passport and customs declaration online for faster processing — recommended for busy arrival periods at Narita or Haneda",
+      "Narita Airport (NRT) and Haneda Airport (HND) are both major international gateways — Haneda is closer to central Tokyo",
+      "Japan has strict drug laws — many common medications (pseudoephedrine cold medicines, certain ADHD medications, some sleep aids) are illegal even with a foreign prescription; check Japanese Customs website before packing"
+    ],
+    "currencyTips": [
+      "Currency: Japanese Yen (¥ / JPY). Despite being a highly advanced economy, Japan remains heavily cash-based — carry far more cash than you would in most developed countries",
+      "7-Eleven ATMs (found in all 7-Eleven convenience stores) and Japan Post ATMs accept most foreign Visa/Mastercard reliably — the most consistent option for foreign card withdrawals",
+      "Cards are accepted at department stores (Isetan, Takashimaya), chains, and larger restaurants but many ramen shops, izakaya, and temple stalls are cash only",
+      "IC cards (Suica, Pasmo): available at all train stations; load with cash and use on any train, bus, and at convenience stores — essential for navigating Tokyo",
+      "Exchange at the post office (Japan Post) often offers competitive rates; hotels offer convenience but not the best exchange"
+    ],
+    "simCard": "IIJmio and b-mobile sell popular tourist SIMs at Narita (NRT) and Haneda (HND) airports. A 30-day data SIM with 20–50 GB costs ¥3,000–7,000. Data-only SIMs are the standard tourist option (voice plans require a local address). Pocket WiFi devices (rent at the airport) are popular for groups. eSIM via Airalo is widely available for Japan and activates before you land.",
+    "emergencyNumbers": {
+      "police": "110",
+      "ambulance": "119",
+      "emergency": "110 (police) / 119 (ambulance and fire) / #9110 (non-emergency police advice)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 7,
+  "localFriendliness": 8
+}

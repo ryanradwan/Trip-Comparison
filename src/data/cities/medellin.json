@@ -1,0 +1,201 @@
+{
+  "id": "medellin",
+  "city": "Medellín",
+  "country": "Colombia",
+  "region": "South America",
+  "currency": "COP",
+  "language": "Spanish",
+  "description": "The world's most remarkable urban transformation story — a city once synonymous with danger that has become a model of innovation, with eternal spring weather, a roaring digital nomad scene, and cable cars connecting hilltop communities to the city below.",
+  "airportCode": "MDE",
+  "shopUrl": null,
+  "foodScene": 7,
+  "beachQuality": 0,
+  "walkability": 7,
+  "nightlife": 8,
+  "safety": 6,
+  "culturalDepth": 7,
+  "transportationEase": 7,
+  "englishFriendliness": 5,
+  "familyFriendliness": 6,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 7,
+  "adventureActivities": 7,
+  "shoppingScene": 6,
+  "wellnessScene": 7,
+  "digitalNomadScore": 9,
+  "visaComplexity": 2,
+  "instagrammability": 8,
+  "budgetTiers": {
+    "budget": 35,
+    "mid": 75,
+    "premium": 180
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 22,
+      "rainyDays": 8,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 22,
+      "rainyDays": 7,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 22,
+      "rainyDays": 10,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 22,
+      "rainyDays": 14,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 22,
+      "rainyDays": 16,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 22,
+      "rainyDays": 12,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 22,
+      "rainyDays": 9,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 22,
+      "rainyDays": 8,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 22,
+      "rainyDays": 13,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 22,
+      "rainyDays": 16,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 22,
+      "rainyDays": 10,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 22,
+      "rainyDays": 9,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "El Poblado — Expat and tourist hub, safe, walkable, excellent restaurants and bars, concentrated nightlife, Parque Lleras.",
+      "Laureles — More local neighbourhood, great coffee shops and restaurants, residential feel, more authentic than El Poblado.",
+      "Envigado — Just south of El Poblado, ultra-local, incredible cheap food (bandeja paisa), very safe, off the tourist trail.",
+      "Armenia (near Centro) — Emerging creative district, not for first-time visitors but interesting for longer stays."
+    ],
+    "areasToAvoid": [
+      "Comunas 1, 8, 13 (except official tours) — gang territories in some sectors, don't venture without a guided tour.",
+      "Downtown Centro Histórico after dark — petty crime is common at night in the main plaza area.",
+      "Accepting drinks from strangers at bars — scopolamine (burundanga) drug spiking is a real risk."
+    ],
+    "scamWarnings": [
+      "Scopolamine (devil's breath) drug: never leave your drink unattended and be wary of overly friendly strangers offering drinks or cigarettes.",
+      "Fake police checks: real Colombian police don't stop tourists to check wallets on the street. Walk away or go to the nearest restaurant.",
+      "Taxi overcharging from airport: always use InDriver or Cabify apps, or the official taxi booth inside the airport terminal.",
+      "Pablo Escobar tours: while popular, some operators exploit victims' families. Research the operator's ethics before booking."
+    ],
+    "airportTransfer": {
+      "cheapest": "Metro + cable car combo from Aeropuerto station to El Poblado — COP $2,950 (~$0.75), takes 45–60 min. Great experience.",
+      "fastest": "Uber/Cabify from José María Córdova airport — COP $40,000–60,000 (~$10–15), takes 35–45 min.",
+      "recommended": "Cabify or InDriver app for reliable, transparent pricing. Uber is available but app-only taxi policy in Colombia is worth knowing.",
+      "taxiEstimate": "Official airport taxi COP $55,000–75,000 to El Poblado. Agree on the price before departing or use the meter."
+    },
+    "tippingEtiquette": [
+      "10% tip at restaurants is standard. It's often added as 'propina voluntaria' on the bill — check if it's already included.",
+      "Tip taxi drivers by rounding up: COP $1,000–2,000 on top of the fare.",
+      "Street arepa vendors and market stalls: no tipping expected.",
+      "Medellín has warm, social culture — 'manejá' and 'bacano' (great, cool) are words that will earn you smiles from locals.",
+      "Never joke about Pablo Escobar with locals — it's deeply painful. The transformation is something Paisas are genuinely proud of."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm COP $25,000–50,000 | Guesthouse COP $80,000–150,000 | Mid-range hotel COP $200,000–400,000",
+      "meals": "Lunch corriente COP $10,000–15,000 | Arepa con todo COP $5,000 | Restaurant dinner COP $40,000–80,000",
+      "transport": "Metro COP $2,950 | Uber COP $8,000–20,000 | Día de campo bike rental COP $15,000",
+      "activities": "Pablo Escobar tour COP $80,000–150,000 | Parque Arví cable car COP $10,000 | Salsa class COP $40,000"
+    },
+    "packingTips": [
+      "Light layers — Medellín's 'City of Eternal Spring' means a consistent 22°C. Evenings can be 16°C in the hills.",
+      "Rain jacket — rain can come in short bursts throughout the year.",
+      "Good walking shoes — El Poblado and Laureles are hilly.",
+      "Spanish phrasebook — English is limited outside tourist areas."
+    ],
+    "bookingStrategy": "July–August (dry season) and December–January (festival season) are peak times. Feria de las Flores in August is spectacular — book 2 months ahead. The city is great year-round due to the stable 22°C climate.",
+    "localTips": [
+      "The Medellín Metro is the pride of the city — efficient, clean, and the cable cars to Comunas 13 are a genuine community achievement.",
+      "Bandeja paisa (the national dish) at a local restaurante corriente costs COP $12,000–18,000 and will defeat most appetites.",
+      "Parque Lleras in El Poblado is the nightlife hub. Go on Thursday for locals, Friday/Saturday for the full mix.",
+      "Guatapé day trip is non-negotiable — 642 steps up La Piedra (the Rock) for the best view in Colombia.",
+      "Laureles neighbourhood for the most authentic coffee shop experience — far more local feel than tourist-heavy El Poblado."
+    ],
+    "bestTimeToVisit": "December–January or July–August: driest months, most events, best weather windows. The Feria de las Flores in August is unmissable.",
+    "dayTrips": [
+      "Guatapé — 90 min by bus, enormous granite monolith (El Peñol) to climb, colourful lakeside village, stunning reservoir views.",
+      "Santa Fe de Antioquia — 1.5 hours northwest, colonial town, cobblestone streets, whitewashed buildings, excellent weekend escape.",
+      "Jardín — 4 hours south, coffee-growing village, humming with hummingbirds, horse riding, one of Colombia's most beautiful towns."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: no visa required for tourist stays up to 90 days on arrival",
+      "Colombia grants 90-day tourist permits extendable to 180 days total by visiting a Migración Colombia office",
+      "A return or onward ticket is often requested at airline check-in — book a flexible or refundable return to present if asked",
+      "Yellow fever vaccination certificate recommended and may be required if continuing to other parts of Latin America from Colombia",
+      "Current US/UK travel advisories: Medellín's tourist neighbourhoods (El Poblado, Laureles, Envigado) are considered safe; exercise standard caution and avoid displaying valuables"
+    ],
+    "currencyTips": [
+      "Currency: Colombian Peso (COP). Notes: 1,000; 2,000; 5,000; 10,000; 20,000; 50,000; 100,000 COP",
+      "Cards are widely accepted in El Poblado's restaurants, cafés, and hostels; cash essential for local buses (buses only), street food, and markets",
+      "Best ATMs: Bancolombia and Davivienda are the most reliable for foreign cards in Medellín; withdrawal limits are 400,000–600,000 COP per transaction",
+      "Medellín's El Poblado and Laureles neighbourhoods are Colombia's most card-friendly areas — better than Bogotá or the coast for cashless payments",
+      "Avoid using ATMs on the street at night; use indoor mall or bank-branch ATMs"
+    ],
+    "simCard": "Claro Colombia and Tigo both have solid 4G coverage in Medellín and the surrounding Antioquia region. Tourist SIMs are available at José María Córdova Airport (MDE) and at Claro/Tigo shops in the city. A 30-day SIM with 10–20 GB costs COP 40,000–70,000. eSIM via Airalo avoids the ID registration requirement for local SIMs.",
+    "emergencyNumbers": {
+      "police": "112 or 123",
+      "ambulance": "125",
+      "emergency": "123 (general emergency services in Colombia)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 10,
+  "localFriendliness": 9
+}

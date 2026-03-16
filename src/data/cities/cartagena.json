@@ -1,0 +1,201 @@
+{
+  "id": "cartagena",
+  "city": "Cartagena",
+  "country": "Colombia",
+  "region": "South America",
+  "currency": "COP",
+  "language": "Spanish",
+  "description": "Colombia's jewel of the Caribbean coast — a perfectly preserved walled colonial city painted in ochre, coral, and gold, where bougainvillea spills over balconies, horse-drawn carriages clip-clop past 16th-century fortifications, and the heat wraps around you like silk.",
+  "airportCode": "CTG",
+  "shopUrl": null,
+  "foodScene": 7,
+  "beachQuality": 5,
+  "walkability": 8,
+  "nightlife": 7,
+  "safety": 5,
+  "culturalDepth": 7,
+  "transportationEase": 6,
+  "englishFriendliness": 5,
+  "familyFriendliness": 6,
+  "soloFriendliness": 6,
+  "coupleFriendliness": 9,
+  "adventureActivities": 6,
+  "shoppingScene": 6,
+  "wellnessScene": 5,
+  "digitalNomadScore": 5,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 55,
+    "mid": 110,
+    "premium": 260
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 28,
+      "rainyDays": 2,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 28,
+      "rainyDays": 2,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 29,
+      "rainyDays": 2,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 30,
+      "rainyDays": 3,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 30,
+      "rainyDays": 6,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 30,
+      "rainyDays": 10,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 30,
+      "rainyDays": 11,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 30,
+      "rainyDays": 12,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 30,
+      "rainyDays": 11,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 29,
+      "rainyDays": 9,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 28,
+      "rainyDays": 5,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 28,
+      "rainyDays": 3,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Ciudad Amurallada (Walled City) — The UNESCO old city, most beautiful streets, boutique hotels in colonial mansions, walkable to everything.",
+      "Getsemaní — The hip neighbourhood outside the walls, street art, authentic tejo bars, affordable accommodation, gentrifying fast.",
+      "El Laguito — Beach neighbourhood with proper Caribbean sea swimming, restaurants, quieter than the walled city.",
+      "Bocagrande — Modern beach strip, local Colombian tourists, good seafood restaurants, high-rise hotels."
+    ],
+    "areasToAvoid": [
+      "Getsemaní late at night without local knowledge — it's gentrifying but some blocks are still rough after midnight.",
+      "Walking through the area around La Popa hill without a guide — muggings have been reported on the path.",
+      "Bocachica and remote island trips with unofficial boat operators."
+    ],
+    "scamWarnings": [
+      "Tourist price inflation in the walled city: always ask the price before eating or drinking anywhere on the main plazas — prices can be 3–5x local rate.",
+      "Emerald sellers near the cathedral: Colombia is famous for emeralds, equally famous for tourist emerald fraud. Buy from registered shops only.",
+      "Friendly strangers offering to show you 'authentic Cartagena' for a small fee — this almost always ends in a shop or discomfort.",
+      "Photo opportunity with women in colourful traditional dress (palenqueras) — they expect payment. Agree on the price first."
+    ],
+    "airportTransfer": {
+      "cheapest": "Shared van (buseta) from the airport to the walled city — COP $15,000–20,000, takes 20 min.",
+      "fastest": "Uber or InDriver from CTG airport — COP $25,000–40,000, takes 15–20 min.",
+      "recommended": "Uber/InDriver app — reliable, air-conditioned, no negotiation needed.",
+      "taxiEstimate": "Taxi from airport: COP $30,000–50,000 to walled city. Agree on price before departing — meters are rarely used."
+    },
+    "tippingEtiquette": [
+      "10% is standard in restaurants, sometimes added automatically as 'propina.'",
+      "Boat trip operators: COP $10,000–20,000 per person for a day trip.",
+      "The heat makes Cartagena feel intense — pace yourself, drink water constantly, and carry cash in small bills.",
+      "Palenqueras (fruit sellers in traditional dress) are cultural ambassadors — treat them with respect and pay agreed amounts for photos.",
+      "Dress comfortably and lightly — the Caribbean heat and humidity combined with the walled city's cobblestones can be exhausting."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Guesthouse COP $80,000–150,000 | Boutique hotel COP $250,000–500,000 | Colonial mansion hotel COP $600,000–1,200,000",
+      "meals": "Empanadas + juice COP $8,000 | Local restaurant lunch COP $20,000–35,000 | Walled city dinner COP $60,000–120,000",
+      "transport": "Taxi within city COP $10,000–20,000 | Boat to Rosario Islands COP $80,000–120,000 return",
+      "activities": "Castillo San Felipe entry COP $25,000 | Isla Barú day trip COP $80,000–150,000 | Cooking class COP $120,000"
+    },
+    "packingTips": [
+      "Light, loose cotton clothing — Cartagena is hot and humid 365 days a year (28–32°C).",
+      "Sunscreen SPF 50+ — the Caribbean sun is brutal.",
+      "Insect repellent — mosquitoes are active near the bay and in Getsemaní.",
+      "Comfortable sandals for the cobblestone streets — heels are impossible."
+    ],
+    "bookingStrategy": "December–February is peak season (dry, packed with Colombian holidaymakers). Best value in low season (June–October) when prices drop 30–40%. Book walled city accommodation well ahead for Christmas/New Year — prices double and availability disappears.",
+    "localTips": [
+      "Sunset on the walled city ramparts (Las Murallas) is one of the great Caribbean experiences — arrive 30 minutes early to get a spot.",
+      "Bazurto Market on Saturday mornings is Cartagena's real food market — extraordinary seafood, local produce, very few tourists.",
+      "The Castillo San Felipe de Barajas at sunrise before the tour groups arrive — you'll have this 16th-century fortress almost to yourself.",
+      "Fresh coconut rice with fish at any waterfront restaurant in La Boquilla village — a fraction of walled city prices.",
+      "Boat to Playa Blanca on Isla Barú: stunning white sand Caribbean beach, but book a return boat in advance."
+    ],
+    "bestTimeToVisit": "December–March: dry season, gentle Caribbean breeze, crystal water visibility. July–August low season offers good value if you can handle brief rain showers.",
+    "dayTrips": [
+      "Islas del Rosario — 90 min by speedboat, coral reef snorkelling, crystal turquoise water, pack your own food to save money.",
+      "Playa Blanca (Isla Barú) — 45 min by boat, the most beautiful beach accessible from Cartagena, best on a weekday.",
+      "Mompox — 4 hours inland, UNESCO colonial town, fewer tourists than Cartagena, extraordinary colonial architecture."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: no visa required for stays up to 90 days — passport on arrival is sufficient",
+      "Colombia grants 90-day tourist permits on arrival which can be extended to a maximum of 180 days total by visiting a Migración Colombia office",
+      "A return or onward ticket may be requested at the airport immigration counter — book a flexible return or bus ticket to Venezuela/Panama as a precaution",
+      "Yellow fever vaccination certificate strongly recommended and may be required if travelling onward to other Latin American countries from Colombia",
+      "Check current US/UK/AUS travel advisories before visiting — certain regions of Colombia require caution, though Cartagena's tourist area is generally considered safe"
+    ],
+    "currencyTips": [
+      "Currency: Colombian Peso (COP). Notes: 1,000, 2,000, 5,000, 10,000, 20,000, 50,000, 100,000 COP",
+      "Cards accepted at most hotels and restaurants in Cartagena's Ciudad Amurallada; cash essential for street food, markets, and local transport",
+      "Best ATMs: Bancolombia and Davivienda ATMs are widely available in the Bocagrande and walled city areas; Scotiabank Colpatria has lower foreign card fees",
+      "Daily ATM withdrawal limits are set low (typically 400,000–600,000 COP per transaction) — plan multiple withdrawals if needed",
+      "Keep small bills handy — 50,000 and 100,000 COP notes can be difficult to break at small vendors"
+    ],
+    "simCard": "Claro Colombia has the best network coverage on the Caribbean coast. A prepaid SIM with 15–30 GB costs around 50,000–80,000 COP and is available at the airport, Claro shops in the Centro Comercial, or convenience stores (Éxito, Oxxo). eSIM via Airalo is an alternative if you want to avoid the ID registration requirement.",
+    "emergencyNumbers": {
+      "police": "112 or 123",
+      "ambulance": "125",
+      "emergency": "123 (general emergency) / 112"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 8,
+  "localFriendliness": 9
+}

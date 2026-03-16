@@ -1,0 +1,201 @@
+{
+  "id": "paris",
+  "city": "Paris",
+  "country": "France",
+  "region": "Western Europe",
+  "currency": "EUR",
+  "language": "French",
+  "description": "The world's most-visited city for good reason — extraordinary museums, perfect bistros on every corner, gardens designed for lingering, and an effortless beauty that makes even a rainy Tuesday feel cinematic.",
+  "airportCode": "CDG",
+  "shopUrl": null,
+  "foodScene": 10,
+  "beachQuality": 0,
+  "walkability": 10,
+  "nightlife": 8,
+  "safety": 7,
+  "culturalDepth": 10,
+  "transportationEase": 10,
+  "englishFriendliness": 7,
+  "familyFriendliness": 8,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 10,
+  "adventureActivities": 4,
+  "shoppingScene": 10,
+  "wellnessScene": 7,
+  "digitalNomadScore": 7,
+  "visaComplexity": 2,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 100,
+    "mid": 200,
+    "premium": 450
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 5,
+      "rainyDays": 11,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 6,
+      "rainyDays": 10,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 9,
+      "rainyDays": 10,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 13,
+      "rainyDays": 10,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 17,
+      "rainyDays": 10,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 20,
+      "rainyDays": 9,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 23,
+      "rainyDays": 8,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 23,
+      "rainyDays": 8,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 19,
+      "rainyDays": 9,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 14,
+      "rainyDays": 10,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 9,
+      "rainyDays": 11,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 6,
+      "rainyDays": 12,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Le Marais (3rd/4th) — Best all-rounder: Jewish quarter, gay village, great restaurants, Place des Vosges, excellent museums nearby.",
+      "Saint-Germain-des-Prés (6th) — Literary Left Bank, Café de Flore, excellent bistros, Jardin du Luxembourg, refined and safe.",
+      "Canal Saint-Martin (10th) — Hip, local, tree-lined canal, independent cafes, young crowd, Paris without the tourist fatigue.",
+      "Montmartre (18th) — Bohemian hilltop village, Sacré-Cœur views, artists, good for couples but very steep and crowded."
+    ],
+    "areasToAvoid": [
+      "Gare du Nord area late at night — high pickpocket activity and occasional harassment outside the station.",
+      "Pigalle red light district after midnight — not dangerous but uncomfortable for solo travellers.",
+      "Pont du Garigliano or peripheral banlieues — outside the tourist zone, no reason for visitors to go there."
+    ],
+    "scamWarnings": [
+      "The 'gold ring' scam: someone 'finds' a ring on the ground and tries to sell it or demands money. Ignore and keep walking.",
+      "Petition scammers near Sacré-Cœur and Eiffel Tower — clipboard-wielding people ask you to sign then demand payment. Never sign.",
+      "String bracelet makers at Sacré-Cœur forcibly tie a bracelet on your wrist then demand €10–20. Keep hands in pockets.",
+      "Eiffel Tower souvenir sellers on the Champ de Mars — not dangerous but very aggressive. The miniature towers are the same ones sold in every Paris shop."
+    ],
+    "airportTransfer": {
+      "cheapest": "RER B train from CDG Terminal 2 to central Paris (Châtelet–Les Halles or Gare du Nord) — €12.10, takes 35 min. Runs every 10–15 min.",
+      "fastest": "Taxi — €35–55 fixed rate to Paris left bank or right bank, 30–50 min depending on traffic.",
+      "recommended": "RER B for most travellers — straightforward, direct to central Paris, very cheap. Taxi for families with heavy luggage or late-night arrivals.",
+      "taxiEstimate": "Fixed official taxi rates: €35 to Right Bank (north/east), €50 to Left Bank (south). Use G7 or Taxi Bleu apps to pre-book."
+    },
+    "tippingEtiquette": [
+      "Service is included by law in French restaurants (service compris). Leaving a small tip (€1–2 or rounding up) is appreciated but never expected.",
+      "Always greet with 'Bonjour Madame/Monsieur' before speaking — launching straight into English without greeting is considered rude.",
+      "Attempting French, even badly, is universally appreciated. 'Bonjour, parlez-vous anglais?' opens every door.",
+      "Shops and museums may be closed on Sundays — many Parisian businesses still honour the day of rest.",
+      "Eat at the correct times: lunch 12–2pm, dinner 7:30–9:30pm. Arriving at 6pm expecting a restaurant to be open will disappoint."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm €30–45 | Mid-range hotel €120–200 | Boutique hotel €220–400",
+      "meals": "Café crème + croissant €4–6 | Brasserie lunch (formule) €15–22 | Bistro dinner €30–55 | Fine dining €100+",
+      "transport": "Metro single €2.15 | Navigo weekly pass €30 | Vélib' bike day pass €5 | Taxi across city €12–20",
+      "activities": "Louvre €17 (free first Sunday of month) | Musée d'Orsay €16 | Eiffel Tower summit €29.40 | Many museums free for under-26"
+    },
+    "packingTips": [
+      "Comfortable walking shoes — Parisians walk everywhere and the cobblestones are beautiful but unforgiving.",
+      "A compact tote bag — Parisian women carry them everywhere and they're perfect for market shopping.",
+      "Smart-casual clothing — Paris has dress standards. T-shirt and flip-flops will feel out of place in good restaurants.",
+      "Rain jacket — Paris gets light rain throughout the year, but it's rarely heavy or prolonged."
+    ],
+    "bookingStrategy": "Visit in May or September for the best combination of weather, light, and manageable crowds. Book Louvre tickets online (2–3 weeks ahead in summer) to skip the infamous 3-hour queue. The Musée d'Orsay is worth booking online too.",
+    "localTips": [
+      "The Louvre is free on the first Sunday of every month and on Bastille Day (July 14). Get there 15 minutes before opening.",
+      "Picnic in Champ de Mars with cheese, baguette, and wine from a supermarché — this is peak Paris and costs €10 total.",
+      "Shakespeare and Company bookshop (5th arrondissement) is Paris's most beloved English-language bookshop — worth visiting even if you buy nothing.",
+      "Vélib' bike rental: €5 day pass gives unlimited 45-minute rides across 1,400 stations — best way to explore along the Seine.",
+      "The Palais Royal gardens are a beautiful, calm alternative to the Tuileries with far fewer tourists."
+    ],
+    "bestTimeToVisit": "May or September: 17–22°C, long evenings, all attractions open, before/after the summer crush. Spring gardens are extraordinary.",
+    "dayTrips": [
+      "Versailles — 40 min by RER C train, the palace of Louis XIV, extraordinary gardens, arrives before 10am to avoid the worst crowds.",
+      "Champagne region (Reims) — 45 min by TGV, cathedral city, Taittinger and Mumm cellar tours, fizz at source.",
+      "Giverny — Monet's garden and lily pond, 75 min by train + shuttle, most beautiful in May–June when everything blooms."
+    ],
+    "visaInfo": [
+      "EU/EEA citizens: no visa required — free movement within the Schengen Area; France is a core Schengen member",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; passport must be valid for the duration of stay; UK national ID cards no longer accepted at French borders",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period",
+      "ETIAS (EU Travel Information and Authorisation System): currently in pilot phase; will eventually require pre-travel registration for visa-exempt non-EU visitors — check current status before travel",
+      "The 90-day Schengen allowance is shared across all 27 Schengen countries — plan your European trip accordingly"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€); France is a core eurozone member",
+      "Cards (contactless, Apple Pay, Google Pay) accepted everywhere in Paris — from boulangeries to the métro; Paris is one of Europe's most cashless cities",
+      "Best ATMs: BNP Paribas, Société Générale, and Crédit Agricole ATMs have no machine surcharge; Euronet ATMs (yellow machines in tourist areas) charge €3–5 fee — avoid them",
+      "Cash is still useful for small patisseries, some brasseries, and the outdoor markets (Marché d'Aligre, Marché Bastille); carry €20–40",
+      "Service charge of 15% is legally included in all French restaurant prices (service compris) — additional tipping is purely optional and usually small coins only"
+    ],
+    "simCard": "Orange France, SFR, Bouygues, and Free Mobile are the main carriers. Free Mobile offers a €20/month prepaid plan with unlimited data in France and 25 GB roaming — excellent value. Tourist SIMs available at CDG and Orly airports. EU SIM cards from other member states work in France with no roaming charges. eSIM via Airalo is widely available for France.",
+    "emergencyNumbers": {
+      "police": "17",
+      "ambulance": "15 (SAMU)",
+      "emergency": "18 (fire) / 112 (EU general emergency) / 15 (medical)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 7,
+  "localFriendliness": 6
+}

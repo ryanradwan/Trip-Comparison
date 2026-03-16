@@ -1,0 +1,206 @@
+{
+  "id": "dubrovnik",
+  "city": "Dubrovnik",
+  "country": "Croatia",
+  "region": "Europe",
+  "currency": "EUR",
+  "language": "Croatian",
+  "description": "Dubrovnik is one of the Adriatic's most spectacular cities — a perfectly preserved medieval walled city perched on limestone cliffs above the impossibly blue sea. Walking the 2km circuit of its 16th-century walls at sunset, with terracotta rooftops below and the open Adriatic beyond, is genuinely one of Europe's great travel experiences. The Old Town is a UNESCO World Heritage Site and filming location for King's Landing in Game of Thrones, which has brought both global fame and punishing summer overtourism. June through August the city is overwhelmed with cruise ship day-trippers clogging the marble-paved Stradun. Visit in May, September, or October and you'll find the same extraordinary scenery with a fraction of the crowds — and prices that feel almost reasonable by Dubrovnik standards.",
+  "airportCode": "DBV",
+  "foodScene": 7,
+  "beachQuality": 7,
+  "walkability": 9,
+  "nightlife": 6,
+  "safety": 9,
+  "culturalDepth": 8,
+  "transportationEase": 6,
+  "englishFriendliness": 9,
+  "familyFriendliness": 7,
+  "soloFriendliness": 7,
+  "coupleFriendliness": 9,
+  "adventureActivities": 7,
+  "shoppingScene": 6,
+  "wellnessScene": 6,
+  "digitalNomadScore": 5,
+  "visaComplexity": 2,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 80,
+    "mid": 150,
+    "premium": 320
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 10,
+      "rainyDays": 10,
+      "crowdLevel": 1,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 11,
+      "rainyDays": 9,
+      "crowdLevel": 1,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 13,
+      "rainyDays": 8,
+      "crowdLevel": 2,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 17,
+      "rainyDays": 6,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 21,
+      "rainyDays": 4,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 25,
+      "rainyDays": 2,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 28,
+      "rainyDays": 1,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 28,
+      "rainyDays": 1,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 25,
+      "rainyDays": 3,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 20,
+      "rainyDays": 6,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 15,
+      "rainyDays": 9,
+      "crowdLevel": 2,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 11,
+      "rainyDays": 11,
+      "crowdLevel": 1,
+      "flightPriceIndex": 3
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Old Town (within the walls) — the ultimate experience, with the Stradun as your front yard. Accommodation is expensive but waking up inside the walls before the day-trippers arrive is incomparable. Book 4–6 months ahead.",
+      "Pile — just outside the western city gate, a quieter residential area with easier parking and good guesthouse options that are 20–30% cheaper than inside the walls.",
+      "Lapad — a leafy peninsula 4km west of the Old Town with a long promenade, hotel resorts, and a calmer, more local feel. Good base for families and those who want beach access.",
+      "Ploče — east of the Old Town near the ferry port, with upscale hotels and dramatic cliff-side views back towards the walls. A romantic option for couples.",
+      "Cavtat — a beautiful small town 18km south, connected to Dubrovnik by ferry. Significantly cheaper, much quieter, and easy access to Old Town as a day trip."
+    ],
+    "areasToAvoid": [
+      "Gruz port area at night — the ferry and cruise terminal district lacks atmosphere and has poor street lighting; take a taxi rather than walking after dark.",
+      "The Stradun between 10am and 6pm in July/August — it becomes physically impractical, with cruise ship crowds making it uncomfortable. Visit at 7am or after 7pm instead.",
+      "Unofficial apartment rentals from touts at the ferry terminal — accommodation quality is unverifiable and you have no recourse if it's substandard. Book through verified platforms only."
+    ],
+    "scamWarnings": [
+      "Menus without prices: Some restaurants near the Pile Gate and along the Stradun present menus without prices, then charge 3–4x normal rates. Always confirm prices and check the menu has costs listed before ordering.",
+      "Counterfeit tour boats: Unofficial 'Elaphiti Islands' boat tour operators at the Old Harbour dock are often unlicensed and boats may be overcrowded and unsafe. Book through the official Atlas Travel or verified operators.",
+      "Kayak rental over-insurance: Some Old Town kayak rental shops pressure tourists into expensive 'mandatory insurance' on top of rental fees. The rental fee alone should cover basic liability — shop around.",
+      "The 'local recommendation' restaurant hustle: Friendly strangers outside tourist attractions who offer unsolicited restaurant recommendations are often paid touts. Find restaurants by walking a few streets off the Stradun."
+    ],
+    "airportTransfer": {
+      "cheapest": "Atlas airport bus runs directly from Dubrovnik Airport (DBV) to the Pile Gate (Old Town entrance) and Gruz port for €9 each way — timed to coincide with flight arrivals/departures.",
+      "fastest": "Taxi takes 20–30 minutes to Old Town depending on traffic. Expect €35–45 from the airport.",
+      "recommended": "Atlas airport bus for solo or couple travel — direct, cheap, and drops you at the Old Town gate. Taxi is better for groups of 3+ or heavy luggage given the price split.",
+      "taxiEstimate": "€35–45 from DBV to Old Town; confirm price before departing as meters are sometimes 'forgotten'"
+    },
+    "tippingEtiquette": [
+      "Tipping is not mandatory in Croatia but is widely appreciated. Round up the bill or leave 10–15% in tourist restaurants.",
+      "In local cafés and bars, rounding up to the nearest euro or leaving €0.50–1 is standard.",
+      "Boat tour guides and private guides: €5–10 per person for a half-day, €10–20 for a full day is appreciated.",
+      "Taxi drivers: round up the fare; no pressure for more than 5–10% extra.",
+      "Hotel housekeeping: €1–2 per night left in the room is a kind gesture, especially in smaller guesthouses."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget guesthouses outside walls: €50–80/night. Mid-range hotels in Lapad or Pile: €100–180/night. Old Town boutique hotels: €200–400/night in peak season.",
+      "meals": "Burek or street food: €3–5. Sit-down lunch at a local konoba: €15–25 per person. Dinner on the Stradun: €30–60 per person with drinks. Grocery shopping: €10–15/day self-catering.",
+      "transport": "Local bus (Line 6 to Pile): €2 per ride. Day boat trip to Lokrum island: €15 return. Taxi within city: €10–20. Sea kayak half-day rental: €35–50.",
+      "activities": "Old Town walls entry: €35. Cable car to Mt Srđ: €25 return. Elaphiti Islands boat day trip: €60–80. Lokrum island ferry: €15 return. Kayaking sea caves: €45–75."
+    },
+    "packingTips": [
+      "Comfortable, non-slip shoes are essential — the marble-paved Stradun becomes extremely slippery when wet. Avoid flip-flops for wall walking.",
+      "Reef-safe sunscreen (SPF 50+) — the limestone walls reflect sun intensely, and you'll burn faster than expected on the wall circuit.",
+      "A swimsuit and quick-dry towel: the rocky Buža Bar cliffs and beaches at Banje are essential Dubrovnik experiences.",
+      "A light, packable rain jacket: October–November rain can arrive suddenly and the covered Old Town is limited.",
+      "Reusable water bottle — drinking fountains with clean water are dotted around the Old Town and walls walk. Water is safe to drink.",
+      "Cash in euros: some Old Town restaurants and smaller shops are cash-preferred, though card is widely accepted."
+    ],
+    "bookingStrategy": "Book Old Town accommodation 4–6 months in advance for July/August. For May and September/October, 6–8 weeks is usually sufficient. Buy Old Town walls tickets online the day before — physical queues in summer can be 45+ minutes and online booking guarantees morning entry slots (best before 9am or after 5pm when it's cooler). Game of Thrones tour tickets should be booked 1–2 weeks in advance in peak season. For day trips to the Elaphiti Islands, book the night before during summer. Flying into Split and taking the coastal bus or catamaran down to Dubrovnik is often significantly cheaper than flying direct.",
+    "localTips": [
+      "Enter the Buža Bar (outside the walls, built into the cliff face) for the most dramatic swimming and cocktail experience in Dubrovnik — two entrances on the seaward side of the walls.",
+      "The walls walk is best done at 8am (opening time) — you'll have stretches entirely to yourself in spring and autumn, and the morning light on the Old Town rooftops is extraordinary.",
+      "Mt Srđ, accessible by cable car or a challenging 90-minute hike, gives the defining panoramic photograph of the walled city — far better than any drone shot from sea level.",
+      "Konoba Dubrava and Restaurant 360° represent opposite ends of the spectrum — the former is a local's inland taverna with incredible value; the latter is a world-class splurge perched in the walls.",
+      "The free island of Lokrum (€15 ferry) is packed with peacocks, a saltwater lake, a ruined monastery, and swimming spots — and is far less crowded than the Old Town even in peak season.",
+      "Local bus Line 6 runs from Pile Gate to Lapad and costs €2 — far cheaper than any taxi for getting between the Old Town and the beach peninsula.",
+      "Arrive in Dubrovnik from the north by car or bus and pull over at the Dubrovnik Panorama viewpoint above the city — this is the iconic 'first glimpse' view most people only see in photographs."
+    ],
+    "bestTimeToVisit": "May and early June are excellent — warm enough to swim, the Old Town is beautiful and walkable, and crowds are present but not oppressive. September and October are arguably even better: water is at its warmest (25–26°C), summer visitors have gone, and the city has a relaxed, golden-light quality. July and August bring extraordinary weather but the Old Town becomes genuinely overcrowded (often 8,000–10,000 cruise ship passengers per day), prices peak, and the experience suffers considerably. Avoid unless you're committed to very early morning starts.",
+    "dayTrips": [
+      "Mostar, Bosnia & Herzegovina (2.5 hrs by bus): The iconic Stari Most bridge and the fascinating divided city of Mostar make for a moving and culturally rich day trip into a completely different world.",
+      "Elaphiti Islands (45 min by ferry): The three islands of Koločep, Lopud, and Šipan offer car-free villages, sandy beaches, and a completely different pace — Šipan in particular is a paradise of olive groves and quiet konobas.",
+      "Korčula Island (2–3 hrs by catamaran): Marco Polo's alleged birthplace is a beautifully preserved medieval town on a wine-producing island, with good hiking, beaches, and some of Croatia's best plavac mali red wine."
+    ],
+    "visaInfo": [
+      "Croatia joined the EU Schengen Area on 1 January 2023 — EU/EEA citizens travel freely with passport or national ID card",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; passport must be valid for the duration of stay (no 6-month rule for Schengen)",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period",
+      "Croatia adopted the Euro (€) on 1 January 2023 — the Croatian Kuna is no longer in circulation",
+      "Note: the Schengen 90-day allowance is shared across all 27 Schengen countries — days spent in other Schengen countries count toward your Croatian allowance"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€) — Croatia adopted the euro in January 2023, replacing the Kuna",
+      "Cards widely accepted in Dubrovnik's restaurants, hotels, and shops; contactless payment standard at most venues in the tourist areas",
+      "Best ATMs: Erste Bank and Addiko Bank ATMs are reliable for foreign cards in Dubrovnik; avoid standalone ATMs near the Old Town gates (higher fees)",
+      "Dubrovnik is one of Europe's most expensive tourist destinations — budget accommodation is limited and restaurants in the Old Town carry a significant premium over nearby towns",
+      "Ferry tickets to the islands (Hvar, Korčula, Mljet) and Bosnia day trips are typically cash-friendly though cards increasingly accepted"
+    ],
+    "simCard": "Hrvatski Telekom (T-Mobile Croatia) has the best coverage in Dubrovnik and across the Dalmatian coast. A1 Croatia is a solid alternative. SIMs are available at the airport, HT or A1 shops on Stradun, and at supermarkets. A 30-day tourist SIM with 20 GB costs around €20. As Croatia is now in the EU, EU SIM cards from other member states work with no roaming charges. eSIM via Airalo works for Croatia.",
+    "emergencyNumbers": {
+      "police": "192",
+      "ambulance": "194",
+      "emergency": "112 (EU standard emergency number)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 7,
+  "localFriendliness": 6
+}

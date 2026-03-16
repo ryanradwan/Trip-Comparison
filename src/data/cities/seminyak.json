@@ -1,0 +1,200 @@
+{
+  "id": "seminyak",
+  "city": "Seminyak",
+  "country": "Indonesia (Bali)",
+  "region": "Southeast Asia",
+  "currency": "IDR",
+  "language": "Indonesian",
+  "description": "Bali's upscale beach strip — world-famous sunset beach clubs, excellent restaurants and spas, infinity pools at every boutique hotel, and a social scene that keeps going long after the sun sets on Petitenget Beach.",
+  "airportCode": "DPS",
+  "shopUrl": null,
+  "foodScene": 8,
+  "beachQuality": 8,
+  "walkability": 3,
+  "nightlife": 7,
+  "safety": 7,
+  "culturalDepth": 4,
+  "transportationEase": 4,
+  "englishFriendliness": 9,
+  "familyFriendliness": 6,
+  "soloFriendliness": 7,
+  "coupleFriendliness": 8,
+  "adventureActivities": 6,
+  "shoppingScene": 8,
+  "wellnessScene": 8,
+  "digitalNomadScore": 6,
+  "visaComplexity": 4,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 50,
+    "mid": 110,
+    "premium": 280
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 27,
+      "rainyDays": 16,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 27,
+      "rainyDays": 15,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 27,
+      "rainyDays": 12,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 27,
+      "rainyDays": 9,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 26,
+      "rainyDays": 7,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 26,
+      "rainyDays": 4,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 26,
+      "rainyDays": 3,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 26,
+      "rainyDays": 3,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 27,
+      "rainyDays": 5,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 27,
+      "rainyDays": 7,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 27,
+      "rainyDays": 12,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 27,
+      "rainyDays": 16,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Seminyak Square area — Central, walkable to beach, restaurants, and shops. Best base for first Bali visit.",
+      "Petitenget — Quieter northern end of Seminyak, top beach clubs (Potato Head, Ku De Ta), slightly more exclusive.",
+      "Oberoi Street (Eat Street) — Dense concentration of restaurants and boutiques, good for evening browsing.",
+      "Batu Belig — Northern extension, fewer tourists, beautiful beach strip, mix of local warungs and upscale villas."
+    ],
+    "areasToAvoid": [
+      "Kuta (just south of Seminyak) — Rowdier, more aggressive hawkers, less safe late at night. Seminyak itself is well managed.",
+      "Seminyak beach at low tide — the beach narrows significantly and sea trash can be an issue in rainy season."
+    ],
+    "scamWarnings": [
+      "Motorbike rental damage claim: return the bike and the owner suddenly 'discovers' fresh scratches that weren't there before. Photograph the entire bike before riding.",
+      "ATM skimmers are common in tourist areas — use ATMs inside banks or major hotels rather than standalone machines.",
+      "Fake prescription glasses/sunglasses at markets presented as designer brands. They're not.",
+      "Villa rental scams via third-party websites — always book through the villa directly or major platforms with verified reviews."
+    ],
+    "airportTransfer": {
+      "cheapest": "Bluebird metered taxi from DPS airport — ~Rp 80,000–100,000 ($5–6), takes 20–30 min to Seminyak.",
+      "fastest": "Grab app from airport (now permitted at DPS) — fixed price ~Rp 70,000–90,000, no haggling.",
+      "recommended": "Grab or Bluebird taxi — both are reliable and metered or app-based. Avoid the touts inside the airport who charge 3x the rate.",
+      "taxiEstimate": "Official metered Bluebird taxi: Rp 80,000–120,000 (~$5–7) to Seminyak depending on traffic."
+    },
+    "tippingEtiquette": [
+      "Service charge (10%) is often added to restaurant and spa bills. Additional tipping of Rp 20,000–50,000 for excellent service is appreciated.",
+      "Massage tips: Rp 20,000–50,000 per therapist is the norm at mid-range spas.",
+      "Never hand anything with your left hand — it's considered unclean in Indonesian culture.",
+      "Be respectful of Balinese Hindu ceremonies — if you encounter a procession or temple offering, stand aside and don't photograph without permission.",
+      "Bargaining at markets is expected — start at 30–40% of asking price. Shopkeepers respect confident negotiators."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Guesthouse Rp 200,000–400,000 | Mid-range hotel Rp 600,000–1,200,000 | Villa Rp 2,000,000–5,000,000",
+      "meals": "Warung rice meal Rp 25,000–40,000 | Café lunch Rp 80,000–150,000 | Restaurant dinner Rp 200,000–500,000",
+      "transport": "Grab motorbike Rp 10,000–20,000 | Grab car Rp 40,000–80,000 | Scooter rental Rp 60,000–80,000/day",
+      "activities": "Surfing lesson Rp 300,000 | Balinese massage (1hr) Rp 100,000–200,000 | Sunset beach club Rp 200,000+ min spend"
+    },
+    "packingTips": [
+      "Lightweight, quick-dry clothing — the humidity is constant at 80–90%.",
+      "Sarong — required for any temple visit, and a practical beach wrap.",
+      "Insect repellent with DEET — dengue fever mosquitoes are active day and night.",
+      "Sunscreen SPF 50+ — the Bali sun is intense and the beach reflects it."
+    ],
+    "bookingStrategy": "Book May–September accommodation 1–2 months ahead — this is peak season with best weather. December–January prices spike for Australian summer holiday crowd. Shoulder months (April, October) offer excellent value.",
+    "localTips": [
+      "Sunset at Petitenget Beach or Seminyak Beach (free) is just as good as paying the beach club minimum spend.",
+      "Babi guling (sucking pig) at a local warung is a Bali ritual — better and cheaper than tourist restaurants.",
+      "The traffic between Seminyak and Kuta/Canggu peaks at 5–7pm. Plan around it or rent a scooter to filter through.",
+      "Potato Head Beach Club for sunset is worth experiencing once — arrive at 4pm to get a spot.",
+      "Villa rentals (2–4 people sharing) often work out cheaper than hotel rooms and include a private pool."
+    ],
+    "bestTimeToVisit": "June–August: dry season, low humidity, reliable sunshine, warm evenings — Bali's best weather window.",
+    "dayTrips": [
+      "Ubud — 90 min inland by car, rice terraces, temples, monkey forest, spiritual heart of Bali, essential contrast to beach life.",
+      "Tanah Lot — 45 min north, dramatic sea temple on a rock, beautiful at sunset, very touristy but genuinely spectacular.",
+      "Nusa Penida — 45-min fast boat from Sanur, dramatic clifftop ocean views, Kelingking Beach, snorkelling with manta rays."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: Visa on Arrival (VoA) for 30 days — $35 USD payable at the VoA counter before immigration at Bali's Ngurah Rai Airport (DPS)",
+      "The 30-day VoA can be extended once for an additional 30 days at the Bali immigration office (Kantor Imigrasi) in Denpasar — total maximum 60 days",
+      "Social Visa (B211A): available in advance for 60 days extendable to 180 days total — requires a sponsor in Indonesia; increasingly popular with digital nomads",
+      "The Bali Tourist Levy: starting mid-2024, a 150,000 IDR (~$10 USD) tourist levy is charged on arrival for foreign visitors entering Bali — pay online at lovebali.baliprov.go.id or at the airport kiosk",
+      "Passport must be valid for at least 6 months beyond your entry date into Indonesia"
+    ],
+    "currencyTips": [
+      "Currency: Indonesian Rupiah (IDR / Rp). The large denominations (50,000; 100,000 IDR) are common — 100,000 IDR is about $6 USD",
+      "Seminyak and Bali generally are increasingly card-friendly in tourist areas — upscale restaurants, spas, and shops accept cards; street warungs (local eateries) and local markets are cash only",
+      "Best ATMs: BNI, Mandiri, and BCA ATMs in Seminyak's Jl. Kayu Aya and Jl. Raya Seminyak are reliable for foreign cards; avoid standalone ATMs with poor rates",
+      "Exchange: authorised money changers in Kuta and Seminyak offer competitive rates; PT Dirgahayu on Jl. Legian is well-regarded; avoid unofficial changers who may short-count",
+      "Avoid dynamic currency conversion at ATMs and always withdraw in IDR"
+    ],
+    "simCard": "Telkomsel (brand: Telkomsel/AS/simPATI) has the best 4G coverage across Bali including the south (Seminyak, Kuta, Uluwatu) and Ubud. Indosat Ooredoo and XL Axiata are good alternatives. Tourist SIMs are available at Ngurah Rai Airport (DPS) arrivals. A 30-day Telkomsel SIM with 50–100 GB costs IDR 100,000–200,000. eSIM via Airalo is a popular and convenient option for Bali.",
+    "emergencyNumbers": {
+      "police": "110",
+      "ambulance": "118",
+      "emergency": "112 (general emergency) / 110 (police) / 118 (ambulance)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 9,
+  "localFriendliness": 8
+}

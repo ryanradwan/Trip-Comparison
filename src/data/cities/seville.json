@@ -1,0 +1,207 @@
+{
+  "id": "seville",
+  "city": "Seville",
+  "country": "Spain",
+  "region": "Europe",
+  "currency": "EUR",
+  "language": "Spanish",
+  "description": "Seville is the passionate soul of Andalusia — a city of flamenco, tapas, and breathtaking Moorish architecture baking under the Andalusian sun. Home to the world's largest Gothic cathedral, the ornate Real Alcázar palace, and a tapas culture so embedded it's practically a sport, Seville rewards slow wanderers who lose themselves in its orange-tree-lined streets and spontaneous flamenco rhythms. The Triana barrio across the Guadalquivir pulses with local life, craft workshops, and some of the city's best ceramic tiles and bars. Just be warned: Seville in July is brutally, magnificently extreme — temperatures routinely crack 40°C, turning the city into a shimmering, siesta-heavy dream that only the most heat-hardened travellers truly relish.",
+  "airportCode": "SVQ",
+  "foodScene": 9,
+  "beachQuality": 0,
+  "walkability": 8,
+  "nightlife": 8,
+  "safety": 8,
+  "culturalDepth": 9,
+  "transportationEase": 7,
+  "englishFriendliness": 6,
+  "familyFriendliness": 7,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 9,
+  "adventureActivities": 5,
+  "shoppingScene": 7,
+  "wellnessScene": 6,
+  "digitalNomadScore": 6,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 60,
+    "mid": 120,
+    "premium": 250
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 12,
+      "rainyDays": 7,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 14,
+      "rainyDays": 6,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 17,
+      "rainyDays": 5,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 20,
+      "rainyDays": 4,
+      "crowdLevel": 8,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 24,
+      "rainyDays": 3,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 29,
+      "rainyDays": 1,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 34,
+      "rainyDays": 0,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 34,
+      "rainyDays": 1,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 28,
+      "rainyDays": 3,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 22,
+      "rainyDays": 5,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 16,
+      "rainyDays": 7,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 12,
+      "rainyDays": 7,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Santa Cruz — the medieval Jewish quarter and the city's most iconic neighbourhood, packed with flower-draped alleys, tapas bars, and easy access to the Alcázar and Cathedral. Stay here for atmosphere but book ahead as it fills fast.",
+      "Triana — the authentic, working-class barrio across the river known for flamenco roots, ceramics workshops, and excellent local bars along Calle Betis with Giralda tower views.",
+      "El Arenal — the old bullfighting district between the Cathedral and the riverfront, great for families and couples who want walkability and a mix of tourist and local bars.",
+      "Alameda de Hércules — Seville's bohemian heart, lined with outdoor café terraces and the best nightlife scene, popular with a younger, arty local crowd.",
+      "Macarena — a gritty, authentic working-class barrio north of the centre offering cheap tapas, the famous Basílica de la Macarena, and a very non-touristy experience."
+    ],
+    "areasToAvoid": [
+      "Tres Barrios / Polígono Sur — the city's most deprived outer districts well south of the centre; no tourist reason to visit and petty crime is higher.",
+      "Around Alameda at 4–6am on weekends — once the clubs empty, pickpockets work the straggling crowds; keep phones and wallets secured.",
+      "Poorly lit back streets of Santa Cruz after midnight — even in this safe city, the narrow alleys attract opportunistic bag-snatchers targeting distracted tourists."
+    ],
+    "scamWarnings": [
+      "The rosemary sprig scam: Women near the Cathedral offer a 'free' sprig of rosemary, then aggressively demand €10+ and grab wrists if you try to leave. Politely refuse all unsolicited gifts.",
+      "Flamenco show upsells: Street promoters outside major sights push cheap flamenco tickets that turn out to include a mandatory expensive drink minimum inside. Buy tickets direct from reputable tablaos like Casa de la Memoria or La Casa del Flamenco.",
+      "Taxi meter tricks: Unlicensed or metered taxis from the airport sometimes 'forget' to start the meter or take long routes. Agree on the fixed airport fare (around €25–30) before getting in, or use the Uber app.",
+      "Three-card monte near tourist squares: Illegal street gambling setups near Plaza Nueva are rigged; bystanders who seem to be winning are plants. Walk away."
+    ],
+    "airportTransfer": {
+      "cheapest": "EA bus line (Especial Aeropuerto) runs every 20–30 minutes from the airport to Puerta de Jerez and the city centre for €4 per person — the best value option.",
+      "fastest": "Taxi takes 15–25 minutes depending on traffic. Fixed airport rate is approximately €25–30 to the city centre.",
+      "recommended": "EA Airport Bus for solo or couple travel — cheap, air-conditioned, drops you centrally. Taxi is better for groups of 3–4 splitting the flat rate.",
+      "taxiEstimate": "€25–30 fixed rate from SVQ to city centre (officially regulated, confirm before boarding)"
+    },
+    "tippingEtiquette": [
+      "Tipping is appreciated but not obligatory in Spain. Rounding up or leaving €1–2 on a tapas bill is standard and well-received.",
+      "In sit-down restaurants, 5–10% is a generous tip; locals often leave only small coins from the change.",
+      "At bars ordering tapas rounds, leaving a small pile of coins (50 cents to €1) per round is common.",
+      "Taxi drivers: round up to the nearest euro; no pressure for more.",
+      "Hotel housekeeping: €1–2 per night left on the pillow is appreciated but entirely optional."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget hostels: €20–35/night in dorms. Mid-range hotels in Santa Cruz: €80–130/night. Boutique hotels with patios: €150–250/night.",
+      "meals": "Tapas at a local bar: €1.50–2.50 per tapa. Set lunch menu (menú del día): €10–14 with wine included. Sit-down dinner: €25–45 per person with drinks.",
+      "transport": "Day metro/bus pass: €5. Taxi across town: €7–10. Bike rental (Sevici): €13.33/week or €1.49 for a single 30-min ride.",
+      "activities": "Alcázar entry: €14.50. Cathedral + Giralda: €12. Flamenco show (reputable tablao): €18–35. Bullfighting museum: €8."
+    },
+    "packingTips": [
+      "Breathable linen or moisture-wicking clothing is essential — cotton feels like a wet blanket in July heat.",
+      "A quality sun hat and SPF 50 sunscreen are non-negotiable from May through September.",
+      "Comfortable walking sandals with arch support — cobblestones are beautiful but unforgiving over long days.",
+      "A light evening layer (light cardigan or scarf) for air-conditioned restaurants and cooler winter evenings.",
+      "A small crossbody bag with a zip closure to deter pickpockets in crowded tourist areas.",
+      "Download the Sevici bike app and Google Maps offline — the city centre is very walkable but bikes are great for reaching Triana or the Parque de María Luisa."
+    ],
+    "bookingStrategy": "Book the Real Alcázar online at least 2–3 weeks in advance during spring (March–May) and Semana Santa / Feria de Abril — tickets sell out completely. Cathedral tickets can be booked a few days ahead outside peak season. Accommodation in Santa Cruz books out during Holy Week (prices triple) — consider Triana or El Arenal as alternatives. For visiting April's Feria de Abril, book 3+ months ahead and expect a 40–60% price premium across all accommodation. September–October and March–April offer the best combination of good weather, manageable crowds, and reasonable prices.",
+    "localTips": [
+      "Seville's tapas culture means free tapas come with drinks at many old-school bars in Triana and Macarena — specifically seek out Bar Las Golondrinas and Bar El Comercio for this tradition.",
+      "The Alcázar gardens are included in admission and are stunning; arrive at opening (9:30am) to experience them without crowds.",
+      "Siesta is real here: many local shops and some restaurants close from 2–5pm, especially in summer. Plan sightseeing around this schedule.",
+      "The Metropol Parasol (Las Setas) offers a rooftop walkway with panoramic city views for €5 — far less visited than the Giralda and worth the detour.",
+      "Rent a Sevici city bike to cycle along the Guadalquivir riverfront to the Parque de María Luisa — one of Spain's most beautiful urban parks, especially in spring.",
+      "In July and August, adjust completely to local hours: nothing happens before 10pm and the city only truly comes alive after midnight when it's bearable outside.",
+      "The free flamenco performances at the Centro Andaluz de Arte Contemporáneo on Sundays are a genuine cultural experience, not a tourist show."
+    ],
+    "bestTimeToVisit": "March to May is ideal — warm, vibrant with orange blossom fragrance, manageable crowds, and the electric energy of Semana Santa (Holy Week) and Feria de Abril. September and October are the underrated sweet spot: summer crowds have thinned, temperatures drop to comfortable 25–28°C, and prices fall. Avoid July and August unless you're genuinely heat-tolerant — temperatures regularly hit 42–44°C and much of the city feels like a beautiful but functioning oven.",
+    "dayTrips": [
+      "Córdoba (45 min by AVE high-speed train): The magnificent Mezquita-Catedral is one of the world's great buildings, and the medieval Jewish Quarter and Alcázar gardens are equally stunning — a perfect full-day trip.",
+      "Cádiz (1.5 hrs by train): Spain's oldest city, sitting on a narrow Atlantic peninsula with dramatic ocean views, great seafood, and a laid-back coastal vibe utterly different from inland Seville.",
+      "Ronda (2 hrs by bus or car): A dramatically sited mountain town split by a deep gorge, with one of Spain's oldest bullrings and sweeping views across Andalusia's white villages.",
+      "Granada (3 hrs by bus or 3 hrs by train): The Alhambra palace complex is one of the world's great architectural achievements — book tickets months in advance and combine with the Albaicín neighbourhood."
+    ],
+    "visaInfo": [
+      "EU/EEA citizens: no visa required — Spain is a full Schengen member with free movement for EU passport holders",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; passport must be valid for the duration of stay",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period; no tourist visa required",
+      "Most other nationalities: consult the Spanish Ministry of Foreign Affairs; many nationalities require a Schengen visa obtained in advance from a Spanish consulate",
+      "The 90-day Schengen allowance is shared across all 27 Schengen member states — time spent anywhere else in Schengen counts against the same quota"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€) — Spain is a eurozone member; no currency exchange needed if arriving from another eurozone country",
+      "Cards are widely accepted in Seville restaurants, hotels, and shops; contactless payment works at most venues",
+      "Best ATMs: use bank-branded ATMs from CaixaBank, Unicaja, or BBVA — avoid tourist-facing standalone ATMs near the Cathedral which add surcharges",
+      "Avoid: dynamic currency conversion (DCC) at card terminals — always choose to pay in euros",
+      "Cash is essential for traditional tapas bars, market stalls, and flamenco entry fees; keep €5–€20 notes handy"
+    ],
+    "simCard": "Movistar, Vodafone Spain, Orange, and MásMóvil are the main Spanish carriers. Tourist SIMs with 15–20 GB data cost €10–20 and include EU roaming — buy at Seville Airport (SVQ) or at carrier stores in the city centre. For instant activation before arrival, Airalo offers Spain eSIMs.",
+    "emergencyNumbers": {
+      "police": "091 (Policía Nacional) or 112 (pan-European)",
+      "ambulance": "112",
+      "emergency": "112"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 8,
+  "localFriendliness": 9
+}

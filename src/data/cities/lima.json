@@ -1,0 +1,201 @@
+{
+  "id": "lima",
+  "city": "Lima",
+  "country": "Peru",
+  "region": "South America",
+  "currency": "PEN",
+  "language": "Spanish",
+  "description": "The culinary capital of Latin America — home to Central, Maido, and Astrid y Gastón, a city where Nikkei fusion was invented, where ceviche is religion, and where a city that looks grey from the plane reveals vibrant life at street level.",
+  "airportCode": "LIM",
+  "shopUrl": null,
+  "foodScene": 9,
+  "beachQuality": 4,
+  "walkability": 6,
+  "nightlife": 7,
+  "safety": 6,
+  "culturalDepth": 8,
+  "transportationEase": 6,
+  "englishFriendliness": 6,
+  "familyFriendliness": 7,
+  "soloFriendliness": 7,
+  "coupleFriendliness": 7,
+  "adventureActivities": 5,
+  "shoppingScene": 7,
+  "wellnessScene": 6,
+  "digitalNomadScore": 7,
+  "visaComplexity": 2,
+  "instagrammability": 7,
+  "budgetTiers": {
+    "budget": 45,
+    "mid": 90,
+    "premium": 220
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 24,
+      "rainyDays": 0,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 25,
+      "rainyDays": 0,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 24,
+      "rainyDays": 0,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 22,
+      "rainyDays": 0,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 19,
+      "rainyDays": 1,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 17,
+      "rainyDays": 2,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 16,
+      "rainyDays": 2,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 16,
+      "rainyDays": 2,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 17,
+      "rainyDays": 1,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 18,
+      "rainyDays": 0,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 20,
+      "rainyDays": 0,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 23,
+      "rainyDays": 0,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Miraflores — Tourist hub, cliff top views over the Pacific, safe and walkable, Kennedy Park, excellent restaurants.",
+      "Barranco — Lima's bohemian neighbourhood, street art, craft beer bars, beachside cliffs, art galleries, best nightlife.",
+      "San Isidro — Business and upscale residential, safest area, Central and top restaurants, quieter than Miraflores.",
+      "Surco / Chorrillos — Local neighbourhoods with authentic cheap food, beaches, away from the tourist bubble."
+    ],
+    "areasToAvoid": [
+      "Centro Histórico and La Victoria after dark — petty crime and pickpocketing are common at night.",
+      "Public transport (combis and buses) — confusing, crowded, and notorious for theft. Use Uber or taxis.",
+      "Callao near the port — genuinely dangerous area, no tourist reason to visit."
+    ],
+    "scamWarnings": [
+      "Taxi overcharging: always use Uber, InDriver, or Cabify — Lima has no reliable metered taxis and street cabs charge tourist prices.",
+      "Money changers on the street may give counterfeit bills — exchange currency at your hotel or a bank.",
+      "Restaurant 'tourist menu' traps near the central plaza — walk 2 streets in any direction for half the price.",
+      "Fake police: plain-clothes 'tourist police' who want to check your wallet for counterfeit bills. Real police wear uniforms."
+    ],
+    "airportTransfer": {
+      "cheapest": "Bus (Ejecutivo) from LIM airport to Miraflores — S/2.50, takes 45–90 min depending on traffic. Very unreliable with luggage.",
+      "fastest": "Uber from LIM — S/25–45 ($7–12), takes 30–45 min to Miraflores.",
+      "recommended": "Uber or InDriver app — by far the most convenient and safe. Book inside the arrivals hall using the app.",
+      "taxiEstimate": "Official taxi desk inside airport: S/60–80 to Miraflores. Overpriced but guaranteed safe."
+    },
+    "tippingEtiquette": [
+      "10% tip at restaurants is expected. Check if it's been added as 'servicio' before adding more.",
+      "Tip hotel porters S/3–5 per bag.",
+      "Lima is the culinary capital of the Americas — treat fine dining seriously and book ahead (Central needs 2–3 months notice).",
+      "Never drink tap water in Lima. Bottled water or filtered water at restaurants only.",
+      "Humility and warmth go far — Limeños are proud of their city and appreciate genuine curiosity about Peruvian culture."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm S/30–60 | Budget hotel S/100–180 | Mid-range hotel S/250–500 | Boutique S/600–1,200",
+      "meals": "Ceviche at market S/15–25 | Lunch menu corriente S/12–18 | Restaurant dinner S/50–120 | Central tasting menu S/800+",
+      "transport": "Uber within city S/10–25 | Metropolitano bus S/2.50 | CombiRed bus S/1.50",
+      "activities": "Larco Museum S/30 | Pachacámac ruins S/15 | Paragliding at Miraflores cliffs S/80–150 | Cooking class S/150–250"
+    },
+    "packingTips": [
+      "Light layers — Lima's garúa (coastal fog) means grey, cool days June–November even without rain.",
+      "Sunscreen — the sun breaks through between October and April with intensity at Lima's latitude.",
+      "Cash in soles — smaller restaurants and markets are cash-only.",
+      "A good book — Lima is a fantastic city to slow down in for a few days before or after Machu Picchu."
+    ],
+    "bookingStrategy": "December–April is the sunny season (5–8°C warmer). June–November is the grey season (garúa fog) but prices are lower. Central, Maido and Astrid y Gastón should be booked 4–8 weeks ahead.",
+    "localTips": [
+      "Ceviche for lunch, not dinner — in Lima, ceviche is traditionally a lunch dish and the best cevicherías close at 5pm.",
+      "Mercado Surquillo #1 for the most authentic market — fish, chilis, purple corn, lucuma, cherimoya in one chaotic hall.",
+      "Paragliding from Miraflores cliffs over the Pacific costs S/80–150 and needs no experience — a spectacular way to see the city.",
+      "Barranco's walking bridge (Puente de los Suspiros) at dusk with a pisco sour from a nearby bar is a Lima classic.",
+      "The Larco Museum at night (open until 10pm) has an excellent in-house restaurant and far fewer visitors than during the day."
+    ],
+    "bestTimeToVisit": "December–March: warm, sunny, Lima at its most pleasant. The garúa season (June–November) is grey but excellent for food-focused trips.",
+    "dayTrips": [
+      "Pachacámac — 40 min south, remarkable pre-Inca and Inca ceremonial complex overlooking the Pacific, often overlooked by tourists.",
+      "Chincha — 3.5 hours south, Afro-Peruvian culture, the heartland of Perú Negr music and dance tradition.",
+      "Paracas — 4 hours south, Ballestas Islands boat tour (Galápagos of Peru), Paracas National Reserve desert landscapes."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: no visa required for tourist stays up to 183 days — passport on arrival is sufficient",
+      "On arrival at Jorge Chávez International Airport (LIM) you will receive a tourist card (TAM) — keep this document as it must be surrendered on departure",
+      "Peru does not require a return ticket strictly but immigration may ask — having an onward booking avoids any questions at LIM",
+      "Citizens of neighbouring countries (Bolivia, Brazil, Chile, Ecuador, Colombia) can enter with national identity cards",
+      "Peru does not have a tourist e-visa system — all entry is processed on arrival at the airport"
+    ],
+    "currencyTips": [
+      "Currency: Peruvian Sol (PEN / S/). Notes: 10, 20, 50, 100, 200 PEN",
+      "Lima's Miraflores and Barranco districts are relatively card-friendly; cash essential in local markets, street food areas, and public transport",
+      "Best ATMs: BCP (Banco de Crédito del Perú) and Interbank have reliable service with foreign Visa/Mastercard; Scotiabank has competitive rates for US cards",
+      "Counterfeit notes are a real problem in Peru — inspect S/50 and S/100 bills carefully; use ATMs rather than street changers",
+      "USD is widely accepted in Miraflores tourist areas at an approximate rate — check current Sol/USD rate and confirm you are getting the right change"
+    ],
+    "simCard": "Claro Peru and Movistar have the best 4G coverage in Lima and across Peru's coastal areas. Tourist SIMs are available at Lima Airport (LIM) in the arrivals hall. A 30-day SIM with 15–30 GB costs S/ 40–80. Coverage drops significantly in the Andes and Amazon — Claro has slightly better coverage in highland regions. eSIM via Airalo is a convenient option.",
+    "emergencyNumbers": {
+      "police": "105",
+      "ambulance": "116",
+      "emergency": "911 (national) / 117 (INDECI disaster line)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 9,
+  "localFriendliness": 8
+}

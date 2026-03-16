@@ -1,0 +1,201 @@
+{
+  "id": "ho-chi-minh-city",
+  "city": "Ho Chi Minh City",
+  "country": "Vietnam",
+  "region": "Southeast Asia",
+  "currency": "VND",
+  "language": "Vietnamese",
+  "description": "Vietnam's pulsing economic engine — a city that moves at full throttle day and night, with some of Southeast Asia's best street food, a gripping War Remnants Museum, colonial French architecture, and a rooftop bar scene that makes you forget the motorbike chaos below.",
+  "airportCode": "SGN",
+  "shopUrl": null,
+  "foodScene": 9,
+  "beachQuality": 2,
+  "walkability": 4,
+  "nightlife": 7,
+  "safety": 7,
+  "culturalDepth": 7,
+  "transportationEase": 5,
+  "englishFriendliness": 4,
+  "familyFriendliness": 6,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 7,
+  "adventureActivities": 5,
+  "shoppingScene": 8,
+  "wellnessScene": 5,
+  "digitalNomadScore": 8,
+  "visaComplexity": 4,
+  "instagrammability": 8,
+  "budgetTiers": {
+    "budget": 30,
+    "mid": 65,
+    "premium": 150
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 27,
+      "rainyDays": 3,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 29,
+      "rainyDays": 1,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 31,
+      "rainyDays": 2,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 32,
+      "rainyDays": 4,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 31,
+      "rainyDays": 14,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 30,
+      "rainyDays": 18,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 29,
+      "rainyDays": 20,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 29,
+      "rainyDays": 20,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 29,
+      "rainyDays": 19,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 28,
+      "rainyDays": 14,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 27,
+      "rainyDays": 8,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 27,
+      "rainyDays": 4,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "District 1 (Ben Thanh area) — Tourist centre, best rooftop bars, War Remnants Museum, walking distance to most sights.",
+      "Thảo Điền (District 2) — Expat hub, excellent international restaurants, quieter, across the river from D1.",
+      "Bình Thạnh — Local neighbourhood with fantastic street food, Saigon Zoo, more residential feel.",
+      "District 3 — Trendy Vietnamese cafes, local food scene, less touristy than D1, good mid-range accommodation."
+    ],
+    "areasToAvoid": [
+      "Bùi Viện Street (backpacker street) late at night — bag snatching and drink spiking have been reported.",
+      "Hailing motorbike taxis on the street — use the Grab app only for motorbike (GrabBike) and car rides.",
+      "Leaving valuables visible in outdoor café seating — drive-by bag snatches by motorbike are a real risk."
+    ],
+    "scamWarnings": [
+      "Cyclo (pedicab) price agreement: always agree on the full price for the round trip before you start. Drivers will claim you agreed to $20/hour once you're back.",
+      "Fake lottery ticket sellers approach tourists near Ben Thanh Market — it's a distraction pickpocket technique.",
+      "Dollar exchange rates: hotels and airports offer poor rates. Vietcombank ATMs give good rates. ₫500,000 notes look similar to ₫20,000 — count carefully.",
+      "Taxi overcharging: only use Vinasun (green) or Mailinh (green) metered taxis, or Grab app. Fake 'Vinasun' taxis with altered meters are common."
+    ],
+    "airportTransfer": {
+      "cheapest": "Bus 109 from Tan Son Nhat airport to Ben Thanh Market — ₫20,000 (~$1), takes 40–60 min depending on traffic.",
+      "fastest": "Grab car from SGN — ₫120,000–200,000 (~$5–8) to District 1, takes 20–30 min. Book inside arrivals hall.",
+      "recommended": "Grab app is the safest, most transparent option — price shown upfront, no negotiation, metered.",
+      "taxiEstimate": "Vinasun or Mailinh metered taxi: ₫150,000–250,000 to District 1. Walk to the official taxi rank, ignore all touts."
+    },
+    "tippingEtiquette": [
+      "Tipping is not traditional in Vietnam but increasingly expected in tourist areas. ₫20,000–50,000 at restaurants.",
+      "Massage tip: ₫50,000–100,000 for a 60-minute massage is generous.",
+      "Vietnam is two seasons: dry season (Dec–Apr) is when you want to visit HCMC.",
+      "Motorbike traffic: never step into traffic expecting it to stop — watch how locals cross roads (slow, steady, predictable pace) and copy them.",
+      "The Vietnamese dong (₫) has 6 zeros — always count zeros carefully when paying."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm ₫100,000–200,000 | Guesthouse ₫300,000–600,000 | Mid-range hotel ₫800,000–1,500,000",
+      "meals": "Bánh mì street sandwich ₫30,000–50,000 | Phở bowl ₫50,000–80,000 | Restaurant dinner ₫150,000–400,000",
+      "transport": "Grab car ₫50,000–150,000 | Grab motorbike ₫20,000–50,000 | Bus ₫6,000–20,000",
+      "activities": "War Remnants Museum ₫40,000 | Cu Chi Tunnels tour ₫250,000–400,000 | Cooking class ₫600,000–1,000,000"
+    },
+    "packingTips": [
+      "Lightweight clothing only — HCMC is 28–32°C year-round with high humidity.",
+      "Rain jacket for May–October — daily afternoon downpours are brief but heavy.",
+      "Stomach preparation — Vietnamese street food is outstanding but the bacteria are different. Carry Imodium.",
+      "Grab app pre-installed — do this before you land. It works the moment you connect to airport WiFi."
+    ],
+    "bookingStrategy": "December–March is dry season and the best time to visit. Tết (Vietnamese New Year, late January/February) shuts the city down for 3–5 days — avoid if you want full access to restaurants and attractions.",
+    "localTips": [
+      "Bánh mì from a street cart at 7am is one of Asia's great food experiences. ₫30,000–50,000 for the most flavourful sandwich you'll eat.",
+      "Bùi Viện Street is touristy but the beer is cheap (₫15,000 for a bia hơi draught) and the people-watching is excellent.",
+      "War Remnants Museum is essential but heavy — give yourself 2 hours and don't rush it. One of the most affecting museums in Asia.",
+      "The rooftop bar at Chill Skybar (District 1) has unbeatable Saigon cityscape views at sunset.",
+      "Cu Chi Tunnels: go on a weekday morning for a 90-min bus + tunnel experience — the crowds on weekends make it less impactful."
+    ],
+    "bestTimeToVisit": "December–February: dry, slightly cooler (27°C vs 32°C), manageable humidity.",
+    "dayTrips": [
+      "Cu Chi Tunnels — 40 km northwest, the Viet Cong tunnel network used during the war, extraordinary engineering feat, 90 min by bus.",
+      "Mekong Delta — 90 min south, boat trips through river channels, floating markets, coconut candy factories, lush delta landscape.",
+      "Vũng Tàu — 2 hours by speedboat, seaside resort city, beaches (nothing special), good seafood, escape from city heat."
+    ],
+    "visaInfo": [
+      "E-visa required for most nationalities — apply at evisa.xuatnhapcanh.gov.vn ($25 USD, 90-day single or multiple entry; processed within 3 business days)",
+      "Citizens of Germany, France, Italy, Spain, UK, and certain others receive a 45-day visa exemption — verify your nationality at the Vietnam MFA website",
+      "HCMC (formerly Saigon) is served by Tan Son Nhat Airport (SGN) — the busiest airport in Vietnam; e-visa arrivals are processed at the dedicated e-visa counter",
+      "Visa on arrival is available but requires advance arrangement; e-visa is far simpler for most nationalities",
+      "Passport must be valid for at least 6 months beyond your planned departure from Vietnam"
+    ],
+    "currencyTips": [
+      "Currency: Vietnamese Dong (₫ / VND). The zero count on VND notes can be confusing — 500,000 VND is about $20 USD; 50,000 VND is about $2",
+      "Cash dominates in HCMC outside of shopping malls and international hotels — carry sufficient VND for street food, markets, and xe om rides",
+      "Best exchange: Vietcombank and Techcombank offer competitive rates in the city centre; the Ben Thanh area has reputable licensed exchange offices",
+      "ATMs: Vietcombank and ANZ ATMs work reliably with foreign cards; the standard foreign ATM fee is 40,000–85,000 VND per withdrawal",
+      "Grab (ride-hailing app) is essential for getting around HCMC — accepts cards and far more reliable than street taxis for foreigners"
+    ],
+    "simCard": "Viettel and Mobifone both have strong 4G coverage in Ho Chi Minh City. SIMs are sold at Tan Son Nhat Airport (SGN) arrivals in the Viettel and Mobifone kiosks. A 30-day tourist SIM with 30–60 GB costs 100,000–200,000 VND. eSIM via Airalo is available for Vietnam and useful if you want connectivity immediately on landing.",
+    "emergencyNumbers": {
+      "police": "113",
+      "ambulance": "115",
+      "emergency": "114 (fire) / 113 (police) / 115 (ambulance)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 10,
+  "localFriendliness": 8
+}

@@ -1,0 +1,201 @@
+{
+  "id": "cape-town",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "region": "Africa",
+  "currency": "ZAR",
+  "language": "English/Afrikaans/Xhosa",
+  "description": "The most dramatically beautiful city in the world — Table Mountain rising above the Atlantic, penguin colonies on the beach, vineyards 30 minutes from the CBD, and a food and design scene punching well above its weight.",
+  "airportCode": "CPT",
+  "shopUrl": null,
+  "foodScene": 8,
+  "beachQuality": 7,
+  "walkability": 4,
+  "nightlife": 7,
+  "safety": 5,
+  "culturalDepth": 7,
+  "transportationEase": 5,
+  "englishFriendliness": 9,
+  "familyFriendliness": 7,
+  "soloFriendliness": 6,
+  "coupleFriendliness": 8,
+  "adventureActivities": 9,
+  "shoppingScene": 7,
+  "wellnessScene": 8,
+  "digitalNomadScore": 7,
+  "visaComplexity": 2,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 55,
+    "mid": 110,
+    "premium": 260
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 25,
+      "rainyDays": 4,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 26,
+      "rainyDays": 3,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 24,
+      "rainyDays": 6,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 21,
+      "rainyDays": 7,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 18,
+      "rainyDays": 10,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 15,
+      "rainyDays": 13,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 14,
+      "rainyDays": 14,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 14,
+      "rainyDays": 12,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 16,
+      "rainyDays": 9,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 19,
+      "rainyDays": 7,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 22,
+      "rainyDays": 5,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 24,
+      "rainyDays": 4,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "De Waterkant / Green Point — Gay-friendly, walkable to V&A Waterfront, restaurants, close to beaches, safest area for visitors.",
+      "Atlantic Seaboard (Sea Point, Clifton, Camps Bay) — Stunning ocean-facing strip, upscale restaurants, beach bars, sunset views.",
+      "Gardens / City Bowl — Close to Table Mountain, bohemian cafes, excellent restaurants, great base for first visit.",
+      "Woodstock / Salt River — Emerging creative neighbourhood, art galleries, craft beer, trendy restaurants — excellent for longer stays."
+    ],
+    "areasToAvoid": [
+      "Central CBD at night — empties quickly, isolated streets can be unsafe. Take Uber everywhere after dark.",
+      "Khayelitsha and Mitchells Plain townships without a responsible guided tour — not places for independent wandering.",
+      "Walking alone on isolated mountain paths — always hike with a group or through the cable car in busy periods."
+    ],
+    "scamWarnings": [
+      "Car guards: informal parking attendants will 'watch your car' and expect R5–20 when you return. Paying is safer than not.",
+      "Distraction pickpockets on the V&A Waterfront — tourist areas attract coordinated teams. Keep bags in front.",
+      "Fake injury scams near the taxi rank — someone 'falls' near you and demands compensation for injury. Walk away.",
+      "Wildlife sanctuary tourism: some leopard petting and lion cub encounters involve animals taken from wild populations. Research operators."
+    ],
+    "airportTransfer": {
+      "cheapest": "MyCiTi Bus from CPT airport to central Cape Town / Civic Centre — R100, takes 50–70 min. Runs every 20–30 min.",
+      "fastest": "Uber from CPT — R200–300 ($11–17) to CBD/Waterfront, takes 20–30 min.",
+      "recommended": "Uber for most travellers — straightforward, safe, air-conditioned. MyCiTi for budget solo travellers.",
+      "taxiEstimate": "Registered metered taxi R300–450 to CBD. Avoid informal minibus taxis from the airport — they're for locals who know the routes."
+    },
+    "tippingEtiquette": [
+      "10–15% at restaurants is standard. Service charge is rarely included — tip in cash separately.",
+      "Car guards: R5–10 when you return to your car. They are an informal but important part of neighbourhood safety.",
+      "Hotel staff: R20–50 per day for housekeeping is generous and appreciated.",
+      "South Africa has extreme inequality — your tip is significant. Be generous where you can.",
+      "Never walk alone at night, even in 'safe' areas — always Uber. This is not optional in Cape Town."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm R200–400 | Guesthouse R600–1,200 | Boutique hotel R1,500–3,500 | Villa R5,000+",
+      "meals": "Street bobotie R40–60 | Café lunch R120–200 | Restaurant dinner R250–500 | Fine dining R700+",
+      "transport": "Uber within city R50–150 | MyCiTi bus R20–100 | Table Mountain cable car R420 return",
+      "activities": "Table Mountain cable car R420 | Boulders Beach penguins R220 | Cape Point R380 | Robben Island R650"
+    },
+    "packingTips": [
+      "Layers for summer — the Cape Doctor wind (SE summer wind) is intense and can cool temperatures by 10°C instantly.",
+      "Sunscreen SPF 50+ — the Southern hemisphere sun is fierce and the ozone layer is thinner.",
+      "Good walking shoes for Table Mountain — Platteklip Gorge hike requires proper footwear.",
+      "Fleece for winter (Jun–Aug) — temperatures drop to 8°C and the rain is frequent and heavy."
+    ],
+    "bookingStrategy": "December–February is peak season (school holidays + summer) — book 3–4 months ahead and expect prices 50% higher. November and March offer near-peak weather with substantially lower prices and fewer crowds. Table Mountain cable car books up — buy online.",
+    "localTips": [
+      "Table Mountain sunrise hike via Platteklip Gorge takes 2.5 hours and you'll have it nearly to yourself before 7am.",
+      "Saturday Oranjezicht City Farm Market in De Waterkant: the best artisan food market in the city — arrive hungry.",
+      "Boulders Beach penguins (Boulder's Colony near Simon's Town) is one of the world's great wildlife experiences — accessible by MyCiTi train.",
+      "The Cape Winelands (Stellenbosch, Franschhoek) are 30–45 min drive — rent a car or book a wine tour for the most spectacular vineyard dining.",
+      "Sunset from Signal Hill or Lion's Head is completely free and one of the best views in Africa."
+    ],
+    "bestTimeToVisit": "November or March: 21–24°C, manageable crowds, hotels at 60% of peak price, clear skies for Table Mountain views.",
+    "dayTrips": [
+      "Cape Peninsula — Chapman's Peak Drive, Cape Point, Boulders Beach penguins, circular route in a hire car, full day.",
+      "Stellenbosch & Franschhoek — 40 min drive, world-class wine estates, Huguenot architecture, Cape Dutch farmsteads.",
+      "Whale Watching at Hermanus — 90 min east (July–November), southern right whales breach within metres of the cliffs."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: visa-free entry for 90 days as tourists — a valid passport is all that is required",
+      "South Africa requires your passport to have at least 30 days validity beyond your planned departure date and at least one blank page for the entry stamp",
+      "Children travelling with parents should carry an unabridged birth certificate (especially if only one parent is present) — this is actively enforced at South African borders",
+      "Yellow fever vaccination certificate required if arriving from a country with risk of yellow fever transmission (most of sub-Saharan Africa and parts of South America)",
+      "Apply for an extension at the Department of Home Affairs in Cape Town if you wish to stay beyond 90 days — not easily granted for tourists"
+    ],
+    "currencyTips": [
+      "Currency: South African Rand (ZAR / R). Notes come in R10, R20, R50, R100, R200 denominations",
+      "Cards accepted widely in Cape Town restaurants, shops, and hotels; contactless payment works at most modern venues in the city; cash essential in townships and markets",
+      "Best ATMs: Standard Bank and ABSA ATMs are the most reliable for foreign cards; avoid standalone ATMs in shopping centres (higher fees and card skimming risk)",
+      "Tipping is important in South Africa — built into the culture; 10–15% at restaurants, R20–50 to parking attendants, R50–100 to safari guides",
+      "Beware of card skimming at petrol stations and older standalone ATMs — always use bank-branch ATMs and cover the keypad when entering your PIN"
+    ],
+    "simCard": "Vodacom and MTN are the two dominant carriers in Cape Town — both have excellent 4G coverage in the city, the Cape Peninsula, and the Garden Route. A prepaid tourist SIM with 5–10 GB data costs R50–150 at the airport, supermarkets (Pick n Pay, Checkers), or phone shops. eSIM via Airalo is a good alternative for shorter stays.",
+    "emergencyNumbers": {
+      "police": "10111",
+      "ambulance": "10177",
+      "emergency": "112 (works from all mobile phones, including without a SIM)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 8,
+  "localFriendliness": 8
+}

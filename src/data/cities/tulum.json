@@ -1,0 +1,200 @@
+{
+  "id": "tulum",
+  "city": "Tulum",
+  "country": "Mexico",
+  "region": "Central America",
+  "currency": "MXN",
+  "language": "Spanish",
+  "description": "Mexico's boho-chic playground — clifftop Mayan ruins overlooking Caribbean turquoise, cenote swimming in cathedral-like caves, eco-chic beach clubs, and a wellness scene that has somehow merged ancient rituals with Instagram aesthetics.",
+  "airportCode": "CUN",
+  "shopUrl": null,
+  "foodScene": 7,
+  "beachQuality": 9,
+  "walkability": 3,
+  "nightlife": 7,
+  "safety": 6,
+  "culturalDepth": 4,
+  "transportationEase": 3,
+  "englishFriendliness": 8,
+  "familyFriendliness": 6,
+  "soloFriendliness": 7,
+  "coupleFriendliness": 9,
+  "adventureActivities": 8,
+  "shoppingScene": 6,
+  "wellnessScene": 9,
+  "digitalNomadScore": 5,
+  "visaComplexity": 2,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 80,
+    "mid": 180,
+    "premium": 450
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 25,
+      "rainyDays": 6,
+      "crowdLevel": 8,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 25,
+      "rainyDays": 5,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 26,
+      "rainyDays": 4,
+      "crowdLevel": 9,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 28,
+      "rainyDays": 4,
+      "crowdLevel": 8,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 29,
+      "rainyDays": 6,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 30,
+      "rainyDays": 13,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 30,
+      "rainyDays": 15,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 30,
+      "rainyDays": 16,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 30,
+      "rainyDays": 17,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 28,
+      "rainyDays": 14,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 27,
+      "rainyDays": 9,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 26,
+      "rainyDays": 7,
+      "crowdLevel": 8,
+      "flightPriceIndex": 9
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Tulum Beach (Zona Hotelera) — The famous beach strip, eco-hotels, beach clubs, cenote access. Expensive but what you came for.",
+      "Tulum Town (Pueblo) — Where locals and budget travellers stay, 3km from beach, restaurants and supermarkets, very affordable.",
+      "La Veleta — New development between town and beach, growing restaurant scene, more accessible prices."
+    ],
+    "areasToAvoid": [
+      "Walking alone on the road between town and beach at night — sporadic lighting, occasional incidents.",
+      "Sargassum seaweed months (May–August) can heavily affect some beaches — check current conditions before booking.",
+      "Overly remote cenotes without a guide — some involve cliff jumps or deep dives that require knowledge of the site."
+    ],
+    "scamWarnings": [
+      "Cenote ticket touts: some cenotes have unofficial sellers near the entrance charging above the official rate. Go to the official booth.",
+      "Taxi price gouging from Cancún airport — always pre-book or use the official ADO bus (MXN $200 to Tulum, 2 hours) from CUN.",
+      "Fake shaman ceremonies charging hundreds of dollars — legitimate Mayan ceremonies are community events, not $300 tourist packages.",
+      "Beach club minimum spends not clearly stated — confirm the minimum spend and what's included before sitting down."
+    ],
+    "airportTransfer": {
+      "cheapest": "ADO bus from Cancún airport directly to Tulum bus station — MXN $200–220, takes 2–2.5 hours. Most reliable option.",
+      "fastest": "Private transfer Cancún airport to Tulum Beach — MXN $1,200–1,800 ($60–90), takes 1.5 hours.",
+      "recommended": "ADO bus for solo and couple travellers. Private for families or groups of 4+ splitting the cost.",
+      "taxiEstimate": "Official pre-paid taxi booth in Cancún airport: MXN $1,800–2,200 to Tulum. Avoid unofficial drivers outside the terminal."
+    },
+    "tippingEtiquette": [
+      "10–15% at restaurants is expected. Beach clubs: more generous tipping gets you better service.",
+      "Cenote tour guides: MXN $100–200 per person tip is appropriate.",
+      "Yoga class/retreat instructors: MXN $50–100 tip if you felt it was valuable.",
+      "Tulum has embraced digital nomad culture — English is widely spoken and tipping norms are US-influenced.",
+      "Eco-hotel staff who handle luggage: MXN $50–100 per bag tip is appreciated in remote beachfront hotels."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Town hostel MXN $300–500 | Town guesthouse MXN $600–1,200 | Beach cabana MXN $2,500–6,000 | Eco-hotel MXN $4,000–12,000",
+      "meals": "Town taqueria MXN $60–100 | Beach café breakfast MXN $150–250 | Beach restaurant dinner MXN $350–700",
+      "transport": "Bicycle rental MXN $100–150/day | Collectivo (shared taxi) MXN $30 to Cobá | Taxi town-beach MXN $100–150",
+      "activities": "Tulum ruins MXN $85 | Gran Cenote entry MXN $380 | Snorkelling cenote tour MXN $800–1,200 | Kite surf lesson MXN $1,500"
+    },
+    "packingTips": [
+      "Biodegradable sunscreen — required to enter most cenotes to protect the ecosystem. Non-biodegradable is confiscated.",
+      "Light layers for evenings — the sea breeze can be genuinely cool December–February.",
+      "Sandals with ankle support — the jungle paths to cenotes are rough.",
+      "Reusable water bottle — tap water is unsafe, single-use plastic is destructive to this environment."
+    ],
+    "bookingStrategy": "Book beach accommodation 2–3 months ahead for December–April. Last-minute rates in June–October (rainy/sargassum season) can be 40–50% lower. Cenote visits are best Tuesday–Thursday when weekend crowds are absent.",
+    "localTips": [
+      "Gran Cenote is beautiful and open early — arrive before 9am to swim in crystal clarity before the tour groups arrive.",
+      "Tulum ruins are best at opening time (8am) — you'll have 30 minutes before tour buses from Cancún arrive.",
+      "Cook dinner once at a rental kitchen — beach restaurant prices are genuinely very high.",
+      "Rent a bicycle instead of taxis for the town-to-beach journey — saves MXN $100–150 each way and takes just 20 min.",
+      "Sargassum tracker websites (Google 'Tulum sargassum forecast') let you check seaweed conditions for your travel dates."
+    ],
+    "bestTimeToVisit": "November–April: dry season, clear turquoise water, no seaweed, sea turtles nesting (May–Oct). February–March is the sweet spot before spring break crowds.",
+    "dayTrips": [
+      "Cobá — 45 min by collectivo, climbable Mayan pyramid (one of the last in Mexico you can still climb), jungle setting.",
+      "Sian Ka'an Biosphere Reserve — 30 min south, UNESCO wetlands, sea turtles, manatees, crocodiles, boat tour essential.",
+      "Bacalar Lagoon — 2 hours south, 'Lake of Seven Colors', sailing, kayaking, colonial fort, much quieter than Tulum."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: no visa required for tourist stays up to 180 days — passport on arrival is sufficient",
+      "A tourist card (FMM — Forma Migratoria Múltiple) is issued on arrival at Cancún International Airport (CUN) and must be kept throughout your stay and surrendered on departure",
+      "Tulum is reached from Cancún Airport — 1.5–2 hours by car or shuttle; no separate immigration at Tulum",
+      "Mexico's 180-day tourist stay is one of the most generous in the world — no visa or extension process required for most Western nationalities",
+      "Airlines may request an onward ticket at check-in — book a flexible return to present if asked"
+    ],
+    "currencyTips": [
+      "Currency: Mexican Peso (MXN / $). Tulum is one of Mexico's most expensive tourist destinations — upscale beach clubs and restaurants are priced at premium levels",
+      "USD widely accepted in Tulum's tourist zone (La Zona Hotelera) at roughly the market rate; MXN gives marginally better value at local restaurants and colectivos",
+      "Best ATMs: BBVA and Banorte ATMs in Tulum Pueblo (town) are most reliable for foreign cards; beach zone ATMs charge higher fees",
+      "Cash is essential for cenotes (most charge MXN entry), colectivos (shared vans — cash only), and local taquerias in Tulum Pueblo",
+      "Most upscale beach clubs and hotels in La Zona Hotelera accept cards; confirm before assuming"
+    ],
+    "simCard": "Telcel has the best coverage in and around Tulum, the Riviera Maya, and the Yucatán Peninsula. AT&T Mexico is an alternative. SIMs are available at Cancún Airport (CUN) and at Oxxo convenience stores in Tulum Pueblo. A 30-day Telcel SIM with 30 GB costs MXN 200–350. Mobile signal is limited at more remote cenotes and jungle areas — download offline maps in advance. eSIM via Airalo is available.",
+    "emergencyNumbers": {
+      "police": "911",
+      "ambulance": "911",
+      "emergency": "911 (national emergency number) / 078 (tourist assistance line in Quintana Roo)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 7,
+  "localFriendliness": 8
+}

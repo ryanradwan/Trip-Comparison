@@ -1,0 +1,201 @@
+{
+  "id": "bangkok",
+  "city": "Bangkok",
+  "country": "Thailand",
+  "region": "Southeast Asia",
+  "currency": "THB",
+  "language": "Thai",
+  "description": "Sensory overload at its finest — a megacity of golden temples and rooftop bars, where a Michelin-starred meal and a street pad thai cost the same, and the energy never drops below electrifying.",
+  "airportCode": "BKK",
+  "shopUrl": null,
+  "foodScene": 9,
+  "beachQuality": 2,
+  "walkability": 4,
+  "nightlife": 9,
+  "safety": 7,
+  "culturalDepth": 8,
+  "transportationEase": 6,
+  "englishFriendliness": 7,
+  "familyFriendliness": 7,
+  "soloFriendliness": 9,
+  "coupleFriendliness": 8,
+  "adventureActivities": 6,
+  "shoppingScene": 9,
+  "wellnessScene": 8,
+  "digitalNomadScore": 8,
+  "visaComplexity": 4,
+  "instagrammability": 8,
+  "budgetTiers": {
+    "budget": 35,
+    "mid": 80,
+    "premium": 200
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 28,
+      "rainyDays": 1,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 30,
+      "rainyDays": 1,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 32,
+      "rainyDays": 2,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 34,
+      "rainyDays": 4,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 33,
+      "rainyDays": 12,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 32,
+      "rainyDays": 16,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 31,
+      "rainyDays": 17,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 31,
+      "rainyDays": 18,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 31,
+      "rainyDays": 17,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 29,
+      "rainyDays": 12,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 28,
+      "rainyDays": 5,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 27,
+      "rainyDays": 1,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Sukhumvit (Asok/Phrom Phong) — Modern, expat-friendly, best international restaurants, connected to BTS Skytrain.",
+      "Silom / Sathorn — Business district by day, rooftop bars and LGBT nightlife by night, easy transport links.",
+      "Banglamphu / Khao San Road — Backpacker central, cheap guesthouses, within walking distance of the Grand Palace.",
+      "Ari — Local neighbourhood, boutique cafes, fewer tourists, young Bangkok creative scene, great food."
+    ],
+    "areasToAvoid": [
+      "Accepting rides from tuk-tuk drivers near Wat Pho who offer tours — they take you to gem shops and tailors for commission.",
+      "Patpong night market wallets — pickpocket teams work the narrow lanes, keep bags in front.",
+      "Flooding streets in September — some central areas flood during heavy monsoon rains."
+    ],
+    "scamWarnings": [
+      "Grand Palace 'closed today' scam: friendly man near the palace says it's closed for a ceremony and offers to take you on a tuk-tuk tour instead. The palace is almost never fully closed. Walk past and verify.",
+      "Gem shop scam: tuk-tuk takes you to a 'government gem sale' where you're pressured to buy overpriced stones to 'resell at a profit at home.' There is no profit.",
+      "Taxi meter refusal: some cabs refuse to use the meter and quote fixed prices 3–5x the meter rate. Simply get out and find another cab.",
+      "Jet ski damage scam in coastal areas: jet ski operators claim you damaged the ski and demand thousands of baht. Pay only for documented pre-existing damage."
+    ],
+    "airportTransfer": {
+      "cheapest": "Airport Rail Link (Suvarnabhumi) to Phaya Thai — ฿45, takes 30 min, connects to BTS Skytrain. Budget travellers' choice.",
+      "fastest": "Taxi from Suvarnabhumi — ฿250–400 plus expressway tolls (฿25–75), takes 30–50 min. Use the official taxi queue.",
+      "recommended": "Airport Rail Link for central/Sukhumvit stay. Taxi for Silom, Banglamphu, or late night (rail link closes 12am).",
+      "taxiEstimate": "Metered taxi from Suvarnabhumi: ฿250–400 + ฿50 airport surcharge + expressway tolls. To Khao San Road expect ฿350–500 total."
+    },
+    "tippingEtiquette": [
+      "Tipping is not traditional Thai culture but is now expected in tourist contexts. ฿20–50 at casual restaurants, 10% at nicer places.",
+      "Massage tip: ฿50–100 for a traditional Thai massage, ฿100–200 for oil massage.",
+      "Wai greeting: press palms together and bow slightly. Return a wai when someone gives you one, unless they are significantly younger.",
+      "Never touch anyone's head or point feet at people or religious objects — considered deeply disrespectful.",
+      "Dress modestly at temples — shoulders and knees covered. Many provide sarongs at the entrance."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm ฿200–400 | Guesthouse ฿500–900 | Mid-range hotel ฿1500–3000 | Luxury ฿5000+",
+      "meals": "Street pad thai ฿50–80 | Som tam + sticky rice ฿80 | Restaurant dinner ฿200–600 | Rooftop bar meal ฿800+",
+      "transport": "BTS/MRT single ฿16–59 | Tuk-tuk ฿100–200 | Metered taxi ฿60–150 | Grab app (similar to Uber)",
+      "activities": "Grand Palace ฿500 | Wat Pho ฿200 | Thai massage (1hr) ฿250–400 | Floating market tour ฿800–1500"
+    },
+    "packingTips": [
+      "Light, breathable fabrics only — Bangkok is 30–35°C year-round with high humidity.",
+      "Temple-appropriate clothing — lightweight long trousers or a scarf to wrap around hips.",
+      "Anti-humidity hair products — the humidity is relentless.",
+      "Comfortable sandals — you'll be removing shoes at temples constantly."
+    ],
+    "bookingStrategy": "November to February is peak season with the best weather. Book accommodation 2–3 months ahead for December. Songkran (Thai New Year water festival, mid-April) is chaotic and fun — or stay away entirely if you dislike getting drenched.",
+    "localTips": [
+      "The Chao Phraya river ferry (฿15 per trip) is the fastest way to see the waterfront temples and escape the gridlock traffic.",
+      "Chatuchak Weekend Market (Saturday/Sunday): 15,000 stalls, get there before 11am before the heat becomes unbearable.",
+      "Or Tor Kor market near Chatuchak has the best quality fresh produce and prepared foods in Bangkok — try the mango sticky rice.",
+      "BTS Skytrain is the only way to move efficiently during rush hour. The street grid locks completely 7–9am and 5–7pm.",
+      "7-Eleven and FamilyMart sell genuinely good sandwiches, fruit, and drinks — useful for cheap breakfasts."
+    ],
+    "bestTimeToVisit": "November to February: 27–30°C, dry, low humidity (relatively), perfect weather for temple-hopping.",
+    "dayTrips": [
+      "Ayutthaya — Ancient capital 80 min by train, UNESCO ruins of temple complexes, best hired by bicycle.",
+      "Damnoen Saduak Floating Market — 90 min by minibus, colorful floating vendors, most photogenic 7–9am.",
+      "Kanchanaburi — 2.5 hours by train, Bridge over the River Kwai, WWII history, waterfalls and jungle."
+    ],
+    "visaInfo": [
+      "Most Western nationalities (US, UK, EU, Australia, Canada) receive a visa exemption on arrival — 60 days for many passports as of 2024 policy update; check Thailand's Ministry of Foreign Affairs for your specific nationality",
+      "Thai Tourist Visa (TR) available in advance from Thai embassies for nationalities that require it — 60 days single entry, extendable by 30 days at immigration offices",
+      "Visa on arrival available for select nationalities not covered by exemption — 15 days, 2,000 THB fee, queue at the VOA counter at Suvarnabhumi airport",
+      "Extension of stay: visit any provincial immigration office or the main Bangkok Immigration Bureau — 30-day extensions cost 1,900 THB",
+      "Overstaying your visa carries a 500 THB per day fine (up to 20,000 THB cap) payable on departure — do not overstay"
+    ],
+    "currencyTips": [
+      "Currency: Thai Baht (฿ / THB). Widely accepted; cards work at most hotels, malls, and larger restaurants but street food and markets are cash-only",
+      "Best exchange rates: SuperRich Thailand and Vasu Exchange offices in Bangkok consistently offer the best rates — avoid airport booths which are 5–10% worse",
+      "ATMs: widely available but charge a 220–250 THB foreign withdrawal fee per transaction — withdraw larger amounts to minimise fee impact",
+      "Avoid dynamic currency conversion (DCC) at ATMs and terminals — always choose THB to avoid unfavourable conversion rates",
+      "Kasikorn Bank and Bangkok Bank ATMs tend to have the fewest issues with foreign cards; always notify your home bank before travelling"
+    ],
+    "simCard": "AIS and True Move H offer the best tourist SIMs — available at counters in all terminals at Suvarnabhumi (BKK) and Don Mueang (DMK) airports. A 30-day SIM with 30–100 GB data costs 300–600 THB. AIS has the widest 4G coverage nationwide. For eSIM, Airalo offers Thailand packages from around $10 USD for 15 days.",
+    "emergencyNumbers": {
+      "police": "191",
+      "ambulance": "1669",
+      "emergency": "112 (also works) / 1155 Tourist Police"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 10,
+  "localFriendliness": 9
+}

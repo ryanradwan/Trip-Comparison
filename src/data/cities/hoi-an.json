@@ -1,0 +1,209 @@
+{
+  "id": "hoi-an",
+  "city": "Hoi An",
+  "country": "Vietnam",
+  "region": "Southeast Asia",
+  "currency": "VND",
+  "language": "Vietnamese",
+  "description": "Hoi An is Vietnam's most romantically beautiful town — a perfectly preserved 15th-century trading port where lanterns glow amber over the Thu Bon River, tailors work through the night to deliver bespoke suits in 24 hours, and the scent of white rose dumplings drifts through amber-lit alleyways. The Ancient Town, a UNESCO World Heritage Site, feels almost impossibly photogenic at every turn: yellow-washed merchant houses draped in bougainvillea, Japanese covered bridges, and cycle-riders weaving past silk shops. An Bang Beach is a 15-minute bike ride away, and the surrounding countryside of rice paddies and fishing villages offers an entirely different, quieter Vietnam that most visitors never find.",
+  "airportCode": "DAD",
+  "foodScene": 8,
+  "beachQuality": 5,
+  "walkability": 8,
+  "nightlife": 4,
+  "safety": 8,
+  "culturalDepth": 8,
+  "transportationEase": 5,
+  "englishFriendliness": 7,
+  "familyFriendliness": 7,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 9,
+  "adventureActivities": 5,
+  "shoppingScene": 8,
+  "wellnessScene": 7,
+  "digitalNomadScore": 6,
+  "visaComplexity": 4,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 25,
+    "mid": 55,
+    "premium": 130
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 21,
+      "rainyDays": 14,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 22,
+      "rainyDays": 6,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 24,
+      "rainyDays": 5,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 27,
+      "rainyDays": 4,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 30,
+      "rainyDays": 5,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 32,
+      "rainyDays": 6,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 33,
+      "rainyDays": 7,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 33,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 30,
+      "rainyDays": 11,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 27,
+      "rainyDays": 18,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 24,
+      "rainyDays": 20,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 22,
+      "rainyDays": 15,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Ancient Town — stay here if budget allows for the full Hoi An experience; lantern-lit evenings, walking distance to everything, and the most Instagram-worthy streets in Vietnam",
+      "An Bang Beach village — a more relaxed, local-feeling alternative to the Old Town with excellent seafood restaurants, beach bars, and guesthouses at a fraction of the price",
+      "Cam Nam Island — a quiet island just across the bridge from the Ancient Town, popular with cyclists and long-stay visitors who want peace without sacrificing proximity",
+      "Cua Dai Beach road — lined with mid-range and boutique hotels with pools, a 5-minute bike ride from the Ancient Town and close to the beach",
+      "Cam Chau — the local residential area just beyond the tourist zone with affordable guesthouses, excellent local eateries, and almost no other tourists"
+    ],
+    "areasToAvoid": [
+      "Cua Dai Beach itself has suffered severe erosion and is no longer recommended for swimming or sunbathing — An Bang Beach is far superior",
+      "The Ancient Town at midday in high season (Feb-Apr) becomes extremely crowded and hot — visit in the early morning or after 5pm for the best experience",
+      "Avoid unmarked motorbike taxis near the Ancient Town entrance who approach tourists — use Grab or arrange with your hotel"
+    ],
+    "scamWarnings": [
+      "Tailor scams: Many shops promise high-quality suits or dresses in 24 hours and deliver poorly stitched garments. Use well-reviewed tailors like Yaly Couture, A Dong Silk, or Bebe Tailor — always do a fitting before paying the balance",
+      "Fake lantern festivals: every night is marketed as the Full Moon Lantern Festival by touts — the real festival is once a month and far more spectacular; check the lunar calendar",
+      "Cyclo and rickshaw overcharging: always agree on the price before boarding; the short Ancient Town circuit should cost no more than 50,000-80,000 VND",
+      "Counterfeit goods: the Ancient Town is flooded with fake branded handbags, silk, and artwork — the 'handmade' labels on many silk products are often machine-made polyester blends",
+      "Boat tour touts at the river can charge 5-10x the going rate — book through your hotel or a licensed operator"
+    ],
+    "airportTransfer": {
+      "cheapest": "Shared shuttle bus from Da Nang Airport to Hoi An — around 80,000-120,000 VND (~$3-5), takes 45-60 minutes",
+      "fastest": "Private taxi or Grab car — 30-40 minutes, 250,000-350,000 VND (~$10-14)",
+      "recommended": "Pre-booked hotel shuttle or Grab car — the most straightforward option, fixed pricing, and avoids airport taxi touts. Grab works well from Da Nang Airport",
+      "taxiEstimate": "300,000-400,000 VND (~$12-16) via metered taxi (Vinasun or Mai Linh recommended). The journey is about 30km from Da Nang Airport."
+    },
+    "tippingEtiquette": [
+      "Similar to the rest of Vietnam — tipping is appreciated but not traditional; tourist-facing staff increasingly expect it",
+      "Restaurants: 10% in sit-down restaurants is generous and welcomed; check for service charges already added to the bill",
+      "Street food and market stalls: no tip expected",
+      "Tailor shops: no tip needed, but leaving a good online review is deeply valued by small family businesses",
+      "Cooking class instructors: 50,000-100,000 VND ($2-4) is a kind gesture for a half-day class",
+      "Hotel housekeeping: 20,000-30,000 VND per day left on the pillow is appreciated"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": 12,
+      "meals": 8,
+      "transport": 3,
+      "activities": 4
+    },
+    "packingTips": [
+      "Light, loose cotton or linen clothing — Hoi An is hot and humid most of the year and the Ancient Town has no shade",
+      "Waterproof sandals or quick-dry footwear — the Ancient Town floods during October-November and puddles are everywhere after rain",
+      "A modest cover-up for temple visits — shoulders and knees must be covered at the Assembly Halls and Japanese Bridge",
+      "Bike-friendly outfit or at least a clip for trousers — renting a bicycle is the ideal way to get around",
+      "Cash in VND — many smaller restaurants, market stalls, and tailor deposits require cash; ATMs are available but less frequent outside the tourist zone",
+      "A reusable bag for market shopping and a small daypack for beach trips to An Bang"
+    ],
+    "bookingStrategy": "Hoi An books up quickly between February and April (peak dry season) and during Vietnamese holidays including Tet. Book accommodation 6-8 weeks in advance for these periods. The Ancient Town has a limited number of licensed guesthouses due to preservation rules, so good options go fast. For tailoring, allocate at least 3-4 days minimum for proper fittings — 24-hour turnaround suits are usually rushed. Fly into Da Nang (DAN) rather than any direct Hoi An route; Da Nang has good international connections and the 30km transfer is straightforward. October and November bring serious flooding — check travel advisories if visiting then.",
+    "localTips": [
+      "White Rose dumplings (banh bao vac) are a Hoi An-exclusive dish made by a single family — try them at White Rose Restaurant on Nhi Trung street",
+      "Cao Lau noodles are another Hoi An specialty, made with water from a specific ancient well — authentic versions are only in Hoi An itself",
+      "The Ancient Town is car-free in its core — rent a bicycle (50,000-80,000 VND/day) for the perfect pace of exploration",
+      "The Full Moon Lantern Festival (14th of each lunar month) transforms the Ancient Town into a magical lantern-lit dreamscape — electric lights go off and paper lanterns take over",
+      "Morning market (Cho Hoi An) at 6-8am is where locals shop — an incredible sensory experience and great for cheap fresh fruit and banh mi",
+      "Cooking classes are a highlight of most visitors' trips — The Red Bridge Cooking School and Morning Glory are both consistently excellent",
+      "An Bang Beach is far superior to Cua Dai — hire a bicycle and ride through the rice paddies to get there for a truly beautiful 15-minute journey",
+      "Avoid the Ancient Town entirely between 11am-3pm on sunny days — the narrow lanes become oppressively hot and crowded"
+    ],
+    "bestTimeToVisit": "February through April is the sweet spot — the dry season is in full effect, temperatures are warm but not brutally hot (22-28°C), and the countryside is lush and green. January is also excellent. May through August is hot and sunny with occasional afternoon showers. Seriously avoid October and November: the central Vietnam coast receives its heaviest rainfall during this period, and Hoi An Ancient Town can flood badly, sometimes rendering the ground floors of guesthouses unusable.",
+    "dayTrips": [
+      "My Son Sanctuary — a cluster of ruined Hindu temples built by the ancient Champa kingdom, set among jungle-covered hills 40km from Hoi An; one of Vietnam's most important archaeological sites and easily done as a half-day trip",
+      "Da Nang — Vietnam's most liveable city is just 30km away, offering the spectacular Marble Mountains, Dragon Bridge (breathes fire on weekend evenings), and excellent seafood restaurants along the Han River",
+      "Farming and fishing village bicycle tour — guided half-day cycling tours through Tra Que vegetable village, rice paddies, and local fishing communities give an authentic glimpse of rural central Vietnamese life that few visitors see"
+    ],
+    "visaInfo": [
+      "E-visa required for most nationalities — apply at evisa.xuatnhapcanh.gov.vn ($25 USD, 90-day single or multiple entry)",
+      "Citizens of Germany, France, Italy, Spain, UK, and some other countries receive a 45-day visa exemption — check Vietnam MFA for your nationality",
+      "Hoi An is accessed via Da Nang International Airport (DAD) — approximately 30 km north; no direct international flights to Hoi An",
+      "Your immigration entry is processed at Da Nang airport; Hoi An itself has no immigration controls",
+      "Passport must be valid for at least 6 months beyond your stay in Vietnam"
+    ],
+    "currencyTips": [
+      "Currency: Vietnamese Dong (₫ / VND). Hoi An's Ancient Town vendors and tailor shops quote prices in VND — always confirm whether you are being quoted VND or USD",
+      "Cash is essential for Hoi An's market, lantern shops, bicycle hire, and street food; most tailor shops accept card with a small surcharge",
+      "Best ATMs: Vietcombank and Agribank ATMs on Tran Hung Dao Street in Hoi An work reliably with foreign cards; fee of 40,000–85,000 VND per withdrawal",
+      "Hoi An is one of Vietnam's most popular tourist towns — while cash is still important, more restaurants in the Ancient Town now accept cards than in other Vietnamese cities",
+      "Tailor shops: bring cash to avoid credit card surcharges; get a written receipt with measurements and agreed-upon price before tailoring begins"
+    ],
+    "simCard": "Viettel has the best coverage in central Vietnam including Hoi An and the surrounding beach areas. SIMs are easily bought at Da Nang Airport (DAD) on arrival. A 30-day SIM with 30–60 GB costs 100,000–200,000 VND. The beachfront at An Bang and Cua Dai has good 4G signal. eSIM via Airalo is available if you prefer to set up before flying.",
+    "emergencyNumbers": {
+      "police": "113",
+      "ambulance": "115",
+      "emergency": "114 (fire) / 113 (police) / 115 (ambulance)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 10,
+  "localFriendliness": 9
+}

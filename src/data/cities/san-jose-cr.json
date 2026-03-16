@@ -1,0 +1,210 @@
+{
+  "id": "san-jose-cr",
+  "city": "San José",
+  "country": "Costa Rica",
+  "region": "Central America",
+  "currency": "CRC",
+  "language": "Spanish",
+  "description": "San José is the chaotic, caffeinated capital of one of the world's most biodiverse countries, and most travelers treat it as an unavoidable overnight stop rather than a destination. That's partly fair — the city center is congested, architecturally unremarkable, and best experienced briskly — but dig a little deeper and you'll find excellent coffee culture, a genuinely lively arts scene in Barrio Escalante, world-class food markets, and a population of Ticos who are among the warmest and most educated in Latin America. More importantly, San José is the ideal operational base: within a few hours in any direction lie active volcanoes, cloud forests, Pacific surf breaks, Caribbean beaches, and wildlife reserves. Pura vida isn't just a phrase here — it's a philosophy that genuinely shapes how people move through their days.",
+  "airportCode": "SJO",
+  "foodScene": 5,
+  "beachQuality": 1,
+  "walkability": 5,
+  "nightlife": 5,
+  "safety": 6,
+  "culturalDepth": 5,
+  "transportationEase": 5,
+  "englishFriendliness": 7,
+  "familyFriendliness": 7,
+  "soloFriendliness": 7,
+  "coupleFriendliness": 5,
+  "adventureActivities": 8,
+  "shoppingScene": 5,
+  "wellnessScene": 6,
+  "digitalNomadScore": 7,
+  "visaComplexity": 2,
+  "instagrammability": 5,
+  "budgetTiers": {
+    "budget": 50,
+    "mid": 100,
+    "premium": 230
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 22,
+      "rainyDays": 3,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 23,
+      "rainyDays": 2,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 24,
+      "rainyDays": 2,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 24,
+      "rainyDays": 5,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 23,
+      "rainyDays": 14,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 22,
+      "rainyDays": 18,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 21,
+      "rainyDays": 16,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 21,
+      "rainyDays": 18,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 21,
+      "rainyDays": 18,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 21,
+      "rainyDays": 19,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 21,
+      "rainyDays": 14,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 22,
+      "rainyDays": 5,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Barrio Escalante — San José's hippest neighborhood, lined with craft beer bars, specialty coffee roasters, farm-to-table restaurants, and a genuinely pleasant pedestrian strip (Paseo Gastronómico)",
+      "Los Yoses — adjacent to Escalante, quieter and residential with good mid-range hotels, embassies, and upscale restaurants",
+      "Sabana area — near the national park, safer than downtown, with good hotel options, jogging paths, and proximity to the bus terminals for day trips",
+      "San Pedro — university district with budget accommodation, student energy, and cheaper food options; safe during the day"
+    ],
+    "areasToAvoid": [
+      "Downtown San José after dark — the area around Calle 8 and Avenida Central becomes unsafe at night; petty crime and street harassment increase significantly",
+      "La Merced and surrounding blocks at any hour without purpose — known drug activity and opportunistic crime",
+      "Avoid La Uruca and Alajuelita neighborhoods entirely as a tourist",
+      "Bus terminals (Coca-Cola Terminal area) — incredibly busy and a prime location for pickpockets, especially with luggage"
+    ],
+    "scamWarnings": [
+      "Taxi overcharging: always insist the driver uses the meter (taxímetro or 'maria') — unlicensed taxis (piratas) operate throughout the city and will charge whatever they like",
+      "Airport taxi mafia: avoid all non-official taxi offers outside arrivals; use only the official orange taxis or pre-booked hotel transfers",
+      "Tour operator fronts near Parque Central who sell overpriced or nonexistent excursions — book day trips through your hotel or reputable companies like Desafío or Gray Line",
+      "Money changers on the street offering better rates — they use sleight of hand to short-change you",
+      "Pickpockets on public buses (especially the Alajuela airport bus) — keep bags on your lap and phones in your pocket"
+    ],
+    "airportTransfer": {
+      "cheapest": "Public bus from Juan Santamaría Airport (Alajuela) to downtown San José — around ₡700 CRC (~$1.20 USD), takes 45-60 minutes with a walk to the bus stop",
+      "fastest": "Uber from the airport — 25-35 minutes to most neighborhoods, around $12-18 USD; must be requested once outside the terminal",
+      "recommended": "Uber — safe, price-transparent, reliable, and significantly cheaper than official airport taxis",
+      "taxiEstimate": "$25-35 USD in an official orange taxi with meter; private transfers booked in advance run $20-30"
+    },
+    "tippingEtiquette": [
+      "Restaurants: a 10% service charge (propina) is legally required on all bills in Costa Rica — it's already included, but rounding up for excellent service is appreciated",
+      "Tour guides: $5-10 USD per person per day for excellent guiding is very much welcomed",
+      "Taxi drivers: not obligatory; rounding up the fare is a friendly gesture",
+      "Hotel staff: $1-2 USD per bag for porters; $2-3 per night for housekeeping on longer stays"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": 25,
+      "meals": 15,
+      "transport": 6,
+      "activities": 4
+    },
+    "packingTips": [
+      "Lightweight rain jacket or packable poncho — the green season (May-November) brings afternoon downpours that arrive fast",
+      "Insect repellent with DEET — essential if you're going anywhere outside the city, particularly Pacific or Caribbean lowlands",
+      "Sunscreen SPF 50+ — Costa Rica sits near the equator; UV is intense year-round",
+      "Layers for cloud forest day trips (Monteverde reaches 12-15°C and is perpetually damp)",
+      "Water sandals or quick-dry shoes — useful for waterfall hikes and beach transitions",
+      "Small daypack for excursions — most tour companies provide water but not bags",
+      "USD cash — widely accepted alongside colones; ATMs are plentiful in San José"
+    ],
+    "bookingStrategy": "San José is primarily a transit city, so accommodation options are abundant and rarely sell out. Book 1-2 weeks ahead for most trips; Christmas and New Year (the dry season high) should be booked 4-6 weeks out. More importantly, book your day trips and onward transport early: Monteverde shuttles and Arenal packages fill up during dry season. Direct flights from the US are plentiful — American, United, Delta, Southwest, JetBlue, and Spirit all serve SJO from multiple hubs, making it one of the most accessible Central American capitals.",
+    "localTips": [
+      "Casados at a soda (local diner) are the best value meals in the country — rice, beans, protein, salad, and a drink for $5-7",
+      "The Mercado Central downtown is chaotic but the food stalls inside serve excellent traditional breakfasts (gallo pinto, eggs, tortillas) for under $4",
+      "Café Britt, Starbucks, and chains are everywhere, but specialty coffee from local roasters in Escalante (like Cafeoteca or Roots) is extraordinary — Costa Rica produces exceptional single-origin beans",
+      "Public buses to most major destinations (Arenal, Manuel Antonio, Monteverde) are dramatically cheaper than shuttles and perfectly functional — a shared shuttle to Arenal runs $50; the public bus is $4",
+      "Do not rent a car to explore San José itself — traffic and parking are nightmarish; save the rental for the rest of your trip",
+      "The gold and jade museums near the Plaza de la Cultura are genuinely excellent and cheap — a good half-day on a transit day",
+      "Book the Poás or Irazú volcano day trip from San José — both are within 1.5 hours and the craters are dramatic"
+    ],
+    "bestTimeToVisit": "December through April is the dry season (verano) and the most popular time to visit — warm, sunny, and ideal for all activities. January through March hits the sweet spot of peak weather without holiday surcharges. May and November are transitional months with reasonable weather and lower prices. The green season (May-November) brings lush landscapes and fewer tourists but expect rain every afternoon — mornings are usually clear and activities can proceed normally.",
+    "dayTrips": [
+      "Arenal Volcano — iconic active volcano with hot springs, hanging bridges, and zip-lining; 3-hour drive from San José (better as overnight)",
+      "Manuel Antonio National Park — spectacular Pacific beach combined with wildlife-rich rainforest; sloths, monkeys, and crystal water, 3.5 hours from San José",
+      "Monteverde Cloud Forest — mysterious, mist-shrouded forest with the world's best zip-line canopy tours; 4 hours from San José (partly on rough road)",
+      "Poás Volcano National Park — one of the world's largest active craters, just 1.5 hours from San José; stunning on a clear morning",
+      "Tortuguero National Park — Caribbean canals, jungle river wildlife, and sea turtle nesting (July-October); requires boat and is best as an overnight",
+      "Sarapiquí — white-water rafting on class III-IV rapids through jungle, 2 hours from San José; excellent for adventure day trips"
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: no visa required for tourist stays up to 90 days — passport on arrival is sufficient",
+      "Costa Rica requires proof of onward travel (return ticket or bus ticket to a neighbouring country) — have this ready at immigration",
+      "The 90-day tourist permit can be extended at Migración (immigration) in San José but this is rarely granted — plan your itinerary within the 90-day limit",
+      "Costa Rica is a popular base for travel to Panama, Nicaragua, and the rest of Central America — the 90 days resets if you exit and re-enter (though border guards may note frequent border crossings)",
+      "Entry by land from Panama or Nicaragua: same rules apply; immigration control at land borders can be slow — allow extra time"
+    ],
+    "currencyTips": [
+      "Currency: Costa Rican Colón (CRC / ₡). US Dollars are also widely accepted in tourist areas at a roughly market rate",
+      "Cards accepted at most San José restaurants, hotels, and larger businesses; cash essential for local buses, sodas (local diners), street food, and smaller towns",
+      "Best ATMs: Banco Nacional and Banco de Costa Rica ATMs are most reliable for foreign cards; ATMs in tourist areas run out of cash on weekends — withdraw on weekdays",
+      "USD is a parallel currency in Costa Rica — quote prices in USD for major tourist purchases; check whether you are being quoted CRC or USD",
+      "Tipping: 10% service charge is legally included in Costa Rican restaurant bills; additional tipping is appreciated but not required"
+    ],
+    "simCard": "Kolbi (ICE — the state telecom) has the best coverage across Costa Rica's national parks and rural areas. Claro CR and Movistar CR are strong urban alternatives. Tourist SIMs are available at Juan Santamaría Airport (SJO) arrivals and at ICE/Kolbi shops in San José. A 30-day SIM with 10–20 GB costs CRC 8,000–15,000. eSIM via Airalo works for Costa Rica.",
+    "emergencyNumbers": {
+      "police": "911",
+      "ambulance": "911 or 128 (Cruz Roja)",
+      "emergency": "911 (unified emergency number)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 9,
+  "localFriendliness": 9
+}

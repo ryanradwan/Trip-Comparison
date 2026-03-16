@@ -1,0 +1,213 @@
+{
+  "id": "rome",
+  "city": "Rome",
+  "country": "Italy",
+  "region": "Southern Europe",
+  "currency": "EUR",
+  "language": "Italian",
+  "description": "Rome is not a city you visit — it's a city that happens to you. The Eternal City layers 2,700 years of continuous civilization into a living, breathing, traffic-honking, espresso-sipping present tense. Ancient temples stand beside baroque churches beside Renaissance piazzas beside modernist café terraces, and every cobblestone underfoot has been walked by emperors, popes, artists, and pilgrims. Beyond the Colosseum and Vatican, Rome rewards deeply: the Trastevere neighborhood at dusk, a perfect cacio e pepe at a paper-tablecloth trattoria, the impossible quietude inside the Pantheon at 8am before the crowds arrive.",
+  "airportCode": "FCO",
+  "foodScene": 9,
+  "beachQuality": 2,
+  "walkability": 8,
+  "nightlife": 7,
+  "safety": 7,
+  "culturalDepth": 10,
+  "transportationEase": 7,
+  "englishFriendliness": 7,
+  "familyFriendliness": 8,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 9,
+  "adventureActivities": 5,
+  "shoppingScene": 9,
+  "wellnessScene": 6,
+  "digitalNomadScore": 6,
+  "visaComplexity": 2,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 80,
+    "mid": 160,
+    "premium": 350
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 8,
+      "rainyDays": 9,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 9,
+      "rainyDays": 8,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 12,
+      "rainyDays": 8,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 16,
+      "rainyDays": 7,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 21,
+      "rainyDays": 5,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 26,
+      "rainyDays": 2,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 30,
+      "rainyDays": 1,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 30,
+      "rainyDays": 1,
+      "crowdLevel": 9,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 25,
+      "rainyDays": 4,
+      "crowdLevel": 8,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 19,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 13,
+      "rainyDays": 10,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 9,
+      "rainyDays": 9,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Trastevere — Rome's most atmospheric neighborhood, a maze of medieval lanes with the best traditional trattorias and a vibrant evening scene",
+      "Prati — upscale residential neighborhood just west of the Vatican, quieter and less touristy with good food and great bakeries",
+      "Testaccio — the old working-class slaughterhouse district, now the best neighborhood for authentic Roman food and the city's food market",
+      "Pigneto — Rome's creative, slightly rough-around-the-edges east side — the city's Brooklyn, with natural wine bars and independent cinemas",
+      "Monti — the fashionable village within the city, between the Colosseum and Termini, with vintage shops, aperitivo bars, and boutique hotels"
+    ],
+    "areasToAvoid": [
+      "Termini train station area at night — concentrated pickpocketing and aggressive touts, especially around the taxi rank",
+      "Via Nazionale and surroundings late at night — poorly lit and uncomfortable",
+      "Be extremely cautious with bags and phones at the Colosseum, Trevi Fountain, and Roman Forum — pickpockets operate in teams",
+      "Avoid restaurants with plastic-wrapped menus and photos — tourist traps near every major monument"
+    ],
+    "scamWarnings": [
+      "Gladiator costumed men near the Colosseum demand payment for photos — €10-20 before you know it, and they become aggressive if you don't pay",
+      "Roses for your partner: men will thrust roses into your hands near the Trevi Fountain then demand €10+ each",
+      "Taxi overcharging is rampant — fixed rates apply from both airports (FCO: €50 to city center, CIA: €31), always confirm before getting in",
+      "Friendship bracelet men near the Spanish Steps — they tie the bracelet on your wrist then demand €20",
+      "Restaurants near tourist sites often add 'coperto' (cover charge) of €3-5 per person — it should be disclosed on the menu",
+      "Counterfeit goods sellers near monuments are conducting illegal activity — do not purchase from them"
+    ],
+    "airportTransfer": {
+      "cheapest": "Leonardo Express train from FCO to Roma Termini — €14, takes 32 minutes, runs every 15 minutes 6am-11pm",
+      "fastest": "Taxi — fixed rate €50 from FCO to anywhere within the Aurelian Walls, 35-60 minutes depending on traffic",
+      "recommended": "Leonardo Express — reliable, fixed price, central arrival at Termini station. Book online to save a few euros",
+      "taxiEstimate": "Fixed rate €50 from Fiumicino (FCO) to city center; €31 from Ciampino (CIA). Agree before you get in."
+    },
+    "tippingEtiquette": [
+      "Tipping is not obligatory in Italy but is appreciated at sit-down restaurants — leave €1-2 per person or round up",
+      "The coperto (cover charge of €2-5 per person) is not a tip — it goes to the restaurant",
+      "Never tip at a coffee bar — it's considered unusual and slightly insulting to the barista's professionalism",
+      "Taxi drivers: round up or add €1-2 for good service",
+      "Tour guides: €5-10 per person for a well-led group tour is standard"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": 50,
+      "meals": 20,
+      "transport": 5,
+      "activities": 5
+    },
+    "packingTips": [
+      "Extremely comfortable walking shoes — Rome's ancient basalt cobblestones (sanpietrini) are beautiful but hard on feet",
+      "Modest clothing for basilicas and the Vatican — shoulders and knees must be covered (no exceptions, enforced at the door)",
+      "A small belt bag worn at the front — pickpockets in Rome are among the most skilled in Europe",
+      "Refillable water bottle — Rome's 2,500 nasoni (public drinking fountains) dispense free, cold, excellent drinking water",
+      "Sunscreen and sun hat for summer — Rome in July is brutal",
+      "A compact portable charger — Rome days often exceed 15,000 steps"
+    ],
+    "bookingStrategy": "Rome has no true off-season — Christmas and Easter are nearly as crowded as summer. The best value months are January/February and November. Book the Vatican Museums and Sistine Chapel online (€17-21 + €4 online fee) weeks in advance — walk-up queues can exceed 3 hours. The Colosseum (€16 + booking fee) now requires timed entry — book at least a week ahead in shoulder season, a month ahead in summer. Accommodation near the center starts around €80-100/night for a decent double in a family-run guesthouse. Flying into Rome: Ryanair uses Ciampino (CIA, 30km from center), most other airlines use Fiumicino (FCO, 30km in the other direction).",
+    "localTips": [
+      "The Pantheon (free Monday mornings, €5 other times) is best at 8am when it opens — by 10am there's a queue",
+      "Eat gelato only from shops where the gelato is stored in covered metal tubs, not piled in colorful mounds — the mounds are for show",
+      "A 48-hour Roma Pass (€32) covers public transit and includes free entry to 2 museums — good for museum-heavy days",
+      "Borghese Gallery requires advance reservations and limits visitors — one of Rome's finest collections, far less crowded than the Vatican",
+      "Eat your coffee standing at the bar like a Roman — it costs less and is the authentic way",
+      "The Via Appia Antica (ancient Appian Way) on Sunday mornings is closed to traffic — rent a bike or walk past 2,000-year-old tombs",
+      "Testaccio Market (Mercato Testaccio) is Rome's best food market — arrive before noon for fresh produce, cheese, and prepared food",
+      "The Janiculum Hill (Gianicolo) has the best panoramic view of Rome's rooftops and domes — few tourists and completely free"
+    ],
+    "bestTimeToVisit": "April through early June and mid-September through October represent the ideal windows — pleasant temperatures (16-26°C), manageable crowds compared to summer, and the best light for photography. November through February is significantly cheaper and far less crowded, though some sites have reduced hours. Absolutely avoid Rome in late July and August if you can: temperatures regularly exceed 35°C, the city smells, and crowds at monuments are overwhelming.",
+    "dayTrips": [
+      "Tivoli — Renaissance Villa d'Este with spectacular fountains and ancient Hadrian's Villa ruins, 1 hour by train or bus",
+      "Orvieto — dramatic hilltop Umbrian city with an extraordinary cathedral, 1 hour by train from Roma Termini",
+      "Pompeii & Herculaneum — ancient cities preserved under Vesuvius's ash, 2.5 hours by train, the greatest day trip in Italy",
+      "Civita di Bagnoregio — the 'dying city' on a crumbling volcanic plateau, one of Italy's most dramatic sights, 2 hours by bus",
+      "Ostia Antica — Rome's ancient port city, extensive ruins that rival Pompeii with virtually no crowds, 30 minutes by train",
+      "Naples — Italy's most intense and rewarding city, 1 hour 10 minutes by high-speed train"
+    ],
+    "visaInfo": [
+      "EU/EEA citizens: no visa required — Italy is a full Schengen member with free movement for EU passport holders",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; passport must be valid for the duration of stay",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period; no tourist visa required",
+      "Most other nationalities: consult the Italian Ministry of Foreign Affairs; many nationalities require a Schengen visa obtained in advance from an Italian consulate",
+      "The 90-day Schengen allowance is shared across all 27 Schengen member states — time spent in France, Spain, or any other Schengen country counts against the same quota"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€) — Italy is a eurozone member; no currency exchange needed if arriving from another eurozone country",
+      "Cards are widely accepted in Rome restaurants, hotels, and shops; contactless payment is standard at most modern venues",
+      "Best ATMs: use bank-branded ATMs from UniCredit, Intesa Sanpaolo, or BNL — avoid standalone tourist ATMs near monuments which charge high surcharges",
+      "Avoid: dynamic currency conversion (DCC) at card terminals — always choose to pay in euros to avoid poor exchange rates",
+      "Cash is useful for small trattorias, street food, markets, and tipping; keep €5 and €10 notes handy"
+    ],
+    "simCard": "TIM (Telecom Italia Mobile), Vodafone Italy, WindTre, and Iliad are the main carriers. Tourist SIMs with 10–20 GB data cost €10–25 and include EU roaming — buy at carrier stores near Roma Termini or at Fiumicino Airport (FCO) Arrivals. For instant connectivity before landing, Airalo offers Italy eSIMs with easy activation.",
+    "emergencyNumbers": {
+      "police": "113 (Polizia di Stato) or 112 (pan-European)",
+      "ambulance": "118",
+      "emergency": "112"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 7,
+  "localFriendliness": 7
+}

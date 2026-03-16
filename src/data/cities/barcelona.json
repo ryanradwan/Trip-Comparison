@@ -1,0 +1,203 @@
+{
+  "id": "barcelona",
+  "city": "Barcelona",
+  "country": "Spain",
+  "region": "Southern Europe",
+  "currency": "EUR",
+  "language": "Spanish/Catalan",
+  "description": "A city that somehow does everything brilliantly — Gaudí architecture, world-class beaches, Europe's best nightlife, incredible food markets, and a creative energy that keeps you up until dawn.",
+  "airportCode": "BCN",
+  "shopUrl": "https://thenextstamptravelco.com/product/4-days-in-barcelona/",
+  "foodScene": 9,
+  "beachQuality": 7,
+  "walkability": 9,
+  "nightlife": 10,
+  "safety": 7,
+  "culturalDepth": 9,
+  "transportationEase": 9,
+  "englishFriendliness": 7,
+  "familyFriendliness": 7,
+  "soloFriendliness": 9,
+  "coupleFriendliness": 9,
+  "adventureActivities": 7,
+  "shoppingScene": 9,
+  "wellnessScene": 7,
+  "digitalNomadScore": 8,
+  "visaComplexity": 2,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 80,
+    "mid": 160,
+    "premium": 350
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 10,
+      "rainyDays": 6,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 11,
+      "rainyDays": 5,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 13,
+      "rainyDays": 6,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 16,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 19,
+      "rainyDays": 6,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 23,
+      "rainyDays": 4,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 26,
+      "rainyDays": 2,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 27,
+      "rainyDays": 3,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 24,
+      "rainyDays": 6,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 19,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 14,
+      "rainyDays": 6,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 11,
+      "rainyDays": 6,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "El Born / Sant Pere — Trendy, walkable, best tapas bars and wine spots, close to Picasso Museum and Barceloneta beach.",
+      "Gràcia — Bohemian, local neighbourhood with Parisian square vibes, fewer tourists, great independent restaurants.",
+      "Eixample — Gaudí central (Sagrada Família, Casa Batlló), wide boulevards, LGBTQ+-friendly, best mid-range hotels.",
+      "Barceloneta — Beach neighbourhood, great for beach access and seafood, touristy but fun in summer."
+    ],
+    "areasToAvoid": [
+      "Las Ramblas at night — pickpocket teams are professional and relentless, especially around the middle section.",
+      "El Raval south of Carrer de l'Hospital after midnight — still gentrifying, rough edges late at night.",
+      "Barceloneta beach with valuables — bag snatching from sunbathers is common, never leave anything on the sand."
+    ],
+    "scamWarnings": [
+      "Shell game scams on Las Ramblas — seemingly friendly crowd watching a street game are all in on it. You will lose money.",
+      "Unlicensed taxis outside nightclubs quote fixed prices that are 5–10x the meter rate. Use the Cabify or Uber app instead.",
+      "The 'friendship bracelet' hustle — someone ties a bracelet on your wrist without asking then demands payment. Walk away firmly.",
+      "Fake police officers asking to check your wallet for counterfeit bills — real police never do this. Walk away and call 112."
+    ],
+    "airportTransfer": {
+      "cheapest": "Aerobus from Terminal 1 or T2 to Plaça Catalunya — €6.75 single, runs every 5 min, takes 35 min. Buy online to save queuing.",
+      "fastest": "Taxi from airport — €35–45 fixed rate to city centre, takes 25–35 min depending on traffic.",
+      "recommended": "Aerobus for solo travellers or couples — fast, cheap, drops at Plaça Catalunya which is central to everything. Taxi for families or late-night arrivals.",
+      "taxiEstimate": "Official taxi €35–45 fixed rate to Barcelona centre. All taxis from the airport are metered or use the fixed zone tariff."
+    },
+    "tippingEtiquette": [
+      "Tipping is not obligatory but appreciated. Round up the bill or leave €1–2 at restaurants — 10% for excellent service.",
+      "Bars and cafes: no tipping expected for quick drinks, small coins welcome if you're a regular.",
+      "Catalans speak Catalan first — greet with 'Bon dia' (morning) or 'Bona tarda' (afternoon) to earn instant goodwill.",
+      "Spanish dinner time is 9–10pm. Arriving before 8:30pm marks you as a tourist; restaurants may not even be open.",
+      "Avoid photographing people in markets (Boqueria) without asking — many vendors find it disrespectful."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm €22–35 | Mid-range hotel €90–160 | Boutique hotel €180–350",
+      "meals": "Menú del día (3-course lunch) €11–16 | Tapas dinner €20–35 | Fine dining €70+",
+      "transport": "Metro single €2.55 | T-Casual 10-trip card €11.35 | Taxi across city €8–14",
+      "activities": "Sagrada Família €26–32 | Casa Batlló €35 | Picasso Museum €12 | Camp Nou tour €26"
+    },
+    "packingTips": [
+      "Anti-theft crossbody bag — pickpockets target tourists on Las Ramblas and the Metro.",
+      "Light layers for evenings — even in summer, a light jacket for after-midnight terrace bars.",
+      "Comfortable walking shoes — Barcelona's grid is very walkable but the Gothic Quarter cobblestones are tough on feet.",
+      "Swimwear and SPF 50 — Barceloneta beach is steps from the centre."
+    ],
+    "bookingStrategy": "Book Sagrada Família and Casa Batlló tickets 2–3 months in advance for July/August — they sell out completely. Best time to visit is May or October for weather and manageable crowds. Book accommodation in El Born or Eixample for best access.",
+    "localTips": [
+      "La Boqueria is overhyped and overpriced — walk 5 minutes to Mercat de Sant Antoni or Mercat de l'Abaceria for an authentic market experience.",
+      "Vermouth (vermut) culture: Sunday vermouth at noon in El Born or Poble Sec is a Barcelona ritual — Bar Calders in Poble Sec is a local favourite.",
+      "Barceloneta beach gets impossibly crowded in July/August. Head to Mar Bella or Nova Icaria beach instead — less touristy, same sand.",
+      "Nightlife doesn't start until midnight. Clubs peak at 2–4am. Pre-drink at a bar, arrive at clubs at 1:30am minimum.",
+      "The free Bus Turístic viewpoints at Tibidabo and Park Güell are spectacular but skip the official Park Güell at peak hours — book the ticketed section online."
+    ],
+    "bestTimeToVisit": "May or October: 19–23°C, beaches open, events on, hotels 30% cheaper than summer peak, manageable crowds.",
+    "dayTrips": [
+      "Montserrat — Dramatic mountain monastery an hour by train, extraordinary rock formations, hiking trails above the clouds.",
+      "Sitges — Gay-friendly beach town 35 min by train, beautiful old town, excellent seafood, perfect day escape from the city.",
+      "Penedès wine region — 45 min by train to Vilafranca, Catalan wine country, cava tastings, vineyard tours.",
+      "Tarragona — Roman amphitheatre and old city walls on the Costa Daurada, 1 hour by train, dramatically undervisited.",
+      "Girona — medieval Jewish quarter, colourful houses over the Onyar river, Game of Thrones filming location, 40 minutes by high-speed train."
+    ],
+    "visaInfo": [
+      "EU/EEA citizens: no visa required — Spain is a full Schengen member with free movement for EU passport holders",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; passport must be valid for the duration of stay",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period; no tourist visa required",
+      "Most other nationalities: consult the Spanish Ministry of Foreign Affairs; many nationalities require a Schengen visa obtained in advance from a Spanish consulate",
+      "The 90-day Schengen allowance is shared across all 27 Schengen member states — time in any other Schengen country counts against the same quota"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€) — Spain is a eurozone member; no currency exchange needed if arriving from another eurozone country",
+      "Cards are widely accepted in Barcelona restaurants, hotels, and shops; contactless payment is universal at most venues",
+      "Best ATMs: use bank-branded ATMs from CaixaBank, BBVA, or Sabadell — avoid standalone tourist ATMs near Las Ramblas which charge high surcharges",
+      "Avoid: dynamic currency conversion (DCC) at card terminals — always choose to pay in euros",
+      "Cash is useful for smaller tapas bars, market stalls, and the Boqueria; keep €5–€20 notes handy"
+    ],
+    "simCard": "Movistar, Vodafone Spain, Orange, and MásMóvil are the main Spanish carriers. Tourist SIMs with 15–20 GB data cost €10–20 and include EU roaming — buy at Barcelona El Prat Airport (BCN) Arrivals or at carrier stores on Las Ramblas and Passeig de Gràcia. For instant activation before arrival, Airalo offers Spain eSIMs.",
+    "emergencyNumbers": {
+      "police": "091 (Policía Nacional) or 112 (pan-European)",
+      "ambulance": "112",
+      "emergency": "112"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 7,
+  "localFriendliness": 7
+}

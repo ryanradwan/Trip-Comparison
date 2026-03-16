@@ -1,0 +1,209 @@
+{
+  "id": "porto",
+  "city": "Porto",
+  "country": "Portugal",
+  "region": "Southern Europe",
+  "currency": "EUR",
+  "language": "Portuguese",
+  "description": "Porto is Portugal's beating northern heart — a granite-and-azulejo city tumbling down steep hillsides to the Douro River, where port wine cellars age in Vila Nova de Gaia and fishermen still dry bacalhau on wooden racks. Less polished than Lisbon and prouder of it, Porto rewards slow exploration: wandering through Bonfim's faded neoclassical streets, nursing a Super Bock in a hole-in-the-wall taberna, or watching the sun set over the Douro from the Ribeira waterfront. It has quietly become one of Europe's great cities without ever trying to be one.",
+  "airportCode": "OPO",
+  "foodScene": 8,
+  "beachQuality": 3,
+  "walkability": 9,
+  "nightlife": 5,
+  "safety": 9,
+  "culturalDepth": 8,
+  "transportationEase": 7,
+  "englishFriendliness": 7,
+  "familyFriendliness": 7,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 9,
+  "adventureActivities": 5,
+  "shoppingScene": 7,
+  "wellnessScene": 6,
+  "digitalNomadScore": 8,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 45,
+    "mid": 100,
+    "premium": 220
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 9,
+      "rainyDays": 14,
+      "crowdLevel": 2,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 10,
+      "rainyDays": 12,
+      "crowdLevel": 2,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 12,
+      "rainyDays": 12,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 14,
+      "rainyDays": 9,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 17,
+      "rainyDays": 7,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 21,
+      "rainyDays": 4,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 24,
+      "rainyDays": 2,
+      "crowdLevel": 9,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 25,
+      "rainyDays": 2,
+      "crowdLevel": 9,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 22,
+      "rainyDays": 4,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 17,
+      "rainyDays": 9,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 13,
+      "rainyDays": 12,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 10,
+      "rainyDays": 14,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Bonfim — the new creative heart of Porto, with independent coffee shops, galleries, and wine bars, authentic and affordable",
+      "Ribeira — the UNESCO-listed riverside quarter, romantic at night, best explored early morning without crowds",
+      "Cedofeita — bohemian and artsy, lined with independent bookshops, vintage stores, and casual restaurants",
+      "Foz do Douro — upscale Atlantic-facing neighborhood with ocean walks, seafood restaurants, and a relaxed pace",
+      "Miragaia — between Ribeira and Massarelos, quieter and more residential with excellent local tascas"
+    ],
+    "areasToAvoid": [
+      "Campanhã train station area at night — poorly lit and isolated after dark",
+      "Some parts of Bonfim near the ring road late at night, though generally safe",
+      "Avoid driving in central Porto — the narrow one-way streets and hills make it extremely frustrating"
+    ],
+    "scamWarnings": [
+      "Port wine tasting touts on the Ribeira waterfront sometimes lead to overpriced cellars — book direct with Graham's, Taylor's, or Sandeman",
+      "Unlicensed tuk-tuks charge wildly inflated prices — always agree on the fare before getting in",
+      "Fake 'student' sellers near the university pushing overpriced trinkets",
+      "Some pastéis de nata shops near tourist sites charge 3-4x the local price — look for places with menus in Portuguese"
+    ],
+    "airportTransfer": {
+      "cheapest": "Metro Line E (Violet) direct to city center — €2.00, takes about 35 minutes to Trindade station",
+      "fastest": "Uber or Bolt — 20-25 minutes to most central neighborhoods, €12-18",
+      "recommended": "Metro is excellent value and drops you central — buy a Andante card (€0.60) and load a 24-hour pass (€7.00)",
+      "taxiEstimate": "€20-30 to city center, fixed rate from airport applies"
+    },
+    "tippingEtiquette": [
+      "Tipping is not culturally expected but is genuinely appreciated",
+      "Round up or leave 5-10% in restaurants for good service",
+      "At tascas and tascas, leaving coins on the table is common",
+      "No tipping expected at cafés and pastelerias",
+      "Hotel concierge: €2-5 for restaurant reservations or special requests"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": 25,
+      "meals": 12,
+      "transport": 4,
+      "activities": 4
+    },
+    "packingTips": [
+      "Sturdy non-slip shoes — Porto's granite cobblestones are steeper and more slippery than Lisbon's",
+      "Layers and a rain jacket year-round — Porto is wetter and windier than southern Portugal",
+      "Compact umbrella — the Atlantic climate means brief rain showers even in summer",
+      "Comfortable daypack for the many staircase climbs and miradouros",
+      "Camera or quality phone camera — the azulejo tile facades and Douro light are extraordinary"
+    ],
+    "bookingStrategy": "Porto is significantly more affordable than Lisbon and easier to book at shorter notice outside summer. June through August requires 4-6 weeks advance booking for guesthouses in Bonfim or Ribeira. The NOS Primavera Sound festival in June attracts large crowds — check dates. Accommodation in Vila Nova de Gaia (across the bridge) is cheaper and still well-located. Ryanair and easyJet connect Porto (OPO) directly to dozens of European cities at budget prices.",
+    "localTips": [
+      "Eat a francesinha (the local beer-and-meat sandwich in spicy sauce) at Café Santiago — it's messy, heavy, and essential",
+      "Take the tram (Line 1) along the river from Infante to Foz for €3.50 — the most scenic ride in Portugal",
+      "The São Bento train station interior has 20,000 azulejo tiles depicting Portuguese history — free to enter",
+      "Livraria Lello bookshop is worth seeing (€8 entry, redeemable on book purchase) — arrive before 10am to beat crowds",
+      "Cross the Dom Luís I Bridge upper level for the best city panorama — it's free and the Douro views are stunning",
+      "Sunday morning Mercado do Bom Sucesso is excellent for local cheeses, smoked meats, and fresh bread",
+      "Quinta do Crasto and Ramos Pinto offer excellent port wine tastings in Vila Nova de Gaia for €10-15",
+      "Grab a glass of vinho verde (young white wine) with lunch — it's refreshing, local, and usually under €2"
+    ],
+    "bestTimeToVisit": "May through June and September are peak value months — warm, relatively dry, with manageable crowds. July and August bring the best weather but also the most visitors. Porto in winter (November–February) is cool and rainy but remarkably atmospheric and cheap — very few tourists, locals reclaim their city, and prices drop 30-40%.",
+    "dayTrips": [
+      "Douro Valley wine country — stunning terraced vineyards along the river, best by train from São Bento (2 hours, €12)",
+      "Braga — Portugal's religious capital with a stunning baroque staircase (Bom Jesus) and excellent local food, 1 hour by train",
+      "Guimarães — UNESCO medieval city, birthplace of Portugal, well-preserved castle and historic center, 1 hour by train",
+      "Aveiro — the 'Portuguese Venice' with moliceiro boats and art nouveau architecture, 1 hour by train",
+      "Viana do Castelo — beautiful riverside city with a hilltop sanctuary and Atlantic beaches, 1.5 hours by train",
+      "Peneda-Gerês National Park — the only national park in Portugal, dramatic mountains and wild camping, 1.5 hours by car"
+    ],
+    "visaInfo": [
+      "EU/EEA citizens: no visa required, free movement within Schengen — Portugal is a full Schengen member",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; passport must be valid for the full duration of stay",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period; no advance visa needed",
+      "Most other nationalities: consult the Portuguese SEF website; Indian, Chinese, and many African nationals require a Schengen visa in advance from the Portuguese consulate",
+      "The 90-day Schengen allowance is shared across all 27 Schengen member states — time spent elsewhere in Europe counts against your Portugal allowance"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€) — Portugal is a eurozone member; no currency exchange needed if arriving from another euro country",
+      "Cards are widely accepted in Porto restaurants, shops, and hotels; contactless and mobile payments work at most modern businesses",
+      "Best ATMs: use Multibanco (blue machines) — the standard network with no local surcharge; your home bank may still charge international fees",
+      "Avoid: dynamic currency conversion at ATMs — always select 'pay in euros' to avoid markup rates of 3–8%",
+      "Cash is useful for local tascas, market stalls, and tipping; €5–€10 notes are the most practical denominations"
+    ],
+    "simCard": "NOS, MEO, and Vodafone Portugal are the main carriers. Tourist SIMs with 10–15 GB data cost €10–20 and include EU roaming coverage — buy at the airport or any carrier store in Porto city centre. The Porto airport (OPO) has NOS and MEO kiosks in Arrivals. For a pre-arrival option, Airalo offers eSIMs for Portugal with instant activation.",
+    "emergencyNumbers": {
+      "police": "112 (or 22 209 2000 for PSP Porto)",
+      "ambulance": "112",
+      "emergency": "112"
+    }
+  },
+  "shopUrl": "https://thenextstamptravelco.com/product/2-days-in-porto/",
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 9,
+  "localFriendliness": 9
+}

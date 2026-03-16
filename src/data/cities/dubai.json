@@ -1,0 +1,200 @@
+{
+  "id": "dubai",
+  "city": "Dubai",
+  "country": "UAE",
+  "region": "Middle East",
+  "currency": "AED",
+  "language": "Arabic/English",
+  "description": "The world's most ambitious city is a glittering contradiction — Burj Khalifa sunsets and souks selling saffron by the kilo, indoor ski slopes beside desert dunes, and an obsessive luxury hospitality scene that genuinely delivers. Dubai rewards visitors who see it as spectacle first and city second.",
+  "airportCode": "DXB",
+  "shopUrl": "https://thenextstamptravelco.com/product/5-days-in-dubai/",
+  "foodScene": 8,
+  "beachQuality": 7,
+  "walkability": 5,
+  "nightlife": 6,
+  "safety": 9,
+  "culturalDepth": 6,
+  "transportationEase": 7,
+  "englishFriendliness": 9,
+  "familyFriendliness": 9,
+  "soloFriendliness": 7,
+  "coupleFriendliness": 8,
+  "adventureActivities": 8,
+  "shoppingScene": 10,
+  "wellnessScene": 9,
+  "digitalNomadScore": 6,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 100,
+    "mid": 220,
+    "premium": 500
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 20,
+      "rainyDays": 1,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 22,
+      "rainyDays": 1,
+      "crowdLevel": 9,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 26,
+      "rainyDays": 1,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 32,
+      "rainyDays": 1,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 38,
+      "rainyDays": 0,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 41,
+      "rainyDays": 0,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 2,
+      "avgTempCelsius": 43,
+      "rainyDays": 0,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 2,
+      "avgTempCelsius": 43,
+      "rainyDays": 0,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 39,
+      "rainyDays": 0,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 33,
+      "rainyDays": 0,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 27,
+      "rainyDays": 1,
+      "crowdLevel": 8,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 22,
+      "rainyDays": 1,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Dubai Marina & JBR — The most walkable part of Dubai. Waterfront promenade, beach, restaurants, and the best rooftop bars. Great base for first-timers.",
+      "Downtown Dubai — Burj Khalifa, Dubai Mall, Dubai Fountain. Expensive but central. Ideal if iconic sights are the priority.",
+      "Deira & Bur Dubai (Old Dubai) — The historic core, gold souk, spice souk, the Creek. Cheaper hotels, more authentic street life, excellent Indian and Pakistani food.",
+      "Palm Jumeirah — Resort hotels and beach clubs. Beautiful but isolated — you'll need taxis for everything. Best for a splurge stay."
+    ],
+    "areasToAvoid": [
+      "International City and outlying suburban areas — fine places to live but offer nothing for tourists and require long taxi rides.",
+      "Leaving the hotel in midday heat June–September — 43°C+ outdoor temperatures are genuinely dangerous for extended exposure."
+    ],
+    "scamWarnings": [
+      "Taxi scams from the airport: use the official metered taxi rank (red taxis) or the Dubai Metro. Unlicensed drivers quoting flat rates are typically 3–4x the metered fare.",
+      "Gold souk 'hallmark' confusion: gold sold by weight in Dubai is genuine and government-regulated, but some dealers mis-describe carat weights. Buy from licensed shops only.",
+      "Timeshare / property investment pitches in malls — avoid anyone who approaches you with 'free hotel stays' or 'lucky draw prizes'.",
+      "Unofficial tour guides outside major attractions who offer to take you inside for a fee — all major Dubai attractions have official ticketing."
+    ],
+    "airportTransfer": {
+      "cheapest": "Dubai Metro Red Line from DXB Terminal 1 or 3 directly to Dubai Marina, JBR, or Downtown — 10–26 AED (~$3–7), 30–45 min.",
+      "fastest": "Careem or Uber from DXB — 45–90 AED (~$12–25) to most areas, 20–35 min depending on traffic.",
+      "recommended": "Metro for Marina, JBR, or Downtown during the day. Uber/Careem late at night or with heavy luggage.",
+      "taxiEstimate": "Official metered taxi: 50–90 AED to Marina/Downtown from DXB. Ensure the meter is running before departing."
+    },
+    "tippingEtiquette": [
+      "Tipping is appreciated but not mandatory — most service charges are included in hotel bills.",
+      "Restaurants: 10–15% if no service charge is included. Many menus add a 10% service fee automatically.",
+      "Taxi drivers: round up to the nearest 5 AED, or tip 5–10 AED for airport runs.",
+      "Hotel housekeeping: 10–20 AED per day is generous and appreciated.",
+      "Dress code: smart casual in malls and restaurants. Swimwear is for the beach and pool only — cover up when leaving. Shoulders and knees covered at mosques."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget hotel 250–400 AED | 3-star 450–700 AED | 4-star Marina hotel 700–1,200 AED | 5-star Burj Al Arab territory 3,000+ AED",
+      "meals": "Shawarma from a Lebanese spot 15–25 AED | Mall food court 50–80 AED | Mid-range restaurant 120–250 AED | Fine dining 400–800 AED",
+      "transport": "Metro single journey 5–8 AED | Uber/Careem across city 30–80 AED | Day taxi use 150–250 AED",
+      "activities": "Burj Khalifa 124th floor 149 AED | Dubai Frame 50 AED | Desert safari (half-day) 250–350 AED | Ski Dubai 250 AED"
+    },
+    "packingTips": [
+      "Light, breathable, modest clothing — the AC indoors is aggressive, the heat outdoors is extreme. Layers work well.",
+      "Sunscreen is essential year-round, not just summer.",
+      "Comfortable walking shoes — the malls and Marina promenade involve a lot of walking on hard floors.",
+      "A light shawl or scarf for mosque visits and for covering up in more conservative areas."
+    ],
+    "bookingStrategy": "November–February is peak season with perfect 20–26°C weather. Book hotels 6–8 weeks ahead, especially around New Year's Eve when Burj Khalifa fireworks fill every hotel. May–September is brutally hot but hotels are 40–60% cheaper — a genuine bargain if you can handle heat and plan around indoor activities.",
+    "localTips": [
+      "The Gold Souk in Deira is the real Dubai — buy a gold piece by weight, haggle mildly on the making charge, watch the craftsmen at work. Far more interesting than the mall jewellers.",
+      "Al Fahidi Historical Neighbourhood (Bastakiya) is one of the few places in Dubai that feels like it has a past — wind towers, art galleries, the Dubai Museum. Go in the morning.",
+      "Brunch culture is enormous — a Friday/Saturday hotel brunch (free-flowing food and drinks, 300–600 AED per person) is how residents celebrate the weekend.",
+      "The Dubai Fountain show at Downtown Dubai lake runs every 30 minutes after dark and is free to watch from the waterfront. Best views from the Burj Park bridge.",
+      "Ravi Restaurant in Satwa is a legendary no-frills Pakistani diner — 30 AED curries, open since 1978, patronised by everyone from taxi drivers to hotel chefs."
+    ],
+    "bestTimeToVisit": "November–February: 20–26°C, low humidity, peak season energy. March and October are shoulder months with good weather and slightly lower prices.",
+    "dayTrips": [
+      "Abu Dhabi — 90 min by bus or taxi, Sheikh Zayed Grand Mosque is one of the most spectacular buildings on earth, free to enter with modest dress.",
+      "Al Ain Oasis — 2 hours inland, UNESCO-listed date palm oasis, a completely different and much greener side of the UAE.",
+      "Hatta Mountain Resort — 1.5 hours into the Hajar Mountains, kayaking, mountain biking, heritage village, cool air. A total contrast to Dubai."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, and Australia: visa on arrival for 30 days (extendable to 60 days), free of charge — your passport is stamped automatically",
+      "Over 50 nationalities receive free visa on arrival for 30–90 days depending on passport — check the UAE Federal Authority for Identity and Citizenship website for your specific nationality",
+      "Nationalities not covered by visa on arrival: apply for a UAE tourist e-visa via Dubai's official ICP Smart Services portal (ICP.GOV.AE) before travel — costs AED 250–350",
+      "Passport must be valid for at least 6 months beyond your planned departure date",
+      "Important: possession of certain medications (codeine, tramadol, some sleep aids) without a valid prescription and UAE Ministry of Health approval is illegal — check the UAE drug control guidelines before packing any medication"
+    ],
+    "currencyTips": [
+      "Currency: UAE Dirham (AED / Dh). The dirham is pegged to the USD at 3.67 AED = 1 USD — a stable rate that has been fixed since 1997",
+      "Cards are accepted everywhere in Dubai — from luxury malls to petrol stations; contactless and Apple/Google Pay work seamlessly across the city",
+      "Best ATMs: Emirates NBD, Mashreq, and ADCB ATMs have no additional surcharges for foreign cards beyond your home bank's fees; airport ATMs add a small surcharge",
+      "Cash is still needed for souks (Gold Souk, Spice Souk), local taxi tips, and some street food vendors in Deira",
+      "Currency exchange: Al Ansari Exchange and UAE Exchange offices (widely available in malls and on high streets) offer rates comparable to official rates — better than hotel desks"
+    ],
+    "simCard": "Etisalat (now branded e&) and du are the only two carriers in the UAE. Both sell tourist SIMs at DXB airport arrivals — a 30-day tourist SIM with 30–50 GB costs AED 150–250. du tends to be slightly cheaper; e& has marginally better indoor coverage. Note: VoIP calls (WhatsApp, FaceTime voice) are officially restricted in the UAE — use carrier calls or messaging apps instead. eSIM via Airalo works for UAE.",
+    "emergencyNumbers": {
+      "police": "999",
+      "ambulance": "998",
+      "emergency": "999 (police) / 997 (civil defence) / 998 (ambulance)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 7,
+  "localFriendliness": 7
+}

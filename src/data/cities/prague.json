@@ -1,0 +1,206 @@
+{
+  "id": "prague",
+  "city": "Prague",
+  "country": "Czech Republic",
+  "region": "Europe",
+  "currency": "CZK",
+  "language": "Czech",
+  "description": "Prague is the great preserved city of Central Europe — a Baroque and Gothic treasure that somehow escaped the worst of World War II and Communist redevelopment, leaving behind a skyline of church spires, castle towers, and orange-tiled rooftops that feels almost cinematically perfect. The 9th-century castle complex looming above the Vltava River, the medieval Astronomical Clock, and the Charles Bridge are unmissable set pieces. But Prague's real magic is in its neighbourhood depth: Vinohrady's café-lined art nouveau boulevards, Žižkov's working-class pub culture, and Holešovice's emerging arts and restaurant scene reward those who wander beyond the tourist core. The city is also one of Europe's best value capitals — excellent Czech food, world-class beer at €1.50 a pint, and cultural institutions that would cost triple in Paris or London.",
+  "airportCode": "PRG",
+  "foodScene": 7,
+  "beachQuality": 0,
+  "walkability": 9,
+  "nightlife": 8,
+  "safety": 9,
+  "culturalDepth": 9,
+  "transportationEase": 9,
+  "englishFriendliness": 8,
+  "familyFriendliness": 8,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 9,
+  "adventureActivities": 5,
+  "shoppingScene": 7,
+  "wellnessScene": 5,
+  "digitalNomadScore": 7,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 55,
+    "mid": 110,
+    "premium": 240
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 0,
+      "rainyDays": 8,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 2,
+      "rainyDays": 7,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 7,
+      "rainyDays": 7,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 13,
+      "rainyDays": 8,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 18,
+      "rainyDays": 9,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 21,
+      "rainyDays": 9,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 23,
+      "rainyDays": 9,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 23,
+      "rainyDays": 8,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 18,
+      "rainyDays": 7,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 13,
+      "rainyDays": 7,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 6,
+      "rainyDays": 8,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 2,
+      "rainyDays": 7,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Vinohrady — Prague's most liveable neighbourhood for visitors: art nouveau apartment buildings, tree-lined streets, excellent neighbourhood restaurants and coffee shops, and a very walkable 15-minute metro ride from Old Town. The best base for longer stays.",
+      "Malá Strana (Lesser Town) — the neighbourhood beneath the castle, dense with Baroque palaces, garden courtyards, and an intimate, aristocratic character. Staying here puts you steps from Charles Bridge and the castle, but it's quieter than Old Town at night.",
+      "Žižkov — the historically working-class neighbourhood east of the centre, known for having more pubs per capita than anywhere in Europe. Raw, unpretentious, and very local — great for those wanting off-the-beaten-path Prague.",
+      "Holešovice — the rapidly gentrifying former industrial district north of the river, home to DOX contemporary art centre, the Prague Market, and an increasingly excellent restaurant and bar scene. Very authentic, very un-touristy.",
+      "Staré Město (Old Town) — staying within the historic core is expensive and noisy but maximally convenient. Choose accommodations on quieter streets away from Old Town Square to avoid overnight noise."
+    ],
+    "areasToAvoid": [
+      "Wenceslas Square at night — the lower half of this historic square becomes a strip of tourist-trap nightclubs, street prostitution, and aggressive touts after 10pm. The square itself is fine; the surrounding side streets less so.",
+      "Karlovy Lázně and nearby 'strip clubs' on the riverbank near Charles Bridge — venues with aggressive doormen promising entry deals often apply hidden charges inside.",
+      "The strip of souvenir shops on Celetná Street selling Russian-style nesting dolls and generic 'Czech' merchandise — not a safety concern but a waste of money on non-Czech goods at inflated prices."
+    ],
+    "scamWarnings": [
+      "Currency exchange scams: Prague's tourist-area exchange booths (particularly those advertising '0% commission') often use misleading rates that result in travellers receiving 30–40% less than the bank rate. Use ATMs at Raiffeisen Bank or Česká spořitelna, or exchange at the airport arrivals hall at the official Interchange desk.",
+      "Taxi overcharging: unlicensed taxis at the Old Town Square and outside clubs charge 5–10x normal rates. Always use the Bolt app (cheapest) or the official AAA Radio Taxi. The metro is always the safest option at night.",
+      "The Astronomical Clock crowds: professional pickpockets work the dense crowd that gathers at the clock every hour on the hour. Keep bags in front, phones in inner pockets. The spectacle itself lasts about 45 seconds and is, genuinely, underwhelming — adjust expectations.",
+      "Restaurant 'tourist menus': some Old Town restaurants post menus at the door with attractive prices, but the actual bill includes unstated service charges and 'table fees.' Ask for an itemised bill and dispute unexpected charges."
+    ],
+    "airportTransfer": {
+      "cheapest": "Airport Express (AE) bus runs from Václav Havel Airport (PRG) to Praha Hlavní nádraží (main train station) every 10 minutes for 100 CZK (€4) — then transfer to metro Line C for Old Town.",
+      "fastest": "Taxi or Bolt takes 25–40 minutes depending on traffic. Bolt typically costs 500–700 CZK (€20–28) with fixed pricing.",
+      "recommended": "Airport Express bus + metro for solo/couple travel — cheap and very reliable. Bolt for groups of 3+ or late-night arrivals when the AE bus runs less frequently.",
+      "taxiEstimate": "500–750 CZK (€20–30) via Bolt to Old Town; metered taxis can run higher — always confirm beforehand"
+    },
+    "tippingEtiquette": [
+      "Tipping 10% in restaurants is the standard expectation — more so in tourist-facing restaurants where it compensates for lower base wages.",
+      "In local pubs and wine bars, rounding up to the nearest 10–20 CZK is standard; leaving nothing is not unusual in traditional pivnice (pub) culture.",
+      "Tell the server the total you want to pay (including tip) when they bring the bill — say 'Dám vám [amount]' (I'll give you [amount]). Don't wait for change you intend as a tip.",
+      "Taxi drivers: round up to the nearest 20–30 CZK on top of the fare.",
+      "Coat check attendants in clubs and theatres typically charge 20–30 CZK, but an extra 20 CZK tip is appreciated for helpful service."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorms: 400–700 CZK/night (€16–28). Budget guesthouses in Žižkov: 1,500–2,500 CZK/night (€60–100). Mid-range hotels in Vinohrady: 2,500–4,500 CZK/night (€100–180). Old Town boutique hotels: 5,000–10,000 CZK/night (€200–400).",
+      "meals": "Street trdelník or sausage: 60–100 CZK. Svíčková (beef with cream sauce) at a local restaurant: 200–300 CZK. Half-litre of Pilsner Urquell in a local pub: 40–55 CZK. Full dinner at a good Vinohrady restaurant: 600–1,000 CZK per person.",
+      "transport": "Single metro/tram ride (90 min): 30 CZK. 24-hour pass: 120 CZK. 3-day pass: 330 CZK. Bolt taxi across town: 100–200 CZK. Airport Express bus: 100 CZK.",
+      "activities": "Prague Castle complex full ticket: 350 CZK. Old Jewish Quarter entry (6 sites): 550 CZK. National Museum: 250 CZK. Kafka Museum: 260 CZK. Most parks and river walks are free."
+    },
+    "packingTips": [
+      "Layers are essential year-round — Prague weather is variable; even summer evenings can drop to 14–16°C, and spring/autumn days swing significantly between morning and afternoon.",
+      "A good waterproof layer: rain is possible in any season and the cobblestones become extremely slippery when wet.",
+      "Warm coat, scarf, and gloves for December through February — temperatures regularly drop below -5°C and wind chill off the Vltava is significant.",
+      "Comfortable walking shoes with ankle support — the Old Town cobblestones are charming but punishing over long days.",
+      "Download the Prague Public Transport app (PID Lítačka) for buying transit tickets digitally — inspectors regularly check, and fines for fare evasion are 1,500 CZK.",
+      "A small day bag that closes securely — keep it in front of you at major tourist attractions where pickpockets operate."
+    ],
+    "bookingStrategy": "Prague is easier to book than many European capitals: mid-range accommodation in Vinohrady and Žižkov remains available 3–4 weeks in advance except during the Christmas markets (late November–December 23) and New Year's Eve weekend, when the entire city books out. Old Town hotels should be booked 2–3 months ahead for those peak periods. Prague Castle requires no advance ticket booking outside peak summer days. The Old Jewish Quarter is worth booking online to avoid morning queues. Flying into Prague via budget airlines from most European cities is very affordable — Ryanair, Wizz Air, and easyJet all operate busy routes. Visit in the shoulder seasons (March–April, October–November) for excellent value and manageable crowds.",
+    "localTips": [
+      "The best view of the city isn't from the castle — it's from the Letná Beer Garden terrace above the Vltava bend in Letná Park, which is free and beloved by locals on warm evenings.",
+      "Take tram line 22 for a cheap city sightseeing tour — it runs from Vinohrady through Old Town, across the river, up to the castle district, and into Malá Strana for 30 CZK.",
+      "Prague's coffee scene has exploded: Kavárna Místo, Pode Mlýnem, and EMA Espresso Bar in Vinohrady serve world-class specialty coffee at a fraction of Vienna or Amsterdam prices.",
+      "The city's pub culture is an institution — order correctly: say 'jedno velké pivo' for a 0.5l beer and never interrupt the careful pouring ritual that Pilsner Urquell requires.",
+      "Vyšehrad, the second castle fortress south of Old Town, is completely free to enter, has extraordinary city views, contains the national cemetery where Dvořák and Smetana are buried, and is visited by a fraction of the tourists who flock to Prague Castle.",
+      "The Náplavka Farmers' Market along the Vltava embankment runs every Saturday year-round and is Prague's best food market — local honey, cheeses, pastries, and wine from Moravian producers.",
+      "Czech koruna (CZK) is the currency — not euros. ATMs at bank branches give the best rates. Budget travellers will be pleasantly surprised how far 1,000 CZK (€40) goes in local pubs and neighbourhood restaurants."
+    ],
+    "bestTimeToVisit": "May, June, and September are ideal — warm, long days, outdoor terraces buzzing, and manageable tourist numbers. Prague's Christmas market season (late November to December 23) is genuinely magical with the Old Town Square glowing under snow, though prices rise and accommodation books out. January through March is the least visited period — cold and grey, but extraordinarily atmospheric for castle walks in mist, and prices are lowest of the year. Avoid the week between Christmas and New Year entirely — it's Europe's biggest bachelor party destination and the Old Town is pandemonium.",
+    "dayTrips": [
+      "Český Krumlov (3 hrs by bus): A perfectly preserved medieval castle town in Bohemia's river bend, with a Renaissance castle, river rafting, and a completely charming historic centre that rivals anywhere in Central Europe.",
+      "Kutná Hora (1 hr by train): Home to the extraordinary Sedlec Ossuary — a medieval chapel decorated with the bones of 40,000 people — and the magnificent UNESCO-listed St Barbara's Cathedral. One of the most unusual day trips in Europe.",
+      "Karlovy Vary (2 hrs by bus): The grand 19th-century spa town of western Bohemia, famous for its colonnaded thermal springs, extravagant Belle Époque hotels, and the Becherovka liqueur produced here. A relaxed, elegant contrast to Prague's energy."
+    ],
+    "visaInfo": [
+      "Czech Republic is a full EU Schengen member — EU/EEA citizens travel freely with passport or national ID card",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; passport must be valid for the duration of stay",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period",
+      "Czech Republic has NOT yet adopted the Euro — the currency is Czech Koruna (CZK); Euro payments may be accepted by some tourist venues at poor rates",
+      "Schengen 90-day allowance is shared across all 27 Schengen countries — count days spent in other Schengen countries toward your Czech stay"
+    ],
+    "currencyTips": [
+      "Currency: Czech Koruna (CZK / Kč). Despite being in the EU, the Czech Republic has not adopted the Euro — exchange is required",
+      "Best exchange: use Česká spořitelna, Komerční banka, or ČSOB bank exchange offices for competitive rates; avoid the tourist area exchange offices on Wenceslas Square and Old Town Square (extremely poor rates with 0% commission but terrible buy/sell spread)",
+      "ATMs: Komerční banka and Česká spořitelna ATMs offer fair rates; Euronet ATMs in tourist areas charge high fees — avoid them",
+      "Cards widely accepted in Prague restaurants, shops, and hotels; contactless payment standard; however, some local pubs, market stalls, and the Trdelník vendors are cash-only",
+      "Always choose CZK not EUR or USD at ATMs and card terminals to avoid dynamic currency conversion fees"
+    ],
+    "simCard": "T-Mobile CZ, O2 CZ, and Vodafone CZ are the main carriers. All have strong 4G coverage in Prague and major cities. Tourist SIMs available at Václav Havel Airport (PRG) and at T-Mobile or O2 shops in central Prague. A 30-day tourist SIM with 10–20 GB costs CZK 500–1,000. eSIM via Airalo works for Czech Republic.",
+    "emergencyNumbers": {
+      "police": "158",
+      "ambulance": "155",
+      "emergency": "112 (EU standard, multilingual operators available)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 8,
+  "localFriendliness": 7
+}

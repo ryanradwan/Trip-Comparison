@@ -1,0 +1,201 @@
+{
+  "id": "london",
+  "city": "London",
+  "country": "United Kingdom",
+  "region": "Northern Europe",
+  "currency": "GBP",
+  "language": "English",
+  "description": "One of the world's truly great cities — an inexhaustible mix of world-class free museums, multicultural food from every corner of the globe, iconic landmarks, and a pub culture that turns strangers into friends.",
+  "airportCode": "LHR",
+  "shopUrl": null,
+  "foodScene": 9,
+  "beachQuality": 0,
+  "walkability": 9,
+  "nightlife": 9,
+  "safety": 8,
+  "culturalDepth": 10,
+  "transportationEase": 10,
+  "englishFriendliness": 10,
+  "familyFriendliness": 9,
+  "soloFriendliness": 9,
+  "coupleFriendliness": 8,
+  "adventureActivities": 5,
+  "shoppingScene": 10,
+  "wellnessScene": 7,
+  "digitalNomadScore": 8,
+  "visaComplexity": 3,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 120,
+    "mid": 250,
+    "premium": 500
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 6,
+      "rainyDays": 15,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 7,
+      "rainyDays": 12,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 9,
+      "rainyDays": 11,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 12,
+      "rainyDays": 11,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 15,
+      "rainyDays": 11,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 19,
+      "rainyDays": 10,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 21,
+      "rainyDays": 10,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 21,
+      "rainyDays": 10,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 18,
+      "rainyDays": 11,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 14,
+      "rainyDays": 13,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 10,
+      "rainyDays": 14,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 7,
+      "rainyDays": 15,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Shoreditch / Hoxton — Creative east London, independent restaurants, rooftop bars, street art, best for 20s–30s travellers.",
+      "Marylebone / Fitzrovia — Central, quieter than Soho, excellent restaurants, boutique hotels, close to everything.",
+      "South Bank — Walking distance to Tate Modern, Borough Market, Shakespeare's Globe, great river views.",
+      "Notting Hill / Portobello — Beautiful Victorian townhouses, Portobello Market on Saturdays, genteel and photogenic."
+    ],
+    "areasToAvoid": [
+      "Peckham and Brixton after midnight if you don't know the area — not dangerous in themselves but easier to get into trouble.",
+      "Watching your phone on the Tube — opportunistic thieves snatch phones from passengers at doors just before they close.",
+      "Oxford Street on Saturdays in December — gridlock, pickpockets, entirely joyless."
+    ],
+    "scamWarnings": [
+      "Fake Big Issue sellers who aren't registered vendors — real ones wear an official badge and the magazine costs £3.",
+      "Three-card monte near tourist spots — always a scam, always rigged.",
+      "Unlicensed minicabs outside clubs — only use official black cabs or Uber/Bolt apps.",
+      "Street charity clipboard collectors ('chuggers') can be aggressive — you're not legally obligated to stop or engage."
+    ],
+    "airportTransfer": {
+      "cheapest": "Elizabeth line (Crossrail) from Heathrow to central London — £13.50 off-peak, 40 min to Paddington. Best value by far.",
+      "fastest": "Heathrow Express — £25 single, 15 min to Paddington. Comfortable but expensive.",
+      "recommended": "Elizabeth line for most travellers — fast, frequent, comfortable, drops at multiple central London stops.",
+      "taxiEstimate": "Official black cab from Heathrow: £55–85 to central London depending on destination and traffic."
+    },
+    "tippingEtiquette": [
+      "10–12.5% at restaurants. Many places add a service charge automatically — check the bill before tipping extra.",
+      "No tipping at pubs for drinks — tip jar sometimes present but not expected.",
+      "Taxis: round up to the nearest pound or add 10%.",
+      "Queue culture is sacred — never jump a queue, ever. This is taken extremely seriously.",
+      "Hold the door for the person behind you — this is a social absolute."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm £35–55 | Mid-range hotel £130–220 | Boutique hotel £250–500",
+      "meals": "Meal deal (sandwich, crisps, drink) £4–5 | Pub lunch £12–18 | Restaurant dinner £25–50 | Fine dining £80+",
+      "transport": "Single Tube fare £2.70 (capped) | Daily cap £8.10 | Bus single £1.75 | Black cab 3 miles £12–18",
+      "activities": "British Museum free | Tate Modern free | Tower of London £33 | West End show £40–120"
+    },
+    "packingTips": [
+      "Waterproof jacket — London can rain any time of year. A compact packable rain jacket is essential.",
+      "Comfortable walking shoes — you'll walk 12–15km daily on city exploration.",
+      "Layers — temperature swings of 8–10°C between morning and afternoon are common.",
+      "Oyster card or contactless payment for the Tube — cash is rarely accepted on public transport."
+    ],
+    "bookingStrategy": "Late January/February or November are cheapest for flights and hotels. Summer (Jun–Aug) is the best weather but most expensive. Book West End shows 2–3 months ahead for good seats. Many top museums are free — no booking required.",
+    "localTips": [
+      "Borough Market on Thursday–Saturday is London's best food experience — grab a Monmouth coffee, a salt beef bagel, and wander.",
+      "The Tate Modern's free permanent collection is one of the world's great modern art experiences — no ticket needed.",
+      "Pub quiz nights (usually Tuesday) at local pubs are a great way to meet people and experience real London pub culture.",
+      "The Elizabeth line has transformed east-west travel — use it instead of the congested Central line.",
+      "Free: British Museum, National Gallery, V&A, Natural History Museum, Science Museum, Tate Modern. That's a week of world-class culture at zero cost."
+    ],
+    "bestTimeToVisit": "June: long days (sunset at 9:15pm), outdoor events, all attractions open, before peak summer prices.",
+    "dayTrips": [
+      "Bath — 90 min by train, Roman baths, Jane Austen connections, Georgian architecture, excellent day trip.",
+      "Stonehenge & Salisbury — 1.5 hours by train + bus, iconic prehistoric monument, great on clear days.",
+      "Brighton — 50 min by train, beach, independent restaurants, The Lanes shopping, LGBTQ+ haven."
+    ],
+    "visaInfo": [
+      "UK is NOT in the Schengen Area — it operates its own separate immigration rules; a Schengen visa does NOT grant access to the UK",
+      "EU/EEA citizens: no visa required for visits up to 6 months as tourists; passport or national ID accepted for EEA citizens (ID card no longer accepted for non-EEA EU nationals at UK borders — passport required)",
+      "US, Canadian, and Australian citizens: visa-free for up to 6 months as Standard Visitors — no advance application needed",
+      "Electronic Travel Authorisation (ETA): the UK is rolling out ETAs for visa-exempt nationalities — check gov.uk/guidance/electronic-travel-authorisation for whether your nationality now requires one before travel",
+      "Passport must be valid for the duration of stay; the 6-month validity rule does not apply to UK entry (unlike Schengen) but your passport must not expire during your visit"
+    ],
+    "currencyTips": [
+      "Currency: British Pound Sterling (£ / GBP). One of the world's most expensive cities — budget accordingly",
+      "Cards (including contactless) are accepted almost everywhere in London, including buses, the Tube, and market stalls; Apple/Google Pay work across the transport network",
+      "Best ATMs: Halifax, NatWest, and Lloyds bank ATMs have no surcharge for using the machine (your home bank fees still apply); avoid the standalone ATMs charging a £1.50–2 fee",
+      "Oyster card or contactless bank card on the TfL network: tap in and out on every journey — much cheaper than paper tickets and capped daily",
+      "Tipping: 10–12.5% at sit-down restaurants if no service charge; service charge of 12.5% is added automatically at many London restaurants — check the bill before adding more"
+    ],
+    "simCard": "EE, O2, Vodafone UK, and Three are the main carriers. For short stays, Three's tourist SIM offers good value with EU roaming included. SIMs available at all major airports (Heathrow, Gatwick, Stansted) and at high-street phone shops. A 30-day SIM with 20–50 GB costs £10–20. eSIM via Airalo is popular for UK stays. Note: if your home plan includes UK roaming (common for EU residents), check if you can use it before buying a local SIM.",
+    "emergencyNumbers": {
+      "police": "999 or 112",
+      "ambulance": "999 or 112",
+      "emergency": "999 (UK standard) or 112 (EU/international standard — both work in the UK)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 5,
+  "localFriendliness": 7
+}

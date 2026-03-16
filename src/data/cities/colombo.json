@@ -1,0 +1,200 @@
+{
+  "id": "colombo",
+  "city": "Colombo",
+  "country": "Sri Lanka",
+  "region": "South Asia",
+  "currency": "LKR",
+  "language": "Sinhala/Tamil/English",
+  "description": "Sri Lanka's vibrant capital is a surprising gateway city — a Dutch colonial fort, beautiful Buddhist temples, some of Asia's best crab curry, and a rapidly gentrifying café scene that makes it worth more than just a transit stop.",
+  "airportCode": "CMB",
+  "shopUrl": null,
+  "foodScene": 7,
+  "beachQuality": 4,
+  "walkability": 5,
+  "nightlife": 4,
+  "safety": 7,
+  "culturalDepth": 7,
+  "transportationEase": 5,
+  "englishFriendliness": 8,
+  "familyFriendliness": 7,
+  "soloFriendliness": 7,
+  "coupleFriendliness": 7,
+  "adventureActivities": 7,
+  "shoppingScene": 6,
+  "wellnessScene": 8,
+  "digitalNomadScore": 6,
+  "visaComplexity": 4,
+  "instagrammability": 7,
+  "budgetTiers": {
+    "budget": 30,
+    "mid": 70,
+    "premium": 160
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 27,
+      "rainyDays": 9,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 28,
+      "rainyDays": 6,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 29,
+      "rainyDays": 6,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 30,
+      "rainyDays": 9,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 30,
+      "rainyDays": 16,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 29,
+      "rainyDays": 19,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 28,
+      "rainyDays": 16,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 28,
+      "rainyDays": 15,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 28,
+      "rainyDays": 17,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 28,
+      "rainyDays": 19,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 27,
+      "rainyDays": 15,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 27,
+      "rainyDays": 11,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Colombo 3 (Kollupitiya) — Most tourist-friendly, good restaurants, close to Galle Face Green promenade.",
+      "Colombo 7 (Cinnamon Gardens) — Leafy, affluent, botanical gardens, National Museum, colonial bungalows.",
+      "Pettah — Bustling market district, spice bazaars, Buddhist and Hindu temples, authentic local life.",
+      "Colombo 1 (Fort) — Colonial heritage area, Lighthouse, old GPO building, gentrifying café scene."
+    ],
+    "areasToAvoid": [
+      "Pettah after dark — busy market area that quiets quickly at night, better to visit in the morning.",
+      "Colombo 15 (Mattakkuliya) — Northern suburb with limited tourist interest and rougher edges."
+    ],
+    "scamWarnings": [
+      "Tuk-tuk overcharging: always negotiate the fare before boarding or insist on the meter. Fair rate is LKR 50–60 per kilometre.",
+      "Gem scams: Sri Lanka is famous for its gemstones and equally famous for tourist gem fraud. Buy only from government-certified shops.",
+      "Religious site donation collectors: not all are official. Give donations directly into temple collection boxes.",
+      "E-visa processing scams: only use the official Sri Lanka e-visa website (eta.gov.lk). Third-party sites charge extra fees."
+    ],
+    "airportTransfer": {
+      "cheapest": "Express train from Katunayake station (10 min walk or free shuttle from airport) to Colombo Fort — LKR 100–300, takes 45 min.",
+      "fastest": "Taxi from CMB — LKR 3,000–4,500 ($10–15), takes 30–45 min to central Colombo.",
+      "recommended": "Pre-booked taxi through your hotel or PickMe app — transparent pricing, air-conditioned, reliable.",
+      "taxiEstimate": "Airport taxis LKR 3,000–4,500 to Colombo 3/7. Negotiate or book PickMe (Sri Lanka's ride-hail app) for best rates."
+    },
+    "tippingEtiquette": [
+      "Tipping is appreciated: 10% at restaurants, LKR 100–200 for tuk-tuk drivers who were helpful.",
+      "Hotel staff expect small tips (LKR 100–200) for luggage assistance.",
+      "Remove shoes before entering temples and mosques. Dress conservatively — shoulders and knees covered for both men and women.",
+      "Accept tea when offered by locals — it's a genuine gesture of hospitality and refusing is slightly impolite.",
+      "The Sri Lankan head wobble (side-to-side) means 'yes' or agreement — don't confuse it with 'no'."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget guesthouse LKR 2,000–4,000 | Mid-range hotel LKR 6,000–12,000 | Boutique hotel LKR 15,000–30,000",
+      "meals": "Rice and curry LKR 200–400 | Café lunch LKR 600–1,200 | Restaurant dinner LKR 1,500–3,500",
+      "transport": "Tuk-tuk journey LKR 200–500 | PickMe app LKR 150–400 | Bus LKR 30–60",
+      "activities": "National Museum LKR 250 | Gangaramaya Temple LKR 300 | Cooking class LKR 3,000–5,000"
+    },
+    "packingTips": [
+      "Light, breathable cotton — Colombo is hot and humid year-round (28–32°C).",
+      "Conservative clothing for temple visits — keep a scarf or sarong in your bag.",
+      "Insect repellent — dengue is present year-round, especially during rainy season.",
+      "US dollars or euros for arrival, then exchange at a bank for the best LKR rate."
+    ],
+    "bookingStrategy": "December–March is peak season for the west coast and Colombo — book accommodation 4–6 weeks ahead. The Colombo food scene is year-round but water sports at Negombo are best Dec–April.",
+    "localTips": [
+      "The Sunday Farmers Market at Independence Arcade has the best artisan food in Colombo — come hungry.",
+      "Galle Face Green at sunset: kite flying, street snacks (isso vadai — shrimp fritters), cool sea breeze, very local.",
+      "Ministry of Crab at the Old Dutch Hospital is Sri Lanka's most famous restaurant — book 2 weeks ahead for peak season.",
+      "PickMe app works like Uber, essential for fair-priced transport without negotiation.",
+      "The Barefoot Gallery in Colombo 3 is the best design and book shop in Sri Lanka — excellent curated souvenirs."
+    ],
+    "bestTimeToVisit": "December–March: dry season on the west coast, calm seas at Negombo beach, ideal for a Colombo base.",
+    "dayTrips": [
+      "Sigiriya — 4-hour drive, 5th-century rock fortress rising 200m from jungle, UNESCO World Heritage, breathtaking views.",
+      "Kandy — 3-hour drive or train, Temple of the Tooth Relic, Peradeniya Botanical Gardens, cultural capital of Sri Lanka.",
+      "Negombo — 30 min north, beach town, lagoon fishing village, excellent fresh seafood, easy day trip from Colombo."
+    ],
+    "visaInfo": [
+      "Electronic Travel Authorisation (ETA) required for most nationalities — apply at eta.gov.lk before departure ($35 USD for most Western nationalities, 30-day single entry)",
+      "Citizens of Singapore, Maldives, and a few SAARC neighbours receive free ETA — all others pay the standard fee",
+      "The ETA is processed quickly (usually within 24 hours) but apply at least 3 days before travel to be safe",
+      "On arrival, you'll receive a 30-day stamp which can be extended at the Department of Immigration in Colombo for longer stays",
+      "Sri Lanka is not part of any visa-free zone — the ETA must be purchased separately even if you hold a valid Indian or UAE visa"
+    ],
+    "currencyTips": [
+      "Currency: Sri Lankan Rupee (LKR / Rs). Notes: 20, 50, 100, 500, 1,000, 5,000 LKR",
+      "Cards accepted at Colombo's shopping malls, larger hotels, and modern restaurants; cash essential for tuk-tuks, street food, and most independent shops",
+      "Best exchange: commercial banks (Sampath, HNB, Commercial Bank) offer better rates than the airport or hotels; the People's Bank airport branch is reasonable for small amounts on arrival",
+      "ATMs: widely available in Colombo; Commercial Bank and Sampath Bank ATMs work reliably with most foreign Visa/Mastercard",
+      "Sri Lanka has a cash-heavy economy outside of Colombo 3/7 (Colpetty/Cinnamon Gardens) — withdraw adequate cash before venturing into less touristy areas"
+    ],
+    "simCard": "Dialog Axiata has the best 4G coverage in Colombo and across Sri Lanka. Tourist SIMs are sold at Bandaranaike International Airport (CMB) arrivals. A Dialog SIM with 20–40 GB data costs LKR 1,500–2,500. Mobitel (Sri Lanka Telecom) has strong coverage in rural areas. eSIM via Airalo works for Sri Lanka and saves the airport SIM-hunting process.",
+    "emergencyNumbers": {
+      "police": "119",
+      "ambulance": "110",
+      "emergency": "1333 (Tourist Helpline, English-speaking)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 10,
+  "localFriendliness": 9
+}

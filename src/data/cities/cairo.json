@@ -1,0 +1,201 @@
+{
+  "id": "cairo",
+  "city": "Cairo",
+  "country": "Egypt",
+  "region": "Africa",
+  "currency": "EGP",
+  "language": "Arabic",
+  "description": "A city where 4,500 years of history collide with 21 million people in traffic — the Pyramids of Giza are still quietly astonishing, the Egyptian Museum still can't be processed in a single visit, and the Nile at sunset still stops you mid-sentence.",
+  "airportCode": "CAI",
+  "shopUrl": null,
+  "foodScene": 7,
+  "beachQuality": 0,
+  "walkability": 3,
+  "nightlife": 5,
+  "safety": 5,
+  "culturalDepth": 10,
+  "transportationEase": 5,
+  "englishFriendliness": 4,
+  "familyFriendliness": 6,
+  "soloFriendliness": 5,
+  "coupleFriendliness": 6,
+  "adventureActivities": 6,
+  "shoppingScene": 7,
+  "wellnessScene": 4,
+  "digitalNomadScore": 4,
+  "visaComplexity": 4,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 40,
+    "mid": 80,
+    "premium": 190
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 14,
+      "rainyDays": 2,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 15,
+      "rainyDays": 2,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 18,
+      "rainyDays": 1,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 23,
+      "rainyDays": 1,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 28,
+      "rainyDays": 0,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 31,
+      "rainyDays": 0,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 33,
+      "rainyDays": 0,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 33,
+      "rainyDays": 0,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 30,
+      "rainyDays": 0,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 24,
+      "rainyDays": 1,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 19,
+      "rainyDays": 1,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 15,
+      "rainyDays": 2,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Zamalek (Gezira Island) — Best area for tourists: island in the Nile, quiet, international restaurants, Cairo Tower, embassies.",
+      "Maadi — Southern suburb, expat community, tree-lined streets, good restaurants, safe and calm.",
+      "Heliopolis — Northeastern suburb, art deco architecture, Cairo International Airport nearby, good hotels.",
+      "Islamic Cairo (Khan el-Khalili area) — Unmissable for the bazaar and medieval mosques, not suitable for overnight stays."
+    ],
+    "areasToAvoid": [
+      "Wandering alone in Islamic Cairo without a guide — the alleyways can be disorienting and occasional harassment of solo women.",
+      "Checking phone or valuables openly in dense crowds around Khan el-Khalili.",
+      "Accepting unsolicited guide offers near the Pyramids — they will take you to shops and demand payment."
+    ],
+    "scamWarnings": [
+      "Pyramid 'secret entrance' scam: locals claim to know a private entrance, ancient shortcut, or 'real tombs' for a price. There are no secret entrances.",
+      "Perfume factory scam: taxi drivers take you to a 'government-run perfume factory' offering duty-free prices. Nothing is duty-free, nothing is what it claims to be.",
+      "Felucca overcharging: agree on the full price for a Nile felucca ride before boarding. Standard rate is EGP 100–200 per hour for the whole boat.",
+      "Papyrus and alabaster shops: nearly all 'papyrus' sold in tourist shops is banana leaf. Real papyrus is available from the Egyptian Museum shop."
+    ],
+    "airportTransfer": {
+      "cheapest": "Cairo Metro (Line 3) from Airport terminal area to city centre — EGP 7–10, but requires a bus connection and is complex with luggage.",
+      "fastest": "Uber from CAI — EGP 200–350 (~$7–12) to Zamalek or central Cairo, takes 30–50 min depending on traffic.",
+      "recommended": "Uber is by far the easiest option — reliable, metered, air-conditioned. Book inside the terminal.",
+      "taxiEstimate": "Official airport taxi: EGP 250–400 to central Cairo. Negotiate firmly before departing — meters are not commonly used."
+    },
+    "tippingEtiquette": [
+      "Baksheesh (tipping) is a fundamental part of Cairo's economy. Tip generously: EGP 20–50 at restaurants, EGP 5–10 for small services.",
+      "Museum and site guards who 'allow' you to take photos in restricted areas expect EGP 20–50. Simply decline if you don't want this arrangement.",
+      "Dress conservatively, especially women — Cairo is conservative outside expat areas. Covered shoulders and loose clothing is respectful.",
+      "Remove shoes before entering mosques. Many mosques will provide plastic bags for shoes.",
+      "Ramadan changes everything — restaurants close until iftar (sunset), traffic becomes extraordinary, and the night atmosphere is electric and festive."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget hotel EGP 400–900 | Mid-range hotel EGP 1,500–3,500 | Boutique hotel EGP 4,000–8,000",
+      "meals": "Koshari (national dish) EGP 20–35 | Foul and tameya breakfast EGP 15–25 | Restaurant dinner EGP 200–500",
+      "transport": "Metro EGP 7–10 | Uber across city EGP 80–200 | Taxi EGP 50–150",
+      "activities": "Giza Pyramids EGP 360 | Egyptian Museum EGP 300 | NMEC (New museum) EGP 350–450 | Felucca ride EGP 100–200/hr"
+    },
+    "packingTips": [
+      "Layers for winter — January nights drop to 8–12°C and Cairo's buildings rarely have heating.",
+      "Light cotton for summer — but the heat (33°C+) with the pollution makes it genuinely exhausting.",
+      "Conservative clothing especially for Islamic Cairo — long trousers and covered arms for men and women.",
+      "Cash in Egyptian pounds — exchange USD or EUR at your hotel or a bank for better rates than airport booths."
+    ],
+    "bookingStrategy": "October–April is the only sensible time to visit. The Grand Egyptian Museum (GEM) near Giza, the world's largest archaeological museum, is worth timing your trip around. Book Giza Pyramids tickets online to avoid queuing.",
+    "localTips": [
+      "The Pyramids from the back side (west) at dawn — fewer people, camels silhouetted against the desert, extraordinary light.",
+      "Koshari is Cairo's national street food — a mix of lentils, rice, pasta, and tomato sauce for EGP 20–35 that has no equivalent anywhere.",
+      "Al-Azhar Park in Islamic Cairo: landscaped garden with stunning Nile and mosque views — an oasis of calm in the chaos.",
+      "Café Riche on Talaat Harb street: 100-year-old café that served Naguib Mahfouz and the Egyptian intelligentsia for generations.",
+      "The 1919 Egyptian train from Cairo to Luxor overnight is the best value way to see the Nile Valley without flying."
+    ],
+    "bestTimeToVisit": "October–November or March–April: 18–25°C, clear skies, best light for photography at the Pyramids.",
+    "dayTrips": [
+      "Saqqara — 30 min south, oldest standing pyramid in the world (Step Pyramid of Djoser), far fewer tourists than Giza.",
+      "Luxor — 3-hour flight or overnight train, Valley of the Kings, Karnak Temple, the world's greatest open-air museum.",
+      "Alexandria — 2.5 hours by train, Mediterranean city, Greek and Roman history, extraordinary seafood, Cavafy Museum."
+    ],
+    "visaInfo": [
+      "E-visa required for most nationalities before travel — apply at visa2egypt.gov.eg ($25 USD, single entry 30 days or $60 multiple entry; usually processed in 3–5 business days)",
+      "Visa on arrival available at Cairo, Luxor, Sharm el-Sheikh, and Hurghada airports for most Western nationalities — $25 USD cash, paid at the bank counter before the immigration desk",
+      "Sinai-only stamp (free) available for arrivals at Sharm el-Sheikh flying directly there — only valid for the Sinai Peninsula, does not allow entry to Cairo or the rest of Egypt",
+      "UK, EU, US, Canadian, and Australian citizens are all eligible for the e-visa — apply at least 7 days in advance to be safe",
+      "Passport must be valid for at least 6 months beyond your planned stay; Israeli passport stamps may cause issues — check current advice"
+    ],
+    "currencyTips": [
+      "Currency: Egyptian Pound (EGP / £E). Notes come in 1, 5, 10, 20, 50, 100, 200 denominations — keep small notes for tips and markets",
+      "Best rates: exchange at official bank branches or authorised exchange offices; airport rates are acceptable but not the best",
+      "ATMs: widely available in Cairo; most accept Visa/Mastercard; withdraw at Banque Misr or CIB for reliable service",
+      "Cash is essential in Egypt — markets, temples, street food, tuk-tuks, and tipping all require physical notes; carry a constant supply of small denominations",
+      "Avoid: unlicensed money changers on the street; the official rate is competitive and the risk of counterfeit or short-changing is real"
+    ],
+    "simCard": "Vodafone Egypt, Orange Egypt, and Etisalat (e&) are the three main carriers. Tourist SIMs are sold at Cairo International Airport in the arrivals hall. A 30-day data package with 20–30 GB costs around 150–250 EGP. Coverage in central Cairo and along the Nile corridor is excellent. eSIM via Airalo works for Egypt but local SIM is often cheaper.",
+    "emergencyNumbers": {
+      "police": "122",
+      "ambulance": "123",
+      "emergency": "112 / 123 (unified emergency)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 9,
+  "localFriendliness": 7
+}

@@ -1,0 +1,212 @@
+{
+  "id": "hanoi",
+  "city": "Hanoi",
+  "country": "Vietnam",
+  "region": "Southeast Asia",
+  "currency": "VND",
+  "language": "Vietnamese",
+  "description": "Hanoi is Vietnam's ancient, chaotic, and utterly captivating capital — a city where communist-era architecture stands beside gilded pagodas, where motorbikes flood every alley like a living river, and where a bowl of pho eaten on a plastic stool at dawn is one of the finest meals on the planet. Unlike the brash energy of Ho Chi Minh City, Hanoi carries itself with a certain northern reserve and cultural gravitas, its four distinct seasons lending the city a moody, cinematic quality that photographers and poets find irresistible. The Old Quarter's 36 guild streets, the serene Hoan Kiem Lake, and a café culture that runs on thick egg coffee and languid afternoons make Hanoi one of Southeast Asia's most rewarding and surprising destinations.",
+  "airportCode": "HAN",
+  "foodScene": 9,
+  "beachQuality": 0,
+  "walkability": 6,
+  "nightlife": 6,
+  "safety": 7,
+  "culturalDepth": 8,
+  "transportationEase": 5,
+  "englishFriendliness": 5,
+  "familyFriendliness": 7,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 7,
+  "adventureActivities": 6,
+  "shoppingScene": 7,
+  "wellnessScene": 5,
+  "digitalNomadScore": 7,
+  "visaComplexity": 4,
+  "instagrammability": 8,
+  "budgetTiers": {
+    "budget": 28,
+    "mid": 60,
+    "premium": 140
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 16,
+      "rainyDays": 7,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 17,
+      "rainyDays": 8,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 20,
+      "rainyDays": 10,
+      "crowdLevel": 6,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 24,
+      "rainyDays": 8,
+      "crowdLevel": 7,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 28,
+      "rainyDays": 10,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 31,
+      "rainyDays": 14,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 32,
+      "rainyDays": 16,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 32,
+      "rainyDays": 16,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 29,
+      "rainyDays": 12,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 25,
+      "rainyDays": 6,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 21,
+      "rainyDays": 5,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 17,
+      "rainyDays": 6,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Old Quarter (Hoan Kiem) — the historic heart of the city, 36 guild streets packed with street food, silk shops, and French colonial charm. Stay here for maximum atmosphere and walkability",
+      "Tay Ho (West Lake) — the expat and digital nomad hub, with lakeside cafés, international restaurants, yoga studios, and a more relaxed pace than the frenetic Old Quarter",
+      "Ba Dinh — home to Ho Chi Minh's Mausoleum, the Temple of Literature, and elegant French villas. Quieter and more residential, ideal for history lovers",
+      "Hoan Kiem lakeside — the area immediately surrounding the lake is perfect for morning tai chi watching, evening strolls, and the famous Hanoi weekend pedestrian street",
+      "Truc Bach — a quieter lakeside neighborhood between West Lake and Truc Bach Lake, loved by long-stay visitors for its local cafés and relative calm"
+    ],
+    "areasToAvoid": [
+      "Long Bien bus station and surrounding streets at night — high incidence of petty theft and aggressive touts",
+      "The narrow alleyways behind Dong Xuan Market after dark — poorly lit and occasionally unsafe for solo travelers",
+      "Avoid accepting unsolicited motorbike taxi rides from unlicensed drivers near the Old Quarter — use Grab instead",
+      "The area around Hanoi train station late at night has occasional bag-snatching incidents"
+    ],
+    "scamWarnings": [
+      "Cyclo (rickshaw) scams: agree on the price before you get in and confirm whether it is per person or total — many tourists are charged 10x the agreed rate on arrival",
+      "Fake Grab taxis: scammers put Grab stickers on private cars — always check the driver photo, plate number, and name in the app before entering",
+      "Art gallery scams in the Old Quarter sell fake 'limited edition' prints by famous Vietnamese artists at inflated prices — buy only from reputable galleries",
+      "Train ticket touts near Hoan Kiem Lake sell overpriced or fake overnight train tickets to Sapa — book directly at the train station or via official apps",
+      "The 'shoe shine' scam: men offer to shine your shoes for free, then demand $10-20 once finished — decline politely",
+      "Bia Hoi corner beer is genuinely cheap (10,000-15,000 VND per glass) but some stalls near tourist areas charge 5x the local price — check before ordering"
+    ],
+    "airportTransfer": {
+      "cheapest": "Public bus 86 from Noi Bai Airport to Hoan Kiem district — 35,000 VND (~$1.50), takes 45-60 minutes with traffic",
+      "fastest": "Grab car or taxi — 35-50 minutes depending on traffic, 200,000-280,000 VND (~$8-12) to Old Quarter",
+      "recommended": "Grab (Vietnam's Uber) — book via the Grab app for fixed pricing, air-conditioned car, and no negotiation. Most reliable option for first-timers",
+      "taxiEstimate": "250,000-320,000 VND (~$10-13) via metered taxi (Mai Linh or G7 cab are reputable). Avoid unmarked cabs."
+    },
+    "tippingEtiquette": [
+      "Tipping is not traditional in Vietnamese culture but is increasingly expected in tourist-facing businesses",
+      "Restaurants: 10% is generous and appreciated — many bills already include a service charge, check first",
+      "Street food stalls and bia hoi corners: no tip expected or necessary",
+      "Hotel staff: 20,000-50,000 VND (~$1-2) per bag for porters; housekeeping 20,000-30,000 VND per day",
+      "Tour guides: 50,000-100,000 VND ($2-4) for a half-day tour is fair; more for exceptional service",
+      "Motorbike taxi (Grab Bike) drivers: a small tip of 10,000-20,000 VND is appreciated but not required"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": 15,
+      "meals": 8,
+      "transport": 3,
+      "activities": 4
+    },
+    "packingTips": [
+      "Layers for winter (Nov-Feb): a light jacket, long sleeves, and a scarf are essential as Hanoi genuinely gets cold by SE Asian standards",
+      "Waterproof jacket or packable umbrella — essential for the rainy season (May-Sep) and drizzly winter months",
+      "Modest clothing for temple visits — shoulders and knees covered; a lightweight sarong works perfectly",
+      "Good walking sandals or comfortable shoes — the Old Quarter's uneven pavements are surprisingly hard on feet",
+      "Small padlock for hostel lockers and overnight train sleeper compartments",
+      "Insect repellent with DEET for summer months and any trips outside the city",
+      "A small Vietnamese phrasebook or downloaded offline Google Translate — fewer people speak English than in HCMC"
+    ],
+    "bookingStrategy": "Hanoi has abundant accommodation at all price points and rarely sells out except during Tet (Vietnamese Lunar New Year, usually late January or February), when the city fills with domestic travelers and many businesses close for up to a week. Book 4-6 weeks ahead for mid-range stays; 2-3 months for Tet period. The best value is in boutique guesthouses in the Old Quarter at $25-50/night. For overnight trains to Sapa or buses to Ha Long Bay, book 1-2 weeks in advance through reputable agents like Sinh Tourist or directly via VNRailway. Budget airlines VietJet and Bamboo connect Hanoi cheaply to Da Nang (for Hoi An) and HCMC.",
+    "localTips": [
+      "Pho is a morning dish in Hanoi — go before 9am for the best pho bo (beef noodle soup) at Pho Thin on Dinh Tien Hoang or Pho Gia Truyen on Bat Dan",
+      "Egg coffee (ca phe trung) was invented in Hanoi — try the original at Cafe Giang on Nguyen Huu Huan, a local institution since 1946",
+      "The Hanoi Sunday pedestrian street around Hoan Kiem Lake is a joyful chaos of street performers, badminton games, and food stalls — don't miss it",
+      "Temple of Literature admission is only 30,000 VND and is one of the most beautiful and peaceful spots in the city — go early morning",
+      "Bun cha (grilled pork and noodles) is a Hanoi specialty made famous when Obama ate it with Anthony Bourdain — try Bun Cha Huong Lien for the full experience",
+      "Download the Grab app before arrival — it works for cars, bikes, and food delivery and will save you constantly from overcharging",
+      "The Long Bien Bridge at sunset offers one of the best free views in Hanoi — walk or take a Grab bike across",
+      "Drink filtered or bottled water only — tap water is not safe to drink throughout Vietnam"
+    ],
+    "bestTimeToVisit": "October and November are Hanoi's finest months — cool and dry with temperatures around 20-25°C, low rainfall, and pleasant evenings. March and April are also excellent, with warming temperatures and manageable humidity before the wet season. Avoid June through August if heat and heavy rain dampen your plans — this is typhoon season and humidity is punishing. January and February can feel genuinely cold (15°C with damp mist) and require real layers — charming but not beach weather.",
+    "dayTrips": [
+      "Ha Long Bay — the UNESCO World Heritage limestone karst seascape is 3.5 hours by road from Hanoi; a 2-night cruise is far superior to a day trip and worth every penny",
+      "Ninh Binh (Trang An) — often called 'Ha Long Bay on land', this stunning landscape of limestone peaks, rice paddies, and river caves is just 2 hours by bus or train and easily done as a day trip",
+      "Sapa — the terraced rice fields and minority hill tribe villages in the far north require an overnight train or flight, but the scenery and cultural encounters are genuinely transformative; allow 2-3 days minimum"
+    ],
+    "visaInfo": [
+      "E-visa required for most nationalities — apply at evisa.xuatnhapcanh.gov.vn ($25 USD, 90-day single or multiple entry; processed in 3 business days)",
+      "Citizens of some countries (Germany, France, Italy, Spain, UK, and several others) receive a 45-day visa exemption — check the Vietnam MFA website for your passport's eligibility",
+      "Visa on arrival: available but requires a letter of approval arranged in advance through a travel agency — e-visa is simpler for most travellers",
+      "Vietnam e-visa now allows 90 days for most applicants and is available for entry at all international airports including Noi Bai (HAN)",
+      "Passport must be valid for at least 6 months beyond your entry date"
+    ],
+    "currencyTips": [
+      "Currency: Vietnamese Dong (₫ / VND). Notes: 1,000; 2,000; 5,000; 10,000; 20,000; 50,000; 100,000; 200,000; 500,000 VND. Large denominations can be confusing — count carefully",
+      "Cash is king in Hanoi — most street food, local restaurants, xe om (motorcycle taxis), and markets are cash-only",
+      "Best ATMs: Vietcombank and Techcombank ATMs offer reliable service with lower foreign fees; most ATMs charge 40,000–85,000 VND per foreign transaction",
+      "Exchange offices (tiem doi tien) in the Old Quarter offer competitive rates for USD and EUR; avoid hotel exchange",
+      "Grab (app-based taxi) is the most reliable transport and accepts cards — download it before arrival"
+    ],
+    "simCard": "Viettel has the widest 4G coverage across northern Vietnam including rural areas near Halong Bay and Sapa. Viettel, Mobifone, and Vinaphone SIMs are all available at Noi Bai Airport (HAN) arrivals hall. A 30-day SIM with 30–60 GB costs 100,000–200,000 VND. eSIM via Airalo is available for Vietnam and can be activated before you board.",
+    "emergencyNumbers": {
+      "police": "113",
+      "ambulance": "115",
+      "emergency": "114 (fire) / 113 (police) / 115 (ambulance)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 10,
+  "localFriendliness": 8
+}

@@ -1,0 +1,200 @@
+{
+  "id": "cappadocia",
+  "city": "Cappadocia",
+  "country": "Turkey",
+  "region": "Southern Europe",
+  "currency": "TRY",
+  "language": "Turkish",
+  "description": "A landscape so surreal it looks like another planet — fairy chimneys, underground cities carved by early Christians, and the world's most famous hot air balloon experience at sunrise over a valley of volcanic cones.",
+  "airportCode": "NAV",
+  "shopUrl": null,
+  "foodScene": 6,
+  "beachQuality": 0,
+  "walkability": 6,
+  "nightlife": 3,
+  "safety": 7,
+  "culturalDepth": 9,
+  "transportationEase": 3,
+  "englishFriendliness": 6,
+  "familyFriendliness": 7,
+  "soloFriendliness": 7,
+  "coupleFriendliness": 9,
+  "adventureActivities": 10,
+  "shoppingScene": 6,
+  "wellnessScene": 6,
+  "digitalNomadScore": 4,
+  "visaComplexity": 3,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 70,
+    "mid": 140,
+    "premium": 300
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 0,
+      "rainyDays": 8,
+      "crowdLevel": 2,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 2,
+      "rainyDays": 7,
+      "crowdLevel": 2,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 6,
+      "rainyDays": 7,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 12,
+      "rainyDays": 7,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 17,
+      "rainyDays": 7,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 22,
+      "rainyDays": 4,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 27,
+      "rainyDays": 2,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 27,
+      "rainyDays": 2,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 21,
+      "rainyDays": 3,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 14,
+      "rainyDays": 5,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 7,
+      "rainyDays": 7,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 2,
+      "rainyDays": 8,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Göreme — Main base for visitors, cave hotels, walking distance to Open Air Museum, most balloon launches start here.",
+      "Üçhisar — Hilltop village with a castle, quieter than Göreme, better views, upscale cave hotels.",
+      "Uçhisar Castle area — Romantic boutique hotels carved into the rock, spectacular Pigeon Valley views.",
+      "Avanos — Pottery town on the Red River, authentic local life, good base for exploring northern valleys."
+    ],
+    "areasToAvoid": [
+      "Göreme at midday in July/August — the heat in the valleys is intense (35°C+) and the trails are exposed. Hike early morning.",
+      "Cheap 'budget' balloon operators — Cappadocia had fatal balloon accidents. Only use CAA/Turkish DGCA licensed operators."
+    ],
+    "scamWarnings": [
+      "Carpet shops targeting balloon passengers: some tour packages include a compulsory 'carpet demonstration' — it's a sales pitch. You can decline.",
+      "Unlicensed ATV rental: some companies rent ATVs without helmets or insurance and point you at trails you can't handle. Only use licensed operators.",
+      "Fake 'official guides' at the Open Air Museum entrance — real guides carry an official Ministry of Culture badge.",
+      "Hotel touts at Nevşehir and Kayseri airports offering 'free transfers' — nothing is free, you'll be taken to their affiliated hotel."
+    ],
+    "airportTransfer": {
+      "cheapest": "Shuttle bus from Nevşehir airport to Göreme — ₺100–150 (~€3–5), takes 30 min. Book through your hotel in advance.",
+      "fastest": "Private transfer from Kayseri airport — ₺500–700 (~€18–25), takes 45 min. Kayseri is often cheaper to fly into.",
+      "recommended": "Book hotel airport pickup — most cave hotels arrange it for ₺300–500 and meet you at arrivals with your name on a sign.",
+      "taxiEstimate": "Taxi from Nevşehir airport to Göreme: ₺300–400. From Kayseri: ₺500–600. Always agree on the price before departure."
+    },
+    "tippingEtiquette": [
+      "Tip balloon pilots and crew ₺100–200 per person — they work long pre-dawn hours and the job is physically demanding.",
+      "Restaurant tipping: 10% is appreciated, not mandatory.",
+      "Pottery demonstrations in Avanos: if you enjoyed the show, buy something or tip the artisan ₺50–100.",
+      "Dress modestly when visiting mosques or villages — Cappadocia is rural Turkey with conservative communities.",
+      "Bargaining in pottery and carpet shops is expected. Start at 50% and negotiate respectfully."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Basic cave room ₺600–1000 | Mid-range cave hotel ₺1500–2500 | Boutique cave suite ₺3000–6000",
+      "meals": "Testi kebab pottery pot meal ₺200–350 | Meze dinner ₺150–300 | Fine dining ₺400–700",
+      "transport": "ATV rental ₺400–600/day | Guided valley hike ₺200–400 | Private car hire ₺800–1200/day",
+      "activities": "Hot air balloon €150–200 per person | Open Air Museum ₺200 | Underground city ₺100 | Sunset horse ride ₺500"
+    },
+    "packingTips": [
+      "Warm layers even in summer — balloon launches at 5:30am are cold (10°C below daytime) and windy.",
+      "Good hiking boots — valley trails are rocky and uneven.",
+      "Camera with wide angle — the landscape demands it.",
+      "Sun protection — the high plateau (1000m+ altitude) intensifies UV exposure significantly."
+    ],
+    "bookingStrategy": "Book hot air balloon in advance — reputable operators (Butterfly Balloons, Royal Balloon) sell out weeks ahead in April–October. Spring (Apr–May) is the best time: wildflowers, moderate crowds, reliable balloon weather.",
+    "localTips": [
+      "Watch the balloon launch from Uçhisar Castle at sunrise even if you're not in one — seeing 100 balloons rise over the valleys costs nothing.",
+      "Rose Valley and Red Valley hike at sunset: 2.5 hours, starts near Göreme, the light on the volcanic rock is extraordinary.",
+      "Book the balloon with breakfast service — many operators include a champagne celebration and light breakfast at landing.",
+      "Derinkuyu Underground City is more impressive than Kaymaklı — 8 levels deep, can hold 20,000 people.",
+      "Devrent Valley (Imagination Valley) is free to explore and has the most dramatic fairy chimney formations."
+    ],
+    "bestTimeToVisit": "April–May: wildflowers, mild temperatures, reliable balloon weather. September–October equally beautiful with golden light.",
+    "dayTrips": [
+      "Derinkuyu Underground City — 30 min drive south, largest underground city in Cappadocia, 8 levels, extraordinary engineering.",
+      "Ihlara Valley — 2-hour drive, 14km hiking canyon with Byzantine cave churches carved into cliffs above a river.",
+      "Salt Lake (Tuz Gölü) — 90-min drive, vast salt flat that creates perfect mirror reflections at dawn, surreal photography."
+    ],
+    "visaInfo": [
+      "Turkish e-Visa required for most nationalities including US, UK, Australia, and Canada — apply at evisa.gov.tr before travel (around $50 USD / €45; single entry 90 days within 180-day period)",
+      "EU citizens from Germany, France, Spain, Italy, and others: check the Turkish MFA website carefully — some EU nationals get e-Visa, others get visa-free access depending on passport type",
+      "The e-Visa must be obtained before arrival — there is no visa on arrival for nationalities that require the e-Visa; apply at least 3 days before travel",
+      "Passport must be valid for at least 6 months beyond your planned departure; ensure it has at least 1 blank page",
+      "Turkey is NOT in the EU Schengen zone — a Turkish visa does not count toward your 90/180-day Schengen allowance"
+    ],
+    "currencyTips": [
+      "Currency: Turkish Lira (₺ / TRY). The Lira has experienced significant inflation — exchange rates change frequently and local prices are low in USD/EUR terms",
+      "Best exchange: Döviz (currency exchange) offices in Göreme and Ürgüp consistently offer better rates than banks or hotels; avoid airport exchange",
+      "ATMs: widely available in Göreme and Nevşehir; Garanti BBVA and İş Bankası ATMs are recommended for foreign cards with the lowest fees",
+      "Cards are accepted at most hotels and restaurants in Cappadocia's tourist areas; cash useful for bazaars, local pide restaurants, and tips",
+      "Always choose to pay in Turkish Lira at terminals — dynamic currency conversion to USD/EUR is offered but the rate is poor"
+    ],
+    "simCard": "Turkcell has the best coverage in Cappadocia's valleys and remote areas. Buy a tourist SIM at Kayseri (ASR) or Nevşehir Kapadokya (NAV) airport arrivals, or at any Turkcell shop in Göreme or Ürgüp. A 30-day tourist package with 20–30 GB costs around 400–600 TRY. eSIM via Airalo works for Turkey and avoids the SIM registration process.",
+    "emergencyNumbers": {
+      "police": "155",
+      "ambulance": "112",
+      "emergency": "112 (unified emergency line)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 8,
+  "localFriendliness": 8
+}

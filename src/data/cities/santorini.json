@@ -1,0 +1,211 @@
+{
+  "id": "santorini",
+  "city": "Santorini",
+  "country": "Greece",
+  "region": "Southern Europe",
+  "currency": "EUR",
+  "language": "Greek",
+  "description": "Santorini is the postcard Greece dreamed up — a crescent of volcanic cliffs rising from a drowned caldera, whitewashed villages clinging to the rim, blue-domed churches catching the Aegean light, and sunsets over Oia that draw crowds from around the world every evening like a secular religion. The island is unapologetically romantic and unapologetically expensive, but beneath the Instagram veneer lies genuine Cycladic culture: volcanic black-sand beaches, excellent local Assyrtiko wine grown in ancient basket-trained vines, and the eerie beauty of the Akrotiri excavations — a Minoan Pompeii buried in volcanic ash 3,600 years ago.",
+  "airportCode": "JTR",
+  "foodScene": 7,
+  "beachQuality": 9,
+  "walkability": 6,
+  "nightlife": 6,
+  "safety": 9,
+  "culturalDepth": 7,
+  "transportationEase": 5,
+  "englishFriendliness": 9,
+  "familyFriendliness": 6,
+  "soloFriendliness": 7,
+  "coupleFriendliness": 10,
+  "adventureActivities": 6,
+  "shoppingScene": 7,
+  "wellnessScene": 7,
+  "digitalNomadScore": 5,
+  "visaComplexity": 2,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 120,
+    "mid": 250,
+    "premium": 500
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 12,
+      "rainyDays": 10,
+      "crowdLevel": 1,
+      "flightPriceIndex": 2
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 12,
+      "rainyDays": 8,
+      "crowdLevel": 1,
+      "flightPriceIndex": 2
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 14,
+      "rainyDays": 6,
+      "crowdLevel": 2,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 18,
+      "rainyDays": 3,
+      "crowdLevel": 5,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 22,
+      "rainyDays": 1,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 26,
+      "rainyDays": 0,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 29,
+      "rainyDays": 0,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 29,
+      "rainyDays": 0,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 26,
+      "rainyDays": 1,
+      "crowdLevel": 8,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 21,
+      "rainyDays": 4,
+      "crowdLevel": 4,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 17,
+      "rainyDays": 7,
+      "crowdLevel": 2,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 13,
+      "rainyDays": 9,
+      "crowdLevel": 1,
+      "flightPriceIndex": 2
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Imerovigli — quieter than Oia with equally dramatic caldera views, fewer cruise ship day-trippers, and better value accommodation",
+      "Firostefani — between Fira and Imerovigli, walkable along the caldera path, excellent sunset views without the Oia crush",
+      "Pyrgos — the island's highest traditional village, inland and authentic, with old windmills and tavernas serving local wine",
+      "Akrotiri (village) — near the famous excavation site and Red Beach, convenient for beach days with a more local feel",
+      "Fira — the capital and most practical base for transport connections, restaurants, and the cable car down to the old port"
+    ],
+    "areasToAvoid": [
+      "Perissa and Perivolos beaches in peak August — extremely crowded and noisy with beach clubs",
+      "The Fira-to-Oia cliff path at midday in July/August — dangerously hot and overcrowded",
+      "Oia main street at sunset — it's iconic but the crowd of 3,000+ people for a €0 sunset is genuinely unpleasant",
+      "The old port donkey path — avoid using the donkeys both for animal welfare reasons and because it's slower than the cable car"
+    ],
+    "scamWarnings": [
+      "Unofficial 'taxi' boats at the old port charging inflated rates — use the official ferry service or book transfers in advance",
+      "Wine tours that claim to visit 'private' wineries often visit the same three commercial operations — research Santo Wines, Venetsanos, and Estate Argyros independently",
+      "Overpriced caldera-view restaurants charge 3-4x the island average — a €4 salad elsewhere becomes €16 with a view",
+      "ATV rental companies use pre-existing damage to charge large deposits — photograph every scratch before driving",
+      "Accommodation photos online often misrepresent caldera views — ask specifically which room has the view before booking"
+    ],
+    "airportTransfer": {
+      "cheapest": "Public bus (KTEL) from airport to Fira Bus Station — €1.80, runs roughly hourly, takes 15 minutes",
+      "fastest": "Private transfer or taxi to Fira/Oia — 15-30 minutes, €25-50 depending on destination",
+      "recommended": "Pre-book a private transfer if arriving with luggage — the bus drops at Fira and villages like Oia require additional connections",
+      "taxiEstimate": "€15-20 to Fira, €35-50 to Oia, prices higher late at night"
+    },
+    "tippingEtiquette": [
+      "10% is standard at sit-down restaurants, especially caldera-view establishments where service is more formal",
+      "At beach bars and casual tavernas, rounding up or leaving €1-2 per person is appreciated",
+      "Taxi drivers: round up generously — drivers work long hours during high season",
+      "Private tour guides: €10-20 per person for a full-day tour is appropriate",
+      "Hotel concierge for special arrangements: €5-10 for difficult bookings"
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": 80,
+      "meals": 25,
+      "transport": 10,
+      "activities": 5
+    },
+    "packingTips": [
+      "Flat shoes only — the caldera steps and cobblestones are beautiful but completely impractical for heels",
+      "Strong sunscreen SPF 50+ — the volcanic landscape provides little shade and the sun reflects intensely",
+      "Linen or light cotton — the island is very hot in summer and even resorts don't always have AC outdoors",
+      "A light jacket for caldera evenings — the meltemi wind makes cliff-top spots surprisingly cool after sunset",
+      "Camera with a wide-angle lens — the caldera views demand it",
+      "Cash — many smaller tavernas and local shops in villages don't accept cards"
+    ],
+    "bookingStrategy": "Santorini is one of the most expensive islands in Europe and books out 3-6 months in advance for July and August. Caldera-view rooms go first and command a massive premium — a room with a caldera pool can easily cost €800-1,500/night in peak season. For budget travelers, Perissa and Perivolos on the southeast coast offer €50-80/night rooms near excellent black-sand beaches. Book directly with hotels when possible — they often offer room upgrades and flexibility unavailable through OTAs. Fly into Santorini (JTR) or take the high-speed ferry from Athens (Piraeus) — 5 hours on a fast ferry, spectacular crossing.",
+    "localTips": [
+      "Santorini Assyrtiko white wine is one of Greece's finest — visit Estate Argyros or Domaine Sigalas for excellent tastings at non-tourist prices",
+      "Akrotiri archaeological site is a genuine Minoan Bronze Age city preserved under volcanic ash — far less visited than Pompeii and equally impressive",
+      "The caldera walk from Fira to Oia takes 3-4 hours one way and is spectacular — do it early morning and take the bus back",
+      "Ancient Thira on the mountain above Perissa is rarely visited and has stunning sea views — free to enter",
+      "Rent a car (not ATV) to see the island properly — the south coast, Pyrgos, and Emporio are all worth exploring",
+      "Book a catamaran sunset cruise for a caldera experience that's far more memorable than standing on a cliff in a crowd",
+      "The red and white beach near Akrotiri are more visually interesting than the black beaches — combine with a site visit",
+      "Eat at To Psaraki fish taverna in Vlychada — a working fishing port with no caldera premium and excellent grilled fish"
+    ],
+    "bestTimeToVisit": "Late April through May and late September through October offer the best experience: warm enough to swim (especially October), dramatically fewer tourists than peak summer, and prices 30-50% lower on accommodation. The iconic blue-dome-and-white-wall photography is actually better in softer spring or autumn light. July and August are the most crowded months in the entire Greek islands — if you must go then, book everything months in advance.",
+    "dayTrips": [
+      "Thirassia — the small, quiet island across the caldera, accessible by ferry, almost entirely tourist-free and genuinely traditional",
+      "Nea Kameni (volcanic island) — hike to the active crater, a 20-minute boat trip from the old port (guided tours from €15)",
+      "Hot Springs at Palea Kameni — natural volcanic thermal springs accessible by boat tour",
+      "Crete — day-trip possible by fast ferry (2.5 hours) to Heraklion to visit Knossos Palace, though overnight is better",
+      "Ios — 45 minutes by ferry, a party island with better beaches than Santorini and significantly cheaper"
+    ],
+    "visaInfo": [
+      "EU/EEA citizens: no visa required — Greece is a full Schengen member with free movement for EU passport holders",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; passport must be valid for the duration of stay",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period; no tourist visa required",
+      "Most other nationalities: consult the Greek Ministry of Foreign Affairs; many nationalities require a Schengen visa obtained in advance",
+      "The 90-day Schengen allowance is shared across all Schengen member states — plan accordingly if visiting multiple European countries"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€) — Greece is a eurozone member; no exchange needed for travelers from other eurozone countries",
+      "Cards are widely accepted in Santorini restaurants, hotels, and shops; many caldera-view establishments prefer card",
+      "Best ATMs: use Alpha Bank or National Bank ATMs in Fira — avoid the standalone tourist ATMs near the cable car which charge high surcharges",
+      "Avoid: dynamic currency conversion (DCC) at card terminals — always choose to pay in euros",
+      "Cash is essential in smaller villages like Pyrgos and Emporio and at local tavernas; keep €5–20 notes handy"
+    ],
+    "simCard": "Cosmote, Vodafone Greece, and Nova (Wind) are the main carriers. SIMs are available in Fira at carrier shops or at Santorini Airport (JTR) Arrivals. A tourist SIM with 10–15 GB data costs €10–20 and includes EU roaming. Reception can be patchy in caldera hotels built into cliff faces. Alternatively, purchase an eSIM via Airalo before departure for instant connectivity on landing.",
+    "emergencyNumbers": {
+      "police": "100 (or 112 pan-European)",
+      "ambulance": "166",
+      "emergency": "112"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 5,
+  "localFriendliness": 7
+}

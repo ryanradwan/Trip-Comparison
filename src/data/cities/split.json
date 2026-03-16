@@ -1,0 +1,206 @@
+{
+  "id": "split",
+  "city": "Split",
+  "country": "Croatia",
+  "region": "Europe",
+  "currency": "EUR",
+  "language": "Croatian",
+  "description": "Split is Dalmatia at its most lived-in and alive. Unlike the museum-piece perfection of Dubrovnik, Split's Old Town is built inside — and on top of, and around — a 4th-century Roman emperor's retirement palace, and 1,700 years of unbroken habitation have given it an organic, breathing quality that more polished destinations can't replicate. Locals hang laundry between Roman columns. Bars operate in ancient cellars. The Riva promenade hums with café life against a backdrop of clear Adriatic water. As Croatia's second city, Split balances tourism and genuine daily life far better than its more famous southern neighbour. It's also the ferry and catamaran hub for the Dalmatian islands — Hvar, Brač, Vis, Korčula — making it the ideal base for exploring one of the world's most beautiful coastlines.",
+  "airportCode": "SPU",
+  "foodScene": 7,
+  "beachQuality": 8,
+  "walkability": 8,
+  "nightlife": 7,
+  "safety": 9,
+  "culturalDepth": 8,
+  "transportationEase": 6,
+  "englishFriendliness": 8,
+  "familyFriendliness": 7,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 8,
+  "adventureActivities": 7,
+  "shoppingScene": 6,
+  "wellnessScene": 6,
+  "digitalNomadScore": 5,
+  "visaComplexity": 2,
+  "instagrammability": 9,
+  "budgetTiers": {
+    "budget": 65,
+    "mid": 130,
+    "premium": 280
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 8,
+      "rainyDays": 10,
+      "crowdLevel": 1,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 9,
+      "rainyDays": 9,
+      "crowdLevel": 1,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 12,
+      "rainyDays": 8,
+      "crowdLevel": 2,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 16,
+      "rainyDays": 6,
+      "crowdLevel": 3,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 20,
+      "rainyDays": 4,
+      "crowdLevel": 5,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 25,
+      "rainyDays": 2,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 28,
+      "rainyDays": 1,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 28,
+      "rainyDays": 1,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 24,
+      "rainyDays": 3,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 19,
+      "rainyDays": 6,
+      "crowdLevel": 3,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 14,
+      "rainyDays": 9,
+      "crowdLevel": 2,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 10,
+      "rainyDays": 11,
+      "crowdLevel": 1,
+      "flightPriceIndex": 3
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Diocletian's Palace (Old Town) — staying inside the palace walls is extraordinary; apartments here have Roman foundations and medieval walls above. Noise from bars can be an issue until 2am in summer — pack earplugs.",
+      "Varoš — the historic stone-house neighbourhood immediately west of the palace walls, climbing the lower slopes of Marjan Hill. Charming, quieter than the palace interior, and 15–20% cheaper.",
+      "Manuš — a quiet residential district just east of the palace that's popular with longer-stay visitors and digital nomads for its local bakeries, coffee shops, and apartment-style accommodation.",
+      "Bačvice — the beach suburb 10 minutes east of the Old Town, with Split's famous sandy beach (rare on the Dalmatian coast), beach bars, and a younger local nightlife strip.",
+      "Žnjan — further east along the coast, a calmer residential beach area preferred by local families; excellent for those wanting beach access without Old Town crowds."
+    ],
+    "areasToAvoid": [
+      "Gripe and the areas around the eastern bus station at night — the less touristic eastern outskirts have limited street life after dark and are not worth the navigational effort.",
+      "Narrow lanes east of the Srebrena Gate late at night — the edge of the Old Town towards the market area sees occasional pickpocketing of intoxicated tourists leaving night bars.",
+      "Unlicensed ferry ticket sellers at the Riva promenade — touts sometimes sell overpriced or invalid ferry tickets; buy only from the official Jadrolinija ferry office or certified agencies."
+    ],
+    "scamWarnings": [
+      "Overpriced fish at tourist-facing konobas on the Riva: restaurants with photos on menus and English-speaking hosts outside often price fish 'by weight' — ask for the exact price before ordering. A simple fish dinner should cost €20–35, not €60+.",
+      "Taxi overcharging from the ferry terminal: arriving by ferry, unofficial taxis approach immediately with flat rates 3–4x the meter. Use the official taxi rank 50m from the terminal entrance or book via the Uber or Bolt app.",
+      "Fake Hvar 'party boat' packages: unverified boat party packages sold on the Riva often do not include what's advertised (open bar, island stops). Book island excursions through Jadrolinija or reputable agencies.",
+      "ATM card skimming: a few ATMs near the Riva have been targeted with skimming devices. Use bank-branded ATMs inside bank branches rather than standalone street machines."
+    ],
+    "airportTransfer": {
+      "cheapest": "Pleso airport bus runs from Split Airport (SPU) to the city bus station (Autobusni kolodvor) for €8 each way — timed to most flight arrivals. From the bus station it's a 10-minute walk to the Old Town.",
+      "fastest": "Taxi is 25–35 minutes to Old Town. Expect €25–35 for the journey; book via Bolt app for a fixed price.",
+      "recommended": "Airport bus for solo/couple travel — reliable, cheap, drops you centrally. Bolt taxi for groups of 3+ or heavy luggage arriving late at night.",
+      "taxiEstimate": "€25–35 from SPU to Old Town via Bolt or metered taxi; confirm before departure"
+    },
+    "tippingEtiquette": [
+      "Tipping is appreciated but not expected. In restaurants, 10% is generous; rounding up is the local norm.",
+      "In cafés and bars, leave the small coins from your change — €0.50–1 per round is well-received.",
+      "Ferry and boat tour guides appreciate €5–10 for a half-day island excursion.",
+      "Taxi drivers: round up to the nearest euro. For Bolt/Uber, tips can be added in-app.",
+      "Market vendors: no tipping expected, but friendly haggling (especially late in the market day) is accepted."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorms: €20–35/night. Apartments outside Old Town: €60–100/night. Old Town apartments: €100–180/night. Boutique hotels: €150–250/night in peak summer.",
+      "meals": "Burek or bakery breakfast: €2–4. Lunch at a local konoba (daily menu): €12–18. Grilled fish dinner: €25–45 per person with wine. Grocery self-catering: €12–18/day.",
+      "transport": "City bus: €1.50 per ride. Ferry to Brač island: €6 each way. Ferry to Hvar: €5–10 each way. Bolt taxi within city: €5–12. Bike rental: €15–25/day.",
+      "activities": "Diocletian's Palace cellars entry: €10. Meštrović Gallery: €10. Marjan Hill park: free. Sea kayaking day tour: €50–70. Sailing day trip to islands: €60–90."
+    },
+    "packingTips": [
+      "Water shoes or sandals with grip for rocky Adriatic beaches — Bačvice is sandy but most island beaches are beautifully rocky.",
+      "A packable day bag for island hopping — you'll frequently be jumping on/off ferries with just the essentials.",
+      "High-SPF reef-safe sunscreen and a rash guard if you're spending significant time on the water.",
+      "A light windbreaker for evening ferry rides — the Adriatic breeze drops temperature quickly after sunset even in summer.",
+      "Cash in euros — smaller island villages and local markets operate cash-only. Withdraw in Split before island hopping.",
+      "Offline Google Maps download for the Old Town and islands — Wi-Fi is unreliable on some ferry routes and smaller islands."
+    ],
+    "bookingStrategy": "Split's accommodation is significantly more available and affordable than Dubrovnik's, but Old Town apartments during July/August require 2–3 months advance booking. For shoulder season (May, September, October), 3–4 weeks is typically sufficient. Ferry tickets to popular islands (Hvar, Brač, Vis) should be bought at the Jadrolinija office the day before in peak season, particularly car ferries which book out weeks ahead. The catamaran to Hvar Town runs multiple times daily and rarely requires advance booking for foot passengers. Book island accommodation — especially Hvar — 2–3 months ahead for July/August; prices and availability are the biggest constraint.",
+    "localTips": [
+      "Picigin — Split's unique traditional ball game played in the shallows of Bačvice Beach — is played by locals every morning. Watching (or attempting to join) is one of the most authentically Split experiences available.",
+      "Marjan Hill, the forested peninsula west of the Old Town, offers the best city views and is completely free — take the path up through Varoš neighbourhood for a 45-minute loop with panoramic viewpoints.",
+      "The Green Market (Pazar) outside the eastern palace wall opens daily from 7am and is where locals do their morning food shopping — excellent produce, local cheeses, and olives at proper prices.",
+      "Konoba Fetivi and Zora are the two local institutions for traditional Dalmatian peka (slow-cooked meat and vegetables under a bell) — book ahead as they're small and very popular with locals.",
+      "The Riva promenade is best experienced early morning before 8am: locals walk, joggers run, fishermen sell their catch, and the water turns extraordinary shades of turquoise.",
+      "Split is the gateway to Croatia's best island, Vis — the furthest inhabited island from the mainland, the least touristy, and home to some of the clearest water and best wine in the Adriatic.",
+      "Download the Jadrolinija app for real-time ferry schedules — routes and times change seasonally and last-minute changes happen."
+    ],
+    "bestTimeToVisit": "May, June, and September are ideal — warm and sunny with water temperatures above 20°C (comfortable for swimming from mid-June), manageable crowds, and accommodation available at reasonable prices. October offers dramatic light, empty beaches, and a local city vibe as tourism winds down. July and August are peak season with excellent beach weather but crowded ferries, premium prices, and accommodation pressure — worthwhile if beaches and island-hopping are your priority, challenging if you prefer cultural exploration without jostling.",
+    "dayTrips": [
+      "Hvar Island (1 hr by catamaran): Croatia's sunniest island combines a beautiful medieval town, lavender fields, a clifftop Spanish fortress, and some of the Adriatic's most transparent water — arguably the Dalmatian coast's finest day trip.",
+      "Brač Island and Zlatni Rat Beach (50 min by ferry): The horn-shaped pebble beach at Bol that shifts shape with the currents is one of Croatia's most photographed spots; pair it with a hike on Vidova Gora for panoramic island views.",
+      "Krka National Park (1 hr by bus): A series of cascading travertine waterfalls through limestone gorges — swimming is now restricted to preserve the ecosystem, but the boardwalk through the canyon and the Skradinski Buk waterfall system are extraordinary."
+    ],
+    "visaInfo": [
+      "Croatia joined the EU Schengen Area on 1 January 2023 — EU/EEA citizens travel freely with passport or national ID card",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period",
+      "Croatia adopted the Euro (€) on 1 January 2023 — the Croatian Kuna is no longer valid",
+      "Note: the Schengen 90-day allowance is shared across all 27 Schengen countries — days in other Schengen countries count toward Croatian stays"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€) since January 2023 — Croatia's switch from Kuna was seamless; euro is now the only legal tender",
+      "Cards widely accepted in Split's restaurants, hotels, and shops; contactless payment standard across the Dalmatian coast",
+      "Best ATMs: Erste Bank and Privredna banka Zagreb (PBZ) ATMs in central Split are reliable for foreign cards; some tourist-area machines charge €1–2 surcharge",
+      "Ferry tickets to the islands (Hvar, Brač, Šolta, Vis) can be bought at the ferry terminal — JADROLINIJA accepts cards; have cash as backup during busy summer periods",
+      "Split's Green Market (Pazar) is cash only — bring small euro notes for the best produce and local cheese"
+    ],
+    "simCard": "Hrvatski Telekom (T-Mobile Croatia) and A1 Croatia both have excellent 4G coverage in Split and across the islands. SIMs are available at Split Airport (SPU), HT and A1 shops in the city centre, and at Konzum supermarkets. A 30-day tourist SIM with 20 GB costs around €15–20. EU SIMs roam freely in Croatia with no extra charge. eSIM via Airalo is available.",
+    "emergencyNumbers": {
+      "police": "192",
+      "ambulance": "194",
+      "emergency": "112 (EU standard — works for all services)"
+    }
+  },
+  "shopUrl": null,
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 8,
+  "localFriendliness": 7
+}

@@ -1,0 +1,200 @@
+{
+  "id": "chiang-mai",
+  "city": "Chiang Mai",
+  "country": "Thailand",
+  "region": "Southeast Asia",
+  "currency": "THB",
+  "language": "Thai",
+  "description": "Thailand's cultural capital in the misty northern mountains — ancient temple clusters within a moated old city, the world's best digital nomad infrastructure for the price, and an elephant sanctuary that changes lives.",
+  "airportCode": "CNX",
+  "shopUrl": null,
+  "foodScene": 8,
+  "beachQuality": 0,
+  "walkability": 6,
+  "nightlife": 5,
+  "safety": 8,
+  "culturalDepth": 8,
+  "transportationEase": 6,
+  "englishFriendliness": 7,
+  "familyFriendliness": 7,
+  "soloFriendliness": 9,
+  "coupleFriendliness": 7,
+  "adventureActivities": 9,
+  "shoppingScene": 7,
+  "wellnessScene": 9,
+  "digitalNomadScore": 9,
+  "visaComplexity": 4,
+  "instagrammability": 8,
+  "budgetTiers": {
+    "budget": 25,
+    "mid": 60,
+    "premium": 150
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 22,
+      "rainyDays": 2,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 25,
+      "rainyDays": 2,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 29,
+      "rainyDays": 2,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 32,
+      "rainyDays": 4,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 31,
+      "rainyDays": 10,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 29,
+      "rainyDays": 14,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 28,
+      "rainyDays": 16,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 28,
+      "rainyDays": 17,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 27,
+      "rainyDays": 14,
+      "crowdLevel": 3,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 26,
+      "rainyDays": 8,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 24,
+      "rainyDays": 3,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 21,
+      "rainyDays": 2,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Old City (Moat area) — Inside the moat, most temples, great guesthouses, walkable in the cool season.",
+      "Nimmanhaemin — Hip neighbourhood, coffee shops, co-working spaces, great restaurants, digital nomad hub.",
+      "Santitham — Local residential area north of old city, excellent cheap street food, authentic Chiang Mai life.",
+      "Chang Klan (Night Bazaar) — Tourist commercial area, good for shopping and street food, convenient to everything."
+    ],
+    "areasToAvoid": [
+      "February–April: severe smoke season from agricultural burning makes air quality dangerous (AQI 200–400). Not advisable to visit.",
+      "Tuk-tuks without pre-agreed prices — set the price before you get in, ฿30–60 for most journeys within the city."
+    ],
+    "scamWarnings": [
+      "Elephant sanctuary scams: many operators claim to be ethical but still use hooks and chains. Research thoroughly — Elephant Nature Park is the most reputable.",
+      "Temple entry scam: someone near a closed temple says it's locked but they know a 'secret side entrance' for a fee. Real temples are open during posted hours.",
+      "Fake monk collecting donations — real monks don't approach tourists for money. Give only to established temple collections.",
+      "Gem/handicraft export scam: 'government quality gems' offered for resale profit at home are never real and never profitable."
+    ],
+    "airportTransfer": {
+      "cheapest": "Songthaew (red shared taxi) from airport area — ฿20–30 per person to old city or Nimman, takes 20 min.",
+      "fastest": "Grab app (Uber equivalent) from airport — ฿80–120 to anywhere in the city, takes 15–20 min.",
+      "recommended": "Grab for solo or couple — convenient, air-conditioned, fixed price shown in advance.",
+      "taxiEstimate": "Official taxi from CNX airport: ฿150 fixed rate to most central locations. Meter taxis also available at ฿35 flagfall."
+    },
+    "tippingEtiquette": [
+      "Tipping is appreciated in tourist contexts. ฿20–50 at restaurants, more for exceptional service.",
+      "Massage tip: ฿50–100 minimum, more for longer sessions at quality places.",
+      "Thai massage is a healing tradition — don't expect it to be a gentle experience. It's therapeutic and sometimes intense.",
+      "Dress modestly for temples — the Doi Suthep temple on the mountain has strict enforcement.",
+      "Wai greeting: press palms together at chest height and bow slightly. Don't initiate with service staff, let them lead."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm ฿150–300 | Guesthouse ฿300–600 | Boutique hotel ฿800–1800 | Resort ฿2500+",
+      "meals": "Street khao soi ฿50–70 | Cheap restaurant ฿80–150 | Nice restaurant ฿200–400 | Cooking class ฿900–1200",
+      "transport": "Songthaew ฿20–30 | Grab ฿60–100 | Scooter rental ฿150–250/day | Bicycle rental ฿50–80/day",
+      "activities": "Elephant Nature Park ฿2500 | Doi Suthep temple ฿30 | Thai cooking class ฿900–1200 | Muay Thai class ฿400"
+    },
+    "packingTips": [
+      "Light layers for cool season evenings — mornings can be 15–17°C December–January in the mountains.",
+      "Good walking sandals — the old city moat area is walkable but uneven.",
+      "Mask for February–April — smoke season air quality requires N95 respirators, not cloth masks.",
+      "Scooter licence or international permit if planning to rent a motorbike in the hills."
+    ],
+    "bookingStrategy": "November–January is peak season with perfect weather. Avoid February–April completely (smoke). Book Elephant Nature Park 2–3 weeks ahead — it's the most popular activity in northern Thailand.",
+    "localTips": [
+      "Khao soi (curry noodle soup) is Chiang Mai's signature dish — Khao Soi Islam on Charoenprathet Road is considered the best.",
+      "Saturday Night Market (Walking Street) on Wualai Road is more authentic than the Sunday Night Market. Arrive at 5pm.",
+      "The Doi Suthep temple drive at sunrise (hire a songthaew at 6am) beats the midday heat and crowds completely.",
+      "Nimman area's co-working café scene: CAMP at Maya Mall has 24-hour power outlets and free WiFi — popular with nomads.",
+      "Night Safari (government park) is largely disappointing. Skip it for the botanical gardens or evening temple visits."
+    ],
+    "bestTimeToVisit": "November to January: cool (15–25°C), dry, clear air, Loi Krathong lantern festival in November.",
+    "dayTrips": [
+      "Doi Inthanon National Park — Thailand's highest peak, stunning waterfalls, hill tribe villages, 2 hours by car.",
+      "Mae Hong Son — Remote mountain town on the Myanmar border, 4-hour drive or short flight, untouched landscapes.",
+      "Lamphun — Ancient Hariphunchai kingdom capital 30 min south, beautiful temple (Wat Phra That Hariphunchai), almost no tourists."
+    ],
+    "visaInfo": [
+      "Most Western nationalities (US, UK, EU, Australia, Canada) receive a visa exemption on arrival — 60 days for many passport holders as of 2024; check Thailand's MFA for your nationality",
+      "Thai Tourist Visa (TR) available in advance from Thai embassies — 60 days single entry; useful if planning a longer stay or multiple entries",
+      "The Chiang Mai immigration office (on the road toward the airport) handles 30-day extensions for 1,900 THB — a popular option for longer stays",
+      "Chiang Mai is a popular base for 'border runs' to Myanmar (Mae Sai) or Laos (Chiang Khong) to reset the visa exemption, though this practice is less guaranteed than it once was",
+      "METV (Multiple Entry Tourist Visa) allows 6 months of stays with 60 days per entry — useful for digital nomads spending significant time in Thailand"
+    ],
+    "currencyTips": [
+      "Currency: Thai Baht (฿ / THB). Chiang Mai is cheaper than Bangkok — street food from 40–80 THB, guesthouses from 300 THB/night",
+      "Best exchange: SuperRich and other exchange kiosks in the Night Bazaar area and near Nimman Road offer good rates; hotel exchange is poor",
+      "ATMs: 220–250 THB foreign card fee per transaction is standard across all Thai ATMs — use Kasikorn Bank for lowest foreign fees",
+      "Cash is essential for the Sunday Walking Street, Night Bazaar, and all temple entrance fees",
+      "Nimman area (the trendy neighbourhood) is increasingly card-friendly; the old city and markets remain predominantly cash"
+    ],
+    "simCard": "AIS and True Move H have the best coverage in Chiang Mai city and across northern Thailand's mountains. Purchase at Chiang Mai International Airport (CNX) on arrival. A 30-day SIM with 30 GB costs 300–500 THB. Coverage in remote hill tribe areas and mountain passes can be patchy — download offline maps beforehand. eSIM via Airalo is a convenient alternative.",
+    "emergencyNumbers": {
+      "police": "191",
+      "ambulance": "1669",
+      "emergency": "1155 (Tourist Police, English-speaking)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 10,
+  "localFriendliness": 9
+}

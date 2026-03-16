@@ -1,0 +1,201 @@
+{
+  "id": "queenstown",
+  "city": "Queenstown",
+  "country": "New Zealand",
+  "region": "Oceania",
+  "currency": "NZD",
+  "language": "English",
+  "description": "The adventure capital of the world — where you can bungee jump off a bridge, ski down The Remarkables, kayak across a glacial lake, and be back in a Michelin-worthy restaurant by dinner, all with the most spectacular alpine scenery you've ever seen behind you.",
+  "airportCode": "ZQN",
+  "shopUrl": null,
+  "foodScene": 5,
+  "beachQuality": 5,
+  "walkability": 7,
+  "nightlife": 5,
+  "safety": 10,
+  "culturalDepth": 3,
+  "transportationEase": 6,
+  "englishFriendliness": 10,
+  "familyFriendliness": 8,
+  "soloFriendliness": 8,
+  "coupleFriendliness": 8,
+  "adventureActivities": 10,
+  "shoppingScene": 5,
+  "wellnessScene": 7,
+  "digitalNomadScore": 5,
+  "visaComplexity": 2,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 120,
+    "mid": 220,
+    "premium": 450
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 20,
+      "rainyDays": 8,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 19,
+      "rainyDays": 8,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 16,
+      "rainyDays": 9,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 12,
+      "rainyDays": 9,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 8,
+      "rainyDays": 10,
+      "crowdLevel": 4,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 5,
+      "rainyDays": 9,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 4,
+      "rainyDays": 8,
+      "crowdLevel": 9,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 6,
+      "rainyDays": 9,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 9,
+      "rainyDays": 9,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 13,
+      "rainyDays": 9,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 16,
+      "rainyDays": 9,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 18,
+      "rainyDays": 8,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Town Centre — Walking distance to lake, Skyline gondola, restaurants, bars. Best base for first visit.",
+      "Frankton — Near the airport, local supermarkets, more affordable accommodation, 10 min drive to town.",
+      "Arrowtown — 20 min drive, charming gold-rush village, excellent restaurants, very different feel to Queenstown.",
+      "Fernhill — Residential hillside, quieter, stunning lake and mountain views, some excellent holiday rentals."
+    ],
+    "areasToAvoid": [
+      "Unmarked mountain bike trails without proper gear and experience — Queenstown has some extremely technical downhill.",
+      "Hiking the Remarkables in bad weather without checking the forecast — conditions change extremely fast at altitude.",
+      "Driving the Crown Range after heavy snow without snow chains or AWD."
+    ],
+    "scamWarnings": [
+      "Adventure activity price shopping is legitimate — different operators for the same activity can vary by 20–30%. Queenstown is so competitive that comparison sites save real money.",
+      "Car rental excess insurance: NZ excess can be NZ$3,000–5,000. Third-party insurance apps (iCoverRentals) reduce this significantly.",
+      "Jet boat tours on Shotover River: prices vary widely for a very similar experience. Book ahead online for the best rates.",
+      "Accommodation: Queenstown prices are extremely high in peak season (Christmas/New Year, ski season). Book early."
+    ],
+    "airportTransfer": {
+      "cheapest": "Connectabus from ZQN airport to town centre — NZ$10, takes 20 min, runs frequently.",
+      "fastest": "Taxi from ZQN — NZ$25–35, takes 10 min.",
+      "recommended": "Connectabus or taxi — the airport is very close to town, either option is fine.",
+      "taxiEstimate": "NZ$25–35 to town centre. Uber is also available in Queenstown."
+    },
+    "tippingEtiquette": [
+      "Tipping is not customary in New Zealand. Service wages are high and tips are not expected.",
+      "If you've had exceptional service, rounding up or leaving a small amount is a pleasant surprise but not obligatory.",
+      "Kiwi culture is egalitarian — calling a server 'sir' or 'ma'am' would be strange. First names, always.",
+      "DOC (Department of Conservation) hut passes for multi-day tracks must be pre-booked online.",
+      "Leave No Trace is taken extremely seriously in New Zealand's national parks — stick to tracks and take all rubbish out."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Hostel dorm NZ$40–65 | Motel NZ$120–200 | Boutique hotel NZ$250–500 | Resort NZ$600+",
+      "meals": "Fish and chips NZ$12–18 | Café lunch NZ$20–30 | Restaurant dinner NZ$35–65 | Fine dining NZ$100+",
+      "transport": "Bus within town NZ$2–5 | Taxi to Arrowtown NZ$45 | Gondola NZ$42 return | Car hire NZ$60–120/day",
+      "activities": "Bungee jump NZ$250–350 | Skydive NZ$349–499 | Ski day pass NZ$130–170 | Milford Sound cruise NZ$80–160"
+    },
+    "packingTips": [
+      "Layering system for all seasons — Queenstown weather is unpredictable, and activity intensity varies massively.",
+      "Good waterproof hiking boots — trails throughout Queenstown are beautiful but can be wet.",
+      "Ski gear can be rented on the mountain — don't bring it unless you already own good equipment.",
+      "Sunscreen — the New Zealand ozone layer is thinner, UV index is extremely high even on cloudy days."
+    ],
+    "bookingStrategy": "Summer (December–February) for maximum activities and warm temperatures. Winter (June–August) for skiing at The Remarkables and Coronet Peak — book 3–4 months ahead. Milford Sound day trips should be booked in advance as they sell out.",
+    "localTips": [
+      "Fergburger on Shotover Street is genuinely one of the best burgers in the world — the queue at 2am after a night out is part of the experience.",
+      "Skyline Gondola luge: gimmicky sounding but legitimately fun, especially at sunset with lake views.",
+      "Milford Sound is 4 hours by bus each way — stay overnight in Milford Lodge instead for sunrise on the fjord with no other tourists.",
+      "Remarkables ski field vs Coronet Peak: Coronet Peak is better for beginners/intermediates and has night skiing. Remarkables has more challenging terrain and stunning views.",
+      "Queenstown Hill Trail (above town): free 2-hour walk with panoramic views of the lake and mountains that rivals anything in the paid-tour offerings."
+    ],
+    "bestTimeToVisit": "January–February: long warm days, all activities available, lake swimming possible. June–August for skiing — The Remarkables is one of the Southern Hemisphere's best ski areas.",
+    "dayTrips": [
+      "Milford Sound — 4-hour drive through Fiordland National Park, cruise on the fjord, waterfalls from cliff faces, extraordinary.",
+      "Arrowtown — 20 min drive, gold-rush era village, Lakes District Museum, Arrow River gorge walk, excellent cafes.",
+      "Mount Aspiring National Park (Wanaka) — 1 hour drive, stunning lake town, Roy's Peak hike (8 hours return), far less crowded than Queenstown."
+    ],
+    "visaInfo": [
+      "NZeTA (New Zealand Electronic Travel Authority) required for most visa-waiver nationalities — apply via the NZeTA app or at immigration.govt.nz ($23 NZD; usually approved in minutes, occasionally 72 hours)",
+      "Citizens of Australia: no visa or NZeTA required — automatic right to live and work in New Zealand",
+      "International Visitor Conservation and Tourism Levy (IVL): $35 NZD charged alongside the NZeTA for most non-Australian visitors",
+      "UK, US, Canadian, EU citizens are all in the visa-waiver programme and require only the NZeTA — apply before departure",
+      "Passport must be valid for at least 3 months beyond your planned departure from New Zealand"
+    ],
+    "currencyTips": [
+      "Currency: New Zealand Dollar (NZD / $). Queenstown is one of New Zealand's most expensive towns — budget generously for accommodation and activities",
+      "Cards accepted almost everywhere in Queenstown — restaurants, ski fields, activity operators, and even market stalls increasingly accept contactless",
+      "Best ATMs: Westpac, ANZ, and Kiwibank ATMs in Queenstown town centre; your home bank's fees are the main cost as NZ machines typically charge no additional surcharge for foreign cards",
+      "Cash is useful for Queenstown's farmer's market on Saturday mornings and for some adventure activity deposits",
+      "Tipping is not culturally expected in New Zealand — service is included in prices; a small tip is appreciated but never required"
+    ],
+    "simCard": "Spark NZ has the best rural 4G coverage in New Zealand, particularly important for Fiordland, Glenorchy, and the Milford Sound road. One NZ (formerly Vodafone NZ) is strong in Queenstown town. Tourist SIMs are available at Queenstown Airport (ZQN) and in town. A 30-day SIM with 10–30 GB costs NZD 35–80. eSIM via Airalo is a good option if arriving in Auckland first.",
+    "emergencyNumbers": {
+      "police": "111",
+      "ambulance": "111",
+      "emergency": "111 (police, fire, and ambulance — single number for all)"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 5,
+  "localFriendliness": 9
+}

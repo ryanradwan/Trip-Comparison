@@ -1,0 +1,202 @@
+{
+  "id": "amalfi-coast",
+  "city": "Amalfi Coast",
+  "country": "Italy",
+  "region": "Southern Europe",
+  "currency": "EUR",
+  "language": "Italian",
+  "description": "One of the world's most dramatic coastlines — clifftop villages, pastel-coloured houses tumbling into turquoise water, limoncello at every turn, and a pace of life that feels like a film set.",
+  "airportCode": "NAP",
+  "shopUrl": null,
+  "foodScene": 8,
+  "beachQuality": 8,
+  "walkability": 5,
+  "nightlife": 4,
+  "safety": 8,
+  "culturalDepth": 7,
+  "transportationEase": 4,
+  "englishFriendliness": 6,
+  "familyFriendliness": 6,
+  "soloFriendliness": 6,
+  "coupleFriendliness": 10,
+  "adventureActivities": 7,
+  "shoppingScene": 5,
+  "wellnessScene": 7,
+  "digitalNomadScore": 4,
+  "visaComplexity": 2,
+  "instagrammability": 10,
+  "budgetTiers": {
+    "budget": 120,
+    "mid": 250,
+    "premium": 500
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 10,
+      "rainyDays": 10,
+      "crowdLevel": 1,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 11,
+      "rainyDays": 9,
+      "crowdLevel": 1,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 6,
+      "avgTempCelsius": 13,
+      "rainyDays": 8,
+      "crowdLevel": 2,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 16,
+      "rainyDays": 6,
+      "crowdLevel": 4,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 20,
+      "rainyDays": 4,
+      "crowdLevel": 6,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 25,
+      "rainyDays": 2,
+      "crowdLevel": 8,
+      "flightPriceIndex": 9
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 28,
+      "rainyDays": 1,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 10,
+      "avgTempCelsius": 28,
+      "rainyDays": 1,
+      "crowdLevel": 10,
+      "flightPriceIndex": 10
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 24,
+      "rainyDays": 4,
+      "crowdLevel": 7,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 19,
+      "rainyDays": 7,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 14,
+      "rainyDays": 9,
+      "crowdLevel": 2,
+      "flightPriceIndex": 3
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 11,
+      "rainyDays": 11,
+      "crowdLevel": 2,
+      "flightPriceIndex": 4
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "Positano — The most iconic village, steep stairs, boutique hotels, best photography. Stay here for the classic experience.",
+      "Ravello — Hilltop town above the chaos, quieter, gardens, music festival in summer, stunning panoramas.",
+      "Praiano — Less touristy than Positano, local feel, own small beach, access to Furore fjord.",
+      "Atrani — Tiny village next to Amalfi town, fewer tourists, charming piazza, authentic southern Italian life."
+    ],
+    "areasToAvoid": [
+      "Amalfi town main beach in August — uncomfortably packed, overpriced sunbeds, no real sand.",
+      "Driving the Amalfi Drive yourself in July/August — roads are gridlocked, buses can't pass, rental cars get scratched.",
+      "Budget accommodation near the main road — bus and scooter noise is relentless, earplugs essential."
+    ],
+    "scamWarnings": [
+      "Taxi flat rates aren't displayed — always agree on the price before getting in. Official rates exist but drivers frequently ignore them.",
+      "Lemon products at touristy shops are often not from the Amalfi Coast at all. Buy limoncello from producers who show their orchard credentials.",
+      "Ferry touts at the dock sell unofficial tickets for inflated prices. Buy directly from the official booth — Travelmar and Metro del Mare are the legitimate operators.",
+      "Boat trip 'deals' from beach hawkers often cut corners on safety and don't include the caves they advertise. Use licensed operators."
+    ],
+    "airportTransfer": {
+      "cheapest": "SITA bus from Naples (Piazza Garibaldi) to Amalfi town via Salerno — €4 one way, takes 2.5–3 hours total from airport.",
+      "fastest": "Private transfer Naples Airport to Positano — €120–160, door to door, 1.5 hours.",
+      "recommended": "Take the Alibus airport shuttle to Naples city (€5), then Circumvesuviana train to Sorrento (€2.80, 50 min), then ferry to Positano in season (€15, 35 min). Best balance of cost and scenery.",
+      "taxiEstimate": "Official taxi from Naples Airport to Positano: €130–180. Always negotiate or confirm fixed rate before departing."
+    },
+    "tippingEtiquette": [
+      "Italy has no strong tipping culture. Rounding up the bill or leaving €1–2 at restaurants is appreciated but not expected.",
+      "Coperto (cover charge) is legal and common — €2–5 per person added to your bill. Not a scam, just Italian custom.",
+      "Do not tip at bars or for counter service (standing at the bar costs less than sitting, by Italian tradition).",
+      "Dress modestly when visiting churches in Ravello and Amalfi — shoulders and knees covered.",
+      "Greet with 'buongiorno' (morning) and 'buonasera' (afternoon/evening) — jumping straight to your order without greeting is considered rude."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget guesthouse €90–120 | Mid-range hotel €180–280 | Boutique hotel €350–600+",
+      "meals": "Seaside café lunch €14–20 | Dinner with wine €35–60 | Fine dining €80+",
+      "transport": "Ferry Positano–Amalfi €8 | SITA bus €2 | Private boat hire €150–300/half day",
+      "activities": "Cave of the Emerald entry €5 | Sentiero degli Dei hike free | Cooking class €90–120 | Boat tour €40–60"
+    },
+    "packingTips": [
+      "Walking sandals with ankle support — the paths are steep cobblestone and ordinary flip flops won't cut it.",
+      "Light layers even in summer — sea breeze drops temps 8–10°C in the evening.",
+      "Waterproof bag for boat trips — spray from the ferries is relentless.",
+      "Sunscreen factor 50+ — the sun reflects off the water intensely, even at 10am.",
+      "Small daypack — you'll be climbing stairs constantly, no place for wheeled luggage."
+    ],
+    "bookingStrategy": "Book May or September — warm, sunny, crowds at 60% of peak, prices 30–40% lower. July–August is peak season with queues everywhere and rooms booked a year in advance. Most places close Nov–Feb.",
+    "localTips": [
+      "Take the Sentiero degli Dei (Path of the Gods) trail early morning — starts in Agerola, ends in Positano, 2.5 hours, jaw-dropping views with almost no one there before 9am.",
+      "The SITA bus is how locals get around — buy return tickets at the tobacconist (tabaccaio) to save queuing.",
+      "Fiorduomo restaurant in Amalfi town for honest pricing and great pasta — ignore the overpriced waterfront places.",
+      "Ravello's Villa Rufolo gardens at sunset is one of the best views in Italy and costs just €7.",
+      "Book ferry tickets in advance for peak weekends — they sell out."
+    ],
+    "bestTimeToVisit": "Mid-May to mid-June or September — perfect weather (22–26°C), manageable crowds, hotels available without a year's notice.",
+    "dayTrips": [
+      "Capri — 30-min hydrofoil from Positano, stunning Blue Grotto, glamorous marina, day trip paradise.",
+      "Pompeii — 45 min by SITA bus from Sorrento, extraordinary Roman ruins, fascinating half-day.",
+      "Paestum — Ancient Greek temples an hour south, often overlooked, strikingly well-preserved."
+    ],
+    "visaInfo": [
+      "EU/EEA citizens: no visa required — Italy is a full Schengen member with free movement for EU passport holders",
+      "UK citizens (post-Brexit): visa-free for up to 90 days in any 180-day Schengen period; passport must be valid for the duration of stay",
+      "US, Canadian, and Australian citizens: visa-free for up to 90 days in any 180-day Schengen period; no tourist visa required",
+      "Most other nationalities: consult the Italian Ministry of Foreign Affairs or nearest Italian consulate; many nationalities require a Schengen visa in advance",
+      "The 90-day Schengen allowance is shared across all 27 Schengen member states — time in any other Schengen country counts against the same quota"
+    ],
+    "currencyTips": [
+      "Currency: Euro (€) — Italy is a eurozone member; no currency exchange needed if arriving from another eurozone country",
+      "Cards are accepted at most hotels and restaurants along the Amalfi Coast, but smaller villages and local shops often prefer cash",
+      "Best ATMs: use bank-branded ATMs in Amalfi town or Sorrento — ATMs in smaller villages are scarce; withdraw cash before heading to Positano or Praiano",
+      "Avoid: dynamic currency conversion (DCC) at card terminals — always choose to pay in euros",
+      "Cash is essential for ferry tickets, SITA buses, small trattorias, and market stalls; carry €20–€50 in smaller notes"
+    ],
+    "simCard": "TIM, Vodafone Italy, WindTre, and Iliad are the main Italian carriers. Coverage can be patchy on cliffside roads and in some villages — TIM generally has the best rural coverage. Buy a tourist SIM (€10–25, 10–20 GB with EU roaming) at Naples Airport (NAP) or in Sorrento. For pre-arrival setup, Airalo offers Italy eSIMs with instant activation.",
+    "emergencyNumbers": {
+      "police": "113 (Polizia di Stato) or 112 (pan-European)",
+      "ambulance": "118",
+      "emergency": "112"
+    }
+  },
+  "lastUpdated": "2025-06-01",
+  "enabled": true,
+  "affordability": 5,
+  "localFriendliness": 7
+}
