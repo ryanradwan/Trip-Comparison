@@ -114,7 +114,7 @@ export async function POST(req: NextRequest) {
             </ul>
             <p style="font-size: 13px; color: #BFA38A; margin: 0; border-top: 1px solid #D8C2A7; padding-top: 16px;">
               You can also access your comparison anytime at
-              <a href="${process.env.NEXT_PUBLIC_URL}/compare/${slug}" style="color: #A1785A;">compare.thenextstamptravelco.com/compare/${slug}</a>
+              <a href="${process.env.NEXT_PUBLIC_URL}/compare/${slug}" style="color: #A1785A;">trip-comparison.vercel.app/compare/${slug}</a>
             </p>
           </div>
           <p style="font-size: 11px; color: #BFA38A; text-align: center; margin-top: 16px;">
