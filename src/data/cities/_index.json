@@ -8,6 +8,14 @@
     "budgetCategory": "premium"
   },
   {
+    "id": "montreal",
+    "city": "Montreal",
+    "country": "Canada",
+    "region": "North America",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
     "id": "lisbon",
     "city": "Lisbon",
     "country": "Portugal",
