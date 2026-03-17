@@ -3,7 +3,7 @@
 export default function BackButton() {
   return (
     <button
-      onClick={() => window.history.back()}
+      onClick={() => { window.parent.location.href = 'https://thenextstamptravelco.com'; }}
       style={{
         background: "none",
         border: "none",
