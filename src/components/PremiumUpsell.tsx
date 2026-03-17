@@ -15,6 +15,7 @@ export default function PremiumUpsell({ slug, onUnlocked, tripContext, weights }
 
   async function handleCheckout(priceType: "single" | "annual") {
     setLoading(priceType);
+    const stripeWindow = window.open('', '_blank');
     try {
       const res = await fetch("/api/checkout", {
         method: "POST",
@@ -22,10 +23,15 @@ export default function PremiumUpsell({ slug, onUnlocked, tripContext, weights }
         body: JSON.stringify({ priceType, slug, tripContext, weights }),
       });
       const { url } = await res.json();
-      if (url) window.location.href = url;
+      if (url && stripeWindow) {
+        stripeWindow.location.href = url;
+      } else {
+        stripeWindow?.close();
+      }
       setLoading(null);
     } catch (e) {
       console.error(e);
+      stripeWindow?.close();
       setLoading(null);
     }
   }
