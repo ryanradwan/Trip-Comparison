@@ -3,6 +3,7 @@ import "./globals.css";
 import Link from "next/link";
 import { Playfair_Display, Inter } from "next/font/google";
 import BackButton from "@/components/BackButton";
+import IframeResizer from "@/components/IframeResizer";
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
@@ -64,6 +65,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </div>
         </nav>
 
+        <IframeResizer />
         {children}
 
         <footer
