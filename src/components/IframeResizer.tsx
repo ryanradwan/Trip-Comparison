@@ -11,11 +11,20 @@ export default function IframeResizer() {
       );
     };
 
-    const observer = new ResizeObserver(sendHeight);
-    observer.observe(document.body);
     sendHeight();
+    const t1 = setTimeout(sendHeight, 300);
+    const t2 = setTimeout(sendHeight, 1000);
+    const t3 = setTimeout(sendHeight, 2500);
 
-    return () => observer.disconnect();
+    const observer = new ResizeObserver(sendHeight);
+    observer.observe(document.documentElement);
+
+    return () => {
+      observer.disconnect();
+      clearTimeout(t1);
+      clearTimeout(t2);
+      clearTimeout(t3);
+    };
   }, []);
 
   return null;
