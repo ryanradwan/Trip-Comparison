@@ -22,7 +22,7 @@ export default function PremiumUpsell({ slug, onUnlocked, tripContext, weights }
         body: JSON.stringify({ priceType, slug, tripContext, weights }),
       });
       const { url } = await res.json();
-      if (url) window.open(url, '_blank');
+      if (url) (window.top || window).open(url, '_blank');
       setLoading(null);
     } catch (e) {
       console.error(e);
