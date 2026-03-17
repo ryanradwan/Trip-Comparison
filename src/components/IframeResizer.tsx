@@ -5,25 +5,18 @@ import { useEffect } from "react";
 export default function IframeResizer() {
   useEffect(() => {
     const sendHeight = () => {
-      window.parent.postMessage(
-        { type: "iframeHeight", height: document.documentElement.scrollHeight },
-        "*"
-      );
+      const height = document.body.offsetHeight;
+      window.parent.postMessage({ type: "iframeHeight", height }, "*");
     };
 
-    sendHeight();
-    const t1 = setTimeout(sendHeight, 300);
-    const t2 = setTimeout(sendHeight, 1000);
-    const t3 = setTimeout(sendHeight, 2500);
-
     const observer = new ResizeObserver(sendHeight);
-    observer.observe(document.documentElement);
+    observer.observe(document.body);
+    sendHeight();
+    const t = setTimeout(sendHeight, 800);
 
     return () => {
       observer.disconnect();
-      clearTimeout(t1);
-      clearTimeout(t2);
-      clearTimeout(t3);
+      clearTimeout(t);
     };
   }, []);
 
