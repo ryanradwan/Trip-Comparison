@@ -89,7 +89,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <div style={{ display: "flex", gap: 16, justifyContent: "center", flexWrap: "wrap" }}>
             <Link href="/faq" style={{ fontSize: 12, color: "var(--text-muted)", textDecoration: "none" }}>FAQ</Link>
             <Link href="/destinations" style={{ fontSize: 12, color: "var(--text-muted)", textDecoration: "none" }}>All Destinations</Link>
-            <a href="https://thenextstamptravelco.com/contact" style={{ fontSize: 12, color: "var(--text-muted)", textDecoration: "none" }}>Contact</a>
           </div>
         </footer>
       </body>
