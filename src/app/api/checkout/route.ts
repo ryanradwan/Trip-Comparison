@@ -27,12 +27,13 @@ export async function GET(req: NextRequest) {
       ? process.env.STRIPE_PRICE_ANNUAL!
       : process.env.STRIPE_PRICE_SINGLE!;
 
+    const origin = req.nextUrl.origin;
     const session = await stripe.checkout.sessions.create({
       mode: priceType === "annual" ? "subscription" : "payment",
       payment_method_types: ["card"],
       line_items: [{ price: priceId, quantity: 1 }],
-      success_url: `${process.env.NEXT_PUBLIC_URL}/compare/${slug}?premium=${priceType}`,
-      cancel_url: `${process.env.NEXT_PUBLIC_URL}/compare/${slug}`,
+      success_url: `${origin}/compare/${slug}?premium=${priceType}`,
+      cancel_url: `${origin}/compare/${slug}`,
       metadata: { slug, priceType, tripContext: "", weights: "" },
     });
 
