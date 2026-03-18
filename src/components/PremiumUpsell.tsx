@@ -1,6 +1,5 @@
 "use client";
 
-import { useState } from "react";
 import { TripContext, TravelerWeights } from "@/lib/types";
 
 interface Props {
@@ -10,28 +9,18 @@ interface Props {
   weights?: TravelerWeights;
 }
 
-export default function PremiumUpsell({ slug, onUnlocked, tripContext, weights }: Props) {
-  const [loading, setLoading] = useState<"single" | "annual" | null>(null);
-
-  async function handleCheckout(priceType: "single" | "annual") {
-    setLoading(priceType);
-    try {
-      const res = await fetch("/api/checkout", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ priceType, slug, tripContext, weights }),
-      });
-      const { url } = await res.json();
-      if (url) {
-        window.top!.location.href = url;
-      } else {
-        setLoading(null);
-      }
-    } catch (e) {
-      console.error(e);
-      setLoading(null);
-    }
-  }
+export default function PremiumUpsell({ slug }: Props) {
+  const buttonStyle = {
+    display: "block",
+    width: "100%",
+    padding: "10px",
+    borderRadius: "var(--radius-sm)",
+    fontSize: 13,
+    fontWeight: 600,
+    cursor: "pointer",
+    textDecoration: "none",
+    textAlign: "center" as const,
+  };
 
   return (
     <div
@@ -104,24 +93,17 @@ export default function PremiumUpsell({ slug, onUnlocked, tripContext, weights }
           <div style={{ fontSize: 13, color: "var(--text-muted)", marginBottom: 4 }}>This comparison</div>
           <div style={{ fontSize: 32, fontWeight: 700, color: "var(--text-primary)", marginBottom: 4 }}>$5.99</div>
           <div style={{ fontSize: 12, color: "var(--text-muted)", marginBottom: 16 }}>one-time</div>
-          <button
-            onClick={() => handleCheckout("single")}
-            disabled={loading !== null}
+          <a
+            href={`/api/checkout?slug=${slug}&priceType=single`}
+            target="_top"
             style={{
-              width: "100%",
-              padding: "10px",
+              ...buttonStyle,
               backgroundColor: "var(--color-espresso)",
               color: "var(--color-cream)",
-              border: "none",
-              borderRadius: "var(--radius-sm)",
-              fontSize: 13,
-              fontWeight: 600,
-              cursor: loading !== null ? "not-allowed" : "pointer",
-              opacity: loading !== null ? 0.7 : 1,
             }}
           >
-            {loading === "single" ? "Loading..." : "Unlock This Comparison"}
-          </button>
+            Unlock This Comparison
+          </a>
           <p style={{ fontSize: 11, color: "var(--text-muted)", margin: "8px 0 0", lineHeight: 1.4 }}>
             ✓ Instant access &nbsp;·&nbsp; ✓ 7-day money-back guarantee
           </p>
@@ -158,24 +140,17 @@ export default function PremiumUpsell({ slug, onUnlocked, tripContext, weights }
           <div style={{ fontSize: 13, color: "var(--text-muted)", marginBottom: 4 }}>Unlimited, 1 year</div>
           <div style={{ fontSize: 32, fontWeight: 700, color: "var(--text-primary)", marginBottom: 4 }}>$40</div>
           <div style={{ fontSize: 12, color: "var(--text-muted)", marginBottom: 16 }}>per year</div>
-          <button
-            onClick={() => handleCheckout("annual")}
-            disabled={loading !== null}
+          <a
+            href={`/api/checkout?slug=${slug}&priceType=annual`}
+            target="_top"
             style={{
-              width: "100%",
-              padding: "10px",
+              ...buttonStyle,
               backgroundColor: "var(--accent-primary)",
               color: "white",
-              border: "none",
-              borderRadius: "var(--radius-sm)",
-              fontSize: 13,
-              fontWeight: 600,
-              cursor: loading !== null ? "not-allowed" : "pointer",
-              opacity: loading !== null ? 0.7 : 1,
             }}
           >
-            {loading === "annual" ? "Loading..." : "Unlock All Comparisons"}
-          </button>
+            Unlock All Comparisons
+          </a>
           <p style={{ fontSize: 11, color: "var(--text-muted)", margin: "8px 0 0", lineHeight: 1.4 }}>
             ✓ All 49 cities &nbsp;·&nbsp; ✓ 7-day money-back guarantee
           </p>
