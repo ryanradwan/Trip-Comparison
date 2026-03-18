@@ -355,7 +355,7 @@ export default function ComparisonClient({ city1, city2, slug }: Props) {
                   >
                     Your Full Insider Breakdown
                   </h3>
-                  <PdfDownloadButton result={result} tripContext={tripContext} />
+                  <PdfDownloadButton result={result} tripContext={tripContext} slug={slug} />
                 </div>
 
                 <PremiumContent city1={city1} city2={city2} />
