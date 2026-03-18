@@ -87,7 +87,7 @@ function createStyles(StyleSheet: any) {
     // ── Score bars ────────────────────────────────────────────────────
     barRow: { flexDirection: "row" as const, alignItems: "center" as const, padding: "4 8", borderBottomWidth: 1, borderBottomColor: "#F3E8DA" },
     barLabel: { fontSize: 9, color: "#5C4A38", width: 110 },
-    barTrack: { flex: 1, backgroundColor: "#F3E8DA", borderRadius: 3, height: 7, marginHorizontal: 4 },
+    barTrack: { flex: 1, backgroundColor: "#F3E8DA", borderRadius: 3, height: 7, marginHorizontal: 4, flexDirection: "row" as const },
     barFillGreen: { backgroundColor: "#4E8C5F", height: 7, borderRadius: 3 },
     barFillMuted: { backgroundColor: "#BFA38A", height: 7, borderRadius: 3 },
     barFillBronze: { backgroundColor: "#A1785A", height: 7, borderRadius: 3 },
@@ -239,10 +239,12 @@ export function buildPdfDocument(
       el(Text, { style: styles.barLabel }, label),
       el(Text, { style: styles.barScore }, `${score1}`),
       el(View, { style: styles.barTrack },
-        el(View, { style: { ...bar1Color, width: `${Math.min(score1, 10) * 10}%` } })
+        el(View, { style: { ...bar1Color, flex: Math.min(score1, 10) } }),
+        el(View, { style: { flex: 10 - Math.min(score1, 10) } })
       ),
       el(View, { style: styles.barTrack },
-        el(View, { style: { ...bar2Color, width: `${Math.min(score2, 10) * 10}%` } })
+        el(View, { style: { ...bar2Color, flex: Math.min(score2, 10) } }),
+        el(View, { style: { flex: 10 - Math.min(score2, 10) } })
       ),
       el(Text, { style: styles.barScore }, `${score2}`)
     );
