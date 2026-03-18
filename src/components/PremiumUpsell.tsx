@@ -1,6 +1,8 @@
 "use client";
 
+import { useState } from "react";
 import { TripContext, TravelerWeights } from "@/lib/types";
+import { unlockPremium } from "@/lib/premium";
 
 interface Props {
   slug: string;
@@ -9,7 +11,32 @@ interface Props {
   weights?: TravelerWeights;
 }
 
-export default function PremiumUpsell({ slug }: Props) {
+export default function PremiumUpsell({ slug, onUnlocked }: Props) {
+  const [showRestore, setShowRestore] = useState(false);
+  const [restoreEmail, setRestoreEmail] = useState("");
+  const [restoreStatus, setRestoreStatus] = useState<"idle" | "loading" | "success" | "fail">("idle");
+
+  async function handleRestore() {
+    if (!restoreEmail) return;
+    setRestoreStatus("loading");
+    try {
+      const res = await fetch("/api/restore-access", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: restoreEmail }),
+      });
+      const data = await res.json();
+      if (data.valid) {
+        unlockPremium("annual");
+        setRestoreStatus("success");
+        setTimeout(() => onUnlocked(), 800);
+      } else {
+        setRestoreStatus("fail");
+      }
+    } catch {
+      setRestoreStatus("fail");
+    }
+  }
   const buttonStyle = {
     display: "block",
     width: "100%",
@@ -155,6 +182,40 @@ export default function PremiumUpsell({ slug }: Props) {
             ✓ All 49 cities &nbsp;·&nbsp; ✓ 7-day money-back guarantee
           </p>
         </div>
+      </div>
+
+      {/* Restore annual access */}
+      <div style={{ marginTop: 24, borderTop: "1px solid var(--border-light)", paddingTop: 16 }}>
+        {!showRestore ? (
+          <button
+            onClick={() => setShowRestore(true)}
+            style={{ background: "none", border: "none", cursor: "pointer", fontSize: 12, color: "var(--text-muted)", textDecoration: "underline" }}
+          >
+            Already have an annual subscription? Restore access
+          </button>
+        ) : (
+          <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 8 }}>
+            <p style={{ fontSize: 12, color: "var(--text-muted)", margin: 0 }}>Enter the email you used to purchase:</p>
+            <div style={{ display: "flex", gap: 8, flexWrap: "wrap", justifyContent: "center" }}>
+              <input
+                type="email"
+                value={restoreEmail}
+                onChange={(e) => setRestoreEmail(e.target.value)}
+                placeholder="your@email.com"
+                style={{ padding: "8px 12px", borderRadius: "var(--radius-sm)", border: "1px solid var(--border-medium)", fontSize: 13, width: 220 }}
+              />
+              <button
+                onClick={handleRestore}
+                disabled={restoreStatus === "loading"}
+                style={{ padding: "8px 16px", backgroundColor: "var(--accent-primary)", color: "white", border: "none", borderRadius: "var(--radius-sm)", fontSize: 13, fontWeight: 600, cursor: "pointer" }}
+              >
+                {restoreStatus === "loading" ? "Checking..." : "Restore Access"}
+              </button>
+            </div>
+            {restoreStatus === "success" && <p style={{ fontSize: 12, color: "#2E7D32", margin: 0 }}>✓ Access restored! Loading your content...</p>}
+            {restoreStatus === "fail" && <p style={{ fontSize: 12, color: "#B85640", margin: 0 }}>No active annual subscription found for that email.</p>}
+          </div>
+        )}
       </div>
     </div>
   );
