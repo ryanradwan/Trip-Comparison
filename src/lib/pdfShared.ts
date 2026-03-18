@@ -564,8 +564,8 @@ export function buildPdfDocument(
         el(View, { style: { ...styles.tableHeader, alignItems: "center" as const } },
           el(Text, { style: { ...styles.tableHeaderText, width: 110, flex: 0 } }, ""),
           el(Text, { style: { ...styles.tableHeaderText, width: 20, flex: 0, textAlign: "right" as const } }, ""),
-          el(Text, { style: { ...styles.tableHeaderText, flex: 1, paddingLeft: 4 } }, sanitize(result.city1.city)),
-          el(Text, { style: { ...styles.tableHeaderText, flex: 1, paddingLeft: 4 } }, sanitize(result.city2.city)),
+          el(Text, { style: { ...styles.tableHeaderText, flex: 1, textAlign: "center" as const } }, sanitize(result.city1.city)),
+          el(Text, { style: { ...styles.tableHeaderText, flex: 1, textAlign: "center" as const } }, sanitize(result.city2.city)),
           el(Text, { style: { ...styles.tableHeaderText, width: 20, flex: 0 } }, "")
         ),
         ...result.categoryScores.map((cat, i) =>
