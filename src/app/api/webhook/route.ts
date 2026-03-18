@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import Stripe from "stripe";
+
+export const maxDuration = 60;
 import { Resend } from "resend";
 import { loadCity, parseSlug } from "@/lib/cities";
 import { compareCities } from "@/lib/scoring";
