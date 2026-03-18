@@ -567,10 +567,10 @@ export function buildPdfDocument(
           el(Text, { style: { ...styles.tableHeaderText, width: 110, flex: 0 } }, ""),
           el(Text, { style: { ...styles.tableHeaderText, width: 20, flex: 0, textAlign: "right" as const } }, ""),
           el(View, { style: { flex: 1, marginHorizontal: 4, alignItems: "center" as const } },
-            el(Text, { style: styles.tableHeaderText }, sanitize(result.city1.city))
+            el(Text, { style: { ...styles.tableHeaderText, flex: 0 } }, sanitize(result.city1.city))
           ),
           el(View, { style: { flex: 1, marginHorizontal: 4, alignItems: "center" as const } },
-            el(Text, { style: styles.tableHeaderText }, sanitize(result.city2.city))
+            el(Text, { style: { ...styles.tableHeaderText, flex: 0 } }, sanitize(result.city2.city))
           ),
           el(Text, { style: { ...styles.tableHeaderText, width: 20, flex: 0 } }, "")
         ),
