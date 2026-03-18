@@ -10,7 +10,7 @@ export async function GET(req: NextRequest) {
     return NextResponse.json({ error: "Stripe not configured" }, { status: 500 });
   }
 
-  const { searchParams } = new URL(req.url);
+  const { searchParams } = req.nextUrl;
   const slug = searchParams.get("slug") ?? "";
   const priceType = searchParams.get("priceType") as "single" | "annual";
 
