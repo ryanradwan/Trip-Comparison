@@ -72,6 +72,20 @@ export const ITINERARY_PRODUCTS: Record<string, ItineraryProduct> = {
     url: "https://thenextstamptravelco.com/product/5-days-in-dubai/",
     highlights: ["Burj Khalifa visit", "Desert safari", "Old Dubai & souks", "Best restaurants & rooftops"],
   },
+  "new-york-city": {
+    cityLabel: "New York City",
+    name: "5 Days in New York City",
+    description: "Five days navigating the greatest city on earth — iconic neighbourhoods, world-class food, and the hidden gems most tourists never find.",
+    url: "https://thenextstamptravelco.com/product/new-york-5-day-itinerary-guide/",
+    highlights: ["Day-by-day schedule", "Neighbourhood guides", "Best restaurants & bars", "Transport & logistics tips"],
+  },
+  montreal: {
+    cityLabel: "Montreal",
+    name: "4 Days in Montreal",
+    description: "Four days in Canada's most vibrant city — French-Canadian culture, incredible food, festivals, and the best of Old Montreal.",
+    url: "https://thenextstamptravelco.com/product/montreal-4-day-itinerary-guide/",
+    highlights: ["Day-by-day schedule", "Old Montreal highlights", "Food & café guide", "Culture & festival tips"],
+  },
   // Japan itinerary applies to all Japan cities
   tokyo: {
     cityLabel: "Japan",
