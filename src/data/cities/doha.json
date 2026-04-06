@@ -1,0 +1,199 @@
+{
+  "id": "doha",
+  "city": "Doha",
+  "country": "Qatar",
+  "region": "Middle East",
+  "currency": "QAR",
+  "language": "Arabic/English",
+  "description": "Qatar's capital is a city that built its skyline in a single generation — a gleaming waterfront corniche, the world-class Museum of Islamic Art, and Souq Waqif's labyrinthine lanes all within a few kilometres of each other. Post-World Cup infrastructure has made Doha one of the most polished and well-connected cities in the Gulf.",
+  "airportCode": "DOH",
+  "shopUrl": "https://thenextstamptravelco.com/product/doha-qatar-2-day-itinerary/",
+  "foodScene": 8,
+  "beachQuality": 7,
+  "walkability": 4,
+  "nightlife": 4,
+  "safety": 9,
+  "culturalDepth": 8,
+  "transportationEase": 6,
+  "englishFriendliness": 8,
+  "familyFriendliness": 9,
+  "soloFriendliness": 7,
+  "coupleFriendliness": 8,
+  "adventureActivities": 7,
+  "shoppingScene": 9,
+  "wellnessScene": 8,
+  "digitalNomadScore": 6,
+  "visaComplexity": 2,
+  "instagrammability": 8,
+  "affordability": 6,
+  "localFriendliness": 8,
+  "budgetTiers": {
+    "budget": 80,
+    "mid": 160,
+    "premium": 400
+  },
+  "monthlyData": [
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 18,
+      "rainyDays": 2,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 20,
+      "rainyDays": 1,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    },
+    {
+      "weatherScore": 8,
+      "avgTempCelsius": 24,
+      "rainyDays": 1,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 30,
+      "rainyDays": 1,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 5,
+      "avgTempCelsius": 36,
+      "rainyDays": 0,
+      "crowdLevel": 5,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 3,
+      "avgTempCelsius": 40,
+      "rainyDays": 0,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 2,
+      "avgTempCelsius": 42,
+      "rainyDays": 0,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 2,
+      "avgTempCelsius": 42,
+      "rainyDays": 0,
+      "crowdLevel": 3,
+      "flightPriceIndex": 4
+    },
+    {
+      "weatherScore": 4,
+      "avgTempCelsius": 37,
+      "rainyDays": 0,
+      "crowdLevel": 4,
+      "flightPriceIndex": 5
+    },
+    {
+      "weatherScore": 7,
+      "avgTempCelsius": 31,
+      "rainyDays": 0,
+      "crowdLevel": 6,
+      "flightPriceIndex": 6
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 25,
+      "rainyDays": 1,
+      "crowdLevel": 7,
+      "flightPriceIndex": 7
+    },
+    {
+      "weatherScore": 9,
+      "avgTempCelsius": 20,
+      "rainyDays": 1,
+      "crowdLevel": 8,
+      "flightPriceIndex": 8
+    }
+  ],
+  "premium": {
+    "neighborhoodRecs": [
+      "The Pearl-Qatar — Doha's artificial island and most walkable neighbourhood. Marinas lined with restaurants, boutiques, and cafés. Great base for first-timers who want a polished, modern experience.",
+      "West Bay (Lusail area) — The skyscraper district along the Corniche. Best for business hotels and watching the iconic skyline light up at night. Less character but unbeatable views.",
+      "Souq Waqif & Msheireb — The historic heart of Doha. Narrow lanes, incense smoke, falconry shops, and the best Qatari and Levantine food in the city. Stay nearby if you want authentic street life.",
+      "Katara Cultural Village — A purpose-built arts and culture precinct with an amphitheatre, art galleries, beach, and some excellent seafood restaurants. Quieter and more relaxed than the Pearl."
+    ],
+    "areasToAvoid": [
+      "Industrial Area — a workers' district with nothing for tourists; well outside the city centre and not served by metro.",
+      "Outdoor exertion June–September — heat exceeds 40°C with intense humidity near the coast; plan outdoor sightseeing strictly for early mornings or evenings."
+    ],
+    "scamWarnings": [
+      "Unofficial taxi drivers outside Hamad International Airport: use the metered Karwa taxis from the official rank or book a pre-arranged hotel transfer. Unlicensed cars quote flat rates that run 3–5x the metered fare.",
+      "Currency exchange at tourist-facing booths in the Souq may offer slightly worse rates — use a bank ATM or Al Fardan Exchange branch instead.",
+      "Counterfeit branded goods in informal shops around the Souq area — buy branded items only from licensed retailers in malls."
+    ],
+    "airportTransfer": {
+      "cheapest": "Doha Metro Gold Line from Hamad International Airport station directly to city-centre stations (Al Matar/Airport station) — 2–4 QAR (~$0.60–1.10), 20–30 min to West Bay or Souq Waqif area.",
+      "fastest": "Kareem or Uber from DOH — 50–80 QAR (~$14–22) to most central areas, 20–30 min depending on traffic.",
+      "recommended": "Metro for West Bay, Msheireb, or The Pearl (change at Al Bidda/UAE station). Uber/Kareem with heavy luggage or for late-night arrivals.",
+      "taxiEstimate": "Official Karwa metered taxi: 60–90 QAR to most central hotels from the airport. Confirm the meter is running before departure."
+    },
+    "tippingEtiquette": [
+      "Tipping is appreciated but not customary — many hotel and restaurant bills include a service charge.",
+      "Restaurants: 10% if no service charge is listed. Fine-dining restaurants almost always include it already.",
+      "Taxi drivers: round up to the nearest 5 QAR or tip 5–10 QAR for airport runs.",
+      "Hotel housekeeping: 10–20 QAR per day is a generous gesture.",
+      "Dress code: Smart casual is appropriate everywhere. Swimwear is confined to hotel pools and beaches. Cover shoulders and knees when visiting mosques and the Souq."
+    ],
+    "dailyCostBreakdown": {
+      "accommodation": "Budget guesthouse or 2-star 150–250 QAR | 3-star hotel 300–500 QAR | 4-star Corniche hotel 500–900 QAR | 5-star (St Regis, Four Seasons, Mandarin Oriental) 1,200+ QAR",
+      "meals": "Shawarma or biryani from a Souq eatery 15–30 QAR | Mall food court 50–80 QAR | Mid-range restaurant 100–200 QAR | Fine dining 300–600 QAR",
+      "transport": "Metro single journey 2–4 QAR | Uber/Kareem across city 25–60 QAR | Day taxi use 120–200 QAR",
+      "activities": "Museum of Islamic Art free entry | National Museum of Qatar 50 QAR | Desert safari (half-day) 200–300 QAR | Dhow cruise 100–200 QAR"
+    },
+    "packingTips": [
+      "Lightweight, modest clothing — indoor AC is powerful, outdoor heat is extreme. Long sleeves and trousers are smart for Souq visits and mosques.",
+      "Sunscreen and sunglasses are essential year-round.",
+      "Comfortable walking shoes for the Corniche, The Pearl promenade, and Souq Waqif cobblestones.",
+      "A light scarf or shawl for women visiting mosques or more conservative parts of the Souq."
+    ],
+    "bookingStrategy": "November–March is peak season with perfect 18–25°C weather. Book hotels 4–6 weeks ahead; December is busiest, especially around National Day (December 18). April–October brings extreme heat and hotels drop 30–50% in price — a bargain if you stick to indoor and evening activities.",
+    "localTips": [
+      "Souq Waqif at sunset is one of the best free experiences in the Gulf — crowds arrive, the minarets light up, incense fills the air, and the falconry stalls become genuinely fascinating. Arrive around 5 PM.",
+      "The Museum of Islamic Art (MIA) sits alone on a jutting pier and is one of the most beautiful museum buildings in the world. The permanent collection is free; budget two hours minimum.",
+      "For authentic Qatari food, try Parisa or Al Aker restaurant in the Souq area — machboos (spiced rice and meat), harees, and luqaimat (fried dough balls with date syrup) are must-orders.",
+      "The Corniche waterfront walk (7 km from the Sheraton roundabout to the Museum of Islamic Art) is spectacular at night when the West Bay skyline is fully lit. Best done October–April.",
+      "Qatar's metro is clean, air-conditioned, and covers most tourist attractions. Buy a Hala card (reloadable smart card) from any station for discounted fares."
+    ],
+    "bestTimeToVisit": "November–March: 18–25°C, low humidity, peak season energy. October and April are shoulder months with pleasant evenings and noticeably fewer crowds.",
+    "dayTrips": [
+      "Al Zubarah Fort & Al Zubarah Archaeological Site — 90 min north, a UNESCO-listed 18th-century pearling and trading town. One of the best-preserved historic sites in the Gulf.",
+      "Inland Sea (Khor Al Adaid) — 80 km south into the desert, a spectacular tidal inlet surrounded by massive dunes. Best visited on a guided 4x4 tour with a stop for sandboarding.",
+      "Al Wakrah Souq — 20 min south of Doha, a quieter and more traditional souq than Waqif, with a beautiful blue-and-white waterfront promenade and excellent seafood restaurants."
+    ],
+    "visaInfo": [
+      "Citizens of the US, UK, EU countries, Canada, Australia, and most other Western nations: free visa on arrival for 30 days, extendable once for an additional 30 days — no pre-registration required.",
+      "Over 95 nationalities receive free visa on arrival — Qatar has one of the most open visa policies in the Gulf. Check the Qatar Ministry of Interior website for the full list.",
+      "Nationalities not covered by visa on arrival: apply for a Hayya or tourist e-visa via the Qatar QNVIS portal before travel.",
+      "Passport must be valid for at least 6 months beyond your planned departure date.",
+      "Alcohol is available only in licensed hotel bars and restaurants — possession of alcohol outside licensed premises is illegal. Dress modestly in public spaces."
+    ],
+    "currencyTips": [
+      "Currency: Qatari Riyal (QAR / QR). The riyal is pegged to the USD at 3.64 QAR = 1 USD — a stable fixed rate.",
+      "Cards are accepted at hotels, malls, and most restaurants. Contactless and Apple/Google Pay work well at larger establishments.",
+      "Best ATMs: Qatar National Bank (QNB) and Commercial Bank ATMs charge no surcharges for foreign cards beyond your home bank's fees.",
+      "Cash is useful for Souq Waqif vendors, small local restaurants, and taxi tips.",
+      "Currency exchange: Al Fardan Exchange and Qatar Exchange branches in malls offer competitive rates — better than hotel desks."
+    ],
+    "simCard": "Ooredoo and Vodafone Qatar are the two carriers. Both sell tourist SIMs at Hamad International Airport arrivals — a 30-day tourist SIM with 20–30 GB costs QAR 80–150. Ooredoo has slightly better coverage outside the city; Vodafone Qatar can be marginally cheaper for data. eSIM via Airalo works for Qatar.",
+    "emergencyNumbers": {
+      "police": "999",
+      "ambulance": "999",
+      "emergency": "999 (police, ambulance & fire)"
+    }
+  },
+  "lastUpdated": "2026-04-05",
+  "enabled": true
+}

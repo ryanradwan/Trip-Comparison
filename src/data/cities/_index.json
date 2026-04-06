@@ -368,6 +368,14 @@
     "budgetCategory": "mid"
   },
   {
+    "id": "doha",
+    "city": "Doha",
+    "country": "Qatar",
+    "region": "Middle East",
+    "enabled": true,
+    "budgetCategory": "mid"
+  },
+  {
     "id": "cape-town",
     "city": "Cape Town",
     "country": "South Africa",

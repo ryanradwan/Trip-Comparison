@@ -65,6 +65,13 @@ export const ITINERARY_PRODUCTS: Record<string, ItineraryProduct> = {
     url: "https://thenextstamptravelco.com/product/2-days-in-luxor/",
     highlights: ["Valley of the Kings", "Karnak & Luxor Temples", "Nile experiences", "Practical travel tips"],
   },
+  doha: {
+    cityLabel: "Doha",
+    name: "2 Days in Doha",
+    description: "Two days in Qatar's stunning capital — from the Museum of Islamic Art and Souq Waqif to The Pearl waterfront and desert dune experiences.",
+    url: "https://thenextstamptravelco.com/product/doha-qatar-2-day-itinerary/",
+    highlights: ["Museum of Islamic Art", "Souq Waqif guide", "The Pearl & Corniche", "Insider tips & hidden gems"],
+  },
   dubai: {
     cityLabel: "Dubai",
     name: "5 Days in Dubai",
