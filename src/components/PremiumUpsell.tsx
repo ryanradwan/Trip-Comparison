@@ -179,7 +179,7 @@ export default function PremiumUpsell({ slug, onUnlocked }: Props) {
             Unlock All Comparisons
           </a>
           <p style={{ fontSize: 11, color: "var(--text-muted)", margin: "8px 0 0", lineHeight: 1.4 }}>
-            ✓ All 49 cities &nbsp;·&nbsp; ✓ 7-day money-back guarantee
+            ✓ All 50 cities &nbsp;·&nbsp; ✓ 7-day money-back guarantee
           </p>
         </div>
       </div>

@@ -150,7 +150,7 @@ export default function HomePage() {
         >
           {[
             { value: "50,000+", label: "Comparisons made" },
-            { value: "49", label: "Destinations covered" },
+            { value: "50", label: "Destinations covered" },
             { value: "Monthly", label: "Data updates" },
           ].map(({ value, label }) => (
             <div key={label} style={{ textAlign: "center" }}>
@@ -164,7 +164,7 @@ export default function HomePage() {
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))", gap: 16, marginBottom: 40 }}>
           {[
             { icon: "🎯", title: "Personalised Scoring", desc: "Adjust what matters most — beach, food, nightlife, budget — and get a result tailored to you." },
-            { icon: "📊", title: "Expert City Data", desc: "49 destinations with scores across 18 categories, updated monthly with real travel insights." },
+            { icon: "📊", title: "Expert City Data", desc: "50 destinations with scores across 18 categories, updated monthly with real travel insights." },
             { icon: "📄", title: "Instant PDF Report", desc: "Unlock a branded PDF with insider tips, visa info, scam warnings, and cost breakdowns for both cities." },
           ].map(({ icon, title, desc }) => (
             <div

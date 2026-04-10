@@ -93,6 +93,13 @@ export const ITINERARY_PRODUCTS: Record<string, ItineraryProduct> = {
     url: "https://thenextstamptravelco.com/product/montreal-4-day-itinerary-guide/",
     highlights: ["Day-by-day schedule", "Old Montreal highlights", "Food & café guide", "Culture & festival tips"],
   },
+  istanbul: {
+    cityLabel: "Istanbul",
+    name: "4 Days in Istanbul",
+    description: "Four days across Europe and Asia — the Grand Bazaar, Hagia Sophia, Bosphorus cruises, and the best Turkish food you'll ever eat.",
+    url: "https://thenextstamptravelco.com/product/istanbul-4-day-itinerary/",
+    highlights: ["Day-by-day schedule", "Grand Bazaar & Spice Market", "Bosphorus cruise tips", "Best restaurants & street food"],
+  },
   // Japan itinerary applies to all Japan cities
   tokyo: {
     cityLabel: "Japan",

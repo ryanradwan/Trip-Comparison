@@ -25,7 +25,7 @@ export const FAQ_SECTIONS = [
     questions: [
       {
         q: "How many cities are available?",
-        a: "We currently cover 49 destinations across Europe, Asia, the Americas, the Middle East, Africa, and Oceania. We add new cities every few months — if your destination isn't listed, check back or use our contact form to suggest it.",
+        a: "We currently cover 50 destinations across Europe, Asia, the Americas, the Middle East, Africa, and Oceania. We add new cities every few months — if your destination isn't listed, check back or use our contact form to suggest it.",
       },
       {
         q: "How often is the data updated?",
@@ -50,7 +50,7 @@ export const FAQ_SECTIONS = [
       },
       {
         q: "What's the difference between single and annual access?",
-        a: "Single access ($5.99) unlocks the full premium breakdown for one specific city comparison. Annual access ($40/year) unlocks every comparison across all 49 cities for 12 months — the better value if you're planning multiple trips or comparing several options.",
+        a: "Single access ($5.99) unlocks the full premium breakdown for one specific city comparison. Annual access ($40/year) unlocks every comparison across all 50 cities for 12 months — the better value if you're planning multiple trips or comparing several options.",
       },
       {
         q: "Is there a refund policy?",
