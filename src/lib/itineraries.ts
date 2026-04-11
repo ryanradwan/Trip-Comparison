@@ -93,6 +93,13 @@ export const ITINERARY_PRODUCTS: Record<string, ItineraryProduct> = {
     url: "https://thenextstamptravelco.com/product/montreal-4-day-itinerary-guide/",
     highlights: ["Day-by-day schedule", "Old Montreal highlights", "Food & café guide", "Culture & festival tips"],
   },
+  seoul: {
+    cityLabel: "Seoul",
+    name: "5 Days in Seoul",
+    description: "Five days in one of Asia's most electric cities — K-culture, street food markets, ancient palaces, and neighbourhoods you'll never want to leave.",
+    url: "https://thenextstamptravelco.com/product/seoul-5-day-itinerary/",
+    highlights: ["Day-by-day schedule", "Street food & market guide", "K-culture & nightlife", "Palace & neighbourhood highlights"],
+  },
   istanbul: {
     cityLabel: "Istanbul",
     name: "4 Days in Istanbul",
